@@ -1,0 +1,974 @@
+﻿symptom_localname,symptom_zh,symptom_en,icd11_id,icd11_term,mapType
+sx_带下色白,带下色白,White vaginal discharge,MF3A,Vaginal discharge,close
+sx_头发色红,头发色红,Red hair,XA9N28,Beard hair,close
+sx_头发色红,头发色红,Red hair,ED73.0,Weathered hair,close
+sx_劳累发热,劳累发热,exertion-induced fever,SE90,Qi deficiency pattern (TM1),close
+sx_疼痛喜按,疼痛喜按,pain relieved by pressure,SE90,Qi deficiency pattern (TM1),close
+sx_眼球深陷,眼球深陷,sunken eyeball,SE90,Qi deficiency pattern (TM1),close
+sx_眼球深陷,眼球深陷,sunken eyeball,SE93,Qi sinking pattern (TM1),close
+sx_结节色黑,结节色黑,Black nodule,XM08L6,Afghanistan black,close
+sx_结节色黑,结节色黑,Black nodule,SK6T,Phlyctenular nodule disorder (TM2),close
+sx_大便时结时稀,大便时结时稀,stool alternating between constipation and looseness,XE484,Stool,close
+sx_食少,食少,Poor appetite,SF7M,Spleen and kidney yang deficiency pattern (TM1),close
+sx_疮肿宣浮,疮肿宣浮,puffy superficial sore swelling,XK7F,Superficial,close
+sx_脉细,脉细,Thin pulse,SF00,Blood deficiency pattern (TM1),close
+sx_脉细,脉细,Thin pulse,SR1T,Blood deficiency pattern (TM2),close
+sx_呼吸张口抬肩,呼吸张口抬肩,dyspnea with open-mouth breathing and shoulder lifting,MD11.8Z,"Mouth breathing, unspecified",close
+sx_头皮囊肿,头皮囊肿,scalp cyst,EC92.1,Scalp dysaesthesia,close
+sx_头皮囊肿,头皮囊肿,scalp cyst,GA15.2,Nabothian cyst,close
+sx_脐突,脐突,Umbilical hernia,DD53,Umbilical hernia,exact
+sx_脐突,脐突,Umbilical hernia,DD54,Paraumbilical hernia,close
+sx_头如蒙,头如蒙,head as if swathed,SG80,Dampness obstructing the defense yang pattern (TM1),close
+sx_泪窍溢脓,泪窍溢脓,pus discharge from the lacrimal punctum,XA2VR4,Superior lacrimal punctum,close
+sx_泪窍溢脓,泪窍溢脓,pus discharge from the lacrimal punctum,XA99D0,Inferior lacrimal punctum,close
+sx_泪窍溢脓,泪窍溢脓,pus discharge from the lacrimal punctum,9A11.0,Eversion of lacrimal punctum,close
+sx_睑弦潮红,睑弦潮红,Flushed red eyelid-margin,XA4AX5,Lower eyelid margin,close
+sx_睑弦潮红,睑弦潮红,Flushed red eyelid-margin,XA53T1,Upper eyelid margin,close
+sx_指按有脓不流,指按有脓不流,pus not flowing on finger pressure,XE94J,No pressure,close
+sx_泡沫样大便,泡沫样大便,foamy stool,XE484,Stool,close
+sx_肛门脱出物紫红,肛门脱出物紫红,purplish-red anal prolapse,DB53,Anal prolapse,close
+sx_耳生痈,耳生痈,ear abscess,SK80,Ear abscess disorder (TM2),close
+sx_耳生痈,耳生痈,ear abscess,AA00,Abscess of external ear,close
+sx_红斑中心萎缩,红斑中心萎缩,central atrophy of erythema,GB23.3,Atrophy of breast,close
+sx_红斑中心萎缩,红斑中心萎缩,central atrophy of erythema,ME64.0,Erythema,close
+sx_囟门迟闭,囟门迟闭,delayed closure of fontanelle,SF7A,Spleen deficiency with water flooding pattern (TM1),close
+sx_甲沟湿烂,甲沟湿烂,wet erosion of nail fold,XA7003,Lateral nail fold of second toe,close
+sx_月经量少,月经量少,Oligomenorrhea,GA20.0,Oligomenorrhoea,exact
+sx_闷痛,闷痛,Oppressive pain,SE91,Qi stagnation pattern (TM1),close
+sx_经行腰痛,经行腰痛,low back pain during menstruation,SF5H,Liver and kidney yin deficiency pattern (TM1),close
+sx_人中色黑,人中色黑,Black philtrum,XA5LY8,Philtrum,close
+sx_人中色黑,人中色黑,Black philtrum,XM08L6,Afghanistan black,close
+sx_人中色黑,人中色黑,Black philtrum,XM2WE8,Mustard black,close
+sx_妄见,妄见,visual hallucination,MB27.27,Visual hallucinations,exact
+sx_舌起芒刺,舌起芒刺,With raised prickles tongue,DA03.1,Geographic tongue,close
+sx_舌起芒刺,舌起芒刺,With raised prickles tongue,MA14.1C,Raised antibody titre,close
+sx_烧伤起泡,烧伤起泡,burn blistering,ME63.3,Chronic blistering skin disorder,close
+sx_烧伤起泡,烧伤起泡,burn blistering,ME62.6,Acute blistering skin eruption,close
+sx_头痛,头痛,Headache,8A80,Migraine-free headache,exact
+sx_持续痛,持续痛,Persistent pain,XT6Z,Persistent,close
+sx_唇色淡红,唇色淡红,Pale red lip,SF00,Blood deficiency pattern (TM1),close
+sx_唇色淡红,唇色淡红,Pale red lip,SR1T,Blood deficiency pattern (TM2),close
+sx_小便中有沉淀,小便中有沉淀,sediment in urine,SF79,Spleen deficiency with dampness accumulation pattern (TM1),close
+sx_小便中有沉淀,小便中有沉淀,sediment in urine,SF7M,Spleen and kidney yang deficiency pattern (TM1),close
+sx_鼻头枯稿,鼻头枯稿,withered nasal tip,1C17.1,Nasal diphtheria,close
+sx_鼻头枯稿,鼻头枯稿,withered nasal tip,XA8817,Nasal turbinate,close
+sx_鼻头枯稿,鼻头枯稿,withered nasal tip,XA3RT8,Elbow tip,close
+sx_幻臭,幻臭,olfactory hallucination,MB27.24,Olfactory hallucinations,exact
+sx_嗳气频作,嗳气频作,frequent belching,MD91,Belching,close
+sx_耳后缝糜烂结痴,耳后缝糜烂结痴,eroded crusted retroauricular fold,XA5163,Nasolabial fold,close
+sx_耳后缝糜烂结痴,耳后缝糜烂结痴,eroded crusted retroauricular fold,XA8N50,Laryngeal aspect of aryepiglottic fold,close
+sx_甲床淡白,甲床淡白,pale nail bed,XA6189,Nail bed of third toe,close
+sx_甲床淡白,甲床淡白,pale nail bed,XA7B22,Nail bed of second toe,close
+sx_甲床淡白,甲床淡白,pale nail bed,XA65U3,Nail bed of fourth toe,close
+sx_便如黄糜,便如黄糜,yellow gruel-like stool,XE484,Stool,close
+sx_寒热往来有定时,寒热往来有定时,alternating chills and fever at regular intervals,SD93,Alternating fever and chills disorder (TM1),close
+sx_寒热往来有定时,寒热往来有定时,alternating chills and fever at regular intervals,MG21,Chills,close
+sx_小腹痛,小腹痛,Abdominal pain,SM33,Abdominal pain disorder (TM2),close
+sx_小腹痛,小腹痛,Abdominal pain,DD91.4,Functional abdominal pain syndrome,close
+sx_小腹痛,小腹痛,Abdominal pain,SC10,Puerperal abdominal pain disorder (TM1),close
+sx_脉沉,脉沉,Deep pulse,XK16,Deep,close
+sx_四肢沉重,四肢沉重,heaviness of limbs,LD26.3,Syndromes with synostoses of limbs,close
+sx_左侧胸廓塌陷,左侧胸廓塌陷,left-sided thoracic collapse,DD71.1,Left sided ulcerative colitis,close
+sx_口唇色赤,口唇色赤,red lips,SF7F,Stomach heat pattern (TM1),close
+sx_口唇色赤,口唇色赤,red lips,SE72,Heat pattern (TM1),close
+sx_早泄,早泄,Premature ejaculation,SB08,Premature ejaculation disorder (TM1),close
+sx_脊柱侧弯,脊柱侧弯,Scoliosis,FA70.1,Scoliosis,exact
+sx_脊柱侧弯,脊柱侧弯,Scoliosis,FC01.5,Post radiation scoliosis,close
+sx_皮肤色黄如橘,皮肤色黄如橘,orange-yellow skin,XM2XN1,Orange,close
+sx_烧伤皮肤色赤,烧伤皮肤色赤,red skin of burn,XA04T9,Skin of nose,close
+sx_烧伤皮肤色赤,烧伤皮肤色赤,red skin of burn,XA9E26,Skin of auricle,close
+sx_烧伤皮肤色赤,烧伤皮肤色赤,red skin of burn,XA66R9,Skin of elbow,close
+sx_嗅觉减退,嗅觉减退,Hyposmia,MB41.3,Hyposmia,exact
+sx_上腭黏膜白腐,上腭黏膜白腐,white curdled palatal mucosa,XA00H5,Palatal mucosa,close
+sx_上腭黏膜白腐,上腭黏膜白腐,white curdled palatal mucosa,XA0PT3,Mucosa,close
+sx_听力减退,听力减退,Hearing impairment,AB51.Z,"Acquired hearing impairment, unspecified",close
+sx_听力减退,听力减退,Hearing impairment,AB51.Y,Other specified acquired hearing impairment,close
+sx_听力减退,听力减退,Hearing impairment,AB5Y,Other specified disorders with hearing impairment,close
+sx_眵泪,眵泪,eye discharge and tears,MC14,Eye discharge,close
+sx_呵欠频作,呵欠频作,frequent yawning,MD11.D,Yawning,close
+sx_便稀如水,便稀如水,watery stool,XE484,Stool,close
+sx_环口色青,环口色青,Bluish perioral-region,XA1A48,Perioral region,close
+sx_大便硬结,大便硬结,hard stool,XE484,Stool,close
+sx_视远物不清,视远物不清,blurred distant vision,SF70,Spleen qi deficiency pattern (TM1),close
+sx_视远物不清,视远物不清,blurred distant vision,SF60,Heart qi deficiency pattern (TM1),close
+sx_视远物不清,视远物不清,blurred distant vision,SF54,Liver blood deficiency pattern (TM1),close
+sx_异物入耳,异物入耳,foreign body entering the ear,ND71,Foreign body in ear,close
+sx_异物入耳,异物入耳,foreign body entering the ear,ND7Z,"Effects of foreign body entering through natural orifice, unspecified",close
+sx_颅缝开解,颅缝开解,separation of cranial sutures,KD31,Wide cranial sutures of newborn,close
+sx_尿短黄,尿短黄,scanty dark-yellow urine,SE72,Heat pattern (TM1),close
+sx_便血,便血,Hematochezia,ME24.A,Digestive tract haemorrhage,exact
+sx_风团瘙痒,风团瘙痒,itchy wheals,SF9F,Bladder heat accumulation pattern (TM1),close
+sx_喷嚏,喷嚏,Sneeze,MD11.9,Sneezing,exact
+sx_多疑,多疑,suspiciousness,MB26.9,Suspiciousness,exact
+sx_睑板色淡,睑板色淡,Pale tarsal-plate,SF00,Blood deficiency pattern (TM1),close
+sx_睑板色淡,睑板色淡,Pale tarsal-plate,SR1T,Blood deficiency pattern (TM2),close
+sx_重痛,重痛,Heavy pain,SF01,Blood stasis pattern (TM1),close
+sx_结节色红,结节色红,Red nodule,SK6T,Phlyctenular nodule disorder (TM2),close
+sx_尿少,尿少,oliguria,SM8E,Oliguria disorder (TM2),close
+sx_尿少,尿少,oliguria,MF51,Anuria or oliguria,close
+sx_尿少,尿少,oliguria,SE72,Heat pattern (TM1),close
+sx_肩痛,肩痛,Shoulder pain,FB56.2,Shoulder lesion,close
+sx_哮鸣,哮鸣,Wheezing,SA81,Wheezing disorder (TM1),close
+sx_哮鸣,哮鸣,Wheezing,MD11.C,Wheezing,exact
+sx_哮鸣,哮鸣,Wheezing,SF85,Cold phlegm obstructing the lung pattern (TM1),close
+sx_大便臭如败卵,大便臭如败卵,stool smelling like rotten eggs,XE484,Stool,close
+sx_时时泛恶,时时泛恶,frequent nausea,MD90.0,Nausea,close
+sx_胀痛,胀痛,Distending pain,SF57,Liver qi stagnation pattern (TM1),close
+sx_胀痛,胀痛,Distending pain,SE91,Qi stagnation pattern (TM1),close
+sx_经血如崩,经血如崩,flooding menstrual bleeding,GA20.51,Light menstrual bleeding,close
+sx_脓色黑,脓色黑,Black pus,XM08L6,Afghanistan black,close
+sx_脓色黑,脓色黑,Black pus,XM2WE8,Mustard black,close
+sx_脓色黑,脓色黑,Black pus,XM5733,Black pepper,close
+sx_体毛脱落,体毛脱落,loss of body hair,XA1WH2,Body hair,close
+sx_阴茎疼痛,阴茎疼痛,Pain in penis,MF40.00,Pain in penis,exact
+sx_鳞屑不易脱落,鳞屑不易脱落,scales difficult to detach,XE2JZ,Difficult to insert,close
+sx_指甲色黄,指甲色黄,Yellow nail,EE11.1,Yellow nail syndrome,close
+sx_指甲色黄,指甲色黄,Yellow nail,XA6Q52,Nail,close
+sx_眵多,眵多,profuse eye discharge,MC14,Eye discharge,close
+sx_眵多,眵多,profuse eye discharge,XE268,Electro-static discharge,close
+sx_地图舌,地图舌,Geographic tongue,DA03.1,Geographic tongue,exact
+sx_胸廓扁平,胸廓扁平,Thoracic cage flatness,SF93,Kidney yin deficiency pattern (TM1),close
+sx_大便清冷,大便清冷,clear and cold stool,XE484,Stool,close
+sx_大便清冷,大便清冷,clear and cold stool,SF7M,Spleen and kidney yang deficiency pattern (TM1),close
+sx_尿多,尿多,polyuria,SM8D,Polyuria disorder (TM2),close
+sx_尿多,尿多,polyuria,MF55,Polyuria,exact
+sx_阴囊水肿,阴囊水肿,Edema,MG29,Oedema,exact
+sx_指_趾紫黑,指/趾紫黑,Purplish-black fingers/toes,XM08L6,Afghanistan black,close
+sx_疤痕色紫,疤痕色紫,Purple scar,SF01,Blood stasis pattern (TM1),close
+sx_舌色猪黑,舌色猪黑,pork-liver-dark tongue,XE9BL,Pork,close
+sx_舌色猪黑,舌色猪黑,pork-liver-dark tongue,DA03.1,Geographic tongue,close
+sx_瞳神不圆,瞳神不圆,irregular pupil,LA11.60,Irregular pupil of the eye,close
+sx_视大为小,视大为小,micropsia,SC23,Uterine mass disorder (TM1),close
+sx_多食易饥,多食易饥,polyphagia with easy hunger,SF7E,Stomach yin deficiency pattern (TM1),close
+sx_泄泻,泄泻,Diarrhea,SA55,Diarrhea disorder (TM1),close
+sx_泄泻,泄泻,Diarrhea,XE484,Stool,close
+sx_脓出痛剧,脓出痛剧,severe pain on pus discharge,XS2E,Severe pain,close
+sx_结节小,结节小,Small nodule,SF01,Blood stasis pattern (TM1),close
+sx_带下粘稠,带下粘稠,sticky vaginal discharge,MF3A,Vaginal discharge,close
+sx_头小,头小,microcephaly,LA05.0,Microcephaly,exact
+sx_呵欠声声,呵欠声声,repeated yawning,MD11.D,Yawning,close
+sx_呵欠声声,呵欠声声,repeated yawning,SE91,Qi stagnation pattern (TM1),close
+sx_流泪,流泪,Reflex tearing,9A61,Tearing,exact
+sx_瞳神积血,瞳神积血,blood accumulation in the pupil (hyphema),SF9E,Blood accumulation in the bladder pattern (TM1),close
+sx_瞳神积血,瞳神积血,blood accumulation in the pupil (hyphema),SF99,Blood and heat accumulation in the uterus pattern (TM1),close
+sx_瞳神积血,瞳神积血,blood accumulation in the pupil (hyphema),SF86,Turbid phlegm accumulation in the lung pattern (TM1),close
+sx_心悸,心悸,Palpitations,MC81.3,Palpitations,exact
+sx_结核累累,结核累累,numerous nodules (scrofula),SF93,Kidney yin deficiency pattern (TM1),close
+sx_结核累累,结核累累,numerous nodules (scrofula),SF82,Lung and kidney yin deficiency pattern (TM1),close
+sx_经前面部粉刺,经前面部粉刺,premenstrual facial acne,SF93,Kidney yin deficiency pattern (TM1),close
+sx_经前面部粉刺,经前面部粉刺,premenstrual facial acne,SF82,Lung and kidney yin deficiency pattern (TM1),close
+sx_经前面部粉刺,经前面部粉刺,premenstrual facial acne,SF5H,Liver and kidney yin deficiency pattern (TM1),close
+sx_肉芽晦暗,肉芽晦暗,dull dark granulation tissue,XA0UK0,Bone tissue,close
+sx_皮肤粗糙,皮肤粗糙,Skin roughness,SF55,Liver depression and blood stasis pattern (TM1),close
+sx_皮肤粗糙,皮肤粗糙,Skin roughness,SF01,Blood stasis pattern (TM1),close
+sx_疮疡溃后如蜂窝,疮疡溃后如蜂窝,honeycomb-like sore after ulceration,DA01.10,Oral aphthae or aphtha-like ulceration,close
+sx_皮肤抓痕,皮肤抓痕,Skin-picking,SF02,Blood heat pattern (TM1),close
+sx_指骨节脱落,指骨节脱落,loss of finger joints,XE992,Loss of data,close
+sx_指骨节脱落,指骨节脱落,loss of finger joints,XE0Z9,Loss of osseointegration,close
+sx_肿块推之不动,肿块推之不动,immobile mass,SF01,Blood stasis pattern (TM1),close
+sx_怔忡,怔忡,Palpitations,MC81.3,Palpitations,exact
+sx_喷嚏频作,喷嚏频作,frequent sneezing,MD11.A,Sneezing,close
+sx_神昏,神昏,Coma,MB20.1,Coma,close
+sx_瘙痒,瘙痒,Pruritus,EC90,Pruritus,exact
+sx_脐糜烂,脐糜烂,umbilical erosion,DD53,Umbilical hernia,close
+sx_脐糜烂,脐糜烂,umbilical erosion,XA0VZ0,Umbilical artery,close
+sx_脓腐旁串,脓腐旁串,sloughing pus tunneling sideways,XM6J14,"Protectant, skin",close
+sx_脓腐旁串,脓腐旁串,sloughing pus tunneling sideways,XM3B54,Arterolane and Piperaquine,close
+sx_脓腐旁串,脓腐旁串,sloughing pus tunneling sideways,XM99F8,Insulins and analogues,close
+sx_经行眩晕,经行眩晕,dizziness during menstruation,SF5H,Liver and kidney yin deficiency pattern (TM1),close
+sx_食入腹胀,食入腹胀,Abdominal distention,ME09,Abdominal distension,exact
+sx_皮肤感觉消失,皮肤感觉消失,Skin anesthesia (loss of sensation),XM0FJ3,Anesthesia regional,close
+sx_皮肤感觉消失,皮肤感觉消失,Skin anesthesia (loss of sensation),MB40.3,Anaesthesia of skin,close
+sx_皮肤感觉消失,皮肤感觉消失,Skin anesthesia (loss of sensation),XM9RW1,Anesthesia muscle relaxation,close
+sx_耳鲤,耳鲤,ear sore (possibly 耳疔),LA21.3,Misshapen ear,close
+sx_耳鲤,耳鲤,ear sore (possibly 耳疔),LA21.1,Protruding ear,close
+sx_耳鲤,耳鲤,ear sore (possibly 耳疔),AA41.0,Cauliflower ear,close
+sx_少腹痛,少腹痛,Abdominal pain,SM33,Abdominal pain disorder (TM2),close
+sx_少腹痛,少腹痛,Abdominal pain,DD91.4,Functional abdominal pain syndrome,close
+sx_少腹痛,少腹痛,Abdominal pain,SC10,Puerperal abdominal pain disorder (TM1),close
+sx_肛门松弛,肛门松弛,anal relaxation,SE93,Qi sinking pattern (TM1),close
+sx_鼻柱塌陷,鼻柱塌陷,collapsed nasal columella,XA4S17,Columella,close
+sx_鼻柱塌陷,鼻柱塌陷,collapsed nasal columella,XA8817,Nasal turbinate,close
+sx_带下杂见五色,带下杂见五色,vaginal discharge of five intermingled colors,MF3A,Vaginal discharge,exact
+sx_疤痕高突,疤痕高突,raised hypertrophic scar,EE60.1,Hypertrophic scar,close
+sx_寒战,寒战,Chills,MG21,Chills,exact
+sx_足躁水肿,足躁水肿,Ankle edema,MG29.00,Ankle oedema,close
+sx_水泻,水泻,Watery diarrhea,XE484,Stool,close
+sx_言语不清,言语不清,Slurred speech,MB23.L,Pressured speech,close
+sx_言语不清,言语不清,Slurred speech,MA81,Speech dysfluency,close
+sx_经断复行,经断复行,postmenopausal bleeding,GA30.1,Postmenopausal uterine bleeding,close
+sx_肛门部包块,肛门部包块,anal mass,DB70.00,Anal abscess,close
+sx_耳廓枯槁,耳廓枯槁,withered auricle,LA24,Accessory auricle,close
+sx_耳廓枯槁,耳廓枯槁,withered auricle,NA0B,Injury of the auricle,close
+sx_耳廓枯槁,耳廓枯槁,withered auricle,XA9E26,Skin of auricle,close
+sx_睫毛稀疏,睫毛稀疏,Sparse eyelashes,XA1RK2,Eyelashes,close
+sx_人中色青,人中色青,Bluish philtrum,XA5LY8,Philtrum,close
+sx_人中色青,人中色青,Bluish philtrum,SF01,Blood stasis pattern (TM1),close
+sx_睥急紧小,睥急紧小,tight narrow eyelid fissure (blepharophimosis),SF70,Spleen qi deficiency pattern (TM1),close
+sx_得气行痛减,得气行痛减,pain relieved by qi-moving (massage/exercise),XE0KF,Moving ramp,close
+sx_尿血淡红,尿血淡红,light-red hematuria,SF90,Kidney qi deficiency pattern (TM1),close
+sx_尿血淡红,尿血淡红,light-red hematuria,SF93,Kidney yin deficiency pattern (TM1),close
+sx_前臂内侧红丝,前臂内侧红丝,red threads on inner forearm (acute lymphangitis),XM3R78,Lebanese red,close
+sx_皮肤流滋,皮肤流滋,Skin oozing of serous fluid,XA2L90,Serous fluid,close
+sx_大便先干后溏,大便先干后溏,stool dry at first then loose,XE484,Stool,close
+sx_便血鲜红,便血鲜红,bright-red blood in stool,ME24.A6,Positive occult blood in stool,close
+sx_便血鲜红,便血鲜红,bright-red blood in stool,XE484,Stool,close
+sx_腰冷,腰冷,cold lower back,NB50.1,Contusion of lower back or pelvis,close
+sx_腰冷,腰冷,cold lower back,NB50.0,Abrasion of lower back or pelvis,close
+sx_口疮,口疮,Aphthous ulcer,DA01.10,Oral ulcer,exact
+sx_带下如涕,带下如涕,snivel-like vaginal discharge,MF3A,Vaginal discharge,close
+sx_口中苹果气,口中苹果气,apple-like odor in mouth,SF93,Kidney yin deficiency pattern (TM1),close
+sx_口中苹果气,口中苹果气,apple-like odor in mouth,SF7E,Stomach yin deficiency pattern (TM1),close
+sx_渴喜饮热,渴喜饮热,thirst with preference for hot drinks,SF97,Kidney yang deficiency pattern (TM1),close
+sx_渴喜饮热,渴喜饮热,thirst with preference for hot drinks,SF7M,Spleen and kidney yang deficiency pattern (TM1),close
+sx_舌紫,舌紫,Tongue pain,DA01,Gingival and tongue disorders,close
+sx_包皮过长,包皮过长,redundant prepuce,GB05.0,Redundant prepuce,exact
+sx_包皮过长,包皮过长,redundant prepuce,GB05.Z,"Redundant prepuce, phimosis or paraphimosis, unspecified",close
+sx_包皮过长,包皮过长,redundant prepuce,GB05.4,Adherent prepuce,close
+sx_上腭腐溃,上腭腐溃,festering palate,XA8HL5,Soft palate,close
+sx_上腭腐溃,上腭腐溃,festering palate,XA4527,Hard palate,close
+sx_太溪脉减弱,太溪脉减弱,weakened Taixi (KI3) pulse,XD8QN4,"Pulse Oximeters, Tabletop",close
+sx_耳脓色白,耳脓色白,White ear pus,XM6AD6,Egg white,close
+sx_耳脓色白,耳脓色白,White ear pus,LA21.3,Misshapen ear,close
+sx_小儿蚀齿,小儿蚀齿,dental erosion in children,DA08.0,Dental caries,close
+sx_尿血棕红,尿血棕红,brownish-red hematuria,SF90,Kidney qi deficiency pattern (TM1),close
+sx_间歇性鼻塞,间歇性鼻塞,intermittent nasal obstruction,XT5G,Intermittent,close
+sx_喉痒,喉痒,itching of throat,NA20.1,Contusion of throat,close
+sx_皮疹结血痴,皮疹结血痴,blood-crusted rash,XM2NV9,Blood (derivatives) (natural) (plasma) (whole),close
+sx_皮疹结血痴,皮疹结血痴,blood-crusted rash,ME66.6Z,"Rash, unspecified",close
+sx_皮疹结血痴,皮疹结血痴,blood-crusted rash,ME66.6Y,Other specified rash,close
+sx_疮面痛觉减退,疮面痛觉减退,decreased pain sensation of sore surface,VE20,Sensation of pain [BMDS],close
+sx_疮面痛觉减退,疮面痛觉减退,decreased pain sensation of sore surface,VV12,Sensation of pain,close
+sx_脓似粉浆,脓似粉浆,starch-paste-like pus,SF62,Dual deficiency of heart qi and blood pattern (TM1),close
+sx_头大,头大,macrocephaly,LB70.3,Macrocephaly,exact
+sx_鼻端色白,鼻端色白,White tip-of-nose,XA04T9,Skin of nose,close
+sx_耳脓清稀,耳脓清稀,Ear pus thin and clear,SF7M,Spleen and kidney yang deficiency pattern (TM1),close
+sx_结喉一侧漫肿,结喉一侧漫肿,diffuse swelling on one side of laryngeal prominence,XA14Y9,Side of toe,close
+sx_耳鸣,耳鸣,Tinnitus,MC41,Tinnitus,exact
+sx_牙齿焦黑,牙齿焦黑,burnt-black teeth,XM08L6,Afghanistan black,close
+sx_牙齿焦黑,牙齿焦黑,burnt-black teeth,DA07.7,Embedded teeth,close
+sx_齿眼肿,齿眼肿,swollen gum margin,XM6DW9,Guar gum (medicinal),close
+sx_悬痈,悬痈,uvula abscess (xuanyong),XA2993,Uvula,close
+sx_水疱中央凹陷,水疱中央凹陷,centrally depressed blisters,MB24.5,Depressed mood,close
+sx_谵语,谵语,Delirium,SQ00,Delirium disorder (TM2),close
+sx_夜啼,夜啼,night crying (in infants),SE36,Night crying disorder (TM1),close
+sx_头发结穗,头发结穗,tufted hair,SF7C,Stomach qi deficiency pattern (TM1),close
+sx_头发结穗,头发结穗,tufted hair,SE90,Qi deficiency pattern (TM1),close
+sx_吞咽困难,吞咽困难,Dysphagia,MD93,Dysphagia,exact
+sx_吞咽困难,吞咽困难,Dysphagia,SA50,Dysphagia disorder (TM1),close
+sx_妊娠水肿,妊娠水肿,edema during pregnancy,XT0S,Pregnancy,close
+sx_带下夹血,带下夹血,blood-streaked vaginal discharge,MF3A,Vaginal discharge,close
+sx_口淡,口淡,Hypogeusia,SF7C,Stomach qi deficiency pattern (TM1),close
+sx_肛门脱出物鲜红,肛门脱出物鲜红,bright-red anal prolapse,DB53,Anal prolapse,close
+sx_肛门脱出物鲜红,肛门脱出物鲜红,bright-red anal prolapse,SE93,Qi sinking pattern (TM1),close
+sx_下肢沉重,下肢沉重,heaviness of lower limbs,BD70.0,Superficial thrombophlebitis of lower limbs,close
+sx_唇色青黑,唇色青黑,Bluish black lip,XM08L6,Afghanistan black,close
+sx_失眠,失眠,Insomnia,7A00,Insomnia disorders,exact
+sx_腰痛,腰痛,Low back pain,ME84.2,Low back pain,exact
+sx_皮疹结脓痴,皮疹结脓痴,pus-crusted rash,ME66.6Z,"Rash, unspecified",close
+sx_皮疹结脓痴,皮疹结脓痴,pus-crusted rash,ME66.6Y,Other specified rash,close
+sx_寒热往来_入暮尤剧,寒热往来，入暮尤剧,"alternating chills and fever, worse at dusk",SD93,Alternating fever and chills disorder (TM1),close
+sx_阴囊溃破,阴囊溃破,scrotal ulceration,MF40.20,Acute scrotal pain,close
+sx_精索坚硬,精索坚硬,hard spermatic cord,XA5KK7,Spermatic Vein,close
+sx_咳嗽频作,咳嗽频作,Frequent cough,MD12,Cough,close
+sx_鼻端色赤,鼻端色赤,Red tip-of-nose,XA3057,Supratip of nose,close
+sx_鼻端色赤,鼻端色赤,Red tip-of-nose,XA04T9,Skin of nose,close
+sx_视物易色,视物易色,disturbed color vision,SF57,Liver qi stagnation pattern (TM1),close
+sx_大便干燥,大便干燥,dry stool,SR8C,Dry stool pattern (TM2),close
+sx_大便干燥,大便干燥,dry stool,XE484,Stool,close
+sx_咽干,咽干,Abnormality of the pharynx,MD36.0,Pharyngitis,close
+sx_皮肤皲裂,皮肤皲裂,Skin fissuring,SF04,Blood dryness pattern (TM1),close
+sx_反酸,反酸,Oral lichenoid lesion,DA22,Gastro-oesophageal reflux disease,close
+sx_舌謇语涩,舌謇语涩,stiff tongue with sluggish speech,MA81,Speech dysfluency,close
+sx_舌謇语涩,舌謇语涩,stiff tongue with sluggish speech,MB23.L,Pressured speech,close
+sx_舌謇语涩,舌謇语涩,stiff tongue with sluggish speech,DA03.1,Geographic tongue,close
+sx_恶寒,恶寒,Chills,MG26,Fever of other or unknown origin,close
+sx_尿频,尿频,Frequent urination,MF30.Z,Urinary frequency,exact
+sx_鳞屑色黑,鳞屑色黑,Black scale,XM08L6,Afghanistan black,close
+sx_熟声如雷,熟声如雷,snoring like thunder,XH0H23,Burkitt-like lymphoma,close
+sx_熟声如雷,熟声如雷,snoring like thunder,DA01.10,Oral aphthae or aphtha-like ulceration,close
+sx_心忡,心忡,palpitations,MC81.2,Palpitations,exact
+sx_咳声重浊,咳声重浊,Abnormally low-pitched voice,SF86,Turbid phlegm accumulation in the lung pattern (TM1),close
+sx_咳声重浊,咳声重浊,Abnormally low-pitched voice,SF8C,Wind-cold fettering the lung pattern (TM1),close
+sx_咳声重浊,咳声重浊,Abnormally low-pitched voice,SF85,Cold phlegm obstructing the lung pattern (TM1),close
+sx_水疱枯瘪,水疱枯瘪,withered shrunken blisters,ME66.6Z,"Rash, unspecified",close
+sx_水疱枯瘪,水疱枯瘪,withered shrunken blisters,ME66.6Y,Other specified rash,close
+sx_头痒,头痒,Head itching,SF04,Blood dryness pattern (TM1),close
+sx_耳痛,耳痛,Ear pain,MC92.Y,Otalgia,exact
+sx_视近物不清,视近物不清,blurred near vision,9D90.7,Near vision impairment,close
+sx_惊悸,惊悸,Palpitations,MC81.2,Palpitations,exact
+sx_皮肤色紫,皮肤色紫,Purple skin,SF01,Blood stasis pattern (TM1),close
+sx_皮肤色紫,皮肤色紫,Purple skin,SF55,Liver depression and blood stasis pattern (TM1),close
+sx_月经量多,月经量多,Menorrhagia,GA20.50,Heavy menstrual bleeding,exact
+sx_咳声嘶哑,咳声嘶哑,hoarse cough,MD12,Cough,close
+sx_咳声嘶哑,咳声嘶哑,hoarse cough,SF8A,Wind-heat invading the lung pattern (TM1),close
+sx_肛门皮肤溃疡,肛门皮肤溃疡,Skin ulcer,ME63,Skin ulcer,exact
+sx_小便不利,小便不利,Dysuria,MF50.7,Dysuria,exact
+sx_小便不利,小便不利,Dysuria,SM87,Dysuria disorder (TM2),close
+sx_颌面疼痛,颌面疼痛,Maxillofacial-region pain,DA08.0,Dental caries,close
+sx_腿酸,腿酸,sour legs,SF5H,Liver and kidney yin deficiency pattern (TM1),close
+sx_皮疹色白,皮疹色白,White rash,XM3DL1,White ash,close
+sx_目赤,目赤,Red eye,9A61,Red eye,exact
+sx_壮热,壮热,Malignant hyperthermia,8C78,Malignant hyperthermia or hyperpyrexia,close
+sx_壮热,壮热,Malignant hyperthermia,NE86,Malignant hyperthermia due to anaesthesia,close
+sx_嗜睡,嗜睡,Lethargy,SF97,Kidney yang deficiency pattern (TM1),close
+sx_口臭,口臭,Halitosis,MD95,Halitosis,exact
+sx_痔核灰白,痔核灰白,gray-white hemorrhoidal nodule,SF7C,Stomach qi deficiency pattern (TM1),close
+sx_呕吐酸水,呕吐酸水,vomiting of sour fluid,MD90.1,Vomiting,close
+sx_甲向内嵌,甲向内嵌,ingrown nail,XA6Q52,Nail,close
+sx_牙龈青紫,牙龈青紫,bluish-purple gums,SF01,Blood stasis pattern (TM1),close
+sx_牙龈青紫,牙龈青紫,bluish-purple gums,SF55,Liver depression and blood stasis pattern (TM1),close
+sx_肛周皮下痰道,肛周皮下痰道,subcutaneous tract around anus,XA0D34,Anus,close
+sx_手掌角化,手掌角化,palmar keratinization,XA10U4,Palmar aponeurosis,close
+sx_指纹色青,指纹色青,Bluish infantile finger venules,ED80.6,Infantile acne,close
+sx_酸痛,酸痛,Aching pain,SE90,Qi deficiency pattern (TM1),close
+sx_酸痛,酸痛,Aching pain,SR1T,Blood deficiency pattern (TM2),close
+sx_皮肤增厚,皮肤增厚,Thickened skin,SF04,Blood dryness pattern (TM1),close
+sx_足跟痛,足跟痛,Foot pain,SF5H,Liver and kidney yin deficiency pattern (TM1),close
+sx_咳如犬吠,咳如犬吠,barking cough,MD12,Cough,close
+sx_乳蛾脓点,乳蛾脓点,tonsillar pus points,XA46Z4,Tonsillar fossa,close
+sx_乳蛾脓点,乳蛾脓点,tonsillar pus points,1F20.13,Tonsillar aspergillosis,close
+sx_皮峪隆起,皮峪隆起,Skin-ridges bulging,XM6J14,"Protectant, skin",close
+sx_皮峪隆起,皮峪隆起,Skin-ridges bulging,ME65.3,Stinging of skin,close
+sx_皮峪隆起,皮峪隆起,Skin-ridges bulging,ME65.1,Itching of skin,close
+sx_大便腐臭,大便腐臭,putrid stool,XE484,Stool,close
+sx_腰脊痛,腰脊痛,lumbosacral pain,8B92.3,Lumbosacral radiculoplexopathy,close
+sx_皮肤苔癣,皮肤苔癣,lichenified skin,ME63.5,Chronic lichenified skin disorder,close
+sx_鼻柱溃陷,鼻柱溃陷,collapsed nasal columella,XA4S17,Columella,close
+sx_鼻柱溃陷,鼻柱溃陷,collapsed nasal columella,XA8817,Nasal turbinate,close
+sx_肩凝,肩凝,frozen shoulder,SP15,Frozen shoulder disorder (TM2),close
+sx_神水浑浊,神水浑浊,turbid aqueous humor,SF5H,Liver and kidney yin deficiency pattern (TM1),close
+sx_拘急肉跳,拘急肉跳,cramping with muscle twitching,SF00,Blood deficiency pattern (TM1),close
+sx_拘急肉跳,拘急肉跳,cramping with muscle twitching,SR1T,Blood deficiency pattern (TM2),close
+sx_肛门结节柔软,肛门结节柔软,soft anal nodule,SK6T,Phlyctenular nodule disorder (TM2),close
+sx_耳聋,耳聋,Severe hearing impairment,AB52,Deafness,exact
+sx_胸痛,胸痛,Chest pain,MD30.Z,Chest pain,exact
+sx_脐红,脐红,umbilical redness,XA0VZ0,Umbilical artery,close
+sx_脐红,脐红,umbilical redness,XA3L42,Umbilical cord,close
+sx_脐红,脐红,umbilical redness,DD53,Umbilical hernia,close
+sx_牙龈淡白,牙龈淡白,pale gums,SE90,Qi deficiency pattern (TM1),close
+sx_牙龈淡白,牙龈淡白,pale gums,SR1T,Blood deficiency pattern (TM2),close
+sx_牙龈淡白,牙龈淡白,pale gums,SF00,Blood deficiency pattern (TM1),close
+sx_脓稀薄,脓稀薄,Pus thin (watery),SF62,Dual deficiency of heart qi and blood pattern (TM1),close
+sx_妊娠腹痛,妊娠腹痛,abdominal pain during pregnancy,JA01.0,Abdominal pregnancy,close
+sx_皮肤色黑,皮肤色黑,Black skin,SN4J,Black red skin lesion disorder (TM2),close
+sx_皮肤色黑,皮肤色黑,Black skin,XM08L6,Afghanistan black,close
+sx_舌下痰包,舌下痰包,sublingual phlegm mass (ranula),XA7K99,Sublingual vein,close
+sx_包茎,包茎,Phimosis,GB05.2,Phimosis,exact
+sx_包茎,包茎,Phimosis,SN0A,Phimosis disorder (TM2),close
+sx_包茎,包茎,Phimosis,GB05.Z,"Redundant prepuce, phimosis or paraphimosis, unspecified",close
+sx_虚里动微不显,虚里动微不显,faint and invisible xuli (apical) pulsation,XE50Y,Pressure cooker,close
+sx_皮疹色褐,皮疹色褐,Brown rash,ME66.6Z,"Rash, unspecified",close
+sx_阵发痛,阵发痛,Episodic pain,XT7X,Episodic,close
+sx_上肢萎缩,上肢萎缩,Upper limb amyotrophy,LB97.2,Upper limb hypertrophy,close
+sx_上肢萎缩,上肢萎缩,Upper limb amyotrophy,8B60.6,Monomelic amyotrophy,close
+sx_睾丸疼痛,睾丸疼痛,Testicular pain,MF40.21,Testicular pain,exact
+sx_圆背,圆背,Round back (kyphotic posture),XA2P90,Back,close
+sx_肿块坚实,肿块坚实,firm mass,SF01,Blood stasis pattern (TM1),close
+sx_呕而无声,呕而无声,soundless vomiting (retching),MD90.1,Vomiting,close
+sx_呕而无声,呕而无声,soundless vomiting (retching),SF77,Spleen yang deficiency pattern (TM1),close
+sx_恶心,恶心,Nausea,MD90,Nausea or vomiting,exact
+sx_四肢麻木,四肢麻木,numbness of limbs,SC62,Numbness disorder (TM1),close
+sx_四肢麻木,四肢麻木,numbness of limbs,SK54,Numbness disorder (TM2),close
+sx_四肢麻木,四肢麻木,numbness of limbs,LD26.3,Syndromes with synostoses of limbs,close
+sx_脓色绿,脓色绿,Green pus,XM2818,Indocyanine green,close
+sx_脓色绿,脓色绿,Green pus,XM3Y82,Green soap,close
+sx_脓色绿,脓色绿,Green pus,XM9BG0,Green bean,close
+sx_晶珠混浊,晶珠混浊,cloudy lens (cataract),SF7M,Spleen and kidney yang deficiency pattern (TM1),close
+sx_晶珠混浊,晶珠混浊,cloudy lens (cataract),SF6M,Heart and kidney yang deficiency pattern (TM1),close
+sx_晶珠混浊,晶珠混浊,cloudy lens (cataract),SF97,Kidney yang deficiency pattern (TM1),close
+sx_前囟宽大,前囟宽大,wide anterior fontanelle,XK7V,Anterior,close
+sx_矢气臭秽,矢气臭秽,foul flatus,SC21,Vaginal flatus disorder (TM1),close
+sx_皮疹淡红,皮疹淡红,Light red rash,ME66.6Z,"Rash, unspecified",close
+sx_鼻不闻香臭,鼻不闻香臭,Anosmia,MB41.0,Anosmia,exact
+sx_鼻不闻香臭,鼻不闻香臭,Anosmia,SK91,Anosmia disorder (TM2),close
+sx_头昏,头昏,dizziness,MB48.2,Exertional dizziness,close
+sx_目眦角疼痛,目眦角疼痛,Canthus pain,XA0403,Lateral canthus,close
+sx_目眦角疼痛,目眦角疼痛,Canthus pain,XA2GQ3,Medial canthus,close
+sx_赘皮肿胀,赘皮肿胀,Skin tag/redundant skin swelling,ME66.2,Excess and redundant skin,close
+sx_恶风,恶风,Chills,MG21,Chills,exact
+sx_无根苔,无根苔,Rootless tongue coating,DA03.1,Geographic tongue,close
+sx_倒睫拳毛,倒睫拳毛,Trichiasis,SK6E,Trichiasis disorder (TM2),close
+sx_倒睫拳毛,倒睫拳毛,Trichiasis,9A04.0,Trichiasis without entropion,close
+sx_舌破裂出血,舌破裂出血,Cracked and bleeding tongue,DA03.1,Geographic tongue,close
+sx_胞睑色红,胞睑色红,red eyelid,MC15,Red eye,close
+sx_臀部皮肤潮红,臀部皮肤潮红,flushed buttock skin,XM6J14,"Protectant, skin",close
+sx_鱼际脉络青,鱼际脉络青,Bluish thenar-eminence vessels and collaterals,XA57N0,Malar eminence,close
+sx_鱼际脉络青,鱼际脉络青,Bluish thenar-eminence vessels and collaterals,XA2JN4,Thenar eminence,close
+sx_肿瘤浮浅,肿瘤浮浅,superficial tumor,XK7F,Superficial,close
+sx_脓腐臭,脓腐臭,foul sloughing pus,SF9G,Bladder dampness-heat pattern (TM1),close
+sx_脓腐臭,脓腐臭,foul sloughing pus,SF8G,Large intestine dampness heat pattern (TM1),close
+sx_脓腐臭,脓腐臭,foul sloughing pus,SF5A,Liver-gallbladder dampness-heat pattern (TM1),close
+sx_四肢软弱,四肢软弱,flaccidity of limbs,SF5H,Liver and kidney yin deficiency pattern (TM1),close
+sx_足背溃破腐烂,足背溃破腐烂,ulcerated festering dorsum of foot,XA8BE2,Dorsum of foot,close
+sx_足背溃破腐烂,足背溃破腐烂,ulcerated festering dorsum of foot,XA76N2,Dorsum of thumb,close
+sx_疲乏,疲乏,Fatigue,MG22,Fatigue,exact
+sx_干咳,干咳,Nonproductive cough,SF8D,Dryness invading the lung pattern (TM1),close
+sx_干咳,干咳,Nonproductive cough,SF5M,Liver fire invading the lung system pattern (TM1),close
+sx_神疲,神疲,mental fatigue,MG22,Fatigue,close
+sx_耳轮皮肤甲错,耳轮皮肤甲错,squamous dry skin of helix,XA9A86,Crus of helix,close
+sx_便如蛋汤,便如蛋汤,egg-soup-like stool,SF70,Spleen qi deficiency pattern (TM1),close
+sx_舌痛,舌痛,Tongue pain,DA01.Y,Tongue disorder,exact
+sx_鼻梁凹陷,鼻梁凹陷,Depressed nasal bridge,XA8817,Nasal turbinate,close
+sx_结节柔软,结节柔软,Nodule softness,SK6T,Phlyctenular nodule disorder (TM2),close
+sx_月经色淡,月经色淡,pale menstrual blood,SF77,Spleen yang deficiency pattern (TM1),close
+sx_月经色淡,月经色淡,pale menstrual blood,SF7M,Spleen and kidney yang deficiency pattern (TM1),close
+sx_牙龈色蓝,牙龈色蓝,blue gums,XM0BB1,Blue velvet,close
+sx_牙龈色蓝,牙龈色蓝,blue gums,XM52J2,Heavenly Blue (morning glory),close
+sx_健忘,健忘,Progressive forgetfulness,MB21.10,Memory deficit,exact
+sx_目闭不开,目闭不开,inability to open the eyes,XE8L2,Inability to irrigate,close
+sx_咳声洪亮,咳声洪亮,loud resonant cough,MD12,Cough,close
+sx_疼痛,疼痛,Pain,FB56.2,,exact
+sx_疼痛,疼痛,Pain,FB56.Z,Limb pain,exact
+sx_麻木不仁,麻木不仁,numbness (loss of sensation),SK54,Numbness disorder (TM2),close
+sx_麻木不仁,麻木不仁,numbness (loss of sensation),SC62,Numbness disorder (TM1),close
+sx_脓液淋漓不止,脓液淋漓不止,incessant dripping of pus,SF00,Blood deficiency pattern (TM1),close
+sx_脓液淋漓不止,脓液淋漓不止,incessant dripping of pus,SR1T,Blood deficiency pattern (TM2),close
+sx_痈疮表面光软无头,痈疮表面光软无头,glossy soft headless abscess,GA05.3,Tuboovarian abscess,close
+sx_朱砂掌,朱砂掌,cinnabar palms (palmar erythema),SF5H,Liver and kidney yin deficiency pattern (TM1),close
+sx_朱砂掌,朱砂掌,cinnabar palms (palmar erythema),SF82,Lung and kidney yin deficiency pattern (TM1),close
+sx_朱砂掌,朱砂掌,cinnabar palms (palmar erythema),SF93,Kidney yin deficiency pattern (TM1),close
+sx_乏力,乏力,Malaise,MG22,Fatigue,exact
+sx_肛门脱出物无蒂,肛门脱出物无蒂,sessile anal prolapse,DB53,Anal prolapse,close
+sx_妊娠呕吐,妊娠呕吐,Hyperemesis gravidarum,JA60,Hyperemesis gravidarum,exact
+sx_产后便秘,产后便秘,Constipation,ME05.0,Constipation,exact
+sx_不欲饮食,不欲饮食,poor appetite,SF7M,Spleen and kidney yang deficiency pattern (TM1),close
+sx_头部疖肿,头部疖肿,furuncle of head,1B75.0,Furuncle,close
+sx_头部疖肿,头部疖肿,furuncle of head,SF9G,Bladder dampness-heat pattern (TM1),close
+sx_食后呕吐,食后呕吐,vomiting after meals,MD90.1,Vomiting,close
+sx_梦游,梦游,Sleep walking,VW13,Walking,close
+sx_苔花剥,苔花剥,Geographic (patchy peeled) tongue coating,DA03.1,Geographic tongue,close
+sx_睾丸表面光滑,睾丸表面光滑,smooth testicular surface,MF40.21,Testicular pain,close
+sx_背恶寒,背恶寒,aversion to cold on the back,XA2P90,Back,close
+sx_头部生疮疡,头部生疮疡,sores on the head,SF9G,Bladder dampness-heat pattern (TM1),close
+sx_臖结块按之坚实,臖结块按之坚实,Xinghe nodule pressure lumping firmness,SK6T,Phlyctenular nodule disorder (TM2),close
+sx_臖结块按之坚实,臖结块按之坚实,Xinghe nodule pressure lumping firmness,XE50Y,Pressure cooker,close
+sx_驼背,驼背,Kyphosis,FA70.0,Kyphosis,exact
+sx_驼背,驼背,Kyphosis,FC01.2,Post radiation kyphosis,close
+sx_驼背,驼背,Kyphosis,FC01.3,Postlaminectomy kyphosis,close
+sx_目痛,目痛,Ocular pain,MC94,Eye pain,exact
+sx_呕吐,呕吐,Vomiting,MD90,Nausea or vomiting,exact
+sx_眵黄,眵黄,yellow eye discharge,MC14,Eye discharge,close
+sx_疮疡表面色黑,疮疡表面色黑,black sore surface,XM08L6,Afghanistan black,close
+sx_眵绿,眵绿,green eye discharge,MC14,Eye discharge,close
+sx_眵绿,眵绿,green eye discharge,XM2818,Indocyanine green,close
+sx_性欲淡漠,性欲淡漠,Decreased libido,MB22.1,Decreased libido,exact
+sx_体毛干枯,体毛干枯,Brittle hair,SF00,Blood deficiency pattern (TM1),close
+sx_目眵结块,目眵结块,clumped eye discharge,MC14,Eye discharge,close
+sx_牙龈硬肿,牙龈硬肿,hard swollen gums,XE7M5,"Puck, hard ball",close
+sx_牙龈硬肿,牙龈硬肿,hard swollen gums,EH92.00,Hard corn,close
+sx_牙龈硬肿,牙龈硬肿,hard swollen gums,XM3AW0,Hard metal dust,close
+sx_喜食异物,喜食异物,pica (craving for foreign objects),6B84,Pica,exact
+sx_喜食异物,喜食异物,pica (craving for foreign objects),SF79,Spleen deficiency with dampness accumulation pattern (TM1),close
+sx_皮肤掀热,皮肤掀热,burning hot skin,ME65.0,Burning of skin,close
+sx_皮肤掀热,皮肤掀热,burning hot skin,XE7PM,Burning oil,close
+sx_背痛,背痛,Back pain,ME84.Z,Dorsalgia,exact
+sx_畏寒,畏寒,aversion to cold,EB01.1,Cold urticaria,close
+sx_牙龈暗黑,牙龈暗黑,dusky-black gums,XM08L6,Afghanistan black,close
+sx_皮肤于燥,皮肤于燥,Skin dryness,SN42,Dryness of skin disorder (TM2),close
+sx_皮肤于燥,皮肤于燥,Skin dryness,SF04,Blood dryness pattern (TM1),close
+sx_皮肤于燥,皮肤于燥,Skin dryness,SE83,Dryness factor pattern (TM1),close
+sx_沉默寡言,沉默寡言,silence and taciturnity,SF7M,Spleen and kidney yang deficiency pattern (TM1),close
+sx_齿拔除,齿拔除,tooth extraction,JB23.0,Breech extraction,close
+sx_呼吸急促,呼吸急促,Tachypnea,SF80,Lung qi deficiency pattern (TM1),close
+sx_瘿肿随吞咽移动,瘿肿随吞咽移动,goiter moving with swallowing,SF50,Liver yin deficiency pattern (TM1),close
+sx_瘿肿随吞咽移动,瘿肿随吞咽移动,goiter moving with swallowing,SF64,Heart yin deficiency pattern (TM1),close
+sx_头闷,头闷,head stuffiness,SG80,Dampness obstructing the defense yang pattern (TM1),close
+sx_口干,口干,Xerostomia,DA02.1,Xerostomia,exact
+sx_闭经溢乳,闭经溢乳,amenorrhea with galactorrhea,GA20.0,Absence of menstruation,exact
+sx_眼干燥,眼干燥,Retinal degeneration,9A79,Dry eye syndrome,exact
+sx_晶珠全脱,晶珠全脱,complete lens dislocation,9B11.1,Dislocation of lens,close
+sx_经色深红,经色深红,deep-red menstrual blood,XK16,Deep,close
+sx_暴盲,暴盲,sudden blindness,9D90.6,Blindness,close
+sx_矢气作响,矢气作响,noisy flatus,SF72,Spleen deficiency with qi stagnation pattern (TM1),close
+sx_周身酸软,周身酸软,generalized soreness and weakness,SE90,Qi deficiency pattern (TM1),close
+sx_耳廓糜烂结痴,耳廓糜烂结痴,eroded crusted auricle,LA24,Accessory auricle,close
+sx_耳廓糜烂结痴,耳廓糜烂结痴,eroded crusted auricle,NA0B,Injury of the auricle,close
+sx_耳廓糜烂结痴,耳廓糜烂结痴,eroded crusted auricle,XA9E26,Skin of auricle,close
+sx_肢体血肿,肢体血肿,limb hematoma,SF01,Blood stasis pattern (TM1),close
+sx_人中色白,人中色白,White philtrum,XA5LY8,Philtrum,close
+sx_水疱混浊,水疱混浊,turbid blisters,SF9G,Bladder dampness-heat pattern (TM1),close
+sx_小腹坚满,小腹坚满,hard and full lower abdomen,MD81.3,Acute abdomen,close
+sx_眼睑浮肿,眼睑浮肿,Periorbital fullness,SF70,Spleen qi deficiency pattern (TM1),close
+sx_眼睑浮肿,眼睑浮肿,Periorbital fullness,SF77,Spleen yang deficiency pattern (TM1),close
+sx_肠鸣音弱,肠鸣音弱,weak bowel sounds,ME03.1,Absent bowel sounds,close
+sx_肠鸣音弱,肠鸣音弱,weak bowel sounds,ME03.0,Hyperactive bowel sounds,close
+sx_肠鸣音弱,肠鸣音弱,weak bowel sounds,ME03.Z,"Abnormal bowel sounds, unspecified",close
+sx_口腔黏膜青紫,口腔黏膜青紫,Bluish-purple oral mucosa,XA6NQ7,Oral mucosa,close
+sx_唇紫红,唇紫红,Purplish-red lip,XM3R78,Lebanese red,close
+sx_呛咳,呛咳,Choking cough,MD12,Cough,close
+sx_肢体发绀,肢体发绀,limb cyanosis,ME64.1,Cyanosis,close
+sx_肢体发绀,肢体发绀,limb cyanosis,SF57,Liver qi stagnation pattern (TM1),close
+sx_肢体发绀,肢体发绀,limb cyanosis,SE91,Qi stagnation pattern (TM1),close
+sx_精索筋脉如蚯蚓状,精索筋脉如蚯蚓状,earthworm-like vessels of spermatic cord (varicocele),XA5KK7,Spermatic Vein,close
+sx_唇燥无皮,唇燥无皮,dry lips with peeling skin,ED53,Skin peeling,close
+sx_胁痛,胁痛,Costochondral pain,MD81,Abdominal pain,close
+sx_思虑无穷,思虑无穷,incessant overthinking,SF64,Heart yin deficiency pattern (TM1),close
+sx_呃逆,呃逆,hiccup,SF7C,Stomach qi deficiency pattern (TM1),close
+sx_牙龈高肿,牙龈高肿,Gum raised swelling,XM6DW9,Guar gum (medicinal),close
+sx_黑睛积脓,黑睛积脓,corneal pus accumulation (hypopyon),SF5A,Liver-gallbladder dampness-heat pattern (TM1),close
+sx_黑睛积脓,黑睛积脓,corneal pus accumulation (hypopyon),SF9G,Bladder dampness-heat pattern (TM1),close
+sx_手软下垂,手软下垂,wrist drop (flaccid hand),FA31.3,Acquired wrist drop,close
+sx_手软下垂,手软下垂,wrist drop (flaccid hand),SF7M,Spleen and kidney yang deficiency pattern (TM1),close
+sx_肩耸,肩耸,shoulder shrugging,SF80,Lung qi deficiency pattern (TM1),close
+sx_肩耸,肩耸,shoulder shrugging,SF90,Kidney qi deficiency pattern (TM1),close
+sx_肩耸,肩耸,shoulder shrugging,SE90,Qi deficiency pattern (TM1),close
+sx_妊娠眩晕,妊娠眩晕,Vertigo,MB48.0,Vertigo,exact
+sx_四肢异常的活动,四肢异常的活动,Abnormal involuntary movements of limbs,MB46.Z,"Abnormal involuntary movements, unspecified",close
+sx_四肢异常的活动,四肢异常的活动,Abnormal involuntary movements of limbs,MB46.Y,Other specified abnormal involuntary movements,close
+sx_四肢异常的活动,四肢异常的活动,Abnormal involuntary movements of limbs,MB46.1,Abnormal head movements,close
+sx_恶露紫暗,恶露紫暗,dark-purple lochia,SF01,Blood stasis pattern (TM1),close
+sx_难产,难产,Shoulder dystocia,JB06,Obstructed labour,exact
+sx_腹部青筋暴露,腹部青筋暴露,prominent blue vessels on the abdomen,SF5H,Liver and kidney yin deficiency pattern (TM1),close
+sx_前囟凹陷,前囟凹陷,sunken anterior fontanelle,SF7M,Spleen and kidney yang deficiency pattern (TM1),close
+sx_疮面愈后疤痕,疮面愈后疤痕,scar after sore healing,XE0HG,Residue after decontamination,close
+sx_大便秘结,大便秘结,Constipation,SA57,Constipation disorder (TM1),close
+sx_大便秘结,大便秘结,Constipation,ME05.0,Constipation,exact
+sx_呼吸缓慢,呼吸缓慢,Hypoventilation,7A42.0,Obesity hypoventilation syndrome,close
+sx_呼吸缓慢,呼吸缓慢,Hypoventilation,7A42.3,Idiopathic central alveolar hypoventilation,close
+sx_头晕,头晕,Vertigo,MB48,Dizziness and giddiness,exact
+sx_舌体痿软,舌体痿软,flaccid tongue body,DA03.1,Geographic tongue,close
+sx_寒热往来无定时,寒热往来无定时,alternating chills and fever at irregular intervals,SD93,Alternating fever and chills disorder (TM1),close
+sx_寒热往来无定时,寒热往来无定时,alternating chills and fever at irregular intervals,MG21,Chills,close
+sx_叹息有声,叹息有声,audible sighing,SF53,Liver qi deficiency pattern (TM1),close
+sx_叹息有声,叹息有声,audible sighing,SE90,Qi deficiency pattern (TM1),close
+sx_目割,目割,scratching sensation in the eye,MC11,Eye sensation abnormal,close
+sx_唇樱红,唇樱红,Cherry-red lip,XM0885,Cherry,close
+sx_唇樱红,唇樱红,Cherry-red lip,XM3R78,Lebanese red,close
+sx_指甲无泽,指甲无泽,Lusterless nail,XA6Q52,Nail,close
+sx_指甲无泽,指甲无泽,Lusterless nail,EE10.4,Nail atrophy,close
+sx_指甲无泽,指甲无泽,Lusterless nail,EE10.3,Nail hypertrophy,close
+sx_肢体赓弱,肢体赓弱,limb weakness,SK55,Weakness of thighs due to vata disorder (TM2),close
+sx_肢体赓弱,肢体赓弱,limb weakness,SS3E,Innate heat weakness pattern (TM2),close
+sx_鳞屑薄,鳞屑薄,thin scales,MF54.2,Small kidney,close
+sx_颈痛,颈痛,Neck pain,ME84.0,Cervical spine pain,exact
+sx_指纹增长,指纹增长,lengthened finger venules,SE72,Heat pattern (TM1),close
+sx_指纹增长,指纹增长,lengthened finger venules,SF02,Blood heat pattern (TM1),close
+sx_耳廓肿起柔软,耳廓肿起柔软,soft swollen auricle,SF7C,Stomach qi deficiency pattern (TM1),close
+sx_暴露赤眼,暴露赤眼,Red eye exposure,MC15,Red eye,close
+sx_脉代,脉代,Intermittent (replacement) pulse,XT5G,Intermittent,close
+sx_黑便,黑便,Head titubation,ME24.A,Digestive tract haemorrhage,exact
+sx_龋齿,龋齿,Carious teeth,DA08.0,Dental caries,close
+sx_龋齿,龋齿,Carious teeth,SM1E,Dental caries disorder (TM2),close
+sx_尿黄,尿黄,yellow urine,SF9G,Bladder dampness-heat pattern (TM1),close
+sx_尿黄,尿黄,yellow urine,SF5A,Liver-gallbladder dampness-heat pattern (TM1),close
+sx_带下如豆渣状,带下如豆渣状,bean-curd-dreg-like vaginal discharge,MF3A,Vaginal discharge,close
+sx_带下如豆渣状,带下如豆渣状,bean-curd-dreg-like vaginal discharge,MC14,Eye discharge,close
+sx_身热夜甚,身热夜甚,fever worsening at night,SF01,Blood stasis pattern (TM1),close
+sx_麻木,麻木,Fatigable weakness,MB40.4,Numbness,exact
+sx_目光呆滞,目光呆滞,dull stare,SF79,Spleen deficiency with dampness accumulation pattern (TM1),close
+sx_耳背有红络,耳背有红络,red vessels on the back of auricle,NA0B,Injury of the auricle,close
+sx_耳背有红络,耳背有红络,red vessels on the back of auricle,XA9E26,Skin of auricle,close
+sx_经闭不行,经闭不行,Amenorrhea,SB94,Amenorrhea disorder (TM1),close
+sx_皮肤白化,皮肤白化,skin whitening,XM6J14,"Protectant, skin",close
+sx_眵白,眵白,white eye discharge,MC14,Eye discharge,close
+sx_灼痛,灼痛,Burning pain,XE7PM,Burning oil,close
+sx_灼痛,灼痛,Burning pain,DA0F.0,Burning mouth syndrome,close
+sx_灼痛,灼痛,Burning pain,ED31,Burning feet syndrome,close
+sx_趾肿,趾肿,Toe swelling,SK68,Tear sac swelling disorder (TM2),close
+sx_牙齿松动,牙齿松动,Abnormality of the dentition,DA0C.0,Tooth mobility,exact
+sx_眼肉光亮,眼肉光亮,lustrous eye tissue,XA0UK0,Bone tissue,close
+sx_咳后有鸡鸣样回声,咳后有鸡鸣样回声,post-tussive cock-crow echo (whoop),1C12.Z,"Whooping cough, unspecified",close
+sx_咳后有鸡鸣样回声,咳后有鸡鸣样回声,post-tussive cock-crow echo (whoop),1C12.Y,Other specified whooping cough,close
+sx_身热不甚,身热不甚,mild fever,XS5W,Mild,close
+sx_舌红,舌红,Abnormal tongue physiology,DA01,Gingival and tongue disorders,exact
+sx_晶珠半脱,晶珠半脱,partial lens dislocation (subluxation),9B11.1,Dislocation of lens,close
+sx_午后潮热,午后潮热,afternoon tidal fever,1C33,Q fever,close
+sx_午后潮热,午后潮热,afternoon tidal fever,1D45,Sandfly fever,close
+sx_午后潮热,午后潮热,afternoon tidal fever,1C11.00,Oroya fever,close
+sx_悬雍下垂,悬雍下垂,uvula ptosis,XA2993,Uvula,close
+sx_阴囊疼痛,阴囊疼痛,scrotal pain,MF40.20,Acute scrotal pain,close
+sx_弛张热,弛张热,remittent fever,1C33,Q fever,close
+sx_呕吐急迫,呕吐急迫,urgent vomiting,MD90.1,Vomiting,close
+sx_视小为大,视小为大,macropsia,SC23,Uterine mass disorder (TM1),close
+sx_痴呆,痴呆,Dementia,SD86,Dementia disorder (TM1),close
+sx_尿如乳糜,尿如乳糜,chyluria (milky urine),MF92,Chyluria,exact
+sx_尿如乳糜,尿如乳糜,chyluria (milky urine),SF79,Spleen deficiency with dampness accumulation pattern (TM1),close
+sx_喉中痰鸣,喉中痰鸣,Stridor,MD11.B,Stridor,exact
+sx_恶露粘稠,恶露粘稠,sticky lochia,SF01,Blood stasis pattern (TM1),close
+sx_骨节痛,骨节痛,Arthralgia,SF00,Blood deficiency pattern (TM1),close
+sx_骨节痛,骨节痛,Arthralgia,SR1T,Blood deficiency pattern (TM2),close
+sx_复视,复视,Diplopia,MB44,Diplopia,exact
+sx_口苦,口苦,Abnormality of taste sensation,MD95,Taste disorder,close
+sx_皮疹脱屑,皮疹脱屑,scaling rash,ME66.6Z,"Rash, unspecified",close
+sx_呵欠,呵欠,yawning,MD11.D,Yawning,exact
+sx_气下坠感,气下坠感,bearing-down sensation of qi,SE93,Qi sinking pattern (TM1),close
+sx_苦闷,苦闷,distress and depression,SD82,Depression disorder (TM1),close
+sx_指甲色灰,指甲色灰,Gray nail,XA6Q52,Nail,close
+sx_指甲色灰,指甲色灰,Gray nail,EE10.4,Nail atrophy,close
+sx_指甲色灰,指甲色灰,Gray nail,EE10.3,Nail hypertrophy,close
+sx_嗳气,嗳气,Recurrent singultus,MD95,Other specified symptoms of digestive system,exact
+sx_胞睑色黯,胞睑色黯,dusky eyelid,SF01,Blood stasis pattern (TM1),close
+sx_胞睑色黯,胞睑色黯,dusky eyelid,SF55,Liver depression and blood stasis pattern (TM1),close
+sx_耳鸣如雷,耳鸣如雷,thunder-like tinnitus,MC41,Tinnitus,close
+sx_口腔黏膜鲜红,口腔黏膜鲜红,Bright red oral mucosa,XA6NQ7,Oral mucosa,close
+sx_阴囊瘙痒,阴囊瘙痒,scrotal itching,MF40.20,Acute scrotal pain,close
+sx_阴囊瘙痒,阴囊瘙痒,scrotal itching,BD75.1,Scrotal varices,close
+sx_带下量多,带下量多,profuse vaginal discharge,MF3A,Vaginal discharge,close
+sx_尿无臊气,尿无臊气,absence of urinous odor,LB40.0,Absence of vulva,close
+sx_尿无臊气,尿无臊气,absence of urinous odor,LB42.0,Absence of vagina,close
+sx_疮疡周围乌黑,疮疡周围乌黑,pitch-black around the sore,XM08L6,Afghanistan black,close
+sx_耳轮青紫,耳轮青紫,Bluish-purple auricular helix,XA9A86,Crus of helix,close
+sx_大便酸臭,大便酸臭,sour-smelling stool,SF9G,Bladder dampness-heat pattern (TM1),close
+sx_嗳气臭腐,嗳气臭腐,foul putrid belching,MD91,Belching,close
+sx_皮肤光亮,皮肤光亮,Skin shininess,SF01,Blood stasis pattern (TM1),close
+sx_齿垢多,齿垢多,profuse dental tartar,SF5A,Liver-gallbladder dampness-heat pattern (TM1),close
+sx_滑精,滑精,spermatorrhea,SF93,Kidney yin deficiency pattern (TM1),close
+sx_痰腥,痰腥,Sputum fishy,SF7M,Spleen and kidney yang deficiency pattern (TM1),close
+sx_指甲色白,指甲色白,White nail,XA6Q52,Nail,close
+sx_指甲色白,指甲色白,White nail,XM6AD6,Egg white,close
+sx_小便急迫,小便急迫,urgent urination,SF9G,Bladder dampness-heat pattern (TM1),close
+sx_鱼际脉络黑,鱼际脉络黑,Black thenar-eminence vessels and collaterals,XA2JN4,Thenar eminence,close
+sx_鱼际脉络黑,鱼际脉络黑,Black thenar-eminence vessels and collaterals,XA57N0,Malar eminence,close
+sx_绞痛,绞痛,Angina pectoris,BA40.Z,"Angina pectoris, unspecified",close
+sx_绞痛,绞痛,Angina pectoris,BA40.Y,Other specified angina pectoris,close
+sx_肋间胀满,肋间胀满,intercostal distension and fullness,ME81.0,Intercostal pain,close
+sx_肋间胀满,肋间胀满,intercostal distension and fullness,XA5HJ3,Intercostal nerve,close
+sx_剧痛,剧痛,Severe pain,XS2E,Severe pain,exact
+sx_剧痛,剧痛,Severe pain,XS25,Severe,close
+sx_剧痛,剧痛,Severe pain,XS2U,Severe pain-related interference,close
+sx_皮肤麻木,皮肤麻木,Skin numbness,SC62,Numbness disorder (TM1),close
+sx_皮肤麻木,皮肤麻木,Skin numbness,SK54,Numbness disorder (TM2),close
+sx_得食痛减,得食痛减,pain relieved by eating,SF7C,Stomach qi deficiency pattern (TM1),close
+sx_蜘蛛痣,蜘蛛痣,Spider angioma,XE75L,Spider,close
+sx_呕声壮厉,呕声壮厉,forceful vomiting sound,MD90.1,Vomiting,close
+sx_脐流脓水,脐流脓水,pus discharge from umbilicus,XA3MT8,Umbilicus,close
+sx_皮疹结滋痴,皮疹结滋痴,serum-crusted rash,ME66.6Z,"Rash, unspecified",close
+sx_皮疹结滋痴,皮疹结滋痴,serum-crusted rash,ME66.6Y,Other specified rash,close
+sx_皮疹结滋痴,皮疹结滋痴,serum-crusted rash,XM5083,Antirabies hyperimmune serum,close
+sx_精液量少,精液量少,scanty semen,SF96,Kidney essence deficiency pattern (TM1),close
+sx_精液量少,精液量少,scanty semen,SF20,Essence deficiency pattern (TM1),close
+sx_无尿,无尿,Anuria,MF51,Anuria or oliguria,close
+sx_睡中流涎,睡中流涎,drooling during sleep,7B00.2,Sleep terrors,close
+sx_气喘息粗,气喘息粗,Dyspnea,MD11.5,Dyspnoea,exact
+sx_进食无味,进食无味,tasteless eating (loss of taste),VW24,Eating,close
+sx_脘胀,脘胀,epigastric distension,SA52,Epigastric distension disorder (TM1),close
+sx_月经间期阴道流血,月经间期阴道流血,intermenstrual vaginal bleeding,GA20.20,Intermenstrual bleeding,close
+sx_鼻端微黄,鼻端微黄,Slight yellow tip-of-nose,XA04T9,Skin of nose,close
+sx_腹痛,腹痛,Abdominal pain,MD81,Abdominal pain,exact
+sx_苔厚,苔厚,Fast-growing nails,DA01.Y,Coated tongue,exact
+sx_脓夹血块,脓夹血块,pus with blood clots,XM2NV9,Blood (derivatives) (natural) (plasma) (whole),close
+sx_脓夹血块,脓夹血块,pus with blood clots,QE50.5,Discord with counsellors,close
+sx_脓色灰,脓色灰,Gray pus,SF9G,Bladder dampness-heat pattern (TM1),close
+sx_脓色灰,脓色灰,Gray pus,SF8G,Large intestine dampness heat pattern (TM1),close
+sx_脓色灰,脓色灰,Gray pus,SF7G,Dampness in the intestines pattern (TM1),close
+sx_脐肿,脐肿,umbilical swelling,XA3L42,Umbilical cord,close
+sx_脐肿,脐肿,umbilical swelling,XA0VZ0,Umbilical artery,close
+sx_脐肿,脐肿,umbilical swelling,DD53,Umbilical hernia,close
+sx_脓似蟹沫,脓似蟹沫,crab-foam-like pus,XM5MB3,Crab,close
+sx_精液量多,精液量多,profuse semen,XM0MJ2,Hippocastani semen,close
+sx_皮疹结黄痴,皮疹结黄痴,yellow-crusted rash,ME66.6Z,"Rash, unspecified",close
+sx_皮疹结黄痴,皮疹结黄痴,yellow-crusted rash,ME66.6Y,Other specified rash,close
+sx_皮疹结黄痴,皮疹结黄痴,yellow-crusted rash,ME66.61,Rash generalised,close
+sx_脓液畅泄,脓液畅泄,free pus discharge,MC14,Eye discharge,close
+sx_发热,发热,Fever,MG26,Fever of other or unknown origin,exact
+sx_带下色黄,带下色黄,yellow vaginal discharge,MF3A,Vaginal discharge,close
+sx_带下色黄,带下色黄,yellow vaginal discharge,MC14,Eye discharge,close
+sx_脓色白,脓色白,White pus,XM3DL1,White ash,close
+sx_心中懊恼,心中懊恼,heartburn with vexation (irritability),MD95,Heartburn,close
+sx_肛门异物感,肛门异物感,foreign-body sensation in the anus,ND71,Foreign body in ear,close
+sx_齿黄,齿黄,yellow teeth,XE7WQ,Yellow hornet,close
+sx_齿黄,齿黄,yellow teeth,DA07.7,Embedded teeth,close
+sx_肛门脱出物壁厚有弹性,肛门脱出物壁厚有弹性,thick-walled elastic anal prolapse,DB53,Anal prolapse,close
+sx_肛门脱出物壁厚有弹性,肛门脱出物壁厚有弹性,thick-walled elastic anal prolapse,DB31.2,Rectal prolapse,close
+sx_四肢抽搐,四肢抽搐,Spasticity,8A68.Z,Convulsions,exact
+sx_小儿哭声延绵,小儿哭声延绵,prolonged crying in children,SE36,Night crying disorder (TM1),close
+sx_妊娠厌食,妊娠厌食,anorexia during pregnancy,XT0S,Pregnancy,close
+sx_咽喉部有肿起物,咽喉部有肿起物,swelling in the throat,SF93,Kidney yin deficiency pattern (TM1),close
+sx_脐中潮湿,脐中潮湿,damp umbilicus,XA3MT8,Umbilicus,close
+sx_脐中潮湿,脐中潮湿,damp umbilicus,SF9G,Bladder dampness-heat pattern (TM1),close
+sx_牙齿黑斑,牙齿黑斑,black macules on teeth,XM08L6,Afghanistan black,close
+sx_口腔黏膜淡白,口腔黏膜淡白,Pale white oral mucosa,XA6NQ7,Oral mucosa,close
+sx_皮疹不红,皮疹不红,Red rash,ME66.6Z,"Rash, unspecified",close
+sx_皮疹不红,皮疹不红,Red rash,ME66.6Y,Other specified rash,close
+sx_皮疹不红,皮疹不红,Red rash,XM3R78,Lebanese red,close
+sx_龟头结节,龟头结节,nodule on glans penis,SF55,Liver depression and blood stasis pattern (TM1),close
+sx_唇暗红,唇暗红,Dark red lip,XM3R78,Lebanese red,close
+sx_鼻塞,鼻塞,Nasal congestion,MD11.9,Nasal congestion,exact
+sx_疤痕色黑,疤痕色黑,Black scar,XM2WE8,Mustard black,close
+sx_疤痕色黑,疤痕色黑,Black scar,SF01,Blood stasis pattern (TM1),close
+sx_精液清冷,精液清冷,clear and cold semen,XM0MJ2,Hippocastani semen,close
+sx_皮疹紫红,皮疹紫红,Purplish-red rash,ME66.6Z,"Rash, unspecified",close
+sx_皮疹紫红,皮疹紫红,Purplish-red rash,ME66.6Y,Other specified rash,close
+sx_皮疹紫红,皮疹紫红,Purplish-red rash,XM3R78,Lebanese red,close
+sx_失明,失明,Blindness,9D90.6,Blindness,exact
+sx_失明,失明,Blindness,SC70,Night blindness disorder (TM1),close
+sx_失明,失明,Blindness,SK63,Day blindness disorder (TM2),close
+sx_咳嗽,咳嗽,Cough,MD12,Cough,exact
+sx_肛门脱出物色淡红,肛门脱出物色淡红,light-red anal prolapse,DB53,Anal prolapse,close
+sx_妇女月经期_寒热往来,妇女月经期，寒热往来,alternating chills and fever during menstruation,SD93,Alternating fever and chills disorder (TM1),close
+sx_耳背见紫筋,耳背见紫筋,purple vessels on the back of auricle,NA0B,Injury of the auricle,close
+sx_耳背见紫筋,耳背见紫筋,purple vessels on the back of auricle,XA9E26,Skin of auricle,close
+sx_疼痛拒按,疼痛拒按,pain aggravated by pressure (refusing pressure),SF01,Blood stasis pattern (TM1),close
+sx_精索结节,精索结节,nodule of spermatic cord,XA5KK7,Spermatic Vein,close
+sx_精索结节,精索结节,nodule of spermatic cord,GB07.1,"Inflammatory disorders of spermatic cord, tunica vaginalis or vas deferens",close
+sx_鼻腔异物,鼻腔异物,foreign body in the nasal cavity,ND72.0,Foreign body in nasal sinus,close
+sx_鼻腔异物,鼻腔异物,foreign body in the nasal cavity,ND71,Foreign body in ear,close
+sx_血尿,血尿,Hematuria,MF50.4,Haematuria,exact
+sx_眼睑下垂,眼睑下垂,Ptosis,SK6L,Ptosis disorder (TM2),close
+sx_眼睑下垂,眼睑下垂,Ptosis,LA14.04,Congenital ptosis,close
+sx_目上视,目上视,upward deviation of eyes,9C83.11,Upward gaze deviation,close
+sx_目上视,目上视,upward deviation of eyes,LB80.2,Radial deviation of fingers,close
+sx_皮疹色红,皮疹色红,Skin rash,EM0Z,Rash,exact
+sx_挛痛,挛痛,Cramping pain,SF9D,Uterine deficiency cold pattern (TM1),close
+sx_经行身痒,经行身痒,body itching during menstruation,SF5H,Liver and kidney yin deficiency pattern (TM1),close
+sx_经行身痒,经行身痒,body itching during menstruation,SF82,Lung and kidney yin deficiency pattern (TM1),close
+sx_经行身痒,经行身痒,body itching during menstruation,SF93,Kidney yin deficiency pattern (TM1),close
+sx_身麻,身麻,body numbness,SC62,Numbness disorder (TM1),close
+sx_身麻,身麻,body numbness,SK54,Numbness disorder (TM2),close
+sx_带下如水,带下如水,watery vaginal discharge,MF3A,Vaginal discharge,close
+sx_两颊黏膜白腐斑块,两颊黏膜白腐斑块,white curdled patches on cheek mucosa,XA6NQ7,Oral mucosa,close
+sx_两颊黏膜白腐斑块,两颊黏膜白腐斑块,white curdled patches on cheek mucosa,XA0PT3,Mucosa,close
+sx_皮疹浸淫成片,皮疹浸淫成片,oozing rash coalescing into patches,SF02,Blood heat pattern (TM1),close
+sx_恶露有块,恶露有块,lochia with clots,SF01,Blood stasis pattern (TM1),close
+sx_环状赘皮,环状赘皮,annular skin tag,ME63.6,Chronic discoid or annular skin disorder,close
+sx_环状赘皮,环状赘皮,annular skin tag,ME62.8,Acute discoid or annular skin eruption,close
+sx_热势起伏,热势起伏,fluctuating fever,1C33,Q fever,close
+sx_经期延长,经期延长,Menometrorrhagia,GA20.50,Heavy menstrual bleeding,close
+sx_神珠将反,神珠将反,eyeball about to deviate,SF5H,Liver and kidney yin deficiency pattern (TM1),close
+sx_带下如泡沫状,带下如泡沫状,foamy vaginal discharge,MF3A,Vaginal discharge,close
+sx_耳如蝉鸣,耳如蝉鸣,cicada-like tinnitus,MC41,Tinnitus,close
+sx_少气懒言,少气懒言,shortage of qi with reluctance to speak,SF70,Spleen qi deficiency pattern (TM1),close
+sx_牙眼痛,牙眼痛,pain at gum margin,XM6DW9,Guar gum (medicinal),close
+sx_肉芽烧灼感,肉芽烧灼感,burning sensation of granulation tissue,VV12,Sensation of pain,close
+sx_肉芽烧灼感,肉芽烧灼感,burning sensation of granulation tissue,XE7PM,Burning oil,close
+sx_肉芽烧灼感,肉芽烧灼感,burning sensation of granulation tissue,VE20,Sensation of pain [BMDS],close
+sx_四肢瘦削,四肢瘦削,emaciation of limbs,SF5H,Liver and kidney yin deficiency pattern (TM1),close
+sx_四肢瘦削,四肢瘦削,emaciation of limbs,SF7M,Spleen and kidney yang deficiency pattern (TM1),close
+sx_腹内包块,腹内包块,intra-abdominal mass,MD82,"Intra-abdominal or pelvic swelling, mass or lump",close
+sx_腹内包块,腹内包块,intra-abdominal mass,DD50.20,Primary intra-abdominal hernia,close
+sx_腹内包块,腹内包块,intra-abdominal mass,DD50.21,Secondary intra-abdominal hernia,close
+sx_皮肤血瘀,皮肤血瘀,Skin blood stasis,SF01,Blood stasis pattern (TM1),close
+sx_皮肤血瘀,皮肤血瘀,Skin blood stasis,SF55,Liver depression and blood stasis pattern (TM1),close
+sx_嗜食生冷,嗜食生冷,craving for raw and cold food,SF7F,Stomach heat pattern (TM1),close
+sx_头发卷曲,头发卷曲,curly hair,ED73.0,Weathered hair,close
+sx_大便稀,大便稀,loose stool,XE484,Stool,close
+sx_手肿,手肿,hand swelling,SK68,Tear sac swelling disorder (TM2),close
+sx_小便浑浊,小便浑浊,turbid urine,SB03,Turbid urine disorder (TM1),close
+sx_皮疹搔破出血,皮疹搔破出血,rash bleeding after scratching,ME66.6Z,"Rash, unspecified",close
+sx_皮疹搔破出血,皮疹搔破出血,rash bleeding after scratching,ME66.6Y,Other specified rash,close
+sx_结节坚硬,结节坚硬,Nodule hardness,SK6T,Phlyctenular nodule disorder (TM2),close
+sx_雀目,雀目,night blindness (sparrow eye),5B55.0,Vitamin A deficiency with night blindness,close
+sx_雀目,雀目,night blindness (sparrow eye),9D90.6,Blindness,close
+sx_雀目,雀目,night blindness (sparrow eye),SC70,Night blindness disorder (TM1),close
+sx_三叉神经痛,三叉神经痛,Trigeminal neuralgia,8B82.0,Trigeminal neuralgia,exact
+sx_三叉神经痛,三叉神经痛,Trigeminal neuralgia,8A82,Trigeminal autonomic cephalalgias,close
+sx_三叉神经痛,三叉神经痛,Trigeminal neuralgia,NA04.4,Injury of trigeminal nerve,close
+sx_小腿内侧红丝,小腿内侧红丝,red threads on inner lower leg,XA5U49,Distal lower leg,close
+sx_黑睛星鬓,黑睛星鬓,star-like corneal opacities,9A77.Z,"Corneal scars or opacities, unspecified",close
+sx_脊椎凸出,脊椎凸出,spinal protrusion,XE72S,Material protrusion or extrusion,close
+sx_呃声高亢,呃声高亢,high-pitched hiccup,SF7F,Stomach heat pattern (TM1),close
+sx_呃声高亢,呃声高亢,high-pitched hiccup,SE72,Heat pattern (TM1),close
+sx_指变黑坏死,指变黑坏死,black necrotic finger,XM08L6,Afghanistan black,close
+sx_鼻头红,鼻头红,Red tip-of-nose,XA3057,Supratip of nose,close
+sx_鼻头红,鼻头红,Red tip-of-nose,XA04T9,Skin of nose,close
+sx_腹大如鼓,腹大如鼓,drum-like abdominal distension,ME01,Abdominal distension,close
+sx_腹大如鼓,腹大如鼓,drum-like abdominal distension,SM31,Abdominal distension disorder (TM2),close
+sx_久不欲食,久不欲食,chronic poor appetite,XT8W,Chronic,close
+sx_呕吐苦水,呕吐苦水,vomiting of bitter fluid,MD90.1,Vomiting,close
+sx_鼻端微黑,鼻端微黑,Slight black tip-of-nose,XA04T9,Skin of nose,close
+sx_鼻端微黑,鼻端微黑,Slight black tip-of-nose,XA3ZG3,Infratip lobule of nose,close
+sx_带下腐臭,带下腐臭,putrid vaginal discharge,MF3A,Vaginal discharge,close
+sx_嗳气低弱,嗳气低弱,weak belching,MD91,Belching,close
+sx_嗳气低弱,嗳气低弱,weak belching,SF7C,Stomach qi deficiency pattern (TM1),close
+sx_疮臭如鼠尿,疮臭如鼠尿,sore smelling like mouse urine,XE43Q,Mouse urine proteins,close
+sx_唇裂,唇裂,Lip fissure,DA00.3,Lip fissure,exact
+sx_甲板萎缩,甲板萎缩,Nail-plate atrophy,EE10.4,Nail atrophy,close
+sx_易怒,易怒,Irritability,MB24.C,Irritability,exact
+sx_肛门脱出物黄白,肛门脱出物黄白,yellow-white anal prolapse,DB53,Anal prolapse,close
+sx_喃喃独语,喃喃独语,mumbling soliloquy,SE91,Qi stagnation pattern (TM1),close
+sx_皮肤花斑,皮肤花斑,mottled skin,XM6J14,"Protectant, skin",close
+sx_乍寒乍热,乍寒乍热,sudden alternating chills and fever,SD93,Alternating fever and chills disorder (TM1),close
+sx_乍寒乍热,乍寒乍热,sudden alternating chills and fever,MG21,Chills,close
+sx_疮面痛觉消失,疮面痛觉消失,absent pain sensation of sore surface,VV12,Sensation of pain,close
+sx_疮面痛觉消失,疮面痛觉消失,absent pain sensation of sore surface,VE20,Sensation of pain [BMDS],close
+sx_左侧胸廓隆起,左侧胸廓隆起,left-sided thoracic bulging,XA8A74,Thoracic duct,close
+sx_左侧胸廓隆起,左侧胸廓隆起,left-sided thoracic bulging,XK8G,Left,close
+sx_左侧胸廓隆起,左侧胸廓隆起,left-sided thoracic bulging,DD71.1,Left sided ulcerative colitis,close
+sx_脊柱歪斜,脊柱歪斜,scoliosis (spinal deviation),FA70.1,Scoliosis,exact
+sx_脊柱歪斜,脊柱歪斜,scoliosis (spinal deviation),FC01.5,Post radiation scoliosis,close
+sx_趺阳脉搏动减弱,趺阳脉搏动减弱,weakened pulsation of Fuyang (dorsalis pedis) pulse,XD8QN4,"Pulse Oximeters, Tabletop",close
+sx_带下秽浊,带下秽浊,turbid and filthy vaginal discharge,MF3A,Vaginal discharge,close
+sx_后头痛,后头痛,Occiput pain,XA33W1,Occiput,close
+sx_嗳气响亮,嗳气响亮,loud belching,MD91,Belching,close
+sx_嗳气响亮,嗳气响亮,loud belching,DD90.5,Functional belching disorders,close
+sx_阳强,阳强,persistent erection,XT6Z,Persistent,close
+sx_阳强,阳强,persistent erection,SB0A,Persistent erection disorder (TM1),close
+sx_皮肤苍白,皮肤苍白,Pallor,ME64.2,Pallor,exact
+sx_皮肤苍白,皮肤苍白,Pallor,MC16,Pallor conjunctiva,close
+sx_鱼际脉络红赤,鱼际脉络红赤,Red thenar-eminence vessels and collaterals,XA2JN4,Thenar eminence,close
+sx_鱼际脉络红赤,鱼际脉络红赤,Red thenar-eminence vessels and collaterals,XA57N0,Malar eminence,close
+sx_臖核结块推之不移,臖核结块推之不移,immobile xinghe lump,SF5H,Liver and kidney yin deficiency pattern (TM1),close
+sx_臖核结块推之不移,臖核结块推之不移,immobile xinghe lump,SF64,Heart yin deficiency pattern (TM1),close
+sx_臖核结块推之不移,臖核结块推之不移,immobile xinghe lump,SF93,Kidney yin deficiency pattern (TM1),close
+sx_指纹沉隐,指纹沉隐,deep hidden finger venules,XK16,Deep,close
+sx_皮肤血疱,皮肤血疱,blood blisters on the skin,SF74,Spleen failing to control the blood pattern (TM1),close
+sx_视野窄缩,视野窄缩,narrowing of visual field,QA00.61,Normal Visual Field,close
+sx_视野窄缩,视野窄缩,narrowing of visual field,9D41,Impairment of visual field,close
+sx_头面呈上大下小的倒梯形,头面呈上大下小的倒梯形,"head and face in inverted-trapezoid shape (large above, small below)",XA9DH2,Trapezoid bone,close
+sx_窜痛,窜痛,Shifting pain,SE91,Qi stagnation pattern (TM1),close
+sx_肿瘤根深,肿瘤根深,deep-rooted tumor,XK16,Deep,close
+sx_嗳气酸馊,嗳气酸馊,sour belching,MD91,Belching,close
+sx_嗳气酸馊,嗳气酸馊,sour belching,DD90.5,Functional belching disorders,close
+sx_皮肤㿠白,皮肤㿠白,bright pale-white skin,XM6AD6,Egg white,close
+sx_水疱壁薄,水疱壁薄,thin-walled blisters,KC40.0,Congenital sucking blisters,close
+sx_水疱壁薄,水疱壁薄,thin-walled blisters,EJ40.1,Sunburn with blisters or exudation,close
+sx_指暗红,指暗红,Dark red finger,XM3R78,Lebanese red,close
+sx_指暗红,指暗红,Dark red finger,MC15,Red eye,close
+sx_关节肿大,关节肿大,Joint enlargement,SN08,Prostatic enlargement disorder (TM2),close
+sx_头发直立,头发直立,erect hair,XA9N28,Beard hair,close
+sx_头发直立,头发直立,erect hair,ED73.0,Weathered hair,close
+sx_肩塌,肩塌,shoulder drooping,SF80,Lung qi deficiency pattern (TM1),close
+sx_肩塌,肩塌,shoulder drooping,SF6K,Heart and lung qi deficiency pattern (TM1),close
+sx_皮肤红点,皮肤红点,red dots on the skin,SF01,Blood stasis pattern (TM1),close
+sx_目眶痛,目眶痛,orbital pain,MC86,Precordial pain,close
+sx_赘皮柔软,赘皮柔软,Skin tag/redundant skin softness,ME66.2,Excess and redundant skin,close
+sx_赘皮柔软,赘皮柔软,Skin tag/redundant skin softness,XM6J14,"Protectant, skin",close
+sx_肛门脱出物宽蒂,肛门脱出物宽蒂,broad-stalked anal prolapse,DB53,Anal prolapse,close
+sx_指甲脱落,指甲脱落,Onycholysis of fingernails,EE10.2,Onycholysis,close
+sx_指甲脱落,指甲脱落,Onycholysis of fingernails,XA0EH9,Fingernails,close
+sx_指甲脱落,指甲脱落,Onycholysis of fingernails,XA96Q7,Crura of antihelix,close
+sx_尿血鲜红,尿血鲜红,Bright red hematuria,SF9G,Bladder dampness-heat pattern (TM1),close
+sx_口噤,口噤,Trismus,SF00,Blood deficiency pattern (TM1),close
+sx_口噤,口噤,Trismus,SR1T,Blood deficiency pattern (TM2),close
+sx_尿中夹血块,尿中夹血块,blood clots in urine,SF01,Blood stasis pattern (TM1),close
+sx_指纹浮露,指纹浮露,superficial visible finger venules,XK7F,Superficial,close
+sx_结节暗红,结节暗红,Dark red nodule,SK6T,Phlyctenular nodule disorder (TM2),close
+sx_结节暗红,结节暗红,Dark red nodule,XM3R78,Lebanese red,close
+sx_下肢青脉硬结,下肢青脉硬结,indurated blue vessels of lower limb,LB9A.0,Amelia of lower limb,close
+sx_下肢青脉硬结,下肢青脉硬结,indurated blue vessels of lower limb,1B70.02,Erysipelas of lower limb,close
+sx_尿细如线,尿细如线,thread-like urinary stream,MF50.61,Poor urinary stream,close
+sx_尿细如线,尿细如线,thread-like urinary stream,MF50.62,Splitting of urinary stream,close
+sx_尿细如线,尿细如线,thread-like urinary stream,SF01,Blood stasis pattern (TM1),close
+sx_呃声低沉,呃声低沉,low deep hiccup,XK16,Deep,close
+sx_呃声低沉,呃声低沉,low deep hiccup,QD51,Low income,close
+sx_黑睛花赘,黑睛花赘,floral corneal growth,9A76,Corneal ulcer,close
+sx_黑睛花赘,黑睛花赘,floral corneal growth,9A78.0,Corneal neovascularization,close
+sx_抑郁,抑郁,Depression,SF5E,Gallbladder depression with phlegm harassment pattern (TM1),close
+sx_大眦角赤脉传睛,大眦角赤脉传睛,red vessels spreading from inner canthus to the eye,MC15,Red eye,close
+sx_鼻端色青,鼻端色青,Bluish tip-of-nose,XA3057,Supratip of nose,close
+sx_鼻端色青,鼻端色青,Bluish tip-of-nose,XA04T9,Skin of nose,close
+sx_盯耳,盯耳,cerumen impaction,DA0E.4,Food impaction,close
+sx_皮疹不脱屑,皮疹不脱屑,non-scaling rash,SF01,Blood stasis pattern (TM1),close
+sx_带下如脓,带下如脓,Vaginal discharge resembling pus,MF3A,Vaginal discharge,close
+sx_喜蜷卧,喜蜷卧,preferring to curl up in bed,SF6M,Heart and kidney yang deficiency pattern (TM1),close
+sx_喜蜷卧,喜蜷卧,preferring to curl up in bed,SF7M,Spleen and kidney yang deficiency pattern (TM1),close
+sx_喜蜷卧,喜蜷卧,preferring to curl up in bed,SF97,Kidney yang deficiency pattern (TM1),close
+sx_唇现蓝色,唇现蓝色,bluish lips,XM0BB1,Blue velvet,close
+sx_唇现蓝色,唇现蓝色,bluish lips,XM52J2,Heavenly Blue (morning glory),close
+sx_小眦角赤脉传睛,小眦角赤脉传睛,red vessels spreading from outer canthus to the eye,MC15,Red eye,close
+sx_皮肤红斑,皮肤红斑,Erythematous macule,EM0Z,Erythema,close
+sx_声音嘶哑,声音嘶哑,Hoarse voice,MA82.0,Dysphonia,close
+sx_太阳穴疼痛,太阳穴疼痛,Temple pain,XA9T94,Temple,close
+sx_指甲溃空,指甲溃空,eroded hollow nail,XA6Q52,Nail,close
+sx_指甲溃空,指甲溃空,eroded hollow nail,EE10.4,Nail atrophy,close
+sx_指甲溃空,指甲溃空,eroded hollow nail,EE10.3,Nail hypertrophy,close
+sx_脘部坚满,脘部坚满,hard and full epigastrium,XA8ZL8,Epigastrium,close
+sx_皮疹稠密,皮疹稠密,dense rash,SE76,Exterior pattern (TM1),close
+sx_皮疹暗红,皮疹暗红,Dark red rash,SF01,Blood stasis pattern (TM1),close
+sx_骨擦音,骨擦音,bone crepitus,XM44A4,Bone meal,close
+sx_骨擦音,骨擦音,bone crepitus,XA7XM2,Trapezium bone,close
+sx_左前胸痛,左前胸痛,left anterior chest pain,MD30.1,Other chest pain,close
+sx_左前胸痛,左前胸痛,left anterior chest pain,MC86,Precordial pain,close
+sx_阴囊皮肤暗红,阴囊皮肤暗红,Dark red scrotal skin,XM3R78,Lebanese red,close
+sx_牙槽骨腐坏,牙槽骨腐坏,alveolar bone necrosis,XA37J7,Alveolar vein,close
+sx_头仰,头仰,head tilted back,XA2P90,Back,close
+sx_皮肤丘疹,皮肤丘疹,Papule,SF9G,Bladder dampness-heat pattern (TM1),close
+sx_小便失禁,小便失禁,Urinary incontinence,MF50.23,Functional urinary incontinence,close
+sx_小便失禁,小便失禁,Urinary incontinence,MF50.2Y,Other specified urinary incontinence,close
+sx_小便失禁,小便失禁,Urinary incontinence,MF50.2Z,"Urinary incontinence, unspecified",close
+sx_阴户痛,阴户痛,Vulvodynia,GA34.02,Vulvodynia,exact
+sx_结节色褐,结节色褐,Brown nodule,SK6T,Phlyctenular nodule disorder (TM2),close
+sx_精索增粗,精索增粗,Spermatic-cord thickening,XA5KK7,Spermatic Vein,close
+sx_斑色晦暗,斑色晦暗,Dull and dark macule,SF7M,Spleen and kidney yang deficiency pattern (TM1),close
+sx_斑色晦暗,斑色晦暗,Dull and dark macule,SF97,Kidney yang deficiency pattern (TM1),close
+sx_咽痒,咽痒,Pharyngeal itching,XA98C1,Pharyngeal vein,close
+sx_咽痒,咽痒,Pharyngeal itching,XA5Q86,Pharyngeal nerve,close
+sx_咽痒,咽痒,Pharyngeal itching,XA9LV7,Pharyngeal plexus,close
+sx_肿块边界不清,肿块边界不清,ill-defined mass,2D42,Malignant neoplasms of ill-defined sites,close
+sx_带下色红,带下色红,Red vaginal discharge,MF3A,Vaginal discharge,exact
+sx_带下色红,带下色红,Red vaginal discharge,MC14,Eye discharge,close
+sx_舌绛,舌绛,Crimson tongue,XM3R78,Lebanese red,close
+sx_舌绛,舌绛,Crimson tongue,DA03.1,Geographic tongue,close
+sx_四肢拘急,四肢拘急,Limb joint contracture,FA34.3,Contracture of joint,close
+sx_便血暗红,便血暗红,Dark red bloody stool,XE484,Stool,close
+sx_背热,背热,Back heat,XA2P90,Back,close
+sx_皮肤色赤按之退色,皮肤色赤按之退色,red skin blanching on pressure,SF02,Blood heat pattern (TM1),close
+sx_指甲色黑,指甲色黑,Black nail,XA6Q52,Nail,close
+sx_指甲色黑,指甲色黑,Black nail,XM08L6,Afghanistan black,close
+sx_前额痛,前额痛,Forehead pain,XA1UW4,Paramedian forehead,close
+sx_前额痛,前额痛,Forehead pain,XA1Z38,Lateral forehead,close
+sx_前额痛,前额痛,Forehead pain,XA9SG2,Central forehead,close
+sx_大便灰白,大便灰白,Grayish-white stool,XE484,Stool,close
+sx_言语赛涩,言语赛涩,stuttering sluggish speech,MA81,Speech dysfluency,close
+sx_言语赛涩,言语赛涩,stuttering sluggish speech,MB23.L,Pressured speech,close
+sx_言语赛涩,言语赛涩,stuttering sluggish speech,XC2X,"Oriented, normal speech",close
+sx_耳轮肿起,耳轮肿起,swollen helix,XA9A86,Crus of helix,close
+sx_耳轮肿起,耳轮肿起,swollen helix,XA7AB8,Spine of helix,close
+sx_睑弦赤烂,睑弦赤烂,red erosion of the eyelid margin (marginal blepharitis),XA4AX5,Lower eyelid margin,close
+sx_睑弦赤烂,睑弦赤烂,red erosion of the eyelid margin (marginal blepharitis),XA53T1,Upper eyelid margin,close
+sx_口腔黏膜斑,口腔黏膜斑,Oral mucosa macule,XA6NQ7,Oral mucosa,close
+sx_口腔黏膜斑,口腔黏膜斑,Oral mucosa macule,XA0PT3,Mucosa,close
+sx_肿块石硬,肿块石硬,stone-hard mass,SF01,Blood stasis pattern (TM1),close
+sx_斑秃,斑秃,Patchy alopecia,SN90,Patchy alopecia disorder (TM2),close
+sx_斑秃,斑秃,Patchy alopecia,ED70.20,Patchy alopecia areata of scalp,close
+sx_胃脘拘急,胃脘拘急,Epigastrium cramping and tension,XA8ZL8,Epigastrium,close
+sx_四肢震颤,四肢震颤,Tremor,8A01,Tremor,exact
+sx_食后困顿,食后困顿,drowsiness after meals,SF70,Spleen qi deficiency pattern (TM1),close
+sx_水疱壁厚,水疱壁厚,thick-walled blisters,SF77,Spleen yang deficiency pattern (TM1),close
+sx_烧伤脱皮,烧伤脱皮,burn skin peeling,ED53,Skin peeling,close
+sx_烧伤脱皮,烧伤脱皮,burn skin peeling,EC20.1,Hereditary skin peeling,close
+sx_大便无臭,大便无臭,Stool odorless,XE484,Stool,close
+sx_转筋,转筋,Muscle cramp,NF06.3,Exercise muscle cramp,close
+sx_皮疹结干痴,皮疹结干痴,dry-crusted rash,ME66.6Z,"Rash, unspecified",close
+sx_皮疹结干痴,皮疹结干痴,dry-crusted rash,ME66.6Y,Other specified rash,close
+sx_皮疹结干痴,皮疹结干痴,dry-crusted rash,ME66.61,Rash generalised,close
+sx_交替性鼻塞,交替性鼻塞,alternating nasal obstruction,SK97,Nasal obstruction disorder (TM2),close
+sx_交替性鼻塞,交替性鼻塞,alternating nasal obstruction,MB53.0,Alternating hemiplegia,close
+sx_耳廓痛,耳廓痛,Auricular pain,XA4WK4,Greater auricular nerve,close
+sx_肌肤灼热,肌肤灼热,Skin-and-flesh burning heat,XE7PM,Burning oil,close
+sx_尿清,尿清,clear urine,SF9D,Uterine deficiency cold pattern (TM1),close
+sx_尿清,尿清,clear urine,SF9J,Bladder deficiency cold pattern (TM1),close
+sx_肛门脱出物柔软无弹性,肛门脱出物柔软无弹性,soft inelastic anal prolapse,DB53,Anal prolapse,close
+sx_肛门脱出物柔软无弹性,肛门脱出物柔软无弹性,soft inelastic anal prolapse,DB31.2,Rectal prolapse,close
+sx_脉缓,脉缓,Moderate pulse,XS0T,Moderate,close
+sx_偏头痛,偏头痛,Migraine,SK01,Migraine disorder (TM2),close
+sx_偏头痛,偏头痛,Migraine,SD10,Migraine disorder (TM1),close
+sx_偏头痛,偏头痛,Migraine,8B22.9,Migraine-induced stroke,close
+sx_耳流滋水,耳流滋水,serous fluid oozing from ear,XA2L90,Serous fluid,close
+sx_脱发,脱发,Alopecia,ED70.21,Alopecia totalis,close
+sx_脱发,脱发,Alopecia,SN90,Patchy alopecia disorder (TM2),close
+sx_副睾硬结,副睾硬结,Epididymis induration,XA4D25,Epididymis,close
+sx_副睾硬结,副睾硬结,Epididymis induration,SF5H,Liver and kidney yin deficiency pattern (TM1),close
+sx_遇风流泪,遇风流泪,wind-induced tearing,SF54,Liver blood deficiency pattern (TM1),close
+sx_甲房肿胀,甲房肿胀,Nail-bed swelling,XA6Q52,Nail,close
+sx_肛门脱出物有蒂,肛门脱出物有蒂,pedunculated anal prolapse,DB53,Anal prolapse,close
+sx_骨蒸发热,骨蒸发热,steaming-bone fever,1C33,Q fever,close
+sx_阴毛脱落,阴毛脱落,loss of pubic hair,XA12U4,Pubic hair,close
+sx_阴囊硬肿,阴囊硬肿,hard scrotal swelling,SK6G,Hard swelling of eyelid disorder (TM2),close
+sx_指甲菲薄腐烂,指甲菲薄腐烂,thin fragile eroded nail,XA6Q52,Nail,close
+sx_指甲菲薄腐烂,指甲菲薄腐烂,thin fragile eroded nail,LD55,Fragile X chromosome,close
+sx_指甲菲薄腐烂,指甲菲薄腐烂,thin fragile eroded nail,LD47.4,Autosomal fragile site,close
+sx_眦角生胬肉,眦角生胬肉,pterygium growing at the canthus,9A61.1,Pterygium,close
+sx_阴囊皮肤顽厚,阴囊皮肤顽厚,thick stubborn scrotal skin,SF04,Blood dryness pattern (TM1),close
+sx_舌青,舌青,Bluish tongue,DA03.1,Geographic tongue,close
+sx_甲下胬肉突出,甲下胬肉突出,pterygium protruding under the nail,9A61.1,Pterygium,close
+sx_睑不能闭,睑不能闭,inability to close the eyelid (lagophthalmos),XE8L2,Inability to irrigate,close
+sx_月经推后,月经推后,delayed menstruation,SB81,Delayed menstruation disorder (TM1),close
+sx_带下气腥,带下气腥,fishy vaginal discharge,MF3A,Vaginal discharge,close
+sx_项强,项强,neck stiffness,ME85,Stiffness of joint,close
+sx_包皮嵌顿,包皮嵌顿,Prepuce incarcerated,GB05.3,Paraphimosis,close
+sx_指纹变细,指纹变细,thinned finger venules,SE75,Deficiency pattern (TM1),close
+sx_带下绵绵不绝,带下绵绵不绝,endless continuous vaginal discharge,MF3A,Vaginal discharge,close
+sx_桶状胸,桶状胸,Barrel-shaped chest,SF91,Kidney failing to receive qi pattern (TM1),close
+sx_皮肤瘀点,皮肤瘀点,Skin petechia,SF01,Blood stasis pattern (TM1),close
+sx_皮疹结厚痴,皮疹结厚痴,thick-crusted rash,ME66.6Z,"Rash, unspecified",close
+sx_皮疹结厚痴,皮疹结厚痴,thick-crusted rash,ME66.6Y,Other specified rash,close
+sx_皮疹中央凹陷,皮疹中央凹陷,Central rash depression/hollowing,XA6C41,Central cheek,close
+sx_皮疹中央凹陷,皮疹中央凹陷,Central rash depression/hollowing,ME66.6Z,"Rash, unspecified",close
+sx_巩膜斑点,巩膜斑点,scleral spots,XA1A48,Perioral region,close
+sx_巩膜斑点,巩膜斑点,scleral spots,XA5MS8,Presternal region,close
+sx_指甲色斑,指甲色斑,Macule nail,XA6Q52,Nail,close
+sx_指甲色斑,指甲色斑,Macule nail,ED61.10,Penile melanotic macule,close
+sx_指甲色斑,指甲色斑,Macule nail,ED61.11,Vulval melanotic macule,close
+sx_产后恶风,产后恶风,Postpartum aversion to wind,XT4Z,Postpartum,close

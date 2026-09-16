@@ -1,0 +1,708 @@
+﻿symptom_localname,symptom_zh,symptom_en,snomedCT_id,snomedCT_term,mapType
+sx_干呕,干呕,Vomiting,249497008,emesis,exact
+sx_干呕,干呕,Vomiting,8579004,projectile vomiting,close
+sx_干呕,干呕,Vomiting,16932000,nausea and vomiting,close
+sx_头发色红,头发色红,Red hair,297997007,ginger hair color,exact
+sx_头顶痛,头顶痛,Vertex pain,25064002,headache,close
+sx_瘤体疮口出血如喷射状,瘤体疮口出血如喷射状,jetting bleeding from the tumor sore,417244000,bleeding from the eye,close
+sx_瘤体疮口出血如喷射状,瘤体疮口出血如喷射状,jetting bleeding from the tumor sore,93478000,bleeding from the eye,close
+sx_食少,食少,Poor appetite,64379006,decreased appetite,exact
+sx_白睛结节,白睛结节,nodules on the white of the eye,815008,episcleritis,close
+sx_皮肤干瘪起皱,皮肤干瘪起皱,shriveled wrinkled skin,247434009,premature skin wrinkling,close
+sx_脐突,脐突,Umbilical hernia,396347007,umbilical hernia,exact
+sx_脐突,脐突,Umbilical hernia,44518003,celosomia,exact
+sx_脐突,脐突,Umbilical hernia,18735004,exomphalos,exact
+sx_泪窍溢脓,泪窍溢脓,pus discharge from the lacrimal punctum,204208005,absent lacrimal gland puncta,close
+sx_泪窍溢脓,泪窍溢脓,pus discharge from the lacrimal punctum,253217007,absent lacrimal gland puncta,close
+sx_耳生痈,耳生痈,ear abscess,27916005,hepatic abscess,close
+sx_耳生痈,耳生痈,ear abscess,299709002,dental abscess,close
+sx_耳生痈,耳生痈,ear abscess,82127005,perianal abscess,close
+sx_斑色鲜红,斑色鲜红,Bright red macule,112629002,flat discolored area of skin,close
+sx_囟门迟闭,囟门迟闭,delayed closure of fontanelle,295091000119,delayed closure anterior fontanel,close
+sx_囟门迟闭,囟门迟闭,delayed closure of fontanelle,82779003,broad late closing cranial sutures,close
+sx_早醒,早醒,Terminal insomnia,193462001,difficulty staying or falling asleep,close
+sx_月经量少,月经量少,Oligomenorrhea,27342003,Oligomenorrhea,exact
+sx_经行腰痛,经行腰痛,low back pain during menstruation,279039007,low back pain,close
+sx_妄见,妄见,visual hallucination,64269007,visual hallucination,exact
+sx_妄见,妄见,visual hallucination,7011001,hallucination,close
+sx_斑色玫瑰红,斑色玫瑰红,Rose-red macule,112629002,flat discolored area of skin,close
+sx_头皮脱屑,头皮脱屑,scalp scaling,75851004,allodynia of scalp,close
+sx_头皮脱屑,头皮脱屑,scalp scaling,50563003,dysseborrheic dermatitis,close
+sx_头皮脱屑,头皮脱屑,scalp scaling,86708008,dysseborrheic dermatitis,close
+sx_足下垂,足下垂,Foot dorsiflexor weakness,6077001,foot dorsiflexor weakness,exact
+sx_咽肿,咽肿,pharyngeal swelling,2129002,pharyngeal edema,close
+sx_烧伤起泡,烧伤起泡,burn blistering,67653003,pretibial blistering,close
+sx_头痛,头痛,Headache,25064002,Headache,exact
+sx_舌肿胀,舌肿胀,Abnormal tongue morphology,19829001,abnormal lung morphology,close
+sx_舌肿胀,舌肿胀,Abnormal tongue morphology,10810001,abnormal lens morphology,close
+sx_舌肿胀,舌肿胀,Abnormal tongue morphology,17790008,abnormal nail morphology,close
+sx_鼻头枯稿,鼻头枯稿,withered nasal tip,249331008,narrow nasal tip,close
+sx_鼻头枯稿,鼻头枯稿,withered nasal tip,249326006,bifid nasal tip,close
+sx_鼻头枯稿,鼻头枯稿,withered nasal tip,249327002,broad nasal tip,close
+sx_小腹痛,小腹痛,Abdominal pain,21522001,abdominal discomfort,exact
+sx_饭后欲睡,饭后欲睡,postprandial drowsiness,79519003,abnormal drowsiness,close
+sx_饭后欲睡,饭后欲睡,postprandial drowsiness,271782001,abnormal drowsiness,close
+sx_口唇色赤,口唇色赤,red lips,7847004,cheilitis,close
+sx_早泄,早泄,Premature ejaculation,44001008,premature ejaculation,exact
+sx_早泄,早泄,Premature ejaculation,15405008,delayed ejaculation,close
+sx_脊柱侧弯,脊柱侧弯,Scoliosis,111266001,cobb angle greater than ten degrees,exact
+sx_脊柱侧弯,脊柱侧弯,Scoliosis,64217002,cobb angle greater than ten degrees,exact
+sx_脊柱侧弯,脊柱侧弯,Scoliosis,203645000,compensatory scoliosis,close
+sx_口张,口张,open mouth (inability to close),262016004,gaped jawed appearance,close
+sx_皮肤色黄如橘,皮肤色黄如橘,orange-yellow skin,18165001,icterus,close
+sx_嗅觉减退,嗅觉减退,Hyposmia,83156004,decreased smell sensation,exact
+sx_下肢青脉显露,下肢青脉显露,prominent blue vessels of lower limbs,109504005,big lower jaw,close
+sx_下肢青脉显露,下肢青脉显露,prominent blue vessels of lower limbs,22810007,big lower jaw,close
+sx_听力减退,听力减退,Hearing impairment,103276001,deafness,exact
+sx_听力减退,听力减退,Hearing impairment,15188001,deafness,exact
+sx_听力减退,听力减退,Hearing impairment,95828007,deafness,exact
+sx_便稀如水,便稀如水,watery stool,267060006,diarrhea,exact
+sx_便稀如水,便稀如水,watery stool,62315008,diarrhea,exact
+sx_视远物不清,视远物不清,blurred distant vision,111516008,blurred vision,close
+sx_视远物不清,视远物不清,blurred distant vision,246636008,blurred vision,close
+sx_颅缝开解,颅缝开解,separation of cranial sutures,268855009,broad cranial sutures,close
+sx_颅缝开解,颅缝开解,separation of cranial sutures,276710001,little cranial sutures,close
+sx_颅缝开解,颅缝开解,separation of cranial sutures,57219006,cranial suture synostosis,close
+sx_便血,便血,Hematochezia,405737000,Hematochezia,exact
+sx_喷嚏,喷嚏,Sneeze,76067001,Sneezing,exact
+sx_气息微,气息微,faint breathing,87317003,breathing cessation,close
+sx_皮肤萎黄,皮肤萎黄,sallow-yellow skin,18165001,icterus,close
+sx_尿少,尿少,oliguria,718403007,oliguria,exact
+sx_尿少,尿少,oliguria,83128009,oliguria,exact
+sx_肩痛,肩痛,Shoulder pain,45326000,Shoulder pain,close
+sx_手足心热,手足心热,Fever,304213008,low grade fever,close
+sx_手足心热,手足心热,Fever,386661006,fever,exact
+sx_手足心热,手足心热,Fever,50177009,fever,exact
+sx_皮肤色黄,皮肤色黄,Yellow discoloration of the skin,18165001,icterus,exact
+sx_皮肤色黄,皮肤色黄,Yellow discoloration of the skin,119419001,blue discoloration of the skin,close
+sx_皮肤色黄,皮肤色黄,Yellow discoloration of the skin,3415004,blue discoloration of the skin,close
+sx_阴茎粗长,阴茎粗长,thickened and elongated penis,88673001,enlarged penis,close
+sx_乳蛾肿大,乳蛾肿大,enlarged tonsil,46689006,enlarged tonsils,close
+sx_哮鸣,哮鸣,Wheezing,56018004,wheezing,exact
+sx_哮鸣,哮鸣,Wheezing,24612001,rhonchi,close
+sx_脐腹痛,脐腹痛,periumbilical pain,21522001,abdominal discomfort,close
+sx_皮疹细小,皮疹细小,fine rash,112625008,rash,close
+sx_皮疹细小,皮疹细小,fine rash,271807003,rash,close
+sx_小儿咬爪甲,小儿咬爪甲,nail biting in children,37298006,nail biting,close
+sx_眼花,眼花,blurred vision (eye dazzle),111516008,blurred vision,exact
+sx_眼花,眼花,blurred vision (eye dazzle),246636008,blurred vision,exact
+sx_舌有紫斑,舌有紫斑,Tongue purpura,12393003,blood spots,close
+sx_舌有紫斑,舌有紫斑,Tongue purpura,387778001,blood spots,close
+sx_舌有紫斑,舌有紫斑,Tongue purpura,423902002,blood spots,close
+sx_指甲色黄,指甲色黄,Yellow nail,45342007,yellow nails,close
+sx_肿瘤悬垂,肿瘤悬垂,pendulous tumor,108369006,abnormal tissue mass,close
+sx_肿瘤悬垂,肿瘤悬垂,pendulous tumor,363346000,abnormal tissue mass,close
+sx_咽红,咽红,red pharynx,126685009,neoplasia of the pharynx,close
+sx_痫,痫,epileptic seizure (xian),246545002,epilepsy,exact
+sx_臀部生痈,臀部生痈,buttock abscess,299709002,dental abscess,close
+sx_阴囊皮肤裂开,阴囊皮肤裂开,Scrotal skin splitting/cracking,236780002,bifid scrotum,close
+sx_尿多,尿多,polyuria,28442001,increased urine output,exact
+sx_尿多,尿多,polyuria,56574000,increased urine output,exact
+sx_尿多,尿多,polyuria,718402002,increased urine output,exact
+sx_牙龈色红,牙龈色红,red gums,66383009,gingival inflammation,close
+sx_阴囊水肿,阴囊水肿,Edema,267038008,Edema,exact
+sx_泄泻,泄泻,Diarrhea,267060006,diarrhea,exact
+sx_泄泻,泄泻,Diarrhea,62315008,diarrhea,exact
+sx_泄泻,泄泻,Diarrhea,236071009,chronic diarrhea,close
+sx_头小,头小,microcephaly,271611007,abnormally small cranium,exact
+sx_流泪,流泪,Reflex tearing,267102003,Tearing,exact
+sx_心悸,心悸,Palpitations,80313002,Palpitations,exact
+sx_狂躁,狂躁,manic agitation,24199005,agitation,close
+sx_耳痒,耳痒,ear itching,279333002,itching,close
+sx_耳痒,耳痒,ear itching,418290006,itching,close
+sx_耳痒,耳痒,ear itching,418363000,itching,close
+sx_张口困难,张口困难,difficulty opening the mouth,423142006,difficulty opening the eyelids,close
+sx_张口困难,张口困难,difficulty opening the mouth,87866006,decrease in jaw mobility,close
+sx_斑色紫红,斑色紫红,Purple red macule,112629002,flat discolored area of skin,close
+sx_唇干,唇干,dry lips,16459000,chapped lip,exact
+sx_唇干,唇干,dry lips,238751002,chapped lip,exact
+sx_唇干,唇干,dry lips,248182008,chapped lip,exact
+sx_阴囊透光阴性,阴囊透光阴性,negative transillumination of scrotum,236780002,bifid scrotum,close
+sx_怔忡,怔忡,Palpitations,80313002,Palpitations,exact
+sx_口唇干燥,口唇干燥,dry lips,16459000,chapped lip,exact
+sx_口唇干燥,口唇干燥,dry lips,238751002,chapped lip,exact
+sx_口唇干燥,口唇干燥,dry lips,248182008,chapped lip,exact
+sx_神昏,神昏,Coma,271782001,Comatose,close
+sx_瘙痒,瘙痒,Pruritus,418363000,Pruritus,exact
+sx_食入腹胀,食入腹胀,Abdominal distention,60728008,Abdominal bloating,exact
+sx_隐痛,隐痛,Pain,247355005,flank pain,close
+sx_隐痛,隐痛,Pain,29857009,chest discomfort,close
+sx_隐痛,隐痛,Pain,21522001,abdominal discomfort,close
+sx_眼胞振跳,眼胞振跳,eyelid twitch,59026006,blepharospasm,close
+sx_少腹痛,少腹痛,Abdominal pain,21522001,abdominal discomfort,exact
+sx_气短,气短,shortness of breath,230145002,abnormal breathing,exact
+sx_气短,气短,shortness of breath,267036007,abnormal breathing,exact
+sx_带下杂见五色,带下杂见五色,vaginal discharge of five intermingled colors,248955002,Vaginal discharge,exact
+sx_弄舌,弄舌,Abnormality of the tongue,275259005,abnormal pinnae,close
+sx_弄舌,弄舌,Abnormality of the tongue,19416009,abnormal eye,close
+sx_弄舌,弄舌,Abnormality of the tongue,371405004,abnormal eye,close
+sx_水泻,水泻,Watery diarrhea,267060006,diarrhea,close
+sx_水泻,水泻,Watery diarrhea,62315008,diarrhea,close
+sx_指苍白,指苍白,Pale finger,398979000,paleness,close
+sx_言语不清,言语不清,Slurred speech,289195008,slurred speech,exact
+sx_耳底痛,耳底痛,deep ear pain,16001004,ear pain,close
+sx_耳底痛,耳底痛,deep ear pain,162356005,ear pain,close
+sx_皮肤感觉减退,皮肤感觉减退,Skin hypoesthesia,130980003,decreased vibration sense,close
+sx_尿血淡红,尿血淡红,light-red hematuria,34436003,blood in urine,close
+sx_尿血淡红,尿血淡红,light-red hematuria,53298000,blood in urine,close
+sx_腰冷,腰冷,cold lower back,279039007,low back pain,close
+sx_口疮,口疮,Aphthous ulcer,235000006,Oral ulcer,exact
+sx_舌溃疡,舌溃疡,Ulcerated tongue,52368004,fissured tongue,close
+sx_舌溃疡,舌溃疡,Ulcerated tongue,84557007,bifid tongue,close
+sx_舌紫,舌紫,Tongue pain,248614001,Tongue discoloration,close
+sx_久泄不止,久泄不止,incessant chronic diarrhea,236071009,chronic diarrhea,close
+sx_吞食梗塞,吞食梗塞,obstruction when swallowing,126765001,gastrointestinal obstruction,close
+sx_口腔糜烂,口腔糜烂,Oral erosion,50792001,corneal erosion,close
+sx_尿血棕红,尿血棕红,brownish-red hematuria,34436003,blood in urine,close
+sx_尿血棕红,尿血棕红,brownish-red hematuria,53298000,blood in urine,close
+sx_间歇性鼻塞,间歇性鼻塞,intermittent nasal obstruction,267100006,blockage of nose,close
+sx_间歇性鼻塞,间歇性鼻塞,intermittent nasal obstruction,232209000,blockage of nose,close
+sx_间歇性鼻塞,间歇性鼻塞,intermittent nasal obstruction,68235000,blockage of nose,close
+sx_尿中带血丝,尿中带血丝,blood streaks in urine,34436003,blood in urine,close
+sx_尿中带血丝,尿中带血丝,blood streaks in urine,53298000,blood in urine,close
+sx_对光消失,对光消失,absent light reflex,247144003,absent foveal reflex,close
+sx_皮疹结血痴,皮疹结血痴,blood-crusted rash,112625008,rash,close
+sx_皮疹结血痴,皮疹结血痴,blood-crusted rash,271807003,rash,close
+sx_夜尿多,夜尿多,nocturia (frequent night urination),139394000,nocturia,exact
+sx_疮面痛觉减退,疮面痛觉减退,decreased pain sensation of sore surface,697990000,decreased taste,close
+sx_头大,头大,macrocephaly,396100011910,disproportionately large head,close
+sx_鼻端色白,鼻端色白,White tip-of-nose,249327002,broad nasal tip,close
+sx_鼻端色白,鼻端色白,White tip-of-nose,249331008,narrow nasal tip,close
+sx_鼻端色白,鼻端色白,White tip-of-nose,249326006,bifid nasal tip,close
+sx_头胀,头胀,head distension,2032001,brain edema,close
+sx_耳鸣,耳鸣,Tinnitus,60862001,Tinnitus,exact
+sx_臂部生痈,臂部生痈,arm abscess,82127005,perianal abscess,close
+sx_皮肤感觉过敏,皮肤感觉过敏,Skin hyperesthesia,14151009,hyperaesthesia,close
+sx_声音低沉,声音低沉,Weak voice,34527004,hypophonia,exact
+sx_声音低沉,声音低沉,Weak voice,8614008,hypophonia,exact
+sx_吞咽困难,吞咽困难,Dysphagia,288939007,deglutition disorder,exact
+sx_吞咽困难,吞咽困难,Dysphagia,40739000,deglutition disorder,exact
+sx_吞咽困难,吞咽困难,Dysphagia,71457002,oral pharyngeal dysphagia,close
+sx_口淡,口淡,Hypogeusia,697990000,decreased taste,exact
+sx_失眠,失眠,Insomnia,59050008,Insomnia,exact
+sx_腰痛,腰痛,Low back pain,279039007,Low back pain,exact
+sx_精索坚硬,精索坚硬,hard spermatic cord,49198006,spermatic cord torsion,close
+sx_精索坚硬,精索坚硬,hard spermatic cord,81996005,spermatic cord torsion,close
+sx_鼻端色赤,鼻端色赤,Red tip-of-nose,249331008,narrow nasal tip,close
+sx_鼻端色赤,鼻端色赤,Red tip-of-nose,249327002,broad nasal tip,close
+sx_鼻端色赤,鼻端色赤,Red tip-of-nose,249326006,bifid nasal tip,close
+sx_视力下降,视力下降,decreased vision,13164000,decreased central vision,close
+sx_视物易色,视物易色,disturbed color vision,23289000,abnormal color vision,exact
+sx_视物易色,视物易色,disturbed color vision,367469000,abnormal color vision,exact
+sx_咽干,咽干,Abnormality of the pharynx,162084009,Dry throat,close
+sx_头皮血肿,头皮血肿,Cephalohematoma,206200000,cephalohaematoma,exact
+sx_头皮血肿,头皮血肿,Cephalohematoma,83095000,cephalohaematoma,exact
+sx_睑内结石,睑内结石,conjunctival concretion (lid stone),428477002,conjunctival nodule,close
+sx_反酸,反酸,Oral lichenoid lesion,16331000,Heartburn,close
+sx_恶寒,恶寒,Chills,274640006,Chills,close
+sx_尿频,尿频,Frequent urination,11829000,Urinary frequency,exact
+sx_心忡,心忡,palpitations,80313002,heart palpitations,close
+sx_趾甲增厚,趾甲增厚,thickened toenails,52897009,dystrophic thickened nails,close
+sx_咳声重浊,咳声重浊,Abnormally low-pitched voice,51406002,abnormally high pitched voice,close
+sx_耳痛,耳痛,Ear pain,10608006,Ear pain,exact
+sx_视近物不清,视近物不清,blurred near vision,111516008,blurred vision,close
+sx_视近物不清,视近物不清,blurred near vision,246636008,blurred vision,close
+sx_惊悸,惊悸,Palpitations,80313002,heart palpitations,close
+sx_皮肤色紫,皮肤色紫,Purple skin,387778001,blood spots,close
+sx_皮肤色紫,皮肤色紫,Purple skin,423902002,blood spots,close
+sx_皮肤色紫,皮肤色紫,Purple skin,12393003,blood spots,close
+sx_月经量多,月经量多,Menorrhagia,237053008,Menorrhagia,exact
+sx_肛门皮肤溃疡,肛门皮肤溃疡,Skin ulcer,46742003,Skin ulcer,exact
+sx_小便不利,小便不利,Dysuria,49650001,dull burning sensation with urination,exact
+sx_目赤,目赤,Red eye,1797002,Red eye,exact
+sx_下唇肿胀,下唇肿胀,Lower-lip swelling,102572006,dependant edema,close
+sx_壮热,壮热,Malignant hyperthermia,386661006,fever,close
+sx_壮热,壮热,Malignant hyperthermia,50177009,fever,close
+sx_壮热,壮热,Malignant hyperthermia,405501007,malignant hyperthermia,exact
+sx_神志狂乱,神志狂乱,manic confusion,286933003,confusion,close
+sx_牙龈晦暗,牙龈晦暗,dull dark gums,235038002,dark color of gums,close
+sx_尿闭,尿闭,urinary retention,130951007,increased post void residual urine volume,exact
+sx_尿闭,尿闭,urinary retention,267064002,increased post void residual urine volume,exact
+sx_尿闭,尿闭,urinary retention,449491000124,increased post void residual urine volume,exact
+sx_嗜睡,嗜睡,Lethargy,214264003,dullness,exact
+sx_嗜睡,嗜睡,Lethargy,271782001,abnormal drowsiness,exact
+sx_嗜睡,嗜睡,Lethargy,79519003,abnormal drowsiness,exact
+sx_口臭,口臭,Halitosis,33893004,Halitosis,exact
+sx_入睡难,入睡难,Sleep onset insomnia,193462001,difficulty staying or falling asleep,close
+sx_入睡难,入睡难,Sleep onset insomnia,53888004,difficulty sleeping,close
+sx_眼前闪光,眼前闪光,Photopsia (flashing lights before the eyes),15013002,eye floaters,exact
+sx_眼前闪光,眼前闪光,Photopsia (flashing lights before the eyes),162278001,eye floaters,exact
+sx_眼前闪光,眼前闪光,Photopsia (flashing lights before the eyes),420999000,eye floaters,exact
+sx_甲向内嵌,甲向内嵌,ingrown nail,400097005,ingrown nail,exact
+sx_甲向内嵌,甲向内嵌,ingrown nail,400200009,ingrown nail,exact
+sx_咀嚼困难,咀嚼困难,Impaired mastication,162020001,chewing difficulties,exact
+sx_手掌角化,手掌角化,palmar keratinization,247449001,palmar pits,close
+sx_眉毛脱落,眉毛脱落,loss of eyebrows,253208007,absent eyebrow,close
+sx_眉毛脱落,眉毛脱落,loss of eyebrows,422441003,absent eyebrow,close
+sx_皮肤增厚,皮肤增厚,Thickened skin,17417006,diffusely thickened skin,exact
+sx_皮肤增厚,皮肤增厚,Thickened skin,69943009,diffusely thickened skin,exact
+sx_皮肤增厚,皮肤增厚,Thickened skin,51603000,cutis gyrata of scalp,close
+sx_颈项歪斜,颈项歪斜,wry neck,270476009,cervical dystonia,exact
+sx_颈项歪斜,颈项歪斜,wry neck,70070008,cervical dystonia,exact
+sx_颈项歪斜,颈项歪斜,wry neck,74333002,cervical dystonia,exact
+sx_皮峪隆起,皮峪隆起,Skin-ridges bulging,18265008,anterior bulging of the globe,close
+sx_手背肿如覆碗,手背肿如覆碗,dorsal hand swelling like an upturned bowl,708670007,anteverted nares,close
+sx_腰脊痛,腰脊痛,lumbosacral pain,247355005,flank pain,close
+sx_腰脊痛,腰脊痛,lumbosacral pain,279039007,low back pain,close
+sx_肛门皮肤糜烂,肛门皮肤糜烂,eroded anal skin,93448009,skin erosion,close
+sx_肩凝,肩凝,frozen shoulder,45326000,shoulder pain,close
+sx_胸廓变形,胸廓变形,thoracic deformity,29857009,chest discomfort,close
+sx_口腔溃烂,口腔溃烂,Oral ulceration and festering,26284000,mouth sore,close
+sx_视物模糊,视物模糊,blurred vision,111516008,blurred vision,exact
+sx_视物模糊,视物模糊,blurred vision,246636008,blurred vision,exact
+sx_耳聋,耳聋,Severe hearing impairment,15188001,Hearing loss,exact
+sx_牙根痛,牙根痛,pain at tooth root,109493006,absence of tooth root,close
+sx_胸痛,胸痛,Chest pain,29857009,Chest pain,exact
+sx_妊娠腹痛,妊娠腹痛,abdominal pain during pregnancy,21522001,abdominal discomfort,close
+sx_包茎,包茎,Phimosis,253854008,phimosis,exact
+sx_骨折四肢畸形,骨折四肢畸形,limb deformity from fracture,445144002,abnormal limbs,close
+sx_皮疹色褐,皮疹色褐,Brown rash,112625008,rash,close
+sx_皮疹色褐,皮疹色褐,Brown rash,271807003,rash,close
+sx_上肢萎缩,上肢萎缩,Upper limb amyotrophy,253921005,asymmetric upper limb shortening,close
+sx_上肢萎缩,上肢萎缩,Upper limb amyotrophy,74035001,amyotrophy,close
+sx_上肢萎缩,上肢萎缩,Upper limb amyotrophy,298745009,hypertrophy of the upper limb,close
+sx_功能失调性月经紊乱,功能失调性月经紊乱,dysfunctional menstrual irregularity,80182007,irregular menses,close
+sx_圆背,圆背,Round back (kyphotic posture),414564002,gibbus deformity,exact
+sx_皮肤色素减退,皮肤色素减退,Hypopigmentation of the skin,18655006,hypopigmentation,exact
+sx_皮肤色素减退,皮肤色素减退,Hypopigmentation of the skin,201284005,hypopigmentation,exact
+sx_皮肤色素减退,皮肤色素减退,Hypopigmentation of the skin,23006000,hypopigmentation,exact
+sx_恶心,恶心,Nausea,422587007,Nausea,exact
+sx_目珠痛,目珠痛,Eyeball pain,41652007,eye pain,close
+sx_梦中啮齿,梦中啮齿,teeth grinding during sleep,191983006,bruxism,close
+sx_梦中啮齿,梦中啮齿,teeth grinding during sleep,90207007,bruxism,close
+sx_晶珠混浊,晶珠混浊,cloudy lens (cataract),128306009,cataract,exact
+sx_晶珠混浊,晶珠混浊,cloudy lens (cataract),193570009,cataract,exact
+sx_晶珠混浊,晶珠混浊,cloudy lens (cataract),247053007,cataract,exact
+sx_过早绝经,过早绝经,premature menopause,373717006,climacterium praecox,exact
+sx_前囟宽大,前囟宽大,wide anterior fontanelle,295091000119,delayed closure anterior fontanel,close
+sx_前囟宽大,前囟宽大,wide anterior fontanelle,276709006,enlarged fontanelles,close
+sx_鼻不闻香臭,鼻不闻香臭,Anosmia,44169009,anosmia,exact
+sx_头昏,头昏,dizziness,271789005,dizziness,exact
+sx_头昏,头昏,dizziness,399090003,dizziness,exact
+sx_头昏,头昏,dizziness,399153001,dizziness,exact
+sx_白睛溢血,白睛溢血,bleeding on the white of the eye (subconjunctival hemorrhage),815008,episcleritis,close
+sx_日唇红肿,日唇红肿,Red lips swelling,271771009,joint swelling,close
+sx_膝外翻,膝外翻,Genu valgum,299331007,bow leggedness,exact
+sx_膝外翻,膝外翻,Genu valgum,299330008,genu valga,exact
+sx_赘皮肿胀,赘皮肿胀,Skin tag/redundant skin swelling,201093004,loose redundant skin,close
+sx_倒睫拳毛,倒睫拳毛,Trichiasis,60332004,ingrown eyelashes,exact
+sx_胞睑色红,胞睑色红,red eyelid,414521009,hordeolum internum,close
+sx_肛门周围皮肤见瘘口,肛门周围皮肤见瘘口,fistula opening in perianal skin,72779005,anal fistula,close
+sx_鼻疮,鼻疮,Nasal sore,126669004,nasal neoplasm,close
+sx_疲乏,疲乏,Fatigue,248274002,fatigue,exact
+sx_疲乏,疲乏,Fatigue,84229001,fatigue,exact
+sx_疲乏,疲乏,Fatigue,80449002,increased muscle fatiguability,close
+sx_舌光,舌光,Bare (mirror) tongue,25273001,abnormally large tongue,close
+sx_舌光,舌光,Bare (mirror) tongue,253752000,bumpy tongue,close
+sx_全身无力,全身无力,generalized weakness,249945007,leg weakness,close
+sx_舌痛,舌痛,Tongue pain,30731004,Tongue pain,exact
+sx_鼻梁凹陷,鼻梁凹陷,Depressed nasal bridge,204521002,bifid nasal bridge,exact
+sx_鼻梁凹陷,鼻梁凹陷,Depressed nasal bridge,249321001,broad flat nasal bridge,close
+sx_产后多汗,产后多汗,profuse sweating after childbirth,161857006,diaphoresis,close
+sx_产后多汗,产后多汗,profuse sweating after childbirth,364538006,diaphoresis,close
+sx_产后多汗,产后多汗,profuse sweating after childbirth,415690000,diaphoresis,close
+sx_健忘,健忘,Progressive forgetfulness,162636000,Memory impairment,exact
+sx_头重,头重,Abnormality of the head,299033004,abnormal hands,close
+sx_头重,头重,Abnormality of the head,13213009,abnormal heart morphology,close
+sx_头重,头重,Abnormality of the head,275259005,abnormal pinnae,close
+sx_疼痛,疼痛,Pain,68962001,,exact
+sx_疼痛,疼痛,Pain,279058007,Pain in limb,exact
+sx_麻木不仁,麻木不仁,numbness (loss of sensation),6140007,affective insufficiency,close
+sx_牙龈溃烂,牙龈溃烂,Abnormality of the gingiva,449715001,abnormality of the leg,close
+sx_牙龈溃烂,牙龈溃烂,Abnormality of the gingiva,275259005,abnormal pinnae,close
+sx_牙龈溃烂,牙龈溃烂,Abnormality of the gingiva,19416009,abnormal eye,close
+sx_颈项活动受限,颈项活动受限,restricted neck movement,161882006,limitation of neck motion,exact
+sx_颈项活动受限,颈项活动受限,restricted neck movement,405947006,limitation of neck motion,exact
+sx_痈疮表面光软无头,痈疮表面光软无头,glossy soft headless abscess,299709002,dental abscess,close
+sx_痈疮表面光软无头,痈疮表面光软无头,glossy soft headless abscess,27916005,hepatic abscess,close
+sx_乏力,乏力,Malaise,13791008,Asthenia,exact
+sx_疮疡根脚散漫,疮疡根脚散漫,diffuse-based sore,19648000,diffuse,close
+sx_妊娠呕吐,妊娠呕吐,Hyperemesis gravidarum,1696002,Hyperemesis gravidarum,exact
+sx_产后便秘,产后便秘,Constipation,14760008,Constipation,exact
+sx_不欲饮食,不欲饮食,poor appetite,64379006,decreased appetite,exact
+sx_声重,声重,heavy (nasal) voice,34527004,hypophonia,close
+sx_声重,声重,heavy (nasal) voice,8614008,hypophonia,close
+sx_睾丸表面光滑,睾丸表面光滑,smooth testicular surface,126900000,testicular cancer,close
+sx_睾丸表面光滑,睾丸表面光滑,smooth testicular surface,9491003,atrophy of dorsum of tongue,close
+sx_声音高亢,声音高亢,high-pitched voice,51406002,abnormally high pitched voice,exact
+sx_小儿言语迟缓,小儿言语迟缓,delayed speech in children,229721007,deficiency of speech development,close
+sx_小儿言语迟缓,小儿言语迟缓,delayed speech in children,29164008,deficiency of speech development,close
+sx_小儿言语迟缓,小儿言语迟缓,delayed speech in children,62415009,deficiency of speech development,close
+sx_驼背,驼背,Kyphosis,414564002,gibbus deformity,exact
+sx_驼背,驼背,Kyphosis,298393001,cervical kyphosis,close
+sx_驼背,驼背,Kyphosis,53406005,calve disease,close
+sx_鼻痒,鼻痒,Abnormality of the nose,128274005,abnormality of the nose,exact
+sx_鼻痒,鼻痒,Abnormality of the nose,72089000,abnormality of the nose,exact
+sx_鼻痒,鼻痒,Abnormality of the nose,298390003,abnormality of the neck,close
+sx_目痛,目痛,Ocular pain,409667008,Eye pain,exact
+sx_头发易折断,头发易折断,easily broken hair,25159003,brittle hair,close
+sx_眼睑肿核,眼睑肿核,swollen nodule of the eyelid (chalazion),248514008,cyst of the eyelid,close
+sx_眼睑肿核,眼睑肿核,swollen nodule of the eyelid (chalazion),301913002,cyst of the eyelid,close
+sx_眼睑肿核,眼睑肿核,swollen nodule of the eyelid (chalazion),46210008,cyst of the eyelid,close
+sx_呕吐,呕吐,Vomiting,422400008,Vomiting,exact
+sx_体毛干枯,体毛干枯,Brittle hair,25159003,brittle hair,exact
+sx_牙龈硬肿,牙龈硬肿,hard swollen gums,66383009,gingival inflammation,close
+sx_喜食异物,喜食异物,pica (craving for foreign objects),14077003,pica,exact
+sx_背痛,背痛,Back pain,161891005,Back pain,exact
+sx_吞咽不利,吞咽不利,difficulty swallowing,40739000,deglutition disorder,exact
+sx_吞咽不利,吞咽不利,difficulty swallowing,288939007,deglutition disorder,exact
+sx_皮肤紫斑,皮肤紫斑,Skin purpura,12393003,blood spots,close
+sx_皮肤紫斑,皮肤紫斑,Skin purpura,387778001,blood spots,close
+sx_皮肤紫斑,皮肤紫斑,Skin purpura,423902002,blood spots,close
+sx_流热泪,流热泪,hot tearing,193982009,epiphora,close
+sx_流热泪,流热泪,hot tearing,418035005,epiphora,close
+sx_失音,失音,Loss of voice,441913003,aphonia,exact
+sx_失音,失音,Loss of voice,44564008,aphonia,exact
+sx_呼吸急促,呼吸急促,Tachypnea,271823003,increased respiratory rate or depth of breathing,exact
+sx_呼吸急促,呼吸急促,Tachypnea,68978004,hyperventilation,exact
+sx_囟门早闭,囟门早闭,premature closure of fontanelle,1667003,early closure of the bregma sutures,exact
+sx_囟门早闭,囟门早闭,premature closure of fontanelle,57219006,cranial suture synostosis,exact
+sx_囟门早闭,囟门早闭,premature closure of fontanelle,82779003,broad late closing cranial sutures,close
+sx_牙龈暗红,牙龈暗红,dark-red gums,66383009,gingival inflammation,close
+sx_牙龈暗红,牙龈暗红,dark-red gums,235038002,dark color of gums,close
+sx_口干,口干,Xerostomia,249416005,Xerostomia,exact
+sx_闭经溢乳,闭经溢乳,amenorrhea with galactorrhea,14302001,Amenorrhea,exact
+sx_眼干燥,眼干燥,Retinal degeneration,386984009,Dry eye,exact
+sx_晶珠全脱,晶珠全脱,complete lens dislocation,74969002,abnormality of lens position,close
+sx_周身酸软,周身酸软,generalized soreness and weakness,249945007,leg weakness,close
+sx_肢体血肿,肢体血肿,limb hematoma,262969000,im hematoma,close
+sx_长期低热,长期低热,Low-grade fever,304213008,low grade fever,exact
+sx_眼睑浮肿,眼睑浮肿,Periorbital fullness,89091004,edema of the eyelids,exact
+sx_眼睑浮肿,眼睑浮肿,Periorbital fullness,700327003,cellulitis of lower eyelid,close
+sx_眼睑浮肿,眼睑浮肿,Periorbital fullness,700339006,cellulitis of upper eyelid,close
+sx_鸡胸,鸡胸,Pectus carinatum,205101001,pectus carinatum,exact
+sx_肠鸣音弱,肠鸣音弱,weak bowel sounds,15280003,decreased bowel sounds,close
+sx_肠鸣音弱,肠鸣音弱,weak bowel sounds,18101008,borborygmi,close
+sx_肠鸣音弱,肠鸣音弱,weak bowel sounds,60612008,abnormal bowel sounds,close
+sx_肢体发绀,肢体发绀,limb cyanosis,119419001,blue discoloration of the skin,close
+sx_肢体发绀,肢体发绀,limb cyanosis,3415004,blue discoloration of the skin,close
+sx_精索筋脉如蚯蚓状,精索筋脉如蚯蚓状,earthworm-like vessels of spermatic cord (varicocele),49198006,spermatic cord torsion,close
+sx_精索筋脉如蚯蚓状,精索筋脉如蚯蚓状,earthworm-like vessels of spermatic cord (varicocele),81996005,spermatic cord torsion,close
+sx_全头痛,全头痛,generalized headache,25064002,headache,close
+sx_胁痛,胁痛,Costochondral pain,297217002,Flank pain,close
+sx_呃逆,呃逆,hiccup,65958008,hiccup,close
+sx_瞳神散大,瞳神散大,Mydriasis,37125009,dilated pupil,exact
+sx_绊舌,绊舌,Tongue-tie (ankyloglossia),67787004,ankyloglossia,exact
+sx_妊娠眩晕,妊娠眩晕,Vertigo,399153001,Vertigo,exact
+sx_四肢异常的活动,四肢异常的活动,Abnormal involuntary movements of limbs,102542000,involuntary movements,close
+sx_四肢异常的活动,四肢异常的活动,Abnormal involuntary movements of limbs,31511007,pseudoarthroses,exact
+sx_四肢异常的活动,四肢异常的活动,Abnormal involuntary movements of limbs,445144002,abnormal limbs,close
+sx_难产,难产,Shoulder dystocia,2267009,Obstructed labor,exact
+sx_前囟凹陷,前囟凹陷,sunken anterior fontanelle,295091000119,delayed closure anterior fontanel,close
+sx_纳呆,纳呆,Poor appetite,64379006,decreased appetite,exact
+sx_神情呆滞,神情呆滞,dull expression,248149005,decreased facial expressions,close
+sx_身热不扬,身热不扬,unremitting low-grade fever (heat not effusing),304213008,low grade fever,close
+sx_大便秘结,大便秘结,Constipation,14760008,constipation,exact
+sx_大便秘结,大便秘结,Constipation,225595004,constipation,exact
+sx_大便秘结,大便秘结,Constipation,236069009,chronic constipation,close
+sx_呼吸缓慢,呼吸缓慢,Hypoventilation,31515003,alveolar hypoventilation,exact
+sx_呼吸缓慢,呼吸缓慢,Hypoventilation,80954004,alveolar hypoventilation,exact
+sx_呼吸缓慢,呼吸缓慢,Hypoventilation,15993004,alveolar hypoventilation,exact
+sx_视定反动,视定反动,seeing stationary objects as moving,711163009,bradyopsia,close
+sx_头晕,头晕,Vertigo,399153001,Dizziness,exact
+sx_鼻头明润,鼻头明润,moist lustrous nasal tip,249331008,narrow nasal tip,close
+sx_鼻头明润,鼻头明润,moist lustrous nasal tip,249327002,broad nasal tip,close
+sx_鼻衄,鼻衄,nosebleed,249366005,bloody nose,exact
+sx_鼻衄,鼻衄,nosebleed,12441001,bloody nose,exact
+sx_颈部臖核疼痛,颈部臖核疼痛,painful neck nodules,81680005,neck pain,close
+sx_眼突,眼突,exophthalmos,18265008,anterior bulging of the globe,exact
+sx_肢体赓弱,肢体赓弱,limb weakness,713514005,limb muscle weakness,exact
+sx_肢体赓弱,肢体赓弱,limb weakness,249945007,leg weakness,close
+sx_肢体赓弱,肢体赓弱,limb weakness,249942005,distal limb muscle weakness,close
+sx_鳞屑薄,鳞屑薄,thin scales,298764003,thin clavicles,close
+sx_鳞屑薄,鳞屑薄,thin scales,63829008,thin nail,close
+sx_小便灼热,小便灼热,burning urination,49650001,dull burning sensation with urination,close
+sx_颈痛,颈痛,Neck pain,81680005,Neck pain,exact
+sx_黑便,黑便,Head titubation,297249002,Melena,exact
+sx_斑色丹红,斑色丹红,Cinnabar-red macule,112629002,flat discolored area of skin,close
+sx_龋齿,龋齿,Carious teeth,80967001,caries,exact
+sx_足肿,足肿,foot swelling,271771009,joint swelling,close
+sx_麻木,麻木,Fatigable weakness,44077006,Numbness,exact
+sx_舌胖大,舌胖大,Enlarged (puffy) tongue,25273001,abnormally large tongue,close
+sx_关节红肿,关节红肿,Red joint swelling,271771009,joint swelling,close
+sx_腹鸣,腹鸣,abdominal rumbling,21522001,abdominal discomfort,close
+sx_经闭不行,经闭不行,Amenorrhea,8913004,primary amenorrhea,close
+sx_经闭不行,经闭不行,Amenorrhea,86030004,previous menstrual periods stop,close
+sx_经闭不行,经闭不行,Amenorrhea,373717006,climacterium praecox,close
+sx_牙齿松动,牙齿松动,Abnormality of the dentition,234096007,Loosening of teeth,exact
+sx_视物变形,视物变形,Metamorphopsia,42134006,metamorphopsia,exact
+sx_身热不甚,身热不甚,mild fever,304213008,low grade fever,exact
+sx_口气臭,口气臭,foul breath,79879001,bad breath,close
+sx_舌红,舌红,Abnormal tongue physiology,248614001,Red tongue,exact
+sx_晶珠半脱,晶珠半脱,partial lens dislocation (subluxation),74969002,abnormality of lens position,close
+sx_晶珠半脱,晶珠半脱,partial lens dislocation (subluxation),65814009,lens subluxation,close
+sx_晶珠半脱,晶珠半脱,partial lens dislocation (subluxation),263051004,partial shoulder dislocation,close
+sx_赘皮发红,赘皮发红,Skin tag/redundant skin turning red,201093004,loose redundant skin,close
+sx_臂痛,臂痛,Upper limb pain,102556003,upper limb pain,exact
+sx_臂痛,臂痛,Upper limb pain,90834002,limb pain,close
+sx_悬雍下垂,悬雍下垂,uvula ptosis,25148007,absent palatine uvula,close
+sx_悬雍下垂,悬雍下垂,uvula ptosis,18910001,bifid palatine uvula,close
+sx_鼻息,鼻息,nasal flaring sound,21558008,flared nasal alae,close
+sx_鼻息,鼻息,nasal flaring sound,248568003,flared nasal alae,close
+sx_鼻息,鼻息,nasal flaring sound,52756005,nasal polyposis,close
+sx_阴囊疼痛,阴囊疼痛,scrotal pain,20502007,scrotal pain,exact
+sx_弛张热,弛张热,remittent fever,77957000,episodic fever,close
+sx_痴呆,痴呆,Dementia,52448006,dementia,exact
+sx_痴呆,痴呆,Dementia,230288001,semantic dementia,close
+sx_痴呆,痴呆,Dementia,278857002,frontal lobe dementia,close
+sx_喉中痰鸣,喉中痰鸣,Stridor,58596002,inspiratory stridor,close
+sx_喉中痰鸣,喉中痰鸣,Stridor,248573009,noisy breathing,exact
+sx_喉中痰鸣,喉中痰鸣,Stridor,70407001,noisy breathing,exact
+sx_骨节痛,骨节痛,Arthralgia,57676002,arthralgia,exact
+sx_骨节痛,骨节痛,Arthralgia,49218002,arthralgia of the hip,close
+sx_骨节痛,骨节痛,Arthralgia,12584003,bone pain,close
+sx_复视,复视,Diplopia,249820008,Diplopia,exact
+sx_口苦,口苦,Abnormality of taste sensation,37225008,Bitter taste,close
+sx_皮疹脱屑,皮疹脱屑,scaling rash,112625008,rash,close
+sx_皮疹脱屑,皮疹脱屑,scaling rash,271807003,rash,close
+sx_皮肤鳞屑,皮肤鳞屑,Skin scale,14411002,desquamation,close
+sx_皮肤鳞屑,皮肤鳞屑,Skin scale,271767006,desquamation,close
+sx_皮肤脓疱,皮肤脓疱,Pustule,47002008,pimple,exact
+sx_皮肤脓疱,皮肤脓疱,Pustule,103605005,pimple,exact
+sx_皮肤脓疱,皮肤脓疱,Pustule,271760008,pimple,exact
+sx_嗳气,嗳气,Recurrent singultus,271824005,Belching,exact
+sx_耳鸣如雷,耳鸣如雷,thunder-like tinnitus,162349004,ringing in ears,close
+sx_耳鸣如雷,耳鸣如雷,thunder-like tinnitus,60862001,ringing in ears,close
+sx_耳鸣如雷,耳鸣如雷,thunder-like tinnitus,162352007,ringing in ears,close
+sx_肿瘤表面与皮肤粘连,肿瘤表面与皮肤粘连,tumor surface adhering to the skin,126488004,dermatological tumors,close
+sx_肿瘤表面与皮肤粘连,肿瘤表面与皮肤粘连,tumor surface adhering to the skin,372130007,dermatological tumors,close
+sx_全秃,全秃,Alopecia universalis,19754005,alopecia totalis,exact
+sx_全秃,全秃,Alopecia universalis,86166000,alopecia complete,exact
+sx_全秃,全秃,Alopecia universalis,56317004,absence of scalp hair,close
+sx_髋部生痈,髋部生痈,hip abscess,73962000,peritoneal abscess,close
+sx_髋部生痈,髋部生痈,hip abscess,82127005,perianal abscess,close
+sx_眼睑痛,眼睑痛,Eyelid pain,41652007,eye pain,close
+sx_鼻准红赤,鼻准红赤,red nasal tip,249327002,broad nasal tip,close
+sx_鼻准红赤,鼻准红赤,red nasal tip,249331008,narrow nasal tip,close
+sx_鼻准红赤,鼻准红赤,red nasal tip,249328007,drooping nasal tip,close
+sx_指甲色白,指甲色白,White nail,89704006,nail pits,close
+sx_小便急迫,小便急迫,urgent urination,75088002,overactive bladder,close
+sx_皮肤色素沉着,皮肤色素沉着,Hyperpigmentation of the skin,4830009,cutaneous hyperpigmentation,exact
+sx_皮肤色素沉着,皮肤色素沉着,Hyperpigmentation of the skin,49765009,cutaneous hyperpigmentation,exact
+sx_皮肤色素沉着,皮肤色素沉着,Hyperpigmentation of the skin,18655006,hypopigmentation,close
+sx_绞痛,绞痛,Angina pectoris,194828000,angina pectoris,exact
+sx_绞痛,绞痛,Angina pectoris,225566008,angina pectoris,exact
+sx_绞痛,绞痛,Angina pectoris,9991008,abdominal colic,close
+sx_蜘蛛痣,蜘蛛痣,Spider angioma,112641009,spider veins,exact
+sx_蜘蛛痣,蜘蛛痣,Spider angioma,247479008,spider veins,exact
+sx_鼻生息肉,鼻生息肉,Nasal polyposis,52756005,nasal polyposis,exact
+sx_关节畸形,关节畸形,Abnormal joint morphology,399269003,abnormal joint morphology,exact
+sx_关节畸形,关节畸形,Abnormal joint morphology,248401009,abnormality of the jaw joint,close
+sx_关节畸形,关节畸形,Abnormal joint morphology,229844004,abnormal feet structure,close
+sx_无尿,无尿,Anuria,2472002,absent urine output,close
+sx_嬉笑无常,嬉笑无常,inappropriate laughing,247985007,inappropriate laughter,close
+sx_尿中带泡沫,尿中带泡沫,foam in urine,68600005,haemoglobin in urine,close
+sx_尿中带泡沫,尿中带泡沫,foam in urine,61373006,bacteria in urine,close
+sx_尿中带泡沫,尿中带泡沫,foam in urine,45154002,glucose in urine,close
+sx_气喘息粗,气喘息粗,Dyspnea,195967001,Dyspnea,exact
+sx_月经间期阴道流血,月经间期阴道流血,intermenstrual vaginal bleeding,19155002,abnormal uterus bleeding,close
+sx_月经间期阴道流血,月经间期阴道流血,intermenstrual vaginal bleeding,237130006,abnormal uterus bleeding,close
+sx_月经间期阴道流血,月经间期阴道流血,intermenstrual vaginal bleeding,64996003,abnormal uterus bleeding,close
+sx_鼻端微黄,鼻端微黄,Slight yellow tip-of-nose,249331008,narrow nasal tip,close
+sx_鼻端微黄,鼻端微黄,Slight yellow tip-of-nose,249327002,broad nasal tip,close
+sx_鼻端微黄,鼻端微黄,Slight yellow tip-of-nose,249326006,bifid nasal tip,close
+sx_腹痛,腹痛,Abdominal pain,21522001,Abdominal pain,exact
+sx_苔厚,苔厚,Fast-growing nails,247454005,Coated tongue,exact
+sx_咽喉部肌膜干萎,咽喉部肌膜干萎,dry atrophic pharyngeal mucosa,2129002,pharyngeal edema,close
+sx_发热,发热,Fever,386661006,Fever,exact
+sx_牙齿缺蚀,牙齿缺蚀,eroded teeth,12351004,crowded teeth,close
+sx_牙齿缺蚀,牙齿缺蚀,eroded teeth,699222000,crowded teeth,close
+sx_冷痛,冷痛,Pain,247355005,flank pain,close
+sx_冷痛,冷痛,Pain,29857009,chest discomfort,close
+sx_冷痛,冷痛,Pain,21522001,abdominal discomfort,close
+sx_四肢抽搐,四肢抽搐,Spasticity,91175000,Seizure,exact
+sx_发癫,发癫,depressive episode (dian),210610001191,depression,exact
+sx_发癫,发癫,depressive episode (dian),35489007,depression,exact
+sx_发癫,发癫,depressive episode (dian),78667006,depression,exact
+sx_皮疹不红,皮疹不红,Red rash,112625008,rash,close
+sx_皮疹不红,皮疹不红,Red rash,271807003,rash,close
+sx_握力减弱,握力减弱,decreased grip strength,713512009,decreased arm strength,close
+sx_鼻塞,鼻塞,Nasal congestion,68235000,Nasal congestion,exact
+sx_啮齿,啮齿,teeth grinding (bruxism),191983006,bruxism,exact
+sx_啮齿,啮齿,teeth grinding (bruxism),90207007,bruxism,exact
+sx_失明,失明,Blindness,65956007,blindness,exact
+sx_失明,失明,Blindness,246674000,deuteranomaly,close
+sx_失明,失明,Blindness,77479002,deuteranomaly,close
+sx_鼻肿,鼻肿,nasal swelling,126669004,nasal neoplasm,close
+sx_咳嗽,咳嗽,Cough,49727002,Cough,exact
+sx_皮疹稀疏,皮疹稀疏,sparse rash,112625008,rash,close
+sx_皮疹稀疏,皮疹稀疏,sparse rash,271807003,rash,close
+sx_精索结节,精索结节,nodule of spermatic cord,49198006,spermatic cord torsion,close
+sx_精索结节,精索结节,nodule of spermatic cord,81996005,spermatic cord torsion,close
+sx_血尿,血尿,Hematuria,34436003,Hematuria,exact
+sx_眼睑下垂,眼睑下垂,Ptosis,11934000,blepharoptosis,exact
+sx_眼睑下垂,眼睑下垂,Ptosis,246815009,baggy eyes,exact
+sx_眼睑下垂,眼睑下垂,Ptosis,268163008,congenital drooping upper eyelid,close
+sx_皮疹色红,皮疹色红,Skin rash,271807003,Skin rash,exact
+sx_皮肤萎缩,皮肤萎缩,Dermal atrophy,399979006,atrophic skin,exact
+sx_皮肤萎缩,皮肤萎缩,Dermal atrophy,400190005,atrophic skin,exact
+sx_皮肤结节,皮肤结节,Skin nodule,95319004,growth of abnormal tissue on or under the skin,exact
+sx_皮肤结节,皮肤结节,Skin nodule,95325000,firm lump under the skin,close
+sx_经期延长,经期延长,Menometrorrhagia,248989004,Prolonged menstruation,close
+sx_耳如蝉鸣,耳如蝉鸣,cicada-like tinnitus,162349004,ringing in ears,close
+sx_耳如蝉鸣,耳如蝉鸣,cicada-like tinnitus,162352007,ringing in ears,close
+sx_耳如蝉鸣,耳如蝉鸣,cicada-like tinnitus,60862001,ringing in ears,close
+sx_牙眼痛,牙眼痛,pain at gum margin,41652007,eye pain,close
+sx_上腹部疼痛,上腹部疼痛,Epigastric pain,21522001,abdominal discomfort,close
+sx_头发卷曲,头发卷曲,curly hair,225570000,curly hair,exact
+sx_头发卷曲,头发卷曲,curly hair,79395009,dry hair,close
+sx_视物不清,视物不清,blurred vision,111516008,blurred vision,exact
+sx_视物不清,视物不清,blurred vision,246636008,blurred vision,exact
+sx_流冷泪,流冷泪,cold tearing,193982009,epiphora,close
+sx_流冷泪,流冷泪,cold tearing,418035005,epiphora,close
+sx_鸡眼,鸡眼,Heloma,128602000,cross eyed,close
+sx_鸡眼,鸡眼,Heloma,22066006,cross eyed,close
+sx_视歧,视歧,diplopia,24982008,diplopia,exact
+sx_鼻尖肿起,鼻尖肿起,swollen nasal tip,249331008,narrow nasal tip,close
+sx_鼻尖肿起,鼻尖肿起,swollen nasal tip,249327002,broad nasal tip,close
+sx_皮肤暗黄,皮肤暗黄,Dull-yellow skin,18165001,icterus,close
+sx_雀目,雀目,night blindness (sparrow eye),65194006,difficulties with night vision,exact
+sx_雀目,雀目,night blindness (sparrow eye),193687000,congenital night blindness,close
+sx_雀目,雀目,night blindness (sparrow eye),232061009,congenital night blindness,close
+sx_关节脱臼,关节脱臼,Joint dislocation,287096003,multiple joint dislocation,close
+sx_关节脱臼,关节脱臼,Joint dislocation,34277002,multiple joint dislocation,close
+sx_关节脱臼,关节脱臼,Joint dislocation,108367008,joint dislocation,exact
+sx_三叉神经痛,三叉神经痛,Trigeminal neuralgia,31681005,tic douloureux,exact
+sx_经前不寐,经前不寐,premenstrual insomnia,193462001,difficulty staying or falling asleep,close
+sx_黑睛星鬓,黑睛星鬓,star-like corneal opacities,413921009,corneal clouding,close
+sx_黑睛星鬓,黑睛星鬓,star-like corneal opacities,64634000,corneal clouding,close
+sx_黑睛星鬓,黑睛星鬓,star-like corneal opacities,95735008,corneal clouding,close
+sx_呃声高亢,呃声高亢,high-pitched hiccup,51406002,abnormally high pitched voice,close
+sx_鼻头红,鼻头红,Red tip-of-nose,249327002,broad nasal tip,close
+sx_鼻头红,鼻头红,Red tip-of-nose,249331008,narrow nasal tip,close
+sx_鼻头红,鼻头红,Red tip-of-nose,249326006,bifid nasal tip,close
+sx_啮齿有声,啮齿有声,audible teeth grinding,191983006,bruxism,close
+sx_啮齿有声,啮齿有声,audible teeth grinding,90207007,bruxism,close
+sx_腹大如鼓,腹大如鼓,drum-like abdominal distension,41931001,abdominal bloating,close
+sx_腹大如鼓,腹大如鼓,drum-like abdominal distension,60728008,abdominal bloating,close
+sx_久不欲食,久不欲食,chronic poor appetite,64379006,decreased appetite,close
+sx_鼻端微黑,鼻端微黑,Slight black tip-of-nose,249331008,narrow nasal tip,close
+sx_鼻端微黑,鼻端微黑,Slight black tip-of-nose,249327002,broad nasal tip,close
+sx_鼻端微黑,鼻端微黑,Slight black tip-of-nose,249326006,bifid nasal tip,close
+sx_唇裂,唇裂,Lip fissure,253983005,cleft lip cleft palate,close
+sx_唇裂,唇裂,Lip fissure,66948001,cleft lip cleft palate,close
+sx_唇裂,唇裂,Lip fissure,80281008,cheiloschisis of upper lip,close
+sx_口中流涎稠粘,口中流涎稠粘,thick sticky drooling,275295002,dribbling,close
+sx_口中流涎稠粘,口中流涎稠粘,thick sticky drooling,53827007,dribbling,close
+sx_口中流涎稠粘,口中流涎稠粘,thick sticky drooling,62718007,dribbling,close
+sx_脊柱歪斜,脊柱歪斜,scoliosis (spinal deviation),111266001,cobb angle greater than ten degrees,exact
+sx_脊柱歪斜,脊柱歪斜,scoliosis (spinal deviation),64217002,cobb angle greater than ten degrees,exact
+sx_脊柱歪斜,脊柱歪斜,scoliosis (spinal deviation),203645000,compensatory scoliosis,close
+sx_耳后完骨部红肿,耳后完骨部红肿,Red mastoid-region-behind-the-ear swelling,43887004,pit behind the ear,close
+sx_后头痛,后头痛,Occiput pain,25064002,headache,close
+sx_瞳神倚侧,瞳神倚侧,deviated pupil,37125009,dilated pupil,close
+sx_皮肤苍白,皮肤苍白,Pallor,398979000,paleness,exact
+sx_皮肤苍白,皮肤苍白,Pallor,302200001,disc pallor,close
+sx_视野窄缩,视野窄缩,narrowing of visual field,1151008,concentric narrowing of visual field,close
+sx_视野窄缩,视野窄缩,narrowing of visual field,267628004,concentric narrowing of visual field,close
+sx_视野窄缩,视野窄缩,narrowing of visual field,12184005,partial loss of field of vision,close
+sx_囟门突起,囟门突起,bulging fontanelle,276710001,little cranial sutures,close
+sx_吐舌,吐舌,protruding tongue,249872000,lingual prolapse,exact
+sx_吐舌,吐舌,protruding tongue,285503005,lingual prolapse,exact
+sx_皮肤㿠白,皮肤㿠白,bright pale-white skin,398979000,paleness,close
+sx_关节肿大,关节肿大,Joint enlargement,271771009,joint swelling,close
+sx_皮肤红点,皮肤红点,red dots on the skin,12393003,blood spots,close
+sx_皮肤红点,皮肤红点,red dots on the skin,387778001,blood spots,close
+sx_皮肤红点,皮肤红点,red dots on the skin,423902002,blood spots,close
+sx_膝内翻,膝内翻,Genu varum,299331007,bow leggedness,exact
+sx_膝内翻,膝内翻,Genu varum,299330008,genu valga,close
+sx_赘皮柔软,赘皮柔软,Skin tag/redundant skin softness,201093004,loose redundant skin,close
+sx_赘皮柔软,赘皮柔软,Skin tag/redundant skin softness,246815009,baggy eyes,close
+sx_指甲脱落,指甲脱落,Onycholysis of fingernails,75789001,detachment of nail,close
+sx_尿血鲜红,尿血鲜红,Bright red hematuria,34436003,blood in urine,close
+sx_尿血鲜红,尿血鲜红,Bright red hematuria,53298000,blood in urine,close
+sx_啮舌,啮舌,tongue biting,84557007,bifid tongue,close
+sx_睥肉粘连,睥肉粘连,eyelid tissue adhesion (symblepharon),90216006,eyelid adhesion to globe of eye,close
+sx_口噤,口噤,Trismus,87866006,decrease in jaw mobility,exact
+sx_尿中夹血块,尿中夹血块,blood clots in urine,34436003,blood in urine,close
+sx_尿中夹血块,尿中夹血块,blood clots in urine,53298000,blood in urine,close
+sx_唇部疤疹,唇部疤疹,lip herpes,80281008,cheiloschisis of upper lip,close
+sx_唇部疤疹,唇部疤疹,lip herpes,126770008,lip tumor,close
+sx_四肢无力,四肢无力,Tetraparesis,91327001,quadriparesis,exact
+sx_四肢无力,四肢无力,Tetraparesis,298282001,spastic quadriparesis,close
+sx_肋痛,肋痛,rib pain,247355005,flank pain,close
+sx_困倦,困倦,Drowsiness,271782001,abnormal drowsiness,exact
+sx_困倦,困倦,Drowsiness,79519003,abnormal drowsiness,exact
+sx_抑郁,抑郁,Depression,210610001191,depression,exact
+sx_抑郁,抑郁,Depression,35489007,depression,exact
+sx_抑郁,抑郁,Depression,78667006,depression,exact
+sx_齿全脱,齿全脱,complete loss of teeth,234974002,early tooth loss,close
+sx_齿全脱,齿全脱,complete loss of teeth,42756003,early tooth loss,close
+sx_鼻端色青,鼻端色青,Bluish tip-of-nose,249331008,narrow nasal tip,close
+sx_鼻端色青,鼻端色青,Bluish tip-of-nose,249327002,broad nasal tip,close
+sx_鼻端色青,鼻端色青,Bluish tip-of-nose,249326006,bifid nasal tip,close
+sx_纳谷不馨,纳谷不馨,Poor appetite,64379006,decreased appetite,exact
+sx_舌有裂纹,舌有裂纹,fissured tongue,52368004,fissured tongue,exact
+sx_皮肤红斑,皮肤红斑,Erythematous macule,247472004,Erythematous rash,close
+sx_声音嘶哑,声音嘶哑,Hoarse voice,50219008,Hoarseness,close
+sx_腰痛连足,腰痛连足,low back pain radiating to the foot,279039007,low back pain,close
+sx_经行浮肿,经行浮肿,Puffiness during menstruation,386692008,abnormally heavy bleeding during menstruation,close
+sx_左前胸痛,左前胸痛,left anterior chest pain,29857009,chest discomfort,close
+sx_左前胸痛,左前胸痛,left anterior chest pain,194828000,angina pectoris,close
+sx_左前胸痛,左前胸痛,left anterior chest pain,225566008,angina pectoris,close
+sx_皮肤丘疹,皮肤丘疹,Papule,25694009,papule,exact
+sx_皮肤丘疹,皮肤丘疹,Papule,443871003,papule,exact
+sx_皮肤丘疹,皮肤丘疹,Papule,112625008,rash,close
+sx_小便失禁,小便失禁,Urinary incontinence,165232002,bladder incontinence,exact
+sx_小便失禁,小便失禁,Urinary incontinence,22220005,stress urinary incontinence,close
+sx_指关节增粗,指关节增粗,Finger joint thickening,298193009,finger joint hypermobility,close
+sx_精索增粗,精索增粗,Spermatic-cord thickening,49198006,spermatic cord torsion,close
+sx_精索增粗,精索增粗,Spermatic-cord thickening,81996005,spermatic cord torsion,close
+sx_经行风疹块,经行风疹块,Wheals during menstruation,386692008,abnormally heavy bleeding during menstruation,close
+sx_带下色红,带下色红,Red vaginal discharge,126921000,vaginal neoplasia,close
+sx_四肢拘急,四肢拘急,Limb joint contracture,239736003,contracture of thumb,close
+sx_牙齿脱落,牙齿脱落,Teeth falling off,234974002,early tooth loss,close
+sx_牙齿脱落,牙齿脱落,Teeth falling off,42756003,early tooth loss,close
+sx_肢体痛,肢体痛,Limb pain,90834002,limb pain,exact
+sx_肢体痛,肢体痛,Limb pain,10601006,leg pain,close
+sx_肢体痛,肢体痛,Limb pain,102556003,upper limb pain,close
+sx_鼻痛,鼻痛,Abnormality of the nose,72089000,abnormality of the nose,exact
+sx_鼻痛,鼻痛,Abnormality of the nose,128274005,abnormality of the nose,exact
+sx_鼻痛,鼻痛,Abnormality of the nose,298390003,abnormality of the neck,close
+sx_口腔黏膜斑,口腔黏膜斑,Oral mucosa macule,112629002,flat discolored area of skin,close
+sx_焦虑,焦虑,Anxiety,48694002,anxiety,exact
+sx_睛珠突胀,睛珠突胀,protruding distending eyeball,18265008,anterior bulging of the globe,close
+sx_舌淡白,舌淡白,Pale tongue,25273001,abnormally large tongue,close
+sx_齿衄,齿衄,Gingival bleeding,86276007,bleeding gums,exact
+sx_斑秃,斑秃,Patchy alopecia,68225006,alopecia areata,exact
+sx_斑秃,斑秃,Patchy alopecia,278040002,absence of scalp hair,close
+sx_斑秃,斑秃,Patchy alopecia,56317004,absence of scalp hair,close
+sx_厌食,厌食,Anorexia,79890006,anorexia,exact
+sx_苔有裂纹,苔有裂纹,fissured tongue coating,52368004,fissured tongue,close
+sx_四肢震颤,四肢震颤,Tremor,26079006,Tremor,exact
+sx_睡中啮齿,睡中啮齿,teeth grinding during sleep (sleep bruxism),191983006,bruxism,close
+sx_睡中啮齿,睡中啮齿,teeth grinding during sleep (sleep bruxism),90207007,bruxism,close
+sx_腹部生痈,腹部生痈,abdominal abscess,299709002,dental abscess,close
+sx_转筋,转筋,Muscle cramp,55300003,muscle cramps,close
+sx_交替性鼻塞,交替性鼻塞,alternating nasal obstruction,232209000,blockage of nose,close
+sx_交替性鼻塞,交替性鼻塞,alternating nasal obstruction,267100006,blockage of nose,close
+sx_交替性鼻塞,交替性鼻塞,alternating nasal obstruction,68235000,blockage of nose,close
+sx_耳廓痛,耳廓痛,Auricular pain,43887004,pit behind the ear,close
+sx_耳廓痛,耳廓痛,Auricular pain,16001004,ear pain,close
+sx_偏头痛,偏头痛,Migraine,37796009,intermittent migraine headaches,exact
+sx_偏头痛,偏头痛,Migraine,56097005,migraine without aura,close
+sx_偏头痛,偏头痛,Migraine,4473006,migraine with aura,close
+sx_脱发,脱发,Alopecia,298000004,absence of scalp hair,close
+sx_脱发,脱发,Alopecia,278040002,absence of scalp hair,close
+sx_脱发,脱发,Alopecia,56317004,absence of scalp hair,close
+sx_月经提前,月经提前,Polymenorrhea,52754008,polymenorrhea,exact
+sx_指大如杵,指大如杵,Clubbing of fingers,30760008,clubbed fingers,exact
+sx_指大如杵,指大如杵,Clubbing of fingers,367004,clubbing,close
+sx_指大如杵,指大如杵,Clubbing of fingers,53148007,clubbed toes,close
+sx_羞明,羞明,Photophobia,246622003,extreme sensitivity of the eyes to light,exact
+sx_羞明,羞明,Photophobia,409668002,extreme sensitivity of the eyes to light,exact
+sx_指甲菲薄腐烂,指甲菲薄腐烂,thin fragile eroded nail,63829008,thin nail,close
+sx_眦角生胬肉,眦角生胬肉,pterygium growing at the canthus,110987009,nail pterygium,close
+sx_甲下胬肉突出,甲下胬肉突出,pterygium protruding under the nail,110987009,nail pterygium,close
+sx_睑不能闭,睑不能闭,inability to close the eyelid (lagophthalmos),417740005,eyelids stay open at night,close
+sx_睑不能闭,睑不能闭,inability to close the eyelid (lagophthalmos),9042000,cicatricial lagophthalmos,close
+sx_阴茎短小,阴茎短小,small penis (micropenis),34911001,hypoplasia of penis,exact
+sx_月经推后,月经推后,delayed menstruation,135810007,delayed myelination,close
+sx_桶状胸,桶状胸,Barrel-shaped chest,24228002,barrel chest,exact
+sx_经行抽搐,经行抽搐,Convulsion during menstruation,386692008,abnormally heavy bleeding during menstruation,close
+sx_眼睑水肿,眼睑水肿,Palpebral edema,89091004,edema of the eyelids,exact
+sx_疮面肉色晦暗,疮面肉色晦暗,Abnormality of the face,118930001,abnormal face,exact
+sx_疮面肉色晦暗,疮面肉色晦暗,Abnormality of the face,32003007,abnormal face,exact
+sx_疮面肉色晦暗,疮面肉色晦暗,Abnormality of the face,398302004,abnormal face,exact
+sx_指甲色斑,指甲色斑,Macule nail,112629002,flat discolored area of skin,close
+sx_指甲色斑,指甲色斑,Macule nail,11375002,hypoplastic nail,close
