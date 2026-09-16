@@ -1,0 +1,650 @@
+symptom_localname,symptom_zh,symptom_en,hpo_id,hpo_term,mapType
+sx_带下色白,带下色白,White vaginal discharge,HP:0034269,,close
+sx_手足蠕动,手足蠕动,writhing movement of hands and feet,HP:0200113,,close
+sx_干呕,干呕,Vomiting,HP:0002013,,exact
+sx_头发色红,头发色红,Red hair,HP:0002297,,exact
+sx_头顶痛,头顶痛,Vertex pain,HP:0002315,,close
+sx_瘤体疮口出血如喷射状,瘤体疮口出血如喷射状,jetting bleeding from the tumor sore,HP:0030140,,close
+sx_瘤体疮口出血如喷射状,瘤体疮口出血如喷射状,jetting bleeding from the tumor sore,HP:0011885,,close
+sx_食少,食少,Poor appetite,HP:0004396,,exact
+sx_白睛结节,白睛结节,nodules on the white of the eye,HP:0100534,,close
+sx_呼吸张口抬肩,呼吸张口抬肩,dyspnea with open-mouth breathing and shoulder lifting,HP:6000463,,close
+sx_皮肤干瘪起皱,皮肤干瘪起皱,shriveled wrinkled skin,HP:0100678,,close
+sx_皮肤干瘪起皱,皮肤干瘪起皱,shriveled wrinkled skin,HP:0007392,,close
+sx_皮肤干瘪起皱,皮肤干瘪起皱,shriveled wrinkled skin,HP:0007414,,close
+sx_泪窍溢脓,泪窍溢脓,pus discharge from the lacrimal punctum,HP:0001092,,close
+sx_泪窍溢脓,泪窍溢脓,pus discharge from the lacrimal punctum,HP:0010748,,close
+sx_尿黄褐,尿黄褐,yellowish-brown urine,HP:0040320,,close
+sx_耳生痈,耳生痈,ear abscess,HP:0025615,,close
+sx_睾丸肿大,睾丸肿大,testicular enlargement,HP:0000053,,close
+sx_囟门迟闭,囟门迟闭,delayed closure of fontanelle,HP:0001476,,close
+sx_囟门迟闭,囟门迟闭,delayed closure of fontanelle,HP:0000270,,close
+sx_月经量少,月经量少,Oligomenorrhea,HP:0000876,,exact
+sx_经行腰痛,经行腰痛,low back pain during menstruation,HP:0003419,,close
+sx_妄见,妄见,visual hallucination,HP:0000738,,close
+sx_妄见,妄见,visual hallucination,HP:0002367,,exact
+sx_妄见,妄见,visual hallucination,HP:5200215,,close
+sx_头皮脱屑,头皮脱屑,scalp scaling,HP:0001051,,close
+sx_妊娠阴道流血,妊娠阴道流血,vaginal bleeding during pregnancy,HP:0034266,,close
+sx_手足瘙痒,手足瘙痒,itching of hands and feet,HP:0200113,,close
+sx_手足瘙痒,手足瘙痒,itching of hands and feet,HP:0007414,,close
+sx_手足瘙痒,手足瘙痒,itching of hands and feet,HP:0007517,,close
+sx_咽肿,咽肿,pharyngeal swelling,HP:0011855,,close
+sx_烧伤起泡,烧伤起泡,burn blistering,HP:0012221,,close
+sx_烧伤起泡,烧伤起泡,burn blistering,HP:0007446,,close
+sx_头痛,头痛,Headache,HP:0002315,,exact
+sx_舌肿胀,舌肿胀,Abnormal tongue morphology,HP:0030809,,close
+sx_膝软无力,膝软无力,Fatigable weakness,HP:0003473,,exact
+sx_鳞屑色黄,鳞屑色黄,Yellow scale,HP:0032106,,close
+sx_鼻头枯稿,鼻头枯稿,withered nasal tip,HP:0000455,,close
+sx_鼻头枯稿,鼻头枯稿,withered nasal tip,HP:0005278,,close
+sx_幻臭,幻臭,olfactory hallucination,HP:5200200,,exact
+sx_甲床淡白,甲床淡白,pale nail bed,HP:0001232,,close
+sx_小腹包块,小腹包块,lower abdominal mass,HP:0031500,,close
+sx_小腹包块,小腹包块,lower abdominal mass,HP:6001311,,close
+sx_小腹包块,小腹包块,lower abdominal mass,HP:6001312,,close
+sx_水疱大小相似,水疱大小相似,blisters of similar size,HP:0008066,,close
+sx_小腹痛,小腹痛,Abdominal pain,HP:0002027,,exact
+sx_四肢沉重,四肢沉重,heaviness of limbs,HP:0040064,,close
+sx_口唇色赤,口唇色赤,red lips,HP:0012472,,close
+sx_口唇色赤,口唇色赤,red lips,HP:0100788,,close
+sx_早泄,早泄,Premature ejaculation,HP:0012876,,exact
+sx_口张,口张,open mouth (inability to close),HP:0000194,,exact
+sx_口张,口张,open mouth (inability to close),HP:0200096,,close
+sx_皮肤色黄如橘,皮肤色黄如橘,orange-yellow skin,HP:0000952,,close
+sx_下肢青脉显露,下肢青脉显露,prominent blue vessels of lower limbs,HP:0000179,,close
+sx_下肢青脉显露,下肢青脉显露,prominent blue vessels of lower limbs,HP:0000303,,close
+sx_便稀如水,便稀如水,watery stool,HP:0002014,,exact
+sx_视远物不清,视远物不清,blurred distant vision,HP:0000622,,close
+sx_颅缝开解,颅缝开解,separation of cranial sutures,HP:0010537,,close
+sx_颅缝开解,颅缝开解,separation of cranial sutures,HP:0011329,,close
+sx_尿短黄,尿短黄,scanty dark-yellow urine,HP:0040321,,close
+sx_便血,便血,Hematochezia,HP:0002573,,exact
+sx_喷嚏,喷嚏,Sneeze,HP:0025095,,exact
+sx_腹中包块推之不移,腹中包块推之不移,immobile abdominal mass,HP:0031500,,close
+sx_睑板色淡,睑板色淡,Pale tarsal-plate,HP:0025553,,close
+sx_皮肤萎黄,皮肤萎黄,sallow-yellow skin,HP:0000952,,close
+sx_结节色红,结节色红,Red nodule,HP:0032217,,close
+sx_结节色红,结节色红,Red nodule,HP:0034819,,close
+sx_活动疼痛加剧,活动疼痛加剧,pain aggravated by movement,HP:0025286,,close
+sx_尿少,尿少,oliguria,HP:0100520,,exact
+sx_水疱周围红晕,水疱周围红晕,red halo around blisters,HP:0008066,,close
+sx_肩痛,肩痛,Shoulder pain,HP:0030834,,close
+sx_手足心热,手足心热,Fever,HP:0001945,,close
+sx_阴茎粗长,阴茎粗长,thickened and elongated penis,HP:0000040,,close
+sx_乳蛾肿大,乳蛾肿大,enlarged tonsil,HP:0030812,,close
+sx_哮鸣,哮鸣,Wheezing,HP:0030828,,exact
+sx_哮鸣,哮鸣,Wheezing,HP:0030831,,close
+sx_颈项强直,颈项强直,neck stiffness,HP:0025258,,exact
+sx_脐腹痛,脐腹痛,periumbilical pain,HP:0034854,,close
+sx_脐腹痛,脐腹痛,periumbilical pain,HP:0002027,,close
+sx_肛门痛,肛门痛,Anal pain,HP:0500005,,exact
+sx_皮疹细小,皮疹细小,fine rash,HP:0000988,,close
+sx_小儿咬爪甲,小儿咬爪甲,nail biting in children,HP:0012170,,close
+sx_眼花,眼花,blurred vision (eye dazzle),HP:0000622,,exact
+sx_眼花,眼花,blurred vision (eye dazzle),HP:0001125,,close
+sx_四肢冷,四肢冷,cold limbs,HP:6000500,,close
+sx_指甲色黄,指甲色黄,Yellow nail,HP:0011367,,close
+sx_目下视,目下视,downward deviation of eyes,HP:0100498,,close
+sx_眵多,眵多,profuse eye discharge,HP:0034427,,close
+sx_咽红,咽红,red pharynx,HP:0033151,,close
+sx_咽红,咽红,red pharynx,HP:0100638,,close
+sx_痫,痫,epileptic seizure (xian),HP:0033052,,close
+sx_痫,痫,epileptic seizure (xian),HP:0011146,,close
+sx_阴囊皮肤裂开,阴囊皮肤裂开,Scrotal skin splitting/cracking,HP:0000048,,close
+sx_尿多,尿多,polyuria,HP:0000103,,exact
+sx_尿多,尿多,polyuria,HP:0001563,,close
+sx_阴囊水肿,阴囊水肿,Edema,HP:0000969,,exact
+sx_脉弱,脉弱,Weak pulse,HP:0032553,,exact
+sx_脉弱,脉弱,Weak pulse,HP:0025406,,close
+sx_视瞻有色,视瞻有色,colored vision,HP:0000622,,close
+sx_瞳神不圆,瞳神不圆,irregular pupil,HP:0025309,,exact
+sx_指肿,指肿,Finger swelling,HP:0025131,,exact
+sx_鼻翼煽动,鼻翼煽动,flaring of the alae nasi,HP:0009928,,close
+sx_心烦,心烦,vexation,HP:0000737,,close
+sx_带下粘稠,带下粘稠,sticky vaginal discharge,HP:0034269,,close
+sx_头小,头小,microcephaly,HP:0000252,,exact
+sx_头小,头小,microcephaly,HP:0005484,,close
+sx_头小,头小,microcephaly,HP:0000253,,close
+sx_流泪,流泪,Reflex tearing,HP:0031733,,exact
+sx_脐部出血,脐部出血,umbilical bleeding,HP:0011884,,close
+sx_白睛浮肿,白睛浮肿,edema of the white of the eye (chemosis),HP:0100534,,close
+sx_心悸,心悸,Palpitations,HP:0001962,,exact
+sx_肉芽发痒,肉芽发痒,itchy granulation tissue,HP:6000956,,close
+sx_狂躁,狂躁,manic agitation,HP:0000713,,close
+sx_结核累累,结核累累,numerous nodules (scrofula),HP:0001054,,close
+sx_耳痒,耳痒,ear itching,HP:0000989,,close
+sx_张口困难,张口困难,difficulty opening the mouth,HP:0000658,,close
+sx_唇干,唇干,dry lips,HP:0040181,,exact
+sx_肉芽晦暗,肉芽晦暗,dull dark granulation tissue,HP:6000956,,close
+sx_指骨节脱落,指骨节脱落,loss of finger joints,HP:0001187,,close
+sx_肿块推之不动,肿块推之不动,immobile mass,HP:0025760,,exact
+sx_肿块推之不动,肿块推之不动,immobile mass,HP:0025759,,close
+sx_怔忡,怔忡,Palpitations,HP:0001962,,exact
+sx_口唇干燥,口唇干燥,dry lips,HP:0040181,,exact
+sx_神昏,神昏,Coma,HP:0001259,,close
+sx_阴囊肿大,阴囊肿大,scrotal enlargement,HP:0033794,,close
+sx_瘙痒,瘙痒,Pruritus,HP:0000989,,exact
+sx_皮疹糜烂,皮疹糜烂,eroded rash,HP:0000988,,close
+sx_皮肤白点,皮肤白点,white dots on the skin,HP:0040190,,close
+sx_食入腹胀,食入腹胀,Abdominal distention,HP:0003270,,exact
+sx_隐痛,隐痛,Pain,HP:0012531,,close
+sx_皮肤感觉消失,皮肤感觉消失,Skin anesthesia (loss of sensation),HP:0034982,,close
+sx_眼胞振跳,眼胞振跳,eyelid twitch,HP:0031786,,close
+sx_眼胞振跳,眼胞振跳,eyelid twitch,HP:0000643,,close
+sx_少腹痛,少腹痛,Abdominal pain,HP:0002027,,exact
+sx_身痛,身痛,Body ache,HP:0033047,,exact
+sx_气短,气短,shortness of breath,HP:0033710,,close
+sx_气短,气短,shortness of breath,HP:0002094,,exact
+sx_带下杂见五色,带下杂见五色,vaginal discharge of five intermingled colors,HP:0031470,,exact
+sx_带下杂见五色,带下杂见五色,vaginal discharge of five intermingled colors,HP:0034269,,close
+sx_弄舌,弄舌,Abnormality of the tongue,HP:0000157,,close
+sx_寒战,寒战,Chills,HP:0025143,,exact
+sx_水泻,水泻,Watery diarrhea,HP:0002014,,close
+sx_指苍白,指苍白,Pale finger,HP:0000980,,close
+sx_耳底痛,耳底痛,deep ear pain,HP:0030766,,close
+sx_皮疹瘙痒,皮疹瘙痒,itchy rash,HP:0000988,,close
+sx_经断复行,经断复行,postmenopausal bleeding,HP:0033840,,exact
+sx_皮肤感觉减退,皮肤感觉减退,Skin hypoesthesia,HP:0033748,,close
+sx_皮肤感觉减退,皮肤感觉减退,Skin hypoesthesia,HP:0002495,,close
+sx_梦呓,梦呓,sleep talking (somniloquy),HP:0025187,,exact
+sx_梦呓,梦呓,sleep talking (somniloquy),HP:0025236,,close
+sx_睥急紧小,睥急紧小,tight narrow eyelid fissure (blepharophimosis),HP:0045025,,close
+sx_腰冷,腰冷,cold lower back,HP:0003419,,close
+sx_口疮,口疮,Aphthous ulcer,HP:0032154,,exact
+sx_带下如涕,带下如涕,snivel-like vaginal discharge,HP:0034269,,close
+sx_舌溃疡,舌溃疡,Ulcerated tongue,HP:0040294,,close
+sx_恐惧,恐惧,fearfulness,HP:5200232,,close
+sx_舌紫,舌紫,Tongue pain,HP:0030811,,close
+sx_咽喉痛,咽喉痛,Pharyngalgia,HP:0033050,,exact
+sx_久泄不止,久泄不止,incessant chronic diarrhea,HP:0002028,,close
+sx_吞食梗塞,吞食梗塞,obstruction when swallowing,HP:0004796,,close
+sx_唇反人中满,唇反人中满,everted lip with flattened philtrum,HP:0010803,,close
+sx_口腔糜烂,口腔糜烂,Oral erosion,HP:0200020,,close
+sx_口腔糜烂,口腔糜烂,Oral erosion,HP:0012523,,close
+sx_尿血棕红,尿血棕红,brownish-red hematuria,HP:0000790,,close
+sx_间歇性鼻塞,间歇性鼻塞,intermittent nasal obstruction,HP:0031796,,close
+sx_间歇性鼻塞,间歇性鼻塞,intermittent nasal obstruction,HP:0004796,,close
+sx_尿中带血丝,尿中带血丝,blood streaks in urine,HP:0000790,,close
+sx_指纹增粗,指纹增粗,thickened finger venules,HP:0034570,,close
+sx_夜尿多,夜尿多,nocturia (frequent night urination),HP:0000017,,exact
+sx_疮面痛觉减退,疮面痛觉减退,decreased pain sensation of sore surface,HP:0007328,,close
+sx_头大,头大,macrocephaly,HP:0000256,,exact
+sx_头大,头大,macrocephaly,HP:0004481,,close
+sx_头大,头大,macrocephaly,HP:0004482,,close
+sx_鼻端色白,鼻端色白,White tip-of-nose,HP:0000455,,close
+sx_头胀,头胀,head distension,HP:0002181,,close
+sx_颈细,颈细,thin neck,HP:0035007,,close
+sx_结喉一侧漫肿,结喉一侧漫肿,diffuse swelling on one side of laryngeal prominence,HP:0003405,,close
+sx_呃逆频作,呃逆频作,frequent hiccups,HP:0100247,,close
+sx_耳鸣,耳鸣,Tinnitus,HP:0000360,,exact
+sx_舌出血,舌出血,Bleeding tongue,HP:0040184,,close
+sx_牙齿焦黑,牙齿焦黑,burnt-black teeth,HP:0011072,,close
+sx_臂部生痈,臂部生痈,arm abscess,HP:0025615,,close
+sx_皮肤感觉过敏,皮肤感觉过敏,Skin hyperesthesia,HP:0100963,,close
+sx_皮肤感觉过敏,皮肤感觉过敏,Skin hyperesthesia,HP:5200058,,close
+sx_齿眼肿,齿眼肿,swollen gum margin,HP:0031244,,close
+sx_悬痈,悬痈,uvula abscess (xuanyong),HP:0033587,,close
+sx_颈生痈,颈生痈,neck abscess,HP:6000288,,close
+sx_谵语,谵语,Delirium,HP:0031258,,close
+sx_头发结穗,头发结穗,tufted hair,HP:0031283,,close
+sx_妊娠水肿,妊娠水肿,edema during pregnancy,HP:0200148,,close
+sx_带下夹血,带下夹血,blood-streaked vaginal discharge,HP:0034269,,close
+sx_口淡,口淡,Hypogeusia,HP:0000224,,exact
+sx_失眠,失眠,Insomnia,HP:0100785,,exact
+sx_腰痛,腰痛,Low back pain,HP:0003419,,exact
+sx_阴囊溃破,阴囊溃破,scrotal ulceration,HP:0006121,,close
+sx_肉芽红活,肉芽红活,red vital granulation tissue,HP:6000956,,close
+sx_风团色红,风团色红,Red wheal,HP:0002297,,close
+sx_鼻端色赤,鼻端色赤,Red tip-of-nose,HP:0011831,,close
+sx_视力下降,视力下降,decreased vision,HP:0007663,,close
+sx_视物易色,视物易色,disturbed color vision,HP:0000551,,exact
+sx_咽干,咽干,Abnormality of the pharynx,HP:0000600,,close
+sx_皮肤皲裂,皮肤皲裂,Skin fissuring,HP:0031057,,exact
+sx_睑内结石,睑内结石,conjunctival concretion (lid stone),HP:0009903,,close
+sx_反酸,反酸,Oral lichenoid lesion,HP:0031453,,close
+sx_舌謇语涩,舌謇语涩,stiff tongue with sluggish speech,HP:0031373,,close
+sx_肿疡作痒,肿疡作痒,itching of the abscess swelling,HP:0031244,,close
+sx_恶寒,恶寒,Chills,HP:0025143,,close
+sx_尿频,尿频,Frequent urination,HP:0000109,,exact
+sx_尿频,尿频,Frequent urination,HP:0100515,,exact
+sx_熟声如雷,熟声如雷,snoring like thunder,HP:0025372,,close
+sx_心忡,心忡,palpitations,HP:0001676,,close
+sx_龟头溃烂,龟头溃烂,festering glans penis,HP:0034438,,close
+sx_趾甲增厚,趾甲增厚,thickened toenails,HP:0001805,,close
+sx_咳声重浊,咳声重浊,Abnormally low-pitched voice,HP:0010300,,close
+sx_口僻,口僻,deviated mouth,HP:0009941,,close
+sx_耳痛,耳痛,Ear pain,HP:0030766,,exact
+sx_视近物不清,视近物不清,blurred near vision,HP:0000622,,close
+sx_惊悸,惊悸,Palpitations,HP:0001962,,close
+sx_皮肤色紫,皮肤色紫,Purple skin,HP:0040322,,close
+sx_月经量多,月经量多,Menorrhagia,HP:0000132,,exact
+sx_肛门皮肤溃疡,肛门皮肤溃疡,Skin ulcer,HP:0200042,,exact
+sx_便意频频,便意频频,frequent urge to defecate,HP:0032765,,close
+sx_便意频频,便意频频,frequent urge to defecate,HP:0032781,,close
+sx_便意频频,便意频频,frequent urge to defecate,HP:0032774,,close
+sx_小便不利,小便不利,Dysuria,HP:0100518,,exact
+sx_上臂外突,上臂外突,outward protrusion of the upper arm,HP:6001139,,close
+sx_上臂外突,上臂外突,outward protrusion of the upper arm,HP:0001454,,close
+sx_皮疹色白,皮疹色白,White rash,HP:0000988,,close
+sx_肛门周围湿疹,肛门周围湿疹,perianal eczema,HP:0000964,,close
+sx_肛门周围湿疹,肛门周围湿疹,perianal eczema,HP:0011131,,close
+sx_目赤,目赤,Red eye,HP:0025337,,exact
+sx_下唇肿胀,下唇肿胀,Lower-lip swelling,HP:0031244,,close
+sx_下唇肿胀,下唇肿胀,Lower-lip swelling,HP:0010741,,close
+sx_壮热,壮热,Malignant hyperthermia,HP:0002047,,close
+sx_神志狂乱,神志狂乱,manic confusion,HP:0001289,,close
+sx_尿闭,尿闭,urinary retention,HP:0000016,,exact
+sx_口臭,口臭,Halitosis,HP:0100812,,exact
+sx_唇燥裂,唇燥裂,dry and cracked lips,HP:0031250,,close
+sx_唇燥裂,唇燥裂,dry and cracked lips,HP:0410030,,close
+sx_呕吐酸水,呕吐酸水,vomiting of sour fluid,HP:0002248,,close
+sx_甲向内嵌,甲向内嵌,ingrown nail,HP:0012710,,exact
+sx_手掌角化,手掌角化,palmar keratinization,HP:0010610,,close
+sx_手掌角化,手掌角化,palmar keratinization,HP:0010765,,close
+sx_手掌角化,手掌角化,palmar keratinization,HP:0007556,,close
+sx_眉毛脱落,眉毛脱落,loss of eyebrows,HP:0002223,,close
+sx_颈项歪斜,颈项歪斜,wry neck,HP:0000473,,exact
+sx_足跟痛,足跟痛,Foot pain,HP:0025238,,close
+sx_咳如犬吠,咳如犬吠,barking cough,HP:0033121,,exact
+sx_腰脊痛,腰脊痛,lumbosacral pain,HP:0009747,,close
+sx_腰脊痛,腰脊痛,lumbosacral pain,HP:0200133,,close
+sx_肛门皮肤糜烂,肛门皮肤糜烂,eroded anal skin,HP:0200041,,close
+sx_鼻柱溃陷,鼻柱溃陷,collapsed nasal columella,HP:0009765,,close
+sx_鼻柱溃陷,鼻柱溃陷,collapsed nasal columella,HP:0010761,,close
+sx_肿块推之可移动,肿块推之可移动,mobile mass,HP:0025759,,exact
+sx_肿块推之可移动,肿块推之可移动,mobile mass,HP:0025760,,close
+sx_痔核出血,痔核出血,bleeding hemorrhoidal nodule,HP:0040184,,close
+sx_神水浑浊,神水浑浊,turbid aqueous humor,HP:0430031,,close
+sx_胎动不安,胎动不安,Prenatal movement abnormality,HP:0001557,,exact
+sx_视物模糊,视物模糊,blurred vision,HP:0000622,,exact
+sx_视物模糊,视物模糊,blurred vision,HP:0001125,,close
+sx_耳聋,耳聋,Severe hearing impairment,HP:0012714,,exact
+sx_寒热往来,寒热往来,Temperature instability,HP:0005968,,exact
+sx_胸痛,胸痛,Chest pain,HP:0100749,,exact
+sx_左下腹包块,左下腹包块,left lower abdominal mass,HP:0031500,,close
+sx_潮热,潮热,Hot flashes,HP:0031217,,exact
+sx_妊娠腹痛,妊娠腹痛,abdominal pain during pregnancy,HP:0002027,,close
+sx_妊娠腹痛,妊娠腹痛,abdominal pain during pregnancy,HP:0033400,,close
+sx_骨折四肢畸形,骨折四肢畸形,limb deformity from fracture,HP:0040064,,close
+sx_皮疹色褐,皮疹色褐,Brown rash,HP:0000988,,close
+sx_功能失调性月经紊乱,功能失调性月经紊乱,dysfunctional menstrual irregularity,HP:0000858,,close
+sx_恶心,恶心,Nausea,HP:0002018,,exact
+sx_目珠痛,目珠痛,Eyeball pain,HP:0200026,,close
+sx_梦中啮齿,梦中啮齿,teeth grinding during sleep,HP:0003763,,close
+sx_夜寐不安,夜寐不安,restless sleep,HP:0025199,,exact
+sx_颈粗,颈粗,thick neck,HP:0000475,,exact
+sx_晶珠混浊,晶珠混浊,cloudy lens (cataract),HP:0000518,,exact
+sx_晶珠混浊,晶珠混浊,cloudy lens (cataract),HP:0100018,,close
+sx_过早绝经,过早绝经,premature menopause,HP:0008209,,exact
+sx_前囟宽大,前囟宽大,wide anterior fontanelle,HP:0000260,,exact
+sx_前囟宽大,前囟宽大,wide anterior fontanelle,HP:6001069,,close
+sx_前囟宽大,前囟宽大,wide anterior fontanelle,HP:0004474,,close
+sx_鼻不闻香臭,鼻不闻香臭,Anosmia,HP:0000458,,exact
+sx_头昏,头昏,dizziness,HP:0002321,,exact
+sx_舌老,舌老,Rough (aged) tongue,HP:0012473,,close
+sx_白睛溢血,白睛溢血,bleeding on the white of the eye (subconjunctival hemorrhage),HP:0011885,,close
+sx_阴茎湿疹,阴茎湿疹,penile eczema,HP:0000964,,close
+sx_阴茎湿疹,阴茎湿疹,penile eczema,HP:6000087,,close
+sx_赘皮肿胀,赘皮肿胀,Skin tag/redundant skin swelling,HP:0001582,,close
+sx_唇焦干,唇焦干,parched lips,HP:0000205,,close
+sx_恶风,恶风,Chills,HP:0025143,,exact
+sx_红斑对称分布,红斑对称分布,symmetrically distributed erythema,HP:6000857,,close
+sx_咽部滤泡增生,咽部滤泡增生,Pharynx follicles hyperplasia,HP:0002729,,close
+sx_倒睫拳毛,倒睫拳毛,Trichiasis,HP:0001128,,exact
+sx_肛周皮下可触及条索状物,肛周皮下可触及条索状物,palpable cord-like mass under perianal skin,HP:0011131,,close
+sx_舌破裂出血,舌破裂出血,Cracked and bleeding tongue,HP:0040184,,close
+sx_胞睑色红,胞睑色红,red eyelid,HP:0040323,,exact
+sx_胞睑色红,胞睑色红,red eyelid,HP:0010608,,close
+sx_臀部皮肤潮红,臀部皮肤潮红,flushed buttock skin,HP:0034805,,close
+sx_水疱色白,水疱色白,White blister (vesicle),HP:0008066,,close
+sx_鱼际脉络青,鱼际脉络青,Bluish thenar-eminence vessels and collaterals,HP:0001245,,close
+sx_肛门周围皮肤见瘘口,肛门周围皮肤见瘘口,fistula opening in perianal skin,HP:0010447,,close
+sx_肛门周围皮肤见瘘口,肛门周围皮肤见瘘口,fistula opening in perianal skin,HP:0011131,,close
+sx_神疲,神疲,mental fatigue,HP:0033630,,exact
+sx_神疲,神疲,mental fatigue,HP:0033236,,close
+sx_全身无力,全身无力,generalized weakness,HP:0025406,,close
+sx_全身无力,全身无力,generalized weakness,HP:0009028,,close
+sx_全身无力,全身无力,generalized weakness,HP:0003324,,close
+sx_舌痛,舌痛,Tongue pain,HP:0030811,,exact
+sx_健忘,健忘,Progressive forgetfulness,HP:0007017,,exact
+sx_脐部瘘管,脐部瘘管,umbilical fistula,HP:0010770,,close
+sx_头重,头重,Abnormality of the head,HP:0000234,,close
+sx_睑板色赤,睑板色赤,Red tarsal-plate,HP:0025553,,close
+sx_目闭不开,目闭不开,inability to open the eyes,HP:0002540,,close
+sx_疼痛,疼痛,Pain,HP:0003326,,exact
+sx_疼痛,疼痛,Pain,HP:0012531,,exact
+sx_麻木不仁,麻木不仁,numbness (loss of sensation),HP:0033748,,exact
+sx_麻木不仁,麻木不仁,numbness (loss of sensation),HP:0030213,,close
+sx_牙龈溃烂,牙龈溃烂,Abnormality of the gingiva,HP:0000168,,close
+sx_颈项活动受限,颈项活动受限,restricted neck movement,HP:0005986,,exact
+sx_颈项活动受限,颈项活动受限,restricted neck movement,HP:0005997,,close
+sx_颈项活动受限,颈项活动受限,restricted neck movement,HP:0006596,,close
+sx_乏力,乏力,Malaise,HP:0033834,,exact
+sx_妊娠呕吐,妊娠呕吐,Hyperemesis gravidarum,HP:0012188,,exact
+sx_产后便秘,产后便秘,Constipation,HP:0002019,,exact
+sx_不欲饮食,不欲饮食,poor appetite,HP:0004396,,exact
+sx_食后呕吐,食后呕吐,vomiting after meals,HP:0025089,,close
+sx_足麻,足麻,foot numbness,HP:0033748,,close
+sx_苔花剥,苔花剥,Geographic (patchy peeled) tongue coating,HP:0025252,,close
+sx_睾丸表面光滑,睾丸表面光滑,smooth testicular surface,HP:0010298,,close
+sx_声音高亢,声音高亢,high-pitched voice,HP:0001620,,close
+sx_声音高亢,声音高亢,high-pitched voice,HP:0025430,,close
+sx_小儿言语迟缓,小儿言语迟缓,delayed speech in children,HP:0000750,,close
+sx_小儿言语迟缓,小儿言语迟缓,delayed speech in children,HP:5200038,,close
+sx_鼻痒,鼻痒,Abnormality of the nose,HP:0000366,,exact
+sx_水疱饱满,水疱饱满,tense full blisters,HP:0008066,,close
+sx_目痛,目痛,Ocular pain,HP:0200026,,exact
+sx_眼睑肿核,眼睑肿核,swollen nodule of the eyelid (chalazion),HP:0010604,,close
+sx_呕吐,呕吐,Vomiting,HP:0002013,,exact
+sx_水疱大小不一,水疱大小不一,blisters of varying sizes,HP:0008066,,close
+sx_体毛干枯,体毛干枯,Brittle hair,HP:0002299,,exact
+sx_喜食异物,喜食异物,pica (craving for foreign objects),HP:0011856,,exact
+sx_背痛,背痛,Back pain,HP:0003418,,exact
+sx_口唇青紫,口唇青紫,bluish-purple lips,HP:0034030,,close
+sx_吞咽不利,吞咽不利,difficulty swallowing,HP:0002015,,exact
+sx_皮肤于燥,皮肤于燥,Skin dryness,HP:0031088,,close
+sx_皮肤于燥,皮肤于燥,Skin dryness,HP:0033521,,close
+sx_皮肤紫斑,皮肤紫斑,Skin purpura,HP:0000979,,close
+sx_流热泪,流热泪,hot tearing,HP:0009926,,close
+sx_流热泪,流热泪,hot tearing,HP:0033705,,close
+sx_失音,失音,Loss of voice,HP:0001686,,exact
+sx_呼吸急促,呼吸急促,Tachypnea,HP:0002789,,exact
+sx_囟门早闭,囟门早闭,premature closure of fontanelle,HP:0005494,,close
+sx_囟门早闭,囟门早闭,premature closure of fontanelle,HP:0005458,,exact
+sx_囟门早闭,囟门早闭,premature closure of fontanelle,HP:0000270,,close
+sx_口干,口干,Xerostomia,HP:0000217,,exact
+sx_闭经溢乳,闭经溢乳,amenorrhea with galactorrhea,HP:0000788,,exact
+sx_眼干燥,眼干燥,Retinal degeneration,HP:0000546,,exact
+sx_晶珠全脱,晶珠全脱,complete lens dislocation,HP:0012019,,close
+sx_晶珠全脱,晶珠全脱,complete lens dislocation,HP:0001083,,close
+sx_睛珠颤转,睛珠颤转,trembling rotating eyeball (nystagmus),HP:0000528,,close
+sx_口腻,口腻,greasy (sticky) taste in mouth,HP:0031249,,close
+sx_周身酸软,周身酸软,generalized soreness and weakness,HP:0003324,,close
+sx_肢体血肿,肢体血肿,limb hematoma,HP:0012233,,close
+sx_人中色白,人中色白,White philtrum,HP:0000289,,close
+sx_水疱混浊,水疱混浊,turbid blisters,HP:0008066,,close
+sx_肠鸣音弱,肠鸣音弱,weak bowel sounds,HP:0030144,,close
+sx_肠鸣音弱,肠鸣音弱,weak bowel sounds,HP:0030143,,close
+sx_肠鸣音弱,肠鸣音弱,weak bowel sounds,HP:6000633,,close
+sx_关节冷,关节冷,Joint coldness,HP:0033850,,close
+sx_肢体发绀,肢体发绀,limb cyanosis,HP:0000961,,close
+sx_肢体发绀,肢体发绀,limb cyanosis,HP:0034030,,close
+sx_经行吐衄,经行吐衄,vomiting of blood and nosebleed during menstruation,HP:0002248,,close
+sx_全头痛,全头痛,generalized headache,HP:0002315,,close
+sx_胁痛,胁痛,Costochondral pain,HP:0006649,,close
+sx_呃逆,呃逆,hiccup,HP:0100247,,close
+sx_牙龈高肿,牙龈高肿,Gum raised swelling,HP:0001785,,close
+sx_手软下垂,手软下垂,wrist drop (flaccid hand),HP:0031189,,exact
+sx_睾丸部肿块,睾丸部肿块,testicular mass,HP:0032404,,exact
+sx_瞳神散大,瞳神散大,Mydriasis,HP:0011499,,exact
+sx_绊舌,绊舌,Tongue-tie (ankyloglossia),HP:0010296,,exact
+sx_妊娠眩晕,妊娠眩晕,Vertigo,HP:0002321,,exact
+sx_难产,难产,Shoulder dystocia,HP:0011413,,exact
+sx_前囟凹陷,前囟凹陷,sunken anterior fontanelle,HP:0000237,,close
+sx_前囟凹陷,前囟凹陷,sunken anterior fontanelle,HP:6000084,,close
+sx_前囟凹陷,前囟凹陷,sunken anterior fontanelle,HP:6001069,,close
+sx_纳呆,纳呆,Poor appetite,HP:0004396,,exact
+sx_神情呆滞,神情呆滞,dull expression,HP:0000338,,close
+sx_身热不扬,身热不扬,unremitting low-grade fever (heat not effusing),HP:0011134,,close
+sx_大便秘结,大便秘结,Constipation,HP:0002019,,exact
+sx_下肢颤抖,下肢颤抖,trembling of lower limbs,HP:0002522,,close
+sx_腹中包块推之可移,腹中包块推之可移,mobile abdominal mass,HP:0031500,,close
+sx_腹中包块推之可移,腹中包块推之可移,mobile abdominal mass,HP:6001311,,close
+sx_视定反动,视定反动,seeing stationary objects as moving,HP:0030511,,close
+sx_头晕,头晕,Vertigo,HP:0002321,,exact
+sx_鼻头明润,鼻头明润,moist lustrous nasal tip,HP:0000455,,close
+sx_鼻头明润,鼻头明润,moist lustrous nasal tip,HP:0011832,,close
+sx_无脉,无脉,absent pulse,HP:0032554,,close
+sx_无脉,无脉,absent pulse,HP:0031271,,close
+sx_鼻衄,鼻衄,nosebleed,HP:0000421,,exact
+sx_鼻衄,鼻衄,nosebleed,HP:0004406,,close
+sx_颈部臖核疼痛,颈部臖核疼痛,painful neck nodules,HP:0030833,,close
+sx_眼突,眼突,exophthalmos,HP:0000520,,exact
+sx_肢体赓弱,肢体赓弱,limb weakness,HP:0003484,,close
+sx_肢体赓弱,肢体赓弱,limb weakness,HP:0025406,,close
+sx_肢体赓弱,肢体赓弱,limb weakness,HP:0003690,,close
+sx_头发灰暗,头发灰暗,dull gray hair,HP:0002218,,close
+sx_颈痛,颈痛,Neck pain,HP:0030833,,exact
+sx_脉代,脉代,Intermittent (replacement) pulse,HP:0031796,,close
+sx_黑便,黑便,Head titubation,HP:0002599,,exact
+sx_尿黄,尿黄,yellow urine,HP:0040321,,close
+sx_右下腹包块,右下腹包块,right lower abdominal mass,HP:0031500,,close
+sx_带下如豆渣状,带下如豆渣状,bean-curd-dreg-like vaginal discharge,HP:0034269,,close
+sx_麻木,麻木,Fatigable weakness,HP:0003473,,exact
+sx_目光呆滞,目光呆滞,dull stare,HP:0025282,,close
+sx_舌胖大,舌胖大,Enlarged (puffy) tongue,HP:0000158,,close
+sx_关节红肿,关节红肿,Red joint swelling,HP:0001386,,close
+sx_关节红肿,关节红肿,Red joint swelling,HP:0005833,,close
+sx_牙齿松动,牙齿松动,Abnormality of the dentition,HP:0000164,,exact
+sx_趾间湿烂,趾间湿烂,Interdigital-space-(toe) wet erosion,HP:0100888,,close
+sx_身热不甚,身热不甚,mild fever,HP:0011134,,exact
+sx_口气臭,口气臭,foul breath,HP:0100812,,close
+sx_舌红,舌红,Abnormal tongue physiology,HP:0030810,,exact
+sx_晶珠半脱,晶珠半脱,partial lens dislocation (subluxation),HP:0001083,,close
+sx_晶珠半脱,晶珠半脱,partial lens dislocation (subluxation),HP:0030043,,close
+sx_晶珠半脱,晶珠半脱,partial lens dislocation (subluxation),HP:0004269,,close
+sx_臂痛,臂痛,Upper limb pain,HP:0012513,,exact
+sx_悬雍下垂,悬雍下垂,uvula ptosis,HP:0010292,,close
+sx_悬雍下垂,悬雍下垂,uvula ptosis,HP:0010811,,close
+sx_鼻息,鼻息,nasal flaring sound,HP:0030863,,close
+sx_鼻息,鼻息,nasal flaring sound,HP:6000078,,close
+sx_鼻息,鼻息,nasal flaring sound,HP:0100582,,close
+sx_阴囊疼痛,阴囊疼痛,scrotal pain,HP:0030155,,exact
+sx_手足瘛纵,手足瘛纵,spasmodic movement of hands and feet,HP:0200113,,close
+sx_喉中痰鸣,喉中痰鸣,Stridor,HP:0010307,,close
+sx_复视,复视,Diplopia,HP:0000651,,exact
+sx_口苦,口苦,Abnormality of taste sensation,HP:0000223,,close
+sx_皮疹脱屑,皮疹脱屑,scaling rash,HP:0000988,,close
+sx_腹部凹陷,腹部凹陷,scaphoid abdomen,HP:0025063,,exact
+sx_皮肤鳞屑,皮肤鳞屑,Skin scale,HP:0040189,,close
+sx_皮肤鳞屑,皮肤鳞屑,Skin scale,HP:0040190,,close
+sx_指甲色灰,指甲色灰,Gray nail,HP:0001821,,close
+sx_嗳气,嗳气,Recurrent singultus,HP:0100247,,exact
+sx_腹中包块柔软,腹中包块柔软,soft abdominal mass,HP:0031500,,close
+sx_腹中包块柔软,腹中包块柔软,soft abdominal mass,HP:6001311,,close
+sx_腹中包块柔软,腹中包块柔软,soft abdominal mass,HP:6001312,,close
+sx_肿瘤表面与皮肤粘连,肿瘤表面与皮肤粘连,tumor surface adhering to the skin,HP:0008069,,close
+sx_口腔黏膜鲜红,口腔黏膜鲜红,Bright red oral mucosa,HP:0034418,,close
+sx_带下量多,带下量多,profuse vaginal discharge,HP:0034269,,close
+sx_口撮,口撮,pursed lips,HP:0000205,,exact
+sx_口撮,口撮,pursed lips,HP:0100788,,close
+sx_髋部生痈,髋部生痈,hip abscess,HP:0025615,,close
+sx_眼睑痛,眼睑痛,Eyelid pain,HP:0034808,,exact
+sx_眼睑痛,眼睑痛,Eyelid pain,HP:0200026,,close
+sx_下肢冷,下肢冷,coldness of lower limbs,HP:0033850,,close
+sx_鼻准红赤,鼻准红赤,red nasal tip,HP:0000455,,close
+sx_鼻准红赤,鼻准红赤,red nasal tip,HP:0000437,,close
+sx_皮肤见白色细纹,皮肤见白色细纹,white fine lines on the skin,HP:0040190,,close
+sx_指甲色白,指甲色白,White nail,HP:0001799,,close
+sx_小便急迫,小便急迫,urgent urination,HP:0000012,,close
+sx_鱼际脉络黑,鱼际脉络黑,Black thenar-eminence vessels and collaterals,HP:0001245,,close
+sx_绞痛,绞痛,Angina pectoris,HP:0001681,,exact
+sx_皮肤麻木,皮肤麻木,Skin numbness,HP:0033748,,close
+sx_脐流脓水,脐流脓水,pus discharge from umbilicus,HP:6001416,,close
+sx_肉芽色淡,肉芽色淡,pale granulation tissue,HP:6000956,,close
+sx_嬉笑无常,嬉笑无常,inappropriate laughing,HP:0000748,,close
+sx_睡中流涎,睡中流涎,drooling during sleep,HP:5200283,,close
+sx_手麻,手麻,hand numbness,HP:0033748,,close
+sx_气喘息粗,气喘息粗,Dyspnea,HP:0002094,,exact
+sx_月经间期阴道流血,月经间期阴道流血,intermenstrual vaginal bleeding,HP:0100608,,close
+sx_月经间期阴道流血,月经间期阴道流血,intermenstrual vaginal bleeding,HP:0034263,,close
+sx_腹痛,腹痛,Abdominal pain,HP:0002027,,exact
+sx_苔厚,苔厚,Fast-growing nails,HP:0030806,,exact
+sx_咽喉部肌膜干萎,咽喉部肌膜干萎,dry atrophic pharyngeal mucosa,HP:0040413,,close
+sx_精液量多,精液量多,profuse semen,HP:0005587,,close
+sx_发热,发热,Fever,HP:0001945,,exact
+sx_带下色黄,带下色黄,yellow vaginal discharge,HP:0034269,,close
+sx_手颤,手颤,hand tremor,HP:0002378,,exact
+sx_手颤,手颤,hand tremor,HP:0002346,,close
+sx_肛门异物感,肛门异物感,foreign-body sensation in the anus,HP:0034804,,close
+sx_肛门异物感,肛门异物感,foreign-body sensation in the anus,HP:0034806,,close
+sx_牙齿缺蚀,牙齿缺蚀,eroded teeth,HP:0000692,,close
+sx_牙齿缺蚀,牙齿缺蚀,eroded teeth,HP:0000678,,close
+sx_冷痛,冷痛,Pain,HP:0012531,,close
+sx_四肢抽搐,四肢抽搐,Spasticity,HP:0001257,,exact
+sx_带下清稀,带下清稀,thin and clear vaginal discharge,HP:0034269,,close
+sx_发癫,发癫,depressive episode (dian),HP:0000716,,exact
+sx_皮疹不红,皮疹不红,Red rash,HP:0000988,,close
+sx_皮疹不红,皮疹不红,Red rash,HP:4000054,,close
+sx_手掌脱皮,手掌脱皮,peeling palms,HP:0025819,,close
+sx_握力减弱,握力减弱,decreased grip strength,HP:0003484,,close
+sx_握力减弱,握力减弱,decreased grip strength,HP:0033466,,close
+sx_鼻塞,鼻塞,Nasal congestion,HP:0001742,,exact
+sx_啮齿,啮齿,teeth grinding (bruxism),HP:0003763,,exact
+sx_疤痕色黑,疤痕色黑,Black scar,HP:6000793,,close
+sx_舌体强硬,舌体强硬,Tongue-body stiffness and rigidity,HP:0031373,,close
+sx_鼻肿,鼻肿,nasal swelling,HP:0012720,,close
+sx_鼻肿,鼻肿,nasal swelling,HP:0001785,,close
+sx_咳嗽,咳嗽,Cough,HP:0012735,,exact
+sx_皮疹稀疏,皮疹稀疏,sparse rash,HP:0000988,,close
+sx_精索结节,精索结节,nodule of spermatic cord,HP:0100813,,close
+sx_鼻腔异物,鼻腔异物,foreign body in the nasal cavity,HP:0010640,,close
+sx_血尿,血尿,Hematuria,HP:0000790,,exact
+sx_目上视,目上视,upward deviation of eyes,HP:0100498,,close
+sx_目上视,目上视,upward deviation of eyes,HP:0025586,,close
+sx_皮疹色红,皮疹色红,Skin rash,HP:0000988,,exact
+sx_身麻,身麻,body numbness,HP:0033748,,close
+sx_带下如水,带下如水,watery vaginal discharge,HP:0034269,,close
+sx_热势起伏,热势起伏,fluctuating fever,HP:0031914,,close
+sx_经期延长,经期延长,Menometrorrhagia,HP:0400008,,close
+sx_带下如泡沫状,带下如泡沫状,foamy vaginal discharge,HP:0034269,,close
+sx_牙眼痛,牙眼痛,pain at gum margin,HP:0200026,,close
+sx_肉芽烧灼感,肉芽烧灼感,burning sensation of granulation tissue,HP:6000420,,close
+sx_肉芽烧灼感,肉芽烧灼感,burning sensation of granulation tissue,HP:6000956,,close
+sx_腹内包块,腹内包块,intra-abdominal mass,HP:0031500,,close
+sx_腹内包块,腹内包块,intra-abdominal mass,HP:0033134,,close
+sx_口中流涎淋漓,口中流涎淋漓,profuse drooling,HP:0002307,,close
+sx_头发卷曲,头发卷曲,curly hair,HP:0002212,,exact
+sx_视物不清,视物不清,blurred vision,HP:0000622,,exact
+sx_视物不清,视物不清,blurred vision,HP:0001125,,close
+sx_流冷泪,流冷泪,cold tearing,HP:0009926,,close
+sx_流冷泪,流冷泪,cold tearing,HP:0033705,,close
+sx_手肿,手肿,hand swelling,HP:0001785,,close
+sx_小便浑浊,小便浑浊,turbid urine,HP:0031967,,exact
+sx_游走痛,游走痛,Migratory pain,HP:0025279,,close
+sx_游走痛,游走痛,Migratory pain,HP:0033037,,close
+sx_皮疹搔破出血,皮疹搔破出血,rash bleeding after scratching,HP:0034264,,close
+sx_视歧,视歧,diplopia,HP:0000651,,exact
+sx_鼻尖肿起,鼻尖肿起,swollen nasal tip,HP:0005278,,close
+sx_鼻尖肿起,鼻尖肿起,swollen nasal tip,HP:0000455,,close
+sx_鼻尖肿起,鼻尖肿起,swollen nasal tip,HP:0011832,,close
+sx_皮肤暗黄,皮肤暗黄,Dull-yellow skin,HP:0000952,,close
+sx_雀目,雀目,night blindness (sparrow eye),HP:0007675,,close
+sx_雀目,雀目,night blindness (sparrow eye),HP:0000662,,exact
+sx_雀目,雀目,night blindness (sparrow eye),HP:0007642,,close
+sx_黑睛星鬓,黑睛星鬓,star-like corneal opacities,HP:0007957,,close
+sx_黑睛星鬓,黑睛星鬓,star-like corneal opacities,HP:0008039,,close
+sx_呃声高亢,呃声高亢,high-pitched hiccup,HP:0025430,,close
+sx_呃声高亢,呃声高亢,high-pitched hiccup,HP:6000633,,close
+sx_鼻头红,鼻头红,Red tip-of-nose,HP:0011831,,close
+sx_啮齿有声,啮齿有声,audible teeth grinding,HP:0003763,,close
+sx_臂麻,臂麻,Arm numbness,HP:0033748,,close
+sx_腹大如鼓,腹大如鼓,drum-like abdominal distension,HP:0003270,,close
+sx_久不欲食,久不欲食,chronic poor appetite,HP:0004396,,close
+sx_呕吐苦水,呕吐苦水,vomiting of bitter fluid,HP:0002248,,close
+sx_腹中包块坚硬,腹中包块坚硬,hard abdominal mass,HP:0031500,,close
+sx_腹中包块坚硬,腹中包块坚硬,hard abdominal mass,HP:6001311,,close
+sx_腹中包块坚硬,腹中包块坚硬,hard abdominal mass,HP:6001312,,close
+sx_带下腐臭,带下腐臭,putrid vaginal discharge,HP:0034269,,close
+sx_嗳气低弱,嗳气低弱,weak belching,HP:6000064,,close
+sx_唇裂,唇裂,Lip fissure,HP:0031250,,close
+sx_舌麻,舌麻,numbness of tongue,HP:0033748,,close
+sx_皮肤花斑,皮肤花斑,mottled skin,HP:0001070,,close
+sx_口中流涎稠粘,口中流涎稠粘,thick sticky drooling,HP:0002307,,close
+sx_脊柱歪斜,脊柱歪斜,scoliosis (spinal deviation),HP:0004626,,close
+sx_脊柱歪斜,脊柱歪斜,scoliosis (spinal deviation),HP:0002650,,exact
+sx_脊柱歪斜,脊柱歪斜,scoliosis (spinal deviation),HP:0002944,,close
+sx_带下秽浊,带下秽浊,turbid and filthy vaginal discharge,HP:0034269,,close
+sx_嗳气响亮,嗳气响亮,loud belching,HP:6000064,,close
+sx_瞳神倚侧,瞳神倚侧,deviated pupil,HP:0011499,,close
+sx_鱼际脉络红赤,鱼际脉络红赤,Red thenar-eminence vessels and collaterals,HP:0001245,,close
+sx_臖核结块推之不移,臖核结块推之不移,immobile xinghe lump,HP:0025760,,close
+sx_视野窄缩,视野窄缩,narrowing of visual field,HP:0007981,,close
+sx_视野窄缩,视野窄缩,narrowing of visual field,HP:0001133,,close
+sx_视野窄缩,视野窄缩,narrowing of visual field,HP:0001123,,close
+sx_腹部冷,腹部冷,Abdominal symptom,HP:0011458,,exact
+sx_囟门突起,囟门突起,bulging fontanelle,HP:6000647,,exact
+sx_囟门突起,囟门突起,bulging fontanelle,HP:0005486,,close
+sx_吐舌,吐舌,protruding tongue,HP:0010808,,exact
+sx_吐舌,吐舌,protruding tongue,HP:0100703,,close
+sx_大便脓血,大便脓血,pus and blood in stool,HP:0025085,,close
+sx_嗳气酸馊,嗳气酸馊,sour belching,HP:6000064,,close
+sx_皮肤㿠白,皮肤㿠白,bright pale-white skin,HP:0040190,,close
+sx_水疱壁薄,水疱壁薄,thin-walled blisters,HP:0008066,,close
+sx_头发直立,头发直立,erect hair,HP:0002297,,close
+sx_背冷,背冷,coldness of the back,HP:0033850,,close
+sx_头皮下肿块,头皮下肿块,subcutaneous scalp mass,HP:0034246,,close
+sx_赘皮柔软,赘皮柔软,Skin tag/redundant skin softness,HP:0001582,,close
+sx_赘皮柔软,赘皮柔软,Skin tag/redundant skin softness,HP:0007516,,close
+sx_臖核结块推之可移,臖核结块推之可移,mobile xinghe lump,HP:0025759,,close
+sx_口噤,口噤,Trismus,HP:0000211,,exact
+sx_尿中夹血块,尿中夹血块,blood clots in urine,HP:0000790,,close
+sx_唇部疤疹,唇部疤疹,lip herpes,HP:0020098,,close
+sx_牙龈萎缩,牙龈萎缩,Gum atrophy,HP:0006308,,close
+sx_肋痛,肋痛,rib pain,HP:0006649,,close
+sx_皮肤濡软,皮肤濡软,soft soggy skin,HP:0000977,,close
+sx_齿全脱,齿全脱,complete loss of teeth,HP:0006480,,close
+sx_纳谷不馨,纳谷不馨,Poor appetite,HP:0004396,,exact
+sx_带下如脓,带下如脓,Vaginal discharge resembling pus,HP:0034269,,close
+sx_咽喉异物感,咽喉异物感,Throat foreign-body sensation,HP:0034806,,close
+sx_咽喉异物感,咽喉异物感,Throat foreign-body sensation,HP:0034804,,close
+sx_唇现蓝色,唇现蓝色,bluish lips,HP:0034030,,exact
+sx_舌有裂纹,舌有裂纹,fissured tongue,HP:0000221,,exact
+sx_皮肤红斑,皮肤红斑,Erythematous macule,HP:0025475,,close
+sx_声音嘶哑,声音嘶哑,Hoarse voice,HP:0001609,,close
+sx_腰痛连足,腰痛连足,low back pain radiating to the foot,HP:0003419,,close
+sx_得食痛增,得食痛增,pain aggravated by eating,HP:0025286,,close
+sx_皮疹稠密,皮疹稠密,dense rash,HP:0000988,,close
+sx_咽部紧缩感,咽部紧缩感,tightening sensation in the pharynx,HP:0031352,,close
+sx_骨擦音,骨擦音,bone crepitus,HP:0034431,,close
+sx_骨擦音,骨擦音,bone crepitus,HP:0012479,,close
+sx_皮肤棕色,皮肤棕色,brown skin,HP:0000957,,close
+sx_小便失禁,小便失禁,Urinary incontinence,HP:0000020,,exact
+sx_阴户痛,阴户痛,Vulvodynia,HP:0030943,,exact
+sx_指关节增粗,指关节增粗,Finger joint thickening,HP:0006094,,close
+sx_精索增粗,精索增粗,Spermatic-cord thickening,HP:0100813,,close
+sx_咽痒,咽痒,Pharyngeal itching,HP:0034035,,close
+sx_水疱澄清,水疱澄清,Blister (vesicle) clear,HP:0008066,,close
+sx_上腭血疱,上腭血疱,Palate blood blister,HP:0008066,,close
+sx_带下色红,带下色红,Red vaginal discharge,HP:0034269,,close
+sx_四肢拘急,四肢拘急,Limb joint contracture,HP:0003121,,close
+sx_口腔血疱,口腔血疱,Oral blood blister,HP:0008066,,close
+sx_牙齿脱落,牙齿脱落,Teeth falling off,HP:0006480,,close
+sx_脓腥臭,脓腥臭,Pus fishy odor,HP:0410020,,close
+sx_指甲色黑,指甲色黑,Black nail,HP:0001821,,close
+sx_言语赛涩,言语赛涩,stuttering sluggish speech,HP:0002465,,close
+sx_鼻痛,鼻痛,Abnormality of the nose,HP:0000366,,exact
+sx_口腔黏膜斑,口腔黏膜斑,Oral mucosa macule,HP:6001110,,close
+sx_口腔黏膜斑,口腔黏膜斑,Oral mucosa macule,HP:0034418,,close
+sx_睛珠突胀,睛珠突胀,protruding distending eyeball,HP:0000528,,close
+sx_齿衄,齿衄,Gingival bleeding,HP:0000225,,exact
+sx_苔有裂纹,苔有裂纹,fissured tongue coating,HP:0000221,,close
+sx_四肢震颤,四肢震颤,Tremor,HP:0001337,,exact
+sx_水疱壁厚,水疱壁厚,thick-walled blisters,HP:0008066,,close
+sx_龟头破烂,龟头破烂,broken eroded glans penis,HP:0034438,,close
+sx_睡中啮齿,睡中啮齿,teeth grinding during sleep (sleep bruxism),HP:0003763,,close
+sx_腹部生痈,腹部生痈,abdominal abscess,HP:0025181,,close
+sx_转筋,转筋,Muscle cramp,HP:0003394,,close
+sx_交替性鼻塞,交替性鼻塞,alternating nasal obstruction,HP:0004796,,close
+sx_耳廓痛,耳廓痛,Auricular pain,HP:0030021,,close
+sx_耳廓痛,耳廓痛,Auricular pain,HP:0008608,,close
+sx_耳廓痛,耳廓痛,Auricular pain,HP:0030025,,close
+sx_头摇,头摇,Head tremor,HP:0002346,,exact
+sx_偏头痛,偏头痛,Migraine,HP:0002076,,exact
+sx_月经提前,月经提前,Polymenorrhea,HP:0400007,,exact
+sx_羞明,羞明,Photophobia,HP:0000613,,exact
+sx_阴毛脱落,阴毛脱落,loss of pubic hair,HP:0100133,,close
+sx_阴毛脱落,阴毛脱落,loss of pubic hair,HP:0002225,,close
+sx_阴毛脱落,阴毛脱落,loss of pubic hair,HP:0002555,,close
+sx_阴囊透光阳性,阴囊透光阳性,positive scrotal transillumination,HP:6001424,,close
+sx_水疱晶亮,水疱晶亮,crystal-clear blisters,HP:0008066,,close
+sx_指甲菲薄腐烂,指甲菲薄腐烂,thin fragile eroded nail,HP:0001816,,close
+sx_睑不能闭,睑不能闭,inability to close the eyelid (lagophthalmos),HP:0030002,,close
+sx_睑不能闭,睑不能闭,inability to close the eyelid (lagophthalmos),HP:0030001,,exact
+sx_阴茎短小,阴茎短小,small penis (micropenis),HP:0000054,,exact
+sx_睡眠表浅,睡眠表浅,light sleep,HP:5200304,,close
+sx_带下气腥,带下气腥,fishy vaginal discharge,HP:0034269,,close
+sx_项强,项强,neck stiffness,HP:0025258,,exact
+sx_带下绵绵不绝,带下绵绵不绝,endless continuous vaginal discharge,HP:0034269,,close
+sx_疮面肉色晦暗,疮面肉色晦暗,Abnormality of the face,HP:0000271,,exact
