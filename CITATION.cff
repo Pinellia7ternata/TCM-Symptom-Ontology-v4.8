@@ -1,0 +1,38 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+title: "TCM Symptom Ontology (TCM-SO): a large-scale bilingual ontology of Traditional Chinese Medicine symptoms with HPO / SNOMED CT / ICD-11 alignment"
+abstract: >-
+  A large-scale, bilingual (Chinese/English) OWL 2 ontology of Traditional Chinese
+  Medicine (TCM) symptoms. The release contains 1,938 classes (1,758 symptom
+  classes in 31 clinical categories) with 15,199 subclass axioms and 12,928
+  existential restrictions, bilingual labels on 100% of classes, and English
+  textual definitions for 93.1% of symptom classes (50.4% manually translated).
+  Ten equivalence axioms and one property chain provide GO-style faceted
+  classification along an anatomical finding-site axis, orthogonal to the
+  asserted clinical-workflow category hierarchy. Cross-terminology alignment,
+  confirmed by TCM domain experts, covers 649 HPO, 707 SNOMED CT and 973 ICD-11
+  mappings; 979 of 1,758 symptom classes (55.7%) align to at least one external
+  terminology. Logical consistency verified with HermiT (0 unsatisfiable classes).
+authors:
+  - family-names: Chen
+    given-names: Chao
+  - family-names: Chen
+    given-names: Zehui
+  - family-names: Han
+    given-names: Zheji
+  - family-names: Lei
+    given-names: Lei
+keywords:
+  - Traditional Chinese Medicine
+  - symptom ontology
+  - bilingual terminology
+  - HPO
+  - SNOMED CT
+  - ICD-11
+  - ontology engineering
+  - clinical phenotyping
+license: CC-BY-4.0
+version: "4.8.0"
+date-released: 2026-09-16
+repository-code: "https://github.com/Pinellia7ternata/TCM-Symptom-Ontology"
+url: "https://github.com/Pinellia7ternata/TCM-Symptom-Ontology"

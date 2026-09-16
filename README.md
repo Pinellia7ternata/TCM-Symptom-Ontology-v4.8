@@ -1,2 +1,53 @@
-# TCM-Symptom-Ontology
-TCM Symptom Ontology (TCM-SO): a large-scale bilingual (Chinese-English) OWL 2 ontology of Traditional Chinese Medicine symptoms — 1,758 symptom classes, 31 clinical categories, 15,199 axioms, HPO-style English definitions, equivalence-axiom faceted classification, and expert-confirmed alignments to HPO / SNOMED CT / ICD-11. Release v4.8.
+# TCM Symptom Ontology (TCM-SO)
+
+A large-scale bilingual (Chinese–English) OWL 2 ontology of Traditional Chinese Medicine (TCM) symptoms, with HPO-style English definitions, a formally axiomatized clinical-semantic layer, equivalence-axiom faceted classification, and expert-confirmed alignments to HPO, SNOMED CT and ICD-11.
+
+**Current release: v4.8 (2026-09-16)**
+
+## Key figures
+
+| Metric | Count |
+|---|---|
+| Total classes | 1,938 |
+| Symptom classes (`sx_`) | 1,758 |
+| Clinical categories (`cat_`) | 31 |
+| Modifier / value classes | 149 |
+| Subclass axioms | 15,199 |
+| Existential restrictions (`someValuesFrom`) | 12,928 |
+| Object / datatype / annotation properties | 18 / 4 / 11 |
+| Equivalence axioms (system finding classes) | 10 |
+| Property chains | 1 (`findingSite ∘ partOf ⊑ findingSite`) |
+| AllDisjointClasses groups | 5 |
+| English labels | 100% of classes |
+| English definitions (HPO style) | 1,637 / 1,758 symptoms (93.1%; 50.4% manually translated) |
+| HPO / SNOMED CT / ICD-11 mappings | 649 / 707 / 973 (979 classes, 55.7%, expert-confirmed) |
+| Reasoner validation (HermiT, Protégé) | 0 unsatisfiable classes |
+
+## Design highlights
+
+- **BFO 2.0 anchored**: symptoms under `DependentContinuant → ClinicalFinding`, disjoint from Disease and Syndrome.
+- **Dual-axis (orthogonal faceted) classification**: an asserted clinical-workflow category hierarchy plus inferred anatomical facets driven by 10 equivalence axioms of the form `X ≡ ClinicalFinding and (findingSite some Site)` and a property chain `findingSite ∘ partOf ⊑ findingSite`. Cross-axis symptoms legitimately receive multiple inferred parents (e.g., infantile index-finger venule signs under both PulseFinding and LimbFinding).
+- **GO-style metadata**: `oboInOwl:id`, `hasOBONamespace`, `IAO:0000115` definitions, `hasExactSynonym`, `hasDbXref`, and per-mapping typing via `skos:exactMatch` / `skos:closeMatch`.
+- **Bilingual definition engineering**: tiered translation pipeline (T_A_refined 886 expert-translated; T_B_high 515 curated MT ≥70% coverage; T_A_full 236 spot-checked MT; none 121).
+
+## Repository layout
+
+```
+ontology/    TCM_Symptom_Ontology_v4.8.owl   (OWL 2, RDF/XML)
+mappings/    HPO_mapping.csv, SNOMEDCT_mapping.csv, ICD11_mapping.csv
+documentation/  findingSite_category_conflicts.csv (dual-axis classification audit)
+LICENSE      CC-BY 4.0
+CITATION.cff Machine-readable citation metadata
+```
+
+## Usage
+
+Open `ontology/TCM_Symptom_Ontology_v4.8.owl` in Protégé (≥5.5) and run the HermiT reasoner: classification completes in ~10–12 s with zero unsatisfiable classes. Mapping CSVs list `symptom_localname, symptom_zh, symptom_en, target code, target term, mapType (exact/close)`.
+
+## License
+
+[CC-BY 4.0](LICENSE). Please cite the release as given in [CITATION.cff](CITATION.cff).
+
+## Contact
+
+Lei Lei (leilei@mail.cintcm.ac.cn), Zheji Han (hanzheji0410@163.com), Institute of Information on Traditional Chinese Medicine, China Academy of Chinese Medical Sciences.
