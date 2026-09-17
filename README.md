@@ -2,7 +2,7 @@
 
 A large-scale bilingual (Chinese–English) OWL 2 ontology of Traditional Chinese Medicine (TCM) symptoms, with HPO-style English definitions, a formally axiomatized clinical-semantic layer, equivalence-axiom faceted classification, and expert-confirmed alignments to HPO, SNOMED CT and ICD-11.
 
-**Current release: v4.8 (2026-09-16)**
+**Current release: v4.8 (2026-09-16)** · Archived on Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22803650.svg)](https://doi.org/10.5281/zenodo.22803650)
 
 ## Key figures
 
@@ -46,7 +46,7 @@ Open `ontology/TCM_Symptom_Ontology_v4.8.owl` in Protégé (≥5.5) and run the 
 
 ## License
 
-[CC-BY 4.0](LICENSE). Please cite the release as given in [CITATION.cff](CITATION.cff).
+[CC-BY 4.0](LICENSE). Please cite the release as given in [CITATION.cff](CITATION.cff) or via the Zenodo DOI: [10.5281/zenodo.22803650](https://doi.org/10.5281/zenodo.22803650).
 
 ## Contact
 

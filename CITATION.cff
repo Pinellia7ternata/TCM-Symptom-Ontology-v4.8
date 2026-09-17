@@ -36,3 +36,7 @@ version: "4.8.0"
 date-released: 2026-09-16
 repository-code: "https://github.com/Pinellia7ternata/TCM-Symptom-Ontology"
 url: "https://github.com/Pinellia7ternata/TCM-Symptom-Ontology"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22803650"
+    description: "Archived release v4.8.0 on Zenodo"
