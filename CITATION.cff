@@ -34,8 +34,8 @@ keywords:
 license: CC-BY-4.0
 version: "4.8.0"
 date-released: 2026-09-16
-repository-code: "https://github.com/Pinellia7ternata/TCM-Symptom-Ontology"
-url: "https://github.com/Pinellia7ternata/TCM-Symptom-Ontology"
+repository-code: "https://github.com/Pinellia7ternata/TCM-Symptom-Ontology-v4.8"
+url: "https://github.com/Pinellia7ternata/TCM-Symptom-Ontology-v4.8"
 identifiers:
   - type: doi
     value: "10.5281/zenodo.22803650"
