@@ -1,0 +1,422 @@
+sample_id,terminology,sx_en,obj_id,mapType,confidence,rater1_acceptable,rater1_mapType,rater2_acceptable,rater2_mapType,rater3_acceptable,rater3_mapType
+S0001,HPO,Gray nail,HP:0001821,close,Medium,0,related,1,close,1,close
+S0002,HPO,Yellow nail,HP:0011367,close,High,1,close,1,close,0,related
+S0003,HPO,inappropriate laughing,HP:0000748,close,Medium,1,close,1,close,1,close
+S0004,HPO,Dull-yellow skin,HP:0000952,close,High,1,close,1,close,1,close
+S0005,HPO,Limb joint contracture,HP:0003121,close,inherited,0,close,1,close,0,close
+S0006,HPO,palpitations,HP:0001676,close,High,1,close,1,close,1,close
+S0007,HPO,frequent hiccups,HP:0100247,close,Medium,1,close,1,close,0,close
+S0008,HPO,absent pulse,HP:0031271,close,Medium,1,close,1,close,0,close
+S0009,HPO,brownish-red hematuria,HP:0000790,close,Medium,0,close,1,close,0,close
+S0010,HPO,Vertex pain,HP:0002315,close,Medium,0,close,1,close,0,close
+S0011,HPO,Scrotal skin splitting/cracking,HP:0000048,close,Medium,0,related,1,close,1,close
+S0012,HPO,bone crepitus,HP:0012479,close,Medium,1,close,1,close,1,close
+S0013,HPO,collapsed nasal columella,HP:0010761,close,Medium,1,close,1,close,1,close
+S0014,HPO,moist lustrous nasal tip,HP:0000455,close,Medium,1,close,1,close,1,close
+S0015,HPO,frequent urge to defecate,HP:0032774,close,Medium,0,close,1,close,1,close
+S0016,HPO,night blindness (sparrow eye),HP:0007642,close,High,1,close,1,close,1,close
+S0017,HPO,mobile abdominal mass,HP:0031500,close,High,0,close,1,close,1,close
+S0018,HPO,inability to close the eyelid (lagophthalmos),HP:0030002,close,High,0,close,1,close,1,close
+S0019,HPO,limb cyanosis,HP:0034030,close,High,1,close,1,close,1,close
+S0020,HPO,itchy rash,HP:0000988,close,Medium,0,close,1,close,0,close
+S0021,HPO,Skin numbness,HP:0033748,close,High,0,close,1,close,1,close
+S0022,HPO,sleep talking (somniloquy),HP:0025236,close,High,1,close,1,close,1,close
+S0023,HPO,narrowing of visual field,HP:0007981,close,High,0,related,1,close,0,close
+S0024,HPO,Vaginal discharge resembling pus,HP:0034269,close,Medium,1,close,1,close,1,close
+S0025,HPO,Skin dryness,HP:0031088,close,Medium,0,close,1,close,1,close
+S0026,HPO,Oral mucosa macule,HP:6001110,close,High,1,close,0,close,1,close
+S0027,HPO,profuse semen,HP:0005587,close,Medium,0,close,1,close,0,close
+S0028,HPO,thin-walled blisters,HP:0008066,close,Medium,0,related,1,close,1,close
+S0029,HPO,teeth grinding during sleep,HP:0003763,close,High,1,close,1,close,0,close
+S0030,HPO,pus discharge from the lacrimal punctum,HP:0001092,close,Medium,1,close,1,close,1,close
+S0031,HPO,mobile mass,HP:0025760,close,High,0,close,1,close,1,close
+S0032,HPO,burning sensation of granulation tissue,HP:6000420,close,Medium,0,related,0,close,1,close
+S0033,HPO,cold tearing,HP:0009926,close,High,1,close,1,close,1,close
+S0034,HPO,vaginal bleeding during pregnancy,HP:0034266,close,High,1,close,1,close,0,close
+S0035,HPO,flaring of the alae nasi,HP:0009928,close,Medium,0,related,1,close,0,close
+S0036,HPO,coldness of the back,HP:0033850,close,High,1,close,1,close,1,close
+S0037,HPO,dull stare,HP:0025282,close,Medium,0,close,1,close,1,close
+S0038,HPO,drum-like abdominal distension,HP:0003270,close,High,1,close,1,close,1,close
+S0039,HPO,nail biting in children,HP:0012170,close,High,1,close,1,close,1,close
+S0040,HPO,Red tip-of-nose,HP:0011831,close,Medium,0,related,1,close,0,close
+S0041,HPO,thick sticky drooling,HP:0002307,close,High,1,close,1,close,1,close
+S0042,HPO,yellowish-brown urine,HP:0040320,close,Medium,1,close,1,close,0,related
+S0043,HPO,complete lens dislocation,HP:0012019,close,High,1,close,1,close,1,close
+S0044,HPO,intra-abdominal mass,HP:0033134,close,High,1,close,1,close,1,close
+S0045,HPO,White vaginal discharge,HP:0034269,close,High,1,close,1,close,1,close
+S0046,HPO,tumor surface adhering to the skin,HP:0008069,close,High,1,close,1,close,0,close
+S0047,HPO,hiccup,HP:0100247,close,Medium,0,close,0,close,1,close
+S0048,HPO,edema of the white of the eye (chemosis),HP:0100534,close,High,1,close,1,close,1,close
+S0049,HPO,mottled skin,HP:0001070,close,High,1,close,1,close,1,close
+S0050,HPO,deviated pupil,HP:0011499,close,Medium,0,related,1,close,1,close
+S0051,HPO,high-pitched hiccup,HP:0025430,close,High,0,related,1,close,1,close
+S0052,HPO,scaling rash,HP:0000988,close,High,1,close,1,close,1,close
+S0053,HPO,Malignant hyperthermia,HP:0002047,close,inherited,0,close,0,close,0,related
+S0054,HPO,head distension,HP:0002181,close,Medium,0,close,0,close,0,close
+S0055,HPO,snivel-like vaginal discharge,HP:0034269,close,Medium,1,close,1,close,1,close
+S0056,HPO,Watery diarrhea,HP:0002014,close,High,1,close,1,close,1,close
+S0057,HPO,symmetrically distributed erythema,HP:6000857,close,Medium,0,related,0,close,1,close
+S0058,HPO,high-pitched voice,HP:0025430,close,High,1,close,0,close,0,close
+S0059,HPO,rib pain,HP:0006649,close,Medium,0,related,1,close,0,close
+S0060,HPO,Abnormality of the tongue,HP:0000157,close,inherited,0,close,1,close,0,close
+S0061,HPO,abdominal pain during pregnancy,HP:0002027,close,High,0,related,0,close,1,close
+S0062,HPO,generalized soreness and weakness,HP:0003324,close,High,1,close,1,close,1,close
+S0063,HPO,intermittent nasal obstruction,HP:0004796,close,Medium,1,close,1,close,0,related
+S0064,HPO,tight narrow eyelid fissure (blepharophimosis),HP:0045025,close,Medium,0,close,1,close,0,close
+S0065,HPO,Abnormally low-pitched voice,HP:0010300,close,inherited,0,related,0,close,1,close
+S0066,HPO,sunken anterior fontanelle,HP:0000237,close,High,1,close,1,close,1,close
+S0067,HPO,Chills,HP:0025143,close,inherited,0,close,1,close,0,close
+S0068,HPO,Shoulder pain,HP:0030834,close,inherited,0,related,1,close,1,close
+S0069,HPO,limb weakness,HP:0003690,close,High,0,close,1,close,1,close
+S0070,HPO,premature closure of fontanelle,HP:0000270,close,High,1,close,1,close,1,close
+S0071,HPO,visual hallucination,HP:5200215,close,High,1,close,0,close,1,close
+S0072,HPO,Red nodule,HP:0034819,close,Medium,1,close,0,close,1,close
+S0073,HPO,withered nasal tip,HP:0005278,close,Medium,0,close,1,close,1,close
+S0074,HPO,Delirium,HP:0031258,close,inherited,1,close,0,close,1,close
+S0075,HPO,delayed closure of fontanelle,HP:0001476,close,High,1,close,1,close,1,close
+S0076,HPO,swollen gum margin,HP:0031244,close,Medium,0,related,1,close,0,close
+S0077,HPO,sallow-yellow skin,HP:0000952,close,High,1,close,1,close,1,close
+S0078,HPO,painful neck nodules,HP:0030833,close,Medium,1,close,0,close,0,related
+S0079,HPO,Pale finger,HP:0000980,close,High,1,close,1,close,1,close
+S0080,HPO,Vertigo,HP:0002321,exact,inherited,1,exact,1,exact,1,exact
+S0081,HPO,Abnormal tongue physiology,HP:0030810,exact,inherited,1,exact,1,exact,1,exact
+S0082,HPO,Abdominal pain,HP:0002027,exact,inherited,1,exact,1,exact,1,exact
+S0083,HPO,thick neck,HP:0000475,exact,High,1,exact,1,exact,1,exact
+S0084,HPO,Red hair,HP:0002297,exact,High,1,exact,1,exact,1,exact
+S0085,HPO,Chills,HP:0025143,exact,inherited,1,exact,1,exact,1,exact
+S0086,HPO,Recurrent singultus,HP:0100247,exact,inherited,1,exact,1,exact,1,exact
+S0087,HPO,immobile mass,HP:0025760,exact,High,1,exact,1,exact,1,exact
+S0088,HPO,Edema,HP:0000969,exact,inherited,1,exact,1,exact,1,exact
+S0089,HPO,Aphthous ulcer,HP:0032154,exact,inherited,1,exact,1,exact,1,exact
+S0090,HPO,difficulty swallowing,HP:0002015,exact,High,1,exact,1,exact,1,exact
+S0091,HPO,watery stool,HP:0002014,exact,High,1,exact,1,exact,1,exact
+S0092,HPO,Pruritus,HP:0000989,exact,inherited,1,exact,1,exact,1,exact
+S0093,HPO,Angina pectoris,HP:0001681,exact,inherited,1,exact,1,exact,1,exact
+S0094,HPO,Anal pain,HP:0500005,exact,inherited,1,exact,1,exact,1,exact
+S0095,HPO,Hypogeusia,HP:0000224,exact,inherited,1,exact,1,exact,1,exact
+S0096,HPO,Skin ulcer,HP:0200042,exact,inherited,1,exact,1,exact,1,exact
+S0097,HPO,Reflex tearing,HP:0031733,exact,inherited,1,exact,1,exact,1,exact
+S0098,HPO,Back pain,HP:0003418,exact,inherited,1,exact,1,exact,1,exact
+S0099,HPO,curly hair,HP:0002212,exact,High,1,exact,1,exact,1,exact
+S0100,HPO,Neck pain,HP:0030833,exact,inherited,1,exact,1,exact,1,exact
+S0101,HPO,Fever,HP:0001945,exact,inherited,1,exact,1,exact,1,exact
+S0102,HPO,Premature ejaculation,HP:0012876,exact,inherited,1,exact,1,exact,1,exact
+S0103,HPO,Abdominal symptom,HP:0011458,exact,inherited,1,exact,1,exact,1,exact
+S0104,HPO,Sneeze,HP:0025095,exact,inherited,1,exact,1,exact,1,exact
+S0105,HPO,pursed lips,HP:0000205,exact,High,1,exact,1,exact,1,exact
+S0106,HPO,premature closure of fontanelle,HP:0005458,exact,High,1,exact,1,exact,1,exact
+S0107,HPO,nosebleed,HP:0000421,exact,High,1,exact,1,exact,1,exact
+S0108,HPO,vaginal discharge of five intermingled colors,HP:0031470,exact,Medium,1,exact,1,exact,1,exact
+S0109,HPO,Tachypnea,HP:0002789,exact,inherited,1,exact,1,exact,1,exact
+S0110,HPO,restless sleep,HP:0025199,exact,High,1,exact,1,exact,1,exact
+S0111,HPO,Body ache,HP:0033047,exact,inherited,1,exact,1,exact,1,exact
+S0112,HPO,mild fever,HP:0011134,exact,High,1,exact,1,exact,1,exact
+S0113,HPO,Spasticity,HP:0001257,exact,inherited,1,exact,1,exact,1,exact
+S0114,HPO,Chills,HP:0025143,exact,inherited,1,exact,1,exact,1,exact
+S0115,HPO,Abnormality of the nose,HP:0000366,exact,inherited,1,exact,1,exact,1,exact
+S0116,HPO,premature menopause,HP:0008209,exact,High,1,exact,1,exact,1,exact
+S0117,HPO,Cough,HP:0012735,exact,inherited,1,exact,1,exact,1,exact
+S0118,HPO,Ocular pain,HP:0200026,exact,inherited,1,exact,1,exact,1,exact
+S0119,HPO,Pain,HP:0003326,exact,inherited,1,exact,1,exact,1,exact
+S0120,SNOMEDCT,Hyposmia,SNOMEDCT:83156004,exact,High,1,exact,1,exact,1,exact
+S0121,SNOMEDCT,visual hallucination,SNOMEDCT:64269007,exact,High,1,exact,1,exact,1,exact
+S0122,SNOMEDCT,Constipation,SNOMEDCT:225595004,exact,High,1,exact,1,exact,1,exact
+S0123,SNOMEDCT,high-pitched voice,SNOMEDCT:51406002,exact,High,1,exact,1,exact,1,exact
+S0124,SNOMEDCT,teeth grinding (bruxism),SNOMEDCT:191983006,exact,High,1,exact,1,exact,1,exact
+S0125,SNOMEDCT,Neck pain,SNOMEDCT:81680005,exact,inherited,1,exact,1,exact,1,exact
+S0126,SNOMEDCT,Skin ulcer,SNOMEDCT:46742003,exact,inherited,1,exact,1,exact,1,exact
+S0127,SNOMEDCT,Depression,SNOMEDCT:210610001191,exact,High,1,exact,1,exact,1,exact
+S0128,SNOMEDCT,disturbed color vision,SNOMEDCT:23289000,exact,High,1,exact,1,exact,1,exact
+S0129,SNOMEDCT,Lethargy,SNOMEDCT:214264003,exact,High,1,exact,1,exact,1,exact
+S0130,SNOMEDCT,Hematochezia,SNOMEDCT:405737000,exact,inherited,1,exact,1,exact,1,exact
+S0131,SNOMEDCT,Yellow discoloration of the skin,SNOMEDCT:18165001,exact,High,1,exact,1,exact,1,exact
+S0132,SNOMEDCT,Pectus carinatum,SNOMEDCT:205101001,exact,High,1,exact,1,exact,1,exact
+S0133,SNOMEDCT,dizziness,SNOMEDCT:399090003,exact,High,1,exact,1,exact,1,exact
+S0134,SNOMEDCT,Abnormality of the face,SNOMEDCT:398302004,exact,High,1,exact,1,exact,1,exact
+S0135,SNOMEDCT,Pustule,SNOMEDCT:103605005,exact,High,1,exact,1,exact,1,exact
+S0136,SNOMEDCT,Cephalohematoma,SNOMEDCT:83095000,exact,High,1,exact,1,exact,1,exact
+S0137,SNOMEDCT,Drowsiness,SNOMEDCT:79519003,exact,High,1,exact,1,exact,1,exact
+S0138,SNOMEDCT,Papule,SNOMEDCT:443871003,exact,High,1,exact,1,exact,1,exact
+S0139,SNOMEDCT,Low-grade fever,SNOMEDCT:304213008,exact,High,1,exact,1,exact,1,exact
+S0140,SNOMEDCT,Abnormality of the nose,SNOMEDCT:128274005,exact,High,1,exact,1,exact,1,exact
+S0141,SNOMEDCT,diplopia,SNOMEDCT:24982008,exact,High,1,exact,1,exact,1,exact
+S0142,SNOMEDCT,Hyperpigmentation of the skin,SNOMEDCT:4830009,exact,High,1,exact,1,exact,1,exact
+S0143,SNOMEDCT,nosebleed,SNOMEDCT:12441001,exact,High,1,exact,1,exact,1,exact
+S0144,SNOMEDCT,Abnormal joint morphology,SNOMEDCT:399269003,exact,High,1,exact,1,exact,1,exact
+S0145,SNOMEDCT,Hematuria,SNOMEDCT:34436003,exact,inherited,1,exact,1,exact,1,exact
+S0146,SNOMEDCT,Hypoventilation,SNOMEDCT:31515003,exact,High,1,exact,1,exact,1,exact
+S0147,SNOMEDCT,dry lips,SNOMEDCT:238751002,exact,High,1,exact,1,exact,1,exact
+S0148,SNOMEDCT,Upper limb pain,SNOMEDCT:102556003,exact,High,1,exact,1,exact,1,exact
+S0149,SNOMEDCT,Frequent urination,SNOMEDCT:11829000,exact,inherited,1,exact,1,exact,1,exact
+S0150,SNOMEDCT,exophthalmos,SNOMEDCT:18265008,exact,High,1,exact,1,exact,1,exact
+S0151,SNOMEDCT,Angina pectoris,SNOMEDCT:194828000,exact,High,1,exact,1,exact,1,exact
+S0152,SNOMEDCT,Vertigo,SNOMEDCT:399153001,exact,inherited,1,exact,1,exact,1,exact
+S0153,SNOMEDCT,Lethargy,SNOMEDCT:79519003,exact,High,1,exact,1,exact,1,exact
+S0154,SNOMEDCT,difficulty swallowing,SNOMEDCT:288939007,exact,High,1,exact,1,exact,1,exact
+S0155,SNOMEDCT,Depression,SNOMEDCT:35489007,exact,High,1,exact,1,exact,1,exact
+S0156,SNOMEDCT,Genu valgum,SNOMEDCT:299330008,exact,High,1,exact,1,exact,1,exact
+S0157,SNOMEDCT,Malignant hyperthermia,SNOMEDCT:405501007,exact,High,1,exact,1,exact,1,exact
+S0158,SNOMEDCT,Diarrhea,SNOMEDCT:62315008,exact,High,1,exact,1,exact,1,exact
+S0159,SNOMEDCT,Hypopigmentation of the skin,SNOMEDCT:18655006,exact,High,1,exact,1,exact,1,exact
+S0160,SNOMEDCT,teeth grinding (bruxism),SNOMEDCT:90207007,exact,High,1,exact,1,exact,1,exact
+S0161,SNOMEDCT,Hyperemesis gravidarum,SNOMEDCT:1696002,exact,inherited,1,exact,1,exact,1,exact
+S0162,SNOMEDCT,Stridor,SNOMEDCT:70407001,exact,High,1,exact,1,exact,1,exact
+S0163,SNOMEDCT,Slight black tip-of-nose,SNOMEDCT:249331008,close,Medium,1,close,1,close,0,close
+S0164,SNOMEDCT,foam in urine,SNOMEDCT:68600005,close,Medium,0,close,1,close,1,close
+S0165,SNOMEDCT,Red tip-of-nose,SNOMEDCT:249331008,close,High,1,close,1,close,0,close
+S0166,SNOMEDCT,Wheals during menstruation,SNOMEDCT:386692008,close,Medium,0,close,1,close,1,close
+S0167,SNOMEDCT,dry atrophic pharyngeal mucosa,SNOMEDCT:2129002,close,Medium,1,close,0,close,0,close
+S0168,SNOMEDCT,Upper limb pain,SNOMEDCT:90834002,close,High,1,close,1,close,0,close
+S0169,SNOMEDCT,Teeth falling off,SNOMEDCT:42756003,close,Medium,0,close,0,close,1,close
+S0170,SNOMEDCT,Red tip-of-nose,SNOMEDCT:249331008,close,High,1,close,1,close,0,close
+S0171,SNOMEDCT,open mouth (inability to close),SNOMEDCT:262016004,close,High,0,close,1,close,1,close
+S0172,SNOMEDCT,orange-yellow skin,SNOMEDCT:18165001,close,High,1,close,1,close,1,close
+S0173,SNOMEDCT,intermittent nasal obstruction,SNOMEDCT:232209000,close,High,1,close,1,close,1,close
+S0174,SNOMEDCT,premature closure of fontanelle,SNOMEDCT:82779003,close,High,1,close,1,close,1,close
+S0175,SNOMEDCT,Skin hyperesthesia,SNOMEDCT:14151009,close,High,1,close,1,close,1,close
+S0176,SNOMEDCT,Migraine,SNOMEDCT:56097005,close,High,0,close,1,close,1,close
+S0177,SNOMEDCT,Scoliosis,SNOMEDCT:203645000,close,High,1,close,0,close,1,close
+S0178,SNOMEDCT,negative transillumination of scrotum,SNOMEDCT:236780002,close,Medium,0,related,0,close,1,close
+S0179,SNOMEDCT,Genu varum,SNOMEDCT:299330008,close,High,0,related,1,close,1,close
+S0180,SNOMEDCT,loss of eyebrows,SNOMEDCT:422441003,close,Medium,0,related,1,close,1,close
+S0181,SNOMEDCT,abdominal pain during pregnancy,SNOMEDCT:21522001,close,High,1,close,1,close,1,close
+S0182,SNOMEDCT,Oral lichenoid lesion,SNOMEDCT:16331000,close,inherited,0,related,0,close,0,close
+S0183,SNOMEDCT,fine rash,SNOMEDCT:271807003,close,High,1,close,1,close,1,close
+S0184,SNOMEDCT,generalized headache,SNOMEDCT:25064002,close,Medium,1,close,1,close,1,close
+S0185,SNOMEDCT,urgent urination,SNOMEDCT:75088002,close,Medium,1,close,0,close,0,close
+S0186,SNOMEDCT,drum-like abdominal distension,SNOMEDCT:60728008,close,High,1,close,1,close,1,close
+S0187,SNOMEDCT,low back pain radiating to the foot,SNOMEDCT:279039007,close,High,1,close,1,close,1,close
+S0188,SNOMEDCT,Abnormal involuntary movements of limbs,SNOMEDCT:445144002,close,High,0,close,1,close,1,close
+S0189,SNOMEDCT,scaling rash,SNOMEDCT:112625008,close,High,1,close,1,close,1,close
+S0190,SNOMEDCT,hot tearing,SNOMEDCT:418035005,close,High,1,close,1,close,1,close
+S0191,SNOMEDCT,Abnormally low-pitched voice,SNOMEDCT:51406002,close,High,1,close,1,close,1,close
+S0192,SNOMEDCT,Purple red macule,SNOMEDCT:112629002,close,Medium,1,close,1,close,0,close
+S0193,SNOMEDCT,ear abscess,SNOMEDCT:299709002,close,Medium,1,close,1,close,1,close
+S0194,SNOMEDCT,profuse sweating after childbirth,SNOMEDCT:415690000,close,High,1,close,1,close,1,close
+S0195,SNOMEDCT,postprandial drowsiness,SNOMEDCT:79519003,close,Medium,0,close,1,close,1,close
+S0196,SNOMEDCT,red pharynx,SNOMEDCT:126685009,close,Medium,1,close,1,close,1,close
+S0197,SNOMEDCT,left anterior chest pain,SNOMEDCT:194828000,close,High,0,related,1,close,1,close
+S0198,SNOMEDCT,Periorbital fullness,SNOMEDCT:700339006,close,High,1,close,1,close,1,close
+S0199,SNOMEDCT,red nasal tip,SNOMEDCT:249331008,close,High,1,close,1,close,1,close
+S0200,SNOMEDCT,Enlarged (puffy) tongue,SNOMEDCT:25273001,close,Medium,0,close,1,close,1,close
+S0201,SNOMEDCT,jetting bleeding from the tumor sore,SNOMEDCT:417244000,close,Medium,1,close,0,close,1,close
+S0202,SNOMEDCT,ear itching,SNOMEDCT:418290006,close,High,1,close,1,close,1,close
+S0203,SNOMEDCT,Vomiting,SNOMEDCT:16932000,close,High,1,close,1,close,1,close
+S0204,SNOMEDCT,Watery diarrhea,SNOMEDCT:267060006,close,High,0,close,0,close,0,close
+S0205,SNOMEDCT,Skin purpura,SNOMEDCT:423902002,close,High,1,close,1,close,1,close
+S0206,SNOMEDCT,Tetraparesis,SNOMEDCT:298282001,close,High,1,close,1,close,1,close
+S0207,SNOMEDCT,generalized weakness,SNOMEDCT:249945007,close,Medium,0,related,1,close,0,close
+S0208,SNOMEDCT,Skin scale,SNOMEDCT:14411002,close,High,1,close,1,close,1,close
+S0209,SNOMEDCT,Heloma,SNOMEDCT:22066006,close,Medium,1,close,1,close,1,close
+S0210,SNOMEDCT,pus discharge from the lacrimal punctum,SNOMEDCT:204208005,close,Medium,1,close,1,close,1,close
+S0211,SNOMEDCT,deviated pupil,SNOMEDCT:37125009,close,Medium,1,close,1,close,0,related
+S0212,SNOMEDCT,Yellow discoloration of the skin,SNOMEDCT:3415004,close,High,1,close,1,close,1,close
+S0213,SNOMEDCT,Teeth falling off,SNOMEDCT:234974002,close,Medium,1,close,1,close,0,close
+S0214,SNOMEDCT,Skin scale,SNOMEDCT:271767006,close,High,1,close,1,close,1,close
+S0215,SNOMEDCT,inability to close the eyelid (lagophthalmos),SNOMEDCT:417740005,close,High,1,close,1,close,1,close
+S0216,SNOMEDCT,audible teeth grinding,SNOMEDCT:191983006,close,High,1,close,1,close,0,close
+S0217,SNOMEDCT,Lip fissure,SNOMEDCT:253983005,close,Medium,0,close,1,close,1,close
+S0218,SNOMEDCT,rib pain,SNOMEDCT:247355005,close,Medium,1,close,1,close,1,close
+S0219,SNOMEDCT,Rose-red macule,SNOMEDCT:112629002,close,Medium,1,close,1,close,1,close
+S0220,SNOMEDCT,loss of eyebrows,SNOMEDCT:253208007,close,Medium,1,close,1,close,1,close
+S0221,SNOMEDCT,ear abscess,SNOMEDCT:27916005,close,Medium,0,related,1,close,1,close
+S0222,SNOMEDCT,manic confusion,SNOMEDCT:286933003,close,High,1,close,1,close,1,close
+S0223,SNOMEDCT,foot swelling,SNOMEDCT:271771009,close,Medium,0,related,1,close,1,close
+S0224,SNOMEDCT,enlarged tonsil,SNOMEDCT:46689006,close,High,1,close,1,close,1,close
+S0225,SNOMEDCT,blood clots in urine,SNOMEDCT:34436003,close,High,1,close,1,close,1,close
+S0226,SNOMEDCT,eroded teeth,SNOMEDCT:699222000,close,Medium,1,close,1,close,1,close
+S0227,SNOMEDCT,earthworm-like vessels of spermatic cord (varicocele),SNOMEDCT:81996005,close,Medium,0,related,1,close,0,close
+S0228,SNOMEDCT,incessant chronic diarrhea,SNOMEDCT:236071009,close,High,1,close,1,close,1,close
+S0229,SNOMEDCT,hip abscess,SNOMEDCT:82127005,close,Medium,1,close,1,close,1,close
+S0230,SNOMEDCT,arm abscess,SNOMEDCT:82127005,close,Medium,0,close,1,close,0,close
+S0231,SNOMEDCT,Depressed nasal bridge,SNOMEDCT:249321001,close,High,1,close,1,close,1,close
+S0232,SNOMEDCT,Angina pectoris,SNOMEDCT:9991008,close,High,1,close,1,close,0,related
+S0233,SNOMEDCT,Stridor,SNOMEDCT:58596002,close,High,1,close,1,close,1,close
+S0234,SNOMEDCT,Skin purpura,SNOMEDCT:387778001,close,High,0,related,1,close,1,close
+S0235,SNOMEDCT,lumbosacral pain,SNOMEDCT:247355005,close,Medium,0,close,1,close,0,close
+S0236,SNOMEDCT,Joint enlargement,SNOMEDCT:271771009,close,Medium,0,related,0,close,0,close
+S0237,ICD11,Joint enlargement,ICD11:SN08,close,Medium,1,close,1,close,1,close
+S0238,ICD11,Abnormal involuntary movements of limbs,ICD11:MB46.Z,close,High,1,close,1,close,1,close
+S0239,ICD11,Pallor,ICD11:MC16,close,High,1,close,0,close,1,close
+S0240,ICD11,Ptosis,ICD11:SK6L,close,Medium,0,close,1,close,0,close
+S0241,ICD11,alternating chills and fever at regular intervals,ICD11:SD93,close,High,1,close,1,close,1,close
+S0242,ICD11,Black thenar-eminence vessels and collaterals,ICD11:XA2JN4,close,High,1,close,1,close,1,close
+S0243,ICD11,puffy superficial sore swelling,ICD11:XK7F,close,High,1,close,1,close,1,close
+S0244,ICD11,Alopecia,ICD11:SN90,close,High,1,close,1,close,1,close
+S0245,ICD11,Macule nail,ICD11:ED61.11,close,High,1,close,1,close,1,close
+S0246,ICD11,Dark red finger,ICD11:MC15,close,Medium,1,close,0,close,1,close
+S0247,ICD11,separation of cranial sutures,ICD11:KD31,close,Medium,1,close,0,close,1,close
+S0248,ICD11,burning hot skin,ICD11:XE7PM,close,High,0,close,1,close,1,close
+S0249,ICD11,Nail-bed swelling,ICD11:XA6Q52,close,Medium,0,related,0,close,1,close
+S0250,ICD11,Spider angioma,ICD11:XE75L,close,High,1,close,1,close,1,close
+S0251,ICD11,damp umbilicus,ICD11:XA3MT8,close,High,1,close,1,close,1,close
+S0252,ICD11,yellow urine,ICD11:SF9G,close,Medium,1,close,1,close,1,close
+S0253,ICD11,pale nail bed,ICD11:XA65U3,close,Medium,0,close,1,close,1,close
+S0254,ICD11,Cherry-red lip,ICD11:XM0885,close,High,1,close,1,close,1,close
+S0255,ICD11,Spermatic-cord thickening,ICD11:XA5KK7,close,Medium,1,close,1,close,1,close
+S0256,ICD11,mental fatigue,ICD11:MG22,close,High,1,close,1,close,1,close
+S0257,ICD11,ear abscess,ICD11:AA00,close,High,1,close,1,close,1,close
+S0258,ICD11,umbilical swelling,ICD11:XA3L42,close,Medium,0,close,0,close,1,close
+S0259,ICD11,decreased pain sensation of sore surface,ICD11:VV12,close,High,1,close,1,close,1,close
+S0260,ICD11,Red tip-of-nose,ICD11:XA3057,close,Medium,1,close,1,close,1,close
+S0261,ICD11,red skin of burn,ICD11:XA66R9,close,Medium,0,related,0,close,1,close
+S0262,ICD11,Black scar,ICD11:XM2WE8,close,Medium,0,related,0,close,1,close
+S0263,ICD11,floral corneal growth,ICD11:9A78.0,close,Medium,0,close,1,close,1,close
+S0264,ICD11,bright-red anal prolapse,ICD11:DB53,close,High,1,close,1,close,0,close
+S0265,ICD11,Bluish philtrum,ICD11:SF01,close,High,0,close,1,close,1,close
+S0266,ICD11,curly hair,ICD11:ED73.0,close,Medium,1,close,1,close,1,close
+S0267,ICD11,With raised prickles tongue,ICD11:DA03.1,close,Medium,1,close,0,close,1,close
+S0268,ICD11,pork-liver-dark tongue,ICD11:XE9BL,close,Medium,0,close,0,close,1,close
+S0269,ICD11,Shifting pain,ICD11:SE91,close,Medium,0,close,1,close,0,close
+S0270,ICD11,scrotal ulceration,ICD11:MF40.20,close,Medium,1,close,1,close,0,close
+S0271,ICD11,epigastric distension,ICD11:SA52,close,High,0,related,1,close,1,close
+S0272,ICD11,Distending pain,ICD11:SF57,close,Medium,1,close,1,close,1,close
+S0273,ICD11,steaming-bone fever,ICD11:1C33,close,Medium,1,close,1,close,0,related
+S0274,ICD11,clumped eye discharge,ICD11:MC14,close,High,1,close,1,close,1,close
+S0275,ICD11,Light red rash,ICD11:ME66.6Z,close,Medium,0,close,0,close,0,close
+S0276,ICD11,Periorbital fullness,ICD11:SF77,close,Medium,0,close,1,close,1,close
+S0277,ICD11,Pharyngeal itching,ICD11:XA5Q86,close,Medium,0,close,0,close,1,close
+S0278,ICD11,red lips,ICD11:SE72,close,Medium,1,close,1,close,0,close
+S0279,ICD11,Dysphagia,ICD11:SA50,close,High,1,close,1,close,1,close
+S0280,ICD11,Skin shininess,ICD11:SF01,close,Medium,0,close,1,close,1,close
+S0281,ICD11,annular skin tag,ICD11:ME62.8,close,High,1,close,1,close,1,close
+S0282,ICD11,withered shrunken blisters,ICD11:ME66.6Z,close,Medium,1,close,1,close,1,close
+S0283,ICD11,Pharyngeal itching,ICD11:XA9LV7,close,Medium,0,close,1,close,0,close
+S0284,ICD11,Onycholysis of fingernails,ICD11:XA0EH9,close,Medium,0,related,1,close,0,close
+S0285,ICD11,bean-curd-dreg-like vaginal discharge,ICD11:MC14,close,High,1,close,1,close,1,close
+S0286,ICD11,dusky-black gums,ICD11:XM08L6,close,Medium,0,close,1,close,1,close
+S0287,ICD11,Blindness,ICD11:SK63,close,High,1,close,1,close,1,close
+S0288,ICD11,collapsed nasal columella,ICD11:XA8817,close,Medium,0,related,1,close,1,close
+S0289,ICD11,Migraine,ICD11:SK01,close,High,0,close,1,close,1,close
+S0290,ICD11,sour-smelling stool,ICD11:SF9G,close,Medium,1,close,1,close,0,close
+S0291,ICD11,Severe pain,ICD11:XS25,close,High,1,close,0,close,1,close
+S0292,ICD11,uvula abscess (xuanyong),ICD11:XA2993,close,Medium,0,close,1,close,1,close
+S0293,ICD11,Muscle cramp,ICD11:NF06.3,close,High,1,close,1,close,1,close
+S0294,ICD11,forceful vomiting sound,ICD11:MD90.1,close,Medium,1,close,1,close,0,close
+S0295,ICD11,pain relieved by qi-moving (massage/exercise),ICD11:XE0KF,close,Medium,0,related,0,close,0,related
+S0296,ICD11,eroded crusted auricle,ICD11:LA24,close,Medium,1,close,1,close,1,close
+S0297,ICD11,Menometrorrhagia,ICD11:GA20.50,close,inherited,1,close,0,close,0,close
+S0298,ICD11,left anterior chest pain,ICD11:MC86,close,Medium,1,close,0,close,1,close
+S0299,ICD11,preferring to curl up in bed,ICD11:SF97,close,Medium,0,close,1,close,0,close
+S0300,ICD11,chyluria (milky urine),ICD11:SF79,close,High,1,close,1,close,1,close
+S0301,ICD11,egg-soup-like stool,ICD11:SF70,close,Medium,0,close,0,close,0,related
+S0302,ICD11,Black philtrum,ICD11:XM08L6,close,High,1,close,1,close,0,close
+S0303,ICD11,Bluish perioral-region,ICD11:XA1A48,close,High,0,related,1,close,1,close
+S0304,ICD11,oliguria,ICD11:MF51,close,High,0,close,1,close,1,close
+S0305,ICD11,wrist drop (flaccid hand),ICD11:FA31.3,close,High,1,close,1,close,1,close
+S0306,ICD11,incessant dripping of pus,ICD11:SR1T,close,Medium,0,related,1,close,0,close
+S0307,ICD11,pale gums,ICD11:SE90,close,Medium,1,close,0,close,1,close
+S0308,ICD11,hard swollen gums,ICD11:EH92.00,close,Medium,0,close,0,close,1,close
+S0309,ICD11,limb weakness,ICD11:SS3E,close,Medium,0,close,0,close,1,close
+S0310,ICD11,purplish-red anal prolapse,ICD11:DB53,close,High,1,close,1,close,1,close
+S0311,ICD11,Constipation,ICD11:SA57,close,High,0,close,1,close,1,close
+S0312,ICD11,soundless vomiting (retching),ICD11:MD90.1,close,Medium,0,close,1,close,0,related
+S0313,ICD11,poor appetite,ICD11:SF7M,close,Medium,0,close,1,close,0,close
+S0314,ICD11,festering palate,ICD11:XA4527,close,Medium,0,close,0,close,1,close
+S0315,ICD11,bluish-purple gums,ICD11:SF01,close,Medium,1,close,0,close,0,close
+S0316,ICD11,deep-rooted tumor,ICD11:XK16,close,Medium,1,close,1,close,0,close
+S0317,ICD11,apple-like odor in mouth,ICD11:SF93,close,Medium,0,close,1,close,1,close
+S0318,ICD11,cinnabar palms (palmar erythema),ICD11:SF93,close,Medium,0,close,1,close,0,close
+S0319,ICD11,dental erosion in children,ICD11:DA08.0,close,Medium,1,close,0,close,1,close
+S0320,ICD11,head stuffiness,ICD11:SG80,close,Medium,1,close,1,close,1,close
+S0321,ICD11,sticky vaginal discharge,ICD11:MF3A,close,High,1,close,1,close,1,close
+S0322,ICD11,non-scaling rash,ICD11:SF01,close,Medium,1,close,0,close,0,related
+S0323,ICD11,loud belching,ICD11:MD91,close,High,0,related,1,close,1,close
+S0324,ICD11,foreign body in the nasal cavity,ICD11:ND72.0,close,High,1,close,1,close,1,close
+S0325,ICD11,low deep hiccup,ICD11:XK16,close,Medium,0,close,1,close,1,close
+S0326,ICD11,red erosion of the eyelid margin (marginal blepharitis),ICD11:XA4AX5,close,Medium,1,close,1,close,0,close
+S0327,ICD11,Gray pus,ICD11:SF7G,close,Medium,1,close,0,close,1,close
+S0328,ICD11,Epididymis induration,ICD11:XA4D25,close,High,1,close,1,close,1,close
+S0329,ICD11,premenstrual facial acne,ICD11:SF82,close,Medium,0,close,0,close,1,close
+S0330,ICD11,red dots on the skin,ICD11:SF01,close,Medium,0,close,1,close,1,close
+S0331,ICD11,blurred distant vision,ICD11:SF60,close,Medium,0,close,1,close,0,close
+S0332,ICD11,inability to close the eyelid (lagophthalmos),ICD11:XE8L2,close,Medium,0,related,0,close,0,close
+S0333,ICD11,pus discharge from the lacrimal punctum,ICD11:XA2VR4,close,Medium,0,close,1,close,0,close
+S0334,ICD11,Flushed red eyelid-margin,ICD11:XA53T1,close,Medium,0,close,0,close,0,close
+S0335,ICD11,Limb joint contracture,ICD11:FA34.3,close,Medium,1,close,1,close,0,related
+S0336,ICD11,anal relaxation,ICD11:SE93,close,Medium,1,close,0,close,1,close
+S0337,ICD11,gray-white hemorrhoidal nodule,ICD11:SF7C,close,Medium,1,close,1,close,0,close
+S0338,ICD11,alternating chills and fever at irregular intervals,ICD11:SD93,close,High,0,close,1,close,1,close
+S0339,ICD11,absence of urinous odor,ICD11:LB42.0,close,Medium,0,close,0,close,1,close
+S0340,ICD11,Pale tarsal-plate,ICD11:SF00,close,Medium,1,close,0,close,1,close
+S0341,ICD11,frequent yawning,ICD11:MD11.D,close,Medium,0,close,0,close,0,close
+S0342,ICD11,Pale tarsal-plate,ICD11:SR1T,close,Medium,0,related,0,close,1,close
+S0343,ICD11,Bluish philtrum,ICD11:XA5LY8,close,High,1,close,1,close,1,close
+S0344,ICD11,Severe pain,ICD11:XS2U,close,High,1,close,1,close,1,close
+S0345,ICD11,foul putrid belching,ICD11:MD91,close,High,0,related,1,close,1,close
+S0346,ICD11,noisy flatus,ICD11:SF72,close,Medium,0,close,0,close,1,close
+S0347,ICD11,serum-crusted rash,ICD11:ME66.6Z,close,Medium,1,close,0,close,0,close
+S0348,ICD11,Skin anesthesia (loss of sensation),ICD11:XM0FJ3,close,Medium,1,close,1,close,0,close
+S0349,ICD11,afternoon tidal fever,ICD11:1C11.00,close,Medium,0,related,0,close,1,close
+S0350,ICD11,umbilical redness,ICD11:XA0VZ0,close,Medium,0,close,0,close,0,close
+S0351,ICD11,urgent urination,ICD11:SF9G,close,Medium,0,related,1,close,1,close
+S0352,ICD11,dry lips with peeling skin,ICD11:ED53,close,High,1,close,1,close,0,related
+S0353,ICD11,Thoracic cage flatness,ICD11:SF93,close,Medium,1,close,1,close,0,close
+S0354,ICD11,Trigeminal neuralgia,ICD11:8A82,close,High,1,close,1,close,1,close
+S0355,ICD11,delayed menstruation,ICD11:SB81,close,High,0,related,1,close,1,close
+S0356,ICD11,Nodule softness,ICD11:SK6T,close,Medium,1,close,0,close,1,close
+S0357,ICD11,Brown nodule,ICD11:SK6T,close,Medium,0,close,1,close,1,close
+S0358,ICD11,Kyphosis,ICD11:FC01.3,close,High,1,close,1,close,1,close
+S0359,ICD11,burn skin peeling,ICD11:ED53,close,High,1,close,1,close,1,close
+S0360,ICD11,body numbness,ICD11:SC62,close,Medium,1,close,1,close,0,close
+S0361,ICD11,Stool odorless,ICD11:XE484,close,High,1,close,1,close,1,close
+S0362,ICD11,yellow teeth,ICD11:DA07.7,close,Medium,0,related,1,close,1,close
+S0363,ICD11,yellow urine,ICD11:SF5A,close,Medium,1,close,1,close,1,close
+S0364,ICD11,lustrous eye tissue,ICD11:XA0UK0,close,Medium,1,close,0,close,1,close
+S0365,ICD11,alveolar bone necrosis,ICD11:XA37J7,close,Medium,1,close,1,close,1,close
+S0366,ICD11,Black philtrum,ICD11:XA5LY8,close,High,1,close,1,close,1,close
+S0367,ICD11,Sputum fishy,ICD11:SF7M,close,Medium,0,close,1,close,1,close
+S0368,ICD11,stiff tongue with sluggish speech,ICD11:MB23.L,close,Medium,0,close,1,close,0,close
+S0369,ICD11,indurated blue vessels of lower limb,ICD11:LB9A.0,close,Medium,0,close,0,close,1,close
+S0370,ICD11,Premature ejaculation,ICD11:SB08,close,High,1,close,1,close,1,close
+S0371,ICD11,body itching during menstruation,ICD11:SF82,close,Medium,0,close,1,close,1,close
+S0372,ICD11,incessant overthinking,ICD11:SF64,close,Medium,0,related,1,close,0,close
+S0373,ICD11,White pus,ICD11:XM3DL1,close,Medium,1,close,0,close,1,close
+S0374,ICD11,weak bowel sounds,ICD11:ME03.Z,close,Medium,0,close,1,close,0,close
+S0375,ICD11,soft anal nodule,ICD11:SK6T,close,Medium,0,close,0,close,1,close
+S0376,ICD11,dry-crusted rash,ICD11:ME66.61,close,Medium,0,related,1,close,1,close
+S0377,ICD11,delayed closure of fontanelle,ICD11:SF7A,close,Medium,1,close,1,close,1,close
+S0378,ICD11,disturbed color vision,ICD11:SF57,close,Medium,0,related,1,close,0,related
+S0379,ICD11,damp umbilicus,ICD11:SF9G,close,High,0,related,1,close,1,close
+S0380,ICD11,red threads on inner forearm (acute lymphangitis),ICD11:XM3R78,close,Medium,0,close,1,close,1,close
+S0381,ICD11,eye discharge and tears,ICD11:MC14,close,High,1,close,1,close,1,close
+S0382,ICD11,Constipation,ICD11:ME05.0,exact,High,1,exact,1,exact,1,exact
+S0383,ICD11,Reflex tearing,ICD11:9A61,exact,inherited,1,exact,1,exact,1,exact
+S0384,ICD11,Vulvodynia,ICD11:GA34.02,exact,High,1,exact,1,exact,1,exact
+S0385,ICD11,Diplopia,ICD11:MB44,exact,inherited,1,exact,1,exact,1,exact
+S0386,ICD11,Shoulder dystocia,ICD11:JB06,exact,inherited,1,exact,1,exact,1,exact
+S0387,ICD11,Hematuria,ICD11:MF50.4,exact,inherited,1,exact,1,exact,1,exact
+S0388,ICD11,Retinal degeneration,ICD11:9A79,exact,inherited,1,exact,1,exact,1,exact
+S0389,ICD11,Progressive forgetfulness,ICD11:MB21.10,exact,inherited,1,exact,1,exact,1,exact
+S0390,ICD11,Chest pain,ICD11:MD30.Z,exact,inherited,1,exact,1,exact,1,exact
+S0391,ICD11,Menorrhagia,ICD11:GA20.50,exact,inherited,1,exact,1,exact,1,exact
+S0392,ICD11,Lip fissure,ICD11:DA00.3,exact,High,1,exact,1,exact,1,exact
+S0393,ICD11,Dyspnea,ICD11:MD11.5,exact,inherited,1,exact,1,exact,1,exact
+S0394,ICD11,Palpitations,ICD11:MC81.3,exact,High,1,exact,1,exact,1,exact
+S0395,ICD11,Red eye,ICD11:9A61,exact,inherited,1,exact,1,exact,1,exact
+S0396,ICD11,Pain in penis,ICD11:MF40.00,exact,High,1,exact,1,exact,1,exact
+S0397,ICD11,Fast-growing nails,ICD11:DA01.Y,exact,inherited,1,exact,1,exact,1,exact
+S0398,ICD11,Insomnia,ICD11:7A00,exact,inherited,1,exact,1,exact,1,exact
+S0399,ICD11,suspiciousness,ICD11:MB26.9,exact,High,1,exact,1,exact,1,exact
+S0400,ICD11,palpitations,ICD11:MC81.2,exact,High,1,exact,1,exact,1,exact
+S0401,ICD11,Fatigue,ICD11:MG22,exact,High,1,exact,1,exact,1,exact
+S0402,ICD11,Chills,ICD11:MG21,exact,High,1,exact,1,exact,1,exact
+S0403,ICD11,Headache,ICD11:8A80,exact,inherited,1,exact,1,exact,1,exact
+S0404,ICD11,polyuria,ICD11:MF55,exact,High,1,exact,1,exact,1,exact
+S0405,ICD11,Recurrent singultus,ICD11:MD95,exact,inherited,1,exact,1,exact,1,exact
+S0406,ICD11,macrocephaly,ICD11:LB70.3,exact,High,1,exact,1,exact,1,exact
+S0407,ICD11,Nausea,ICD11:MD90,exact,inherited,1,exact,1,exact,1,exact
+S0408,ICD11,Palpitations,ICD11:MC81.3,exact,High,1,exact,1,exact,1,exact
+S0409,ICD11,Trigeminal neuralgia,ICD11:8B82.0,exact,High,1,exact,1,exact,1,exact
+S0410,ICD11,Spasticity,ICD11:8A68.Z,exact,inherited,1,exact,1,exact,1,exact
+S0411,ICD11,Sneeze,ICD11:MD11.9,exact,inherited,1,exact,1,exact,1,exact
+S0412,ICD11,amenorrhea with galactorrhea,ICD11:GA20.0,exact,inherited,1,exact,1,exact,1,exact
+S0413,ICD11,Chills,ICD11:MG21,exact,High,1,exact,1,exact,1,exact
+S0414,ICD11,Pain,ICD11:FB56.Z,exact,inherited,1,exact,1,exact,1,exact
+S0415,ICD11,Ear pain,ICD11:MC92.Y,exact,inherited,1,exact,1,exact,1,exact
+S0416,ICD11,Hyposmia,ICD11:MB41.3,exact,High,1,exact,1,exact,1,exact
+S0417,ICD11,Blindness,ICD11:9D90.6,exact,High,1,exact,1,exact,1,exact
+S0418,ICD11,Xerostomia,ICD11:DA02.1,exact,inherited,1,exact,1,exact,1,exact
+S0419,ICD11,Kyphosis,ICD11:FA70.0,exact,High,1,exact,1,exact,1,exact
+S0420,ICD11,Hematochezia,ICD11:ME24.A,exact,inherited,1,exact,1,exact,1,exact
+S0421,ICD11,Oligomenorrhea,ICD11:GA20.0,exact,inherited,1,exact,1,exact,1,exact

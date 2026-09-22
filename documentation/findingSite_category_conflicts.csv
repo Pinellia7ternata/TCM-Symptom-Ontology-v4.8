@@ -1,4 +1,4 @@
-symptom,findingSite(expanded),site_implies_system,asserted_system
+﻿symptom,findingSite(expanded),site_implies_system,asserted_system
 sx_下肢冷,LowerLimb,LimbFinding,WholeBodyFinding
 sx_下肢沉重,LowerLimb,LimbFinding,PsychiatricFinding
 sx_不射精,Genital,FemaleFinding,AbdominalFinding

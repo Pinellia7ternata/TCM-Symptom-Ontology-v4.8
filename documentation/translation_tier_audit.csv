@@ -1,0 +1,12 @@
+tier,n,pct_of_1758
+T_A_refined,886,50.4
+T_B_high,515,29.3
+T_A_full,236,13.4
+none,121,6.9
+TOTAL,1758,100.0
+
+metric,value
+tb_high_n,515
+tb_high_coverage_median_pct,81.8
+tb_high_coverage_mean_pct,80.9
+tb_high_share_ge70_pct,83.3

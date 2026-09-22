@@ -1,0 +1,988 @@
+# mapping_set_id: https://github.com/Pinellia7ternata/TCM-Symptom-Ontology/mappings/TCM-SO-ICD11.sssom.tsv
+# license: https://creativecommons.org/licenses/by/4.0/
+# mapping_provider: https://github.com/Pinellia7ternata/TCM-Symptom-Ontology
+# mapping_date: 2026-09-17
+# creator_id: https://github.com/Pinellia7ternata
+# mapping_tool: manual expert curation after lexical/semantic pre-screening
+# object_source: ICD-11 for Mortality and Morbidity Statistics (MMS)
+# comment_type
+# comment: Subject classes are TCM Symptom Ontology (TCM-SO, release v4.10) symptom classes; predicate and object identify the cross-terminology alignment.
+# curie_map:
+#   TCM-SO: http://OntoTCM.org.cn/ontologies/tcm_v38/f#
+#   HP: http://purl.obolibrary.org/obo/HP_
+#   SNOMEDCT: http://snomed.info/id/
+#   ICD11: https://icd.who.int/browse11/l-m/en#
+subject_id	subject_label	predicate_id	object_id	object_label	mapping_justification	curation_status
+TCM-SO:sx_带下色白	White vaginal discharge	skos:closeMatch	ICD11:MF3A	Vaginal discharge	semapv:ManualMappingCuration	
+TCM-SO:sx_头发色红	Red hair	skos:closeMatch	ICD11:XA9N28	Beard hair	semapv:ManualMappingCuration	
+TCM-SO:sx_头发色红	Red hair	skos:closeMatch	ICD11:ED73.0	Weathered hair	semapv:ManualMappingCuration	
+TCM-SO:sx_劳累发热	exertion-induced fever	skos:closeMatch	ICD11:SE90	Qi deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_疼痛喜按	pain relieved by pressure	skos:closeMatch	ICD11:SE90	Qi deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_眼球深陷	sunken eyeball	skos:closeMatch	ICD11:SE90	Qi deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_眼球深陷	sunken eyeball	skos:closeMatch	ICD11:SE93	Qi sinking pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_结节色黑	Black nodule	skos:closeMatch	ICD11:XM08L6	Afghanistan black	semapv:ManualMappingCuration	
+TCM-SO:sx_结节色黑	Black nodule	skos:closeMatch	ICD11:SK6T	Phlyctenular nodule disorder (TM2)	semapv:ManualMappingCuration	
+TCM-SO:sx_大便时结时稀	stool alternating between constipation and looseness	skos:closeMatch	ICD11:XE484	Stool	semapv:ManualMappingCuration	
+TCM-SO:sx_食少	Poor appetite	skos:closeMatch	ICD11:SF7M	Spleen and kidney yang deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_疮肿宣浮	puffy superficial sore swelling	skos:closeMatch	ICD11:XK7F	Superficial	semapv:ManualMappingCuration	
+TCM-SO:sx_脉细	Thin pulse	skos:closeMatch	ICD11:SF00	Blood deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_脉细	Thin pulse	skos:closeMatch	ICD11:SR1T	Blood deficiency pattern (TM2)	semapv:ManualMappingCuration	
+TCM-SO:sx_呼吸张口抬肩	dyspnea with open-mouth breathing and shoulder lifting	skos:closeMatch	ICD11:MD11.8Z	Mouth breathing, unspecified	semapv:ManualMappingCuration	
+TCM-SO:sx_头皮囊肿	scalp cyst	skos:closeMatch	ICD11:EC92.1	Scalp dysaesthesia	semapv:ManualMappingCuration	
+TCM-SO:sx_头皮囊肿	scalp cyst	skos:closeMatch	ICD11:GA15.2	Nabothian cyst	semapv:ManualMappingCuration	
+TCM-SO:sx_脐突	Umbilical hernia	skos:exactMatch	ICD11:DD53	Umbilical hernia	semapv:ManualMappingCuration	
+TCM-SO:sx_脐突	Umbilical hernia	skos:closeMatch	ICD11:DD54	Paraumbilical hernia	semapv:ManualMappingCuration	
+TCM-SO:sx_头如蒙	head as if swathed	skos:closeMatch	ICD11:SG80	Dampness obstructing the defense yang pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_泪窍溢脓	pus discharge from the lacrimal punctum	skos:closeMatch	ICD11:XA2VR4	Superior lacrimal punctum	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_泪窍溢脓	pus discharge from the lacrimal punctum	skos:closeMatch	ICD11:XA99D0	Inferior lacrimal punctum	semapv:ManualMappingCuration	
+TCM-SO:sx_泪窍溢脓	pus discharge from the lacrimal punctum	skos:closeMatch	ICD11:9A11.0	Eversion of lacrimal punctum	semapv:ManualMappingCuration	
+TCM-SO:sx_睑弦潮红	Flushed red eyelid-margin	skos:closeMatch	ICD11:XA4AX5	Lower eyelid margin	semapv:ManualMappingCuration	
+TCM-SO:sx_睑弦潮红	Flushed red eyelid-margin	skos:closeMatch	ICD11:XA53T1	Upper eyelid margin	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_指按有脓不流	pus not flowing on finger pressure	skos:closeMatch	ICD11:XE94J	No pressure	semapv:ManualMappingCuration	
+TCM-SO:sx_泡沫样大便	foamy stool	skos:closeMatch	ICD11:XE484	Stool	semapv:ManualMappingCuration	
+TCM-SO:sx_肛门脱出物紫红	purplish-red anal prolapse	skos:closeMatch	ICD11:DB53	Anal prolapse	semapv:ManualMappingCuration	
+TCM-SO:sx_耳生痈	ear abscess	skos:closeMatch	ICD11:SK80	Ear abscess disorder (TM2)	semapv:ManualMappingCuration	
+TCM-SO:sx_耳生痈	ear abscess	skos:closeMatch	ICD11:AA00	Abscess of external ear	semapv:ManualMappingCuration	
+TCM-SO:sx_红斑中心萎缩	central atrophy of erythema	skos:closeMatch	ICD11:GB23.3	Atrophy of breast	semapv:ManualMappingCuration	
+TCM-SO:sx_红斑中心萎缩	central atrophy of erythema	skos:closeMatch	ICD11:ME64.0	Erythema	semapv:ManualMappingCuration	
+TCM-SO:sx_囟门迟闭	delayed closure of fontanelle	skos:closeMatch	ICD11:SF7A	Spleen deficiency with water flooding pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_甲沟湿烂	wet erosion of nail fold	skos:closeMatch	ICD11:XA7003	Lateral nail fold of second toe	semapv:ManualMappingCuration	
+TCM-SO:sx_月经量少	Oligomenorrhea	skos:exactMatch	ICD11:GA20.0	Oligomenorrhoea	semapv:ManualMappingCuration	
+TCM-SO:sx_闷痛	Oppressive pain	skos:closeMatch	ICD11:SE91	Qi stagnation pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_经行腰痛	low back pain during menstruation	skos:closeMatch	ICD11:SF5H	Liver and kidney yin deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_人中色黑	Black philtrum	skos:closeMatch	ICD11:XA5LY8	Philtrum	semapv:ManualMappingCuration	
+TCM-SO:sx_人中色黑	Black philtrum	skos:closeMatch	ICD11:XM08L6	Afghanistan black	semapv:ManualMappingCuration	
+TCM-SO:sx_人中色黑	Black philtrum	skos:closeMatch	ICD11:XM2WE8	Mustard black	semapv:ManualMappingCuration	
+TCM-SO:sx_妄见	visual hallucination	skos:exactMatch	ICD11:MB27.27	Visual hallucinations	semapv:ManualMappingCuration	
+TCM-SO:sx_舌起芒刺	With raised prickles tongue	skos:closeMatch	ICD11:DA03.1	Geographic tongue	semapv:ManualMappingCuration	
+TCM-SO:sx_舌起芒刺	With raised prickles tongue	skos:closeMatch	ICD11:MA14.1C	Raised antibody titre	semapv:ManualMappingCuration	
+TCM-SO:sx_烧伤起泡	burn blistering	skos:closeMatch	ICD11:ME63.3	Chronic blistering skin disorder	semapv:ManualMappingCuration	
+TCM-SO:sx_烧伤起泡	burn blistering	skos:closeMatch	ICD11:ME62.6	Acute blistering skin eruption	semapv:ManualMappingCuration	
+TCM-SO:sx_头痛	Headache	skos:exactMatch	ICD11:8A80	Migraine-free headache	semapv:ManualMappingCuration	
+TCM-SO:sx_持续痛	Persistent pain	skos:closeMatch	ICD11:XT6Z	Persistent	semapv:ManualMappingCuration	
+TCM-SO:sx_唇色淡红	Pale red lip	skos:closeMatch	ICD11:SF00	Blood deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_唇色淡红	Pale red lip	skos:closeMatch	ICD11:SR1T	Blood deficiency pattern (TM2)	semapv:ManualMappingCuration	
+TCM-SO:sx_小便中有沉淀	sediment in urine	skos:closeMatch	ICD11:SF79	Spleen deficiency with dampness accumulation pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_小便中有沉淀	sediment in urine	skos:closeMatch	ICD11:SF7M	Spleen and kidney yang deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻头枯稿	withered nasal tip	skos:closeMatch	ICD11:1C17.1	Nasal diphtheria	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻头枯稿	withered nasal tip	skos:closeMatch	ICD11:XA8817	Nasal turbinate	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻头枯稿	withered nasal tip	skos:closeMatch	ICD11:XA3RT8	Elbow tip	semapv:ManualMappingCuration	
+TCM-SO:sx_幻臭	olfactory hallucination	skos:exactMatch	ICD11:MB27.24	Olfactory hallucinations	semapv:ManualMappingCuration	
+TCM-SO:sx_嗳气频作	frequent belching	skos:closeMatch	ICD11:MD91	Belching	semapv:ManualMappingCuration	
+TCM-SO:sx_耳后缝糜烂结痴	eroded crusted retroauricular fold	skos:closeMatch	ICD11:XA5163	Nasolabial fold	semapv:ManualMappingCuration	
+TCM-SO:sx_耳后缝糜烂结痴	eroded crusted retroauricular fold	skos:closeMatch	ICD11:XA8N50	Laryngeal aspect of aryepiglottic fold	semapv:ManualMappingCuration	
+TCM-SO:sx_甲床淡白	pale nail bed	skos:closeMatch	ICD11:XA6189	Nail bed of third toe	semapv:ManualMappingCuration	
+TCM-SO:sx_甲床淡白	pale nail bed	skos:closeMatch	ICD11:XA7B22	Nail bed of second toe	semapv:ManualMappingCuration	
+TCM-SO:sx_甲床淡白	pale nail bed	skos:closeMatch	ICD11:XA65U3	Nail bed of fourth toe	semapv:ManualMappingCuration	
+TCM-SO:sx_便如黄糜	yellow gruel-like stool	skos:closeMatch	ICD11:XE484	Stool	semapv:ManualMappingCuration	
+TCM-SO:sx_寒热往来有定时	alternating chills and fever at regular intervals	skos:closeMatch	ICD11:SD93	Alternating fever and chills disorder (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_寒热往来有定时	alternating chills and fever at regular intervals	skos:closeMatch	ICD11:MG21	Chills	semapv:ManualMappingCuration	
+TCM-SO:sx_小腹痛	Abdominal pain	skos:closeMatch	ICD11:SM33	Abdominal pain disorder (TM2)	semapv:ManualMappingCuration	
+TCM-SO:sx_小腹痛	Abdominal pain	skos:closeMatch	ICD11:DD91.4	Functional abdominal pain syndrome	semapv:ManualMappingCuration	
+TCM-SO:sx_小腹痛	Abdominal pain	skos:closeMatch	ICD11:SC10	Puerperal abdominal pain disorder (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_脉沉	Deep pulse	skos:closeMatch	ICD11:XK16	Deep	semapv:ManualMappingCuration	
+TCM-SO:sx_四肢沉重	heaviness of limbs	skos:closeMatch	ICD11:LD26.3	Syndromes with synostoses of limbs	semapv:ManualMappingCuration	
+TCM-SO:sx_左侧胸廓塌陷	left-sided thoracic collapse	skos:closeMatch	ICD11:DD71.1	Left sided ulcerative colitis	semapv:ManualMappingCuration	
+TCM-SO:sx_口唇色赤	red lips	skos:closeMatch	ICD11:SF7F	Stomach heat pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_口唇色赤	red lips	skos:closeMatch	ICD11:SE72	Heat pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_早泄	Premature ejaculation	skos:closeMatch	ICD11:SB08	Premature ejaculation disorder (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_脊柱侧弯	Scoliosis	skos:exactMatch	ICD11:FA70.1	Scoliosis	semapv:ManualMappingCuration	
+TCM-SO:sx_脊柱侧弯	Scoliosis	skos:closeMatch	ICD11:FC01.5	Post radiation scoliosis	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤色黄如橘	orange-yellow skin	skos:closeMatch	ICD11:XM2XN1	Orange	semapv:ManualMappingCuration	
+TCM-SO:sx_烧伤皮肤色赤	red skin of burn	skos:closeMatch	ICD11:XA04T9	Skin of nose	semapv:ManualMappingCuration	
+TCM-SO:sx_烧伤皮肤色赤	red skin of burn	skos:closeMatch	ICD11:XA9E26	Skin of auricle	semapv:ManualMappingCuration	
+TCM-SO:sx_烧伤皮肤色赤	red skin of burn	skos:closeMatch	ICD11:XA66R9	Skin of elbow	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_嗅觉减退	Hyposmia	skos:exactMatch	ICD11:MB41.3	Hyposmia	semapv:ManualMappingCuration	
+TCM-SO:sx_上腭黏膜白腐	white curdled palatal mucosa	skos:closeMatch	ICD11:XA00H5	Palatal mucosa	semapv:ManualMappingCuration	
+TCM-SO:sx_上腭黏膜白腐	white curdled palatal mucosa	skos:closeMatch	ICD11:XA0PT3	Mucosa	semapv:ManualMappingCuration	
+TCM-SO:sx_听力减退	Hearing impairment	skos:closeMatch	ICD11:AB51.Z	Acquired hearing impairment, unspecified	semapv:ManualMappingCuration	
+TCM-SO:sx_听力减退	Hearing impairment	skos:closeMatch	ICD11:AB51.Y	Other specified acquired hearing impairment	semapv:ManualMappingCuration	
+TCM-SO:sx_听力减退	Hearing impairment	skos:closeMatch	ICD11:AB5Y	Other specified disorders with hearing impairment	semapv:ManualMappingCuration	
+TCM-SO:sx_眵泪	eye discharge and tears	skos:closeMatch	ICD11:MC14	Eye discharge	semapv:ManualMappingCuration	
+TCM-SO:sx_呵欠频作	frequent yawning	skos:closeMatch	ICD11:MD11.D	Yawning	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_便稀如水	watery stool	skos:closeMatch	ICD11:XE484	Stool	semapv:ManualMappingCuration	
+TCM-SO:sx_环口色青	Bluish perioral-region	skos:closeMatch	ICD11:XA1A48	Perioral region	semapv:ManualMappingCuration	
+TCM-SO:sx_大便硬结	hard stool	skos:closeMatch	ICD11:XE484	Stool	semapv:ManualMappingCuration	
+TCM-SO:sx_视远物不清	blurred distant vision	skos:closeMatch	ICD11:SF70	Spleen qi deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_视远物不清	blurred distant vision	skos:closeMatch	ICD11:SF60	Heart qi deficiency pattern (TM1)	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_视远物不清	blurred distant vision	skos:closeMatch	ICD11:SF54	Liver blood deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_异物入耳	foreign body entering the ear	skos:closeMatch	ICD11:ND71	Foreign body in ear	semapv:ManualMappingCuration	
+TCM-SO:sx_异物入耳	foreign body entering the ear	skos:closeMatch	ICD11:ND7Z	Effects of foreign body entering through natural orifice, unspecified	semapv:ManualMappingCuration	
+TCM-SO:sx_颅缝开解	separation of cranial sutures	skos:closeMatch	ICD11:KD31	Wide cranial sutures of newborn	semapv:ManualMappingCuration	
+TCM-SO:sx_尿短黄	scanty dark-yellow urine	skos:closeMatch	ICD11:SE72	Heat pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_便血	Hematochezia	skos:exactMatch	ICD11:ME24.A	Digestive tract haemorrhage	semapv:ManualMappingCuration	
+TCM-SO:sx_风团瘙痒	itchy wheals	skos:closeMatch	ICD11:SF9F	Bladder heat accumulation pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_喷嚏	Sneeze	skos:exactMatch	ICD11:MD11.9	Sneezing	semapv:ManualMappingCuration	
+TCM-SO:sx_多疑	suspiciousness	skos:exactMatch	ICD11:MB26.9	Suspiciousness	semapv:ManualMappingCuration	
+TCM-SO:sx_睑板色淡	Pale tarsal-plate	skos:closeMatch	ICD11:SF00	Blood deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_睑板色淡	Pale tarsal-plate	skos:closeMatch	ICD11:SR1T	Blood deficiency pattern (TM2)	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_重痛	Heavy pain	skos:closeMatch	ICD11:SF01	Blood stasis pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_结节色红	Red nodule	skos:closeMatch	ICD11:SK6T	Phlyctenular nodule disorder (TM2)	semapv:ManualMappingCuration	
+TCM-SO:sx_尿少	oliguria	skos:closeMatch	ICD11:SM8E	Oliguria disorder (TM2)	semapv:ManualMappingCuration	
+TCM-SO:sx_尿少	oliguria	skos:closeMatch	ICD11:MF51	Anuria or oliguria	semapv:ManualMappingCuration	
+TCM-SO:sx_尿少	oliguria	skos:closeMatch	ICD11:SE72	Heat pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_肩痛	Shoulder pain	skos:closeMatch	ICD11:FB56.2	Shoulder lesion	semapv:ManualMappingCuration	
+TCM-SO:sx_哮鸣	Wheezing	skos:closeMatch	ICD11:SA81	Wheezing disorder (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_哮鸣	Wheezing	skos:exactMatch	ICD11:MD11.C	Wheezing	semapv:ManualMappingCuration	
+TCM-SO:sx_哮鸣	Wheezing	skos:closeMatch	ICD11:SF85	Cold phlegm obstructing the lung pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_大便臭如败卵	stool smelling like rotten eggs	skos:closeMatch	ICD11:XE484	Stool	semapv:ManualMappingCuration	
+TCM-SO:sx_时时泛恶	frequent nausea	skos:closeMatch	ICD11:MD90.0	Nausea	semapv:ManualMappingCuration	
+TCM-SO:sx_胀痛	Distending pain	skos:closeMatch	ICD11:SF57	Liver qi stagnation pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_胀痛	Distending pain	skos:closeMatch	ICD11:SE91	Qi stagnation pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_经血如崩	flooding menstrual bleeding	skos:closeMatch	ICD11:GA20.51	Light menstrual bleeding	semapv:ManualMappingCuration	
+TCM-SO:sx_脓色黑	Black pus	skos:closeMatch	ICD11:XM08L6	Afghanistan black	semapv:ManualMappingCuration	
+TCM-SO:sx_脓色黑	Black pus	skos:closeMatch	ICD11:XM2WE8	Mustard black	semapv:ManualMappingCuration	
+TCM-SO:sx_脓色黑	Black pus	skos:closeMatch	ICD11:XM5733	Black pepper	semapv:ManualMappingCuration	
+TCM-SO:sx_体毛脱落	loss of body hair	skos:closeMatch	ICD11:XA1WH2	Body hair	semapv:ManualMappingCuration	
+TCM-SO:sx_阴茎疼痛	Pain in penis	skos:exactMatch	ICD11:MF40.00	Pain in penis	semapv:ManualMappingCuration	
+TCM-SO:sx_鳞屑不易脱落	scales difficult to detach	skos:closeMatch	ICD11:XE2JZ	Difficult to insert	semapv:ManualMappingCuration	
+TCM-SO:sx_指甲色黄	Yellow nail	skos:closeMatch	ICD11:EE11.1	Yellow nail syndrome	semapv:ManualMappingCuration	
+TCM-SO:sx_指甲色黄	Yellow nail	skos:closeMatch	ICD11:XA6Q52	Nail	semapv:ManualMappingCuration	
+TCM-SO:sx_眵多	profuse eye discharge	skos:closeMatch	ICD11:MC14	Eye discharge	semapv:ManualMappingCuration	
+TCM-SO:sx_眵多	profuse eye discharge	skos:closeMatch	ICD11:XE268	Electro-static discharge	semapv:ManualMappingCuration	
+TCM-SO:sx_地图舌	Geographic tongue	skos:exactMatch	ICD11:DA03.1	Geographic tongue	semapv:ManualMappingCuration	
+TCM-SO:sx_胸廓扁平	Thoracic cage flatness	skos:closeMatch	ICD11:SF93	Kidney yin deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_大便清冷	clear and cold stool	skos:closeMatch	ICD11:XE484	Stool	semapv:ManualMappingCuration	
+TCM-SO:sx_大便清冷	clear and cold stool	skos:closeMatch	ICD11:SF7M	Spleen and kidney yang deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_尿多	polyuria	skos:closeMatch	ICD11:SM8D	Polyuria disorder (TM2)	semapv:ManualMappingCuration	
+TCM-SO:sx_尿多	polyuria	skos:exactMatch	ICD11:MF55	Polyuria	semapv:ManualMappingCuration	
+TCM-SO:sx_阴囊水肿	Edema	skos:exactMatch	ICD11:MG29	Oedema	semapv:ManualMappingCuration	
+TCM-SO:sx_指_趾紫黑	Purplish-black fingers/toes	skos:closeMatch	ICD11:XM08L6	Afghanistan black	semapv:ManualMappingCuration	
+TCM-SO:sx_疤痕色紫	Purple scar	skos:closeMatch	ICD11:SF01	Blood stasis pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_舌色猪黑	pork-liver-dark tongue	skos:closeMatch	ICD11:XE9BL	Pork	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_舌色猪黑	pork-liver-dark tongue	skos:closeMatch	ICD11:DA03.1	Geographic tongue	semapv:ManualMappingCuration	
+TCM-SO:sx_瞳神不圆	irregular pupil	skos:closeMatch	ICD11:LA11.60	Irregular pupil of the eye	semapv:ManualMappingCuration	
+TCM-SO:sx_视大为小	micropsia	skos:closeMatch	ICD11:SC23	Uterine mass disorder (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_多食易饥	polyphagia with easy hunger	skos:closeMatch	ICD11:SF7E	Stomach yin deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_泄泻	Diarrhea	skos:closeMatch	ICD11:SA55	Diarrhea disorder (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_泄泻	Diarrhea	skos:closeMatch	ICD11:XE484	Stool	semapv:ManualMappingCuration	
+TCM-SO:sx_脓出痛剧	severe pain on pus discharge	skos:closeMatch	ICD11:XS2E	Severe pain	semapv:ManualMappingCuration	
+TCM-SO:sx_结节小	Small nodule	skos:closeMatch	ICD11:SF01	Blood stasis pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_带下粘稠	sticky vaginal discharge	skos:closeMatch	ICD11:MF3A	Vaginal discharge	semapv:ManualMappingCuration	
+TCM-SO:sx_头小	microcephaly	skos:exactMatch	ICD11:LA05.0	Microcephaly	semapv:ManualMappingCuration	
+TCM-SO:sx_呵欠声声	repeated yawning	skos:closeMatch	ICD11:MD11.D	Yawning	semapv:ManualMappingCuration	
+TCM-SO:sx_呵欠声声	repeated yawning	skos:closeMatch	ICD11:SE91	Qi stagnation pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_流泪	Reflex tearing	skos:exactMatch	ICD11:9A61	Tearing	semapv:ManualMappingCuration	
+TCM-SO:sx_瞳神积血	blood accumulation in the pupil (hyphema)	skos:closeMatch	ICD11:SF9E	Blood accumulation in the bladder pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_瞳神积血	blood accumulation in the pupil (hyphema)	skos:closeMatch	ICD11:SF99	Blood and heat accumulation in the uterus pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_瞳神积血	blood accumulation in the pupil (hyphema)	skos:closeMatch	ICD11:SF86	Turbid phlegm accumulation in the lung pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_心悸	Palpitations	skos:exactMatch	ICD11:MC81.3	Palpitations	semapv:ManualMappingCuration	
+TCM-SO:sx_结核累累	numerous nodules (scrofula)	skos:closeMatch	ICD11:SF93	Kidney yin deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_结核累累	numerous nodules (scrofula)	skos:closeMatch	ICD11:SF82	Lung and kidney yin deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_经前面部粉刺	premenstrual facial acne	skos:closeMatch	ICD11:SF93	Kidney yin deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_经前面部粉刺	premenstrual facial acne	skos:closeMatch	ICD11:SF82	Lung and kidney yin deficiency pattern (TM1)	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_经前面部粉刺	premenstrual facial acne	skos:closeMatch	ICD11:SF5H	Liver and kidney yin deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_肉芽晦暗	dull dark granulation tissue	skos:closeMatch	ICD11:XA0UK0	Bone tissue	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤粗糙	Skin roughness	skos:closeMatch	ICD11:SF55	Liver depression and blood stasis pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤粗糙	Skin roughness	skos:closeMatch	ICD11:SF01	Blood stasis pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_疮疡溃后如蜂窝	honeycomb-like sore after ulceration	skos:closeMatch	ICD11:DA01.10	Oral aphthae or aphtha-like ulceration	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤抓痕	Skin-picking	skos:closeMatch	ICD11:SF02	Blood heat pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_指骨节脱落	loss of finger joints	skos:closeMatch	ICD11:XE992	Loss of data	semapv:ManualMappingCuration	
+TCM-SO:sx_指骨节脱落	loss of finger joints	skos:closeMatch	ICD11:XE0Z9	Loss of osseointegration	semapv:ManualMappingCuration	
+TCM-SO:sx_肿块推之不动	immobile mass	skos:closeMatch	ICD11:SF01	Blood stasis pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_怔忡	Palpitations	skos:exactMatch	ICD11:MC81.3	Palpitations	semapv:ManualMappingCuration	
+TCM-SO:sx_喷嚏频作	frequent sneezing	skos:closeMatch	ICD11:MD11.A	Sneezing	semapv:ManualMappingCuration	
+TCM-SO:sx_神昏	Coma	skos:closeMatch	ICD11:MB20.1	Coma	semapv:ManualMappingCuration	
+TCM-SO:sx_瘙痒	Pruritus	skos:exactMatch	ICD11:EC90	Pruritus	semapv:ManualMappingCuration	
+TCM-SO:sx_脐糜烂	umbilical erosion	skos:closeMatch	ICD11:DD53	Umbilical hernia	semapv:ManualMappingCuration	
+TCM-SO:sx_脐糜烂	umbilical erosion	skos:closeMatch	ICD11:XA0VZ0	Umbilical artery	semapv:ManualMappingCuration	
+TCM-SO:sx_脓腐旁串	sloughing pus tunneling sideways	skos:closeMatch	ICD11:XM6J14	Protectant, skin	semapv:ManualMappingCuration	
+TCM-SO:sx_脓腐旁串	sloughing pus tunneling sideways	skos:closeMatch	ICD11:XM3B54	Arterolane and Piperaquine	semapv:ManualMappingCuration	
+TCM-SO:sx_脓腐旁串	sloughing pus tunneling sideways	skos:closeMatch	ICD11:XM99F8	Insulins and analogues	semapv:ManualMappingCuration	
+TCM-SO:sx_经行眩晕	dizziness during menstruation	skos:closeMatch	ICD11:SF5H	Liver and kidney yin deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_食入腹胀	Abdominal distention	skos:exactMatch	ICD11:ME09	Abdominal distension	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤感觉消失	Skin anesthesia (loss of sensation)	skos:closeMatch	ICD11:XM0FJ3	Anesthesia regional	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤感觉消失	Skin anesthesia (loss of sensation)	skos:closeMatch	ICD11:MB40.3	Anaesthesia of skin	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤感觉消失	Skin anesthesia (loss of sensation)	skos:closeMatch	ICD11:XM9RW1	Anesthesia muscle relaxation	semapv:ManualMappingCuration	
+TCM-SO:sx_耳鲤	ear sore (possibly 耳疔)	skos:closeMatch	ICD11:LA21.3	Misshapen ear	semapv:ManualMappingCuration	
+TCM-SO:sx_耳鲤	ear sore (possibly 耳疔)	skos:closeMatch	ICD11:LA21.1	Protruding ear	semapv:ManualMappingCuration	
+TCM-SO:sx_耳鲤	ear sore (possibly 耳疔)	skos:closeMatch	ICD11:AA41.0	Cauliflower ear	semapv:ManualMappingCuration	
+TCM-SO:sx_少腹痛	Abdominal pain	skos:closeMatch	ICD11:SM33	Abdominal pain disorder (TM2)	semapv:ManualMappingCuration	
+TCM-SO:sx_少腹痛	Abdominal pain	skos:closeMatch	ICD11:DD91.4	Functional abdominal pain syndrome	semapv:ManualMappingCuration	
+TCM-SO:sx_少腹痛	Abdominal pain	skos:closeMatch	ICD11:SC10	Puerperal abdominal pain disorder (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_肛门松弛	anal relaxation	skos:closeMatch	ICD11:SE93	Qi sinking pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻柱塌陷	collapsed nasal columella	skos:closeMatch	ICD11:XA4S17	Columella	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻柱塌陷	collapsed nasal columella	skos:closeMatch	ICD11:XA8817	Nasal turbinate	semapv:ManualMappingCuration	
+TCM-SO:sx_带下杂见五色	vaginal discharge of five intermingled colors	skos:exactMatch	ICD11:MF3A	Vaginal discharge	semapv:ManualMappingCuration	
+TCM-SO:sx_疤痕高突	raised hypertrophic scar	skos:closeMatch	ICD11:EE60.1	Hypertrophic scar	semapv:ManualMappingCuration	
+TCM-SO:sx_寒战	Chills	skos:exactMatch	ICD11:MG21	Chills	semapv:ManualMappingCuration	
+TCM-SO:sx_足躁水肿	Ankle edema	skos:closeMatch	ICD11:MG29.00	Ankle oedema	semapv:ManualMappingCuration	
+TCM-SO:sx_水泻	Watery diarrhea	skos:closeMatch	ICD11:XE484	Stool	semapv:ManualMappingCuration	
+TCM-SO:sx_言语不清	Slurred speech	skos:closeMatch	ICD11:MB23.L	Pressured speech	semapv:ManualMappingCuration	
+TCM-SO:sx_言语不清	Slurred speech	skos:closeMatch	ICD11:MA81	Speech dysfluency	semapv:ManualMappingCuration	
+TCM-SO:sx_经断复行	postmenopausal bleeding	skos:closeMatch	ICD11:GA30.1	Postmenopausal uterine bleeding	semapv:ManualMappingCuration	
+TCM-SO:sx_肛门部包块	anal mass	skos:closeMatch	ICD11:DB70.00	Anal abscess	semapv:ManualMappingCuration	
+TCM-SO:sx_耳廓枯槁	withered auricle	skos:closeMatch	ICD11:LA24	Accessory auricle	semapv:ManualMappingCuration	
+TCM-SO:sx_耳廓枯槁	withered auricle	skos:closeMatch	ICD11:NA0B	Injury of the auricle	semapv:ManualMappingCuration	
+TCM-SO:sx_耳廓枯槁	withered auricle	skos:closeMatch	ICD11:XA9E26	Skin of auricle	semapv:ManualMappingCuration	
+TCM-SO:sx_睫毛稀疏	Sparse eyelashes	skos:closeMatch	ICD11:XA1RK2	Eyelashes	semapv:ManualMappingCuration	
+TCM-SO:sx_人中色青	Bluish philtrum	skos:closeMatch	ICD11:XA5LY8	Philtrum	semapv:ManualMappingCuration	
+TCM-SO:sx_人中色青	Bluish philtrum	skos:closeMatch	ICD11:SF01	Blood stasis pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_睥急紧小	tight narrow eyelid fissure (blepharophimosis)	skos:closeMatch	ICD11:SF70	Spleen qi deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_得气行痛减	pain relieved by qi-moving (massage/exercise)	skos:closeMatch	ICD11:XE0KF	Moving ramp	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_尿血淡红	light-red hematuria	skos:closeMatch	ICD11:SF90	Kidney qi deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_尿血淡红	light-red hematuria	skos:closeMatch	ICD11:SF93	Kidney yin deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_前臂内侧红丝	red threads on inner forearm (acute lymphangitis)	skos:closeMatch	ICD11:XM3R78	Lebanese red	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤流滋	Skin oozing of serous fluid	skos:closeMatch	ICD11:XA2L90	Serous fluid	semapv:ManualMappingCuration	
+TCM-SO:sx_大便先干后溏	stool dry at first then loose	skos:closeMatch	ICD11:XE484	Stool	semapv:ManualMappingCuration	
+TCM-SO:sx_便血鲜红	bright-red blood in stool	skos:closeMatch	ICD11:ME24.A6	Positive occult blood in stool	semapv:ManualMappingCuration	
+TCM-SO:sx_便血鲜红	bright-red blood in stool	skos:closeMatch	ICD11:XE484	Stool	semapv:ManualMappingCuration	
+TCM-SO:sx_腰冷	cold lower back	skos:closeMatch	ICD11:NB50.1	Contusion of lower back or pelvis	semapv:ManualMappingCuration	
+TCM-SO:sx_腰冷	cold lower back	skos:closeMatch	ICD11:NB50.0	Abrasion of lower back or pelvis	semapv:ManualMappingCuration	
+TCM-SO:sx_口疮	Aphthous ulcer	skos:exactMatch	ICD11:DA01.10	Oral ulcer	semapv:ManualMappingCuration	
+TCM-SO:sx_带下如涕	snivel-like vaginal discharge	skos:closeMatch	ICD11:MF3A	Vaginal discharge	semapv:ManualMappingCuration	
+TCM-SO:sx_口中苹果气	apple-like odor in mouth	skos:closeMatch	ICD11:SF93	Kidney yin deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_口中苹果气	apple-like odor in mouth	skos:closeMatch	ICD11:SF7E	Stomach yin deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_渴喜饮热	thirst with preference for hot drinks	skos:closeMatch	ICD11:SF97	Kidney yang deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_渴喜饮热	thirst with preference for hot drinks	skos:closeMatch	ICD11:SF7M	Spleen and kidney yang deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_舌紫	Tongue pain	skos:closeMatch	ICD11:DA01	Gingival and tongue disorders	semapv:ManualMappingCuration	
+TCM-SO:sx_包皮过长	redundant prepuce	skos:exactMatch	ICD11:GB05.0	Redundant prepuce	semapv:ManualMappingCuration	
+TCM-SO:sx_包皮过长	redundant prepuce	skos:closeMatch	ICD11:GB05.Z	Redundant prepuce, phimosis or paraphimosis, unspecified	semapv:ManualMappingCuration	
+TCM-SO:sx_包皮过长	redundant prepuce	skos:closeMatch	ICD11:GB05.4	Adherent prepuce	semapv:ManualMappingCuration	
+TCM-SO:sx_上腭腐溃	festering palate	skos:closeMatch	ICD11:XA8HL5	Soft palate	semapv:ManualMappingCuration	
+TCM-SO:sx_上腭腐溃	festering palate	skos:closeMatch	ICD11:XA4527	Hard palate	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_太溪脉减弱	weakened Taixi (KI3) pulse	skos:closeMatch	ICD11:XD8QN4	Pulse Oximeters, Tabletop	semapv:ManualMappingCuration	
+TCM-SO:sx_耳脓色白	White ear pus	skos:closeMatch	ICD11:XM6AD6	Egg white	semapv:ManualMappingCuration	
+TCM-SO:sx_耳脓色白	White ear pus	skos:closeMatch	ICD11:LA21.3	Misshapen ear	semapv:ManualMappingCuration	
+TCM-SO:sx_小儿蚀齿	dental erosion in children	skos:closeMatch	ICD11:DA08.0	Dental caries	semapv:ManualMappingCuration	
+TCM-SO:sx_尿血棕红	brownish-red hematuria	skos:closeMatch	ICD11:SF90	Kidney qi deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_间歇性鼻塞	intermittent nasal obstruction	skos:closeMatch	ICD11:XT5G	Intermittent	semapv:ManualMappingCuration	
+TCM-SO:sx_喉痒	itching of throat	skos:closeMatch	ICD11:NA20.1	Contusion of throat	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹结血痴	blood-crusted rash	skos:closeMatch	ICD11:XM2NV9	Blood (derivatives) (natural) (plasma) (whole)	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹结血痴	blood-crusted rash	skos:closeMatch	ICD11:ME66.6Z	Rash, unspecified	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹结血痴	blood-crusted rash	skos:closeMatch	ICD11:ME66.6Y	Other specified rash	semapv:ManualMappingCuration	
+TCM-SO:sx_疮面痛觉减退	decreased pain sensation of sore surface	skos:closeMatch	ICD11:VE20	Sensation of pain [BMDS]	semapv:ManualMappingCuration	
+TCM-SO:sx_疮面痛觉减退	decreased pain sensation of sore surface	skos:closeMatch	ICD11:VV12	Sensation of pain	semapv:ManualMappingCuration	
+TCM-SO:sx_脓似粉浆	starch-paste-like pus	skos:closeMatch	ICD11:SF62	Dual deficiency of heart qi and blood pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_头大	macrocephaly	skos:exactMatch	ICD11:LB70.3	Macrocephaly	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻端色白	White tip-of-nose	skos:closeMatch	ICD11:XA04T9	Skin of nose	semapv:ManualMappingCuration	
+TCM-SO:sx_耳脓清稀	Ear pus thin and clear	skos:closeMatch	ICD11:SF7M	Spleen and kidney yang deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_结喉一侧漫肿	diffuse swelling on one side of laryngeal prominence	skos:closeMatch	ICD11:XA14Y9	Side of toe	semapv:ManualMappingCuration	
+TCM-SO:sx_耳鸣	Tinnitus	skos:exactMatch	ICD11:MC41	Tinnitus	semapv:ManualMappingCuration	
+TCM-SO:sx_牙齿焦黑	burnt-black teeth	skos:closeMatch	ICD11:XM08L6	Afghanistan black	semapv:ManualMappingCuration	
+TCM-SO:sx_牙齿焦黑	burnt-black teeth	skos:closeMatch	ICD11:DA07.7	Embedded teeth	semapv:ManualMappingCuration	
+TCM-SO:sx_齿眼肿	swollen gum margin	skos:closeMatch	ICD11:XM6DW9	Guar gum (medicinal)	semapv:ManualMappingCuration	
+TCM-SO:sx_悬痈	uvula abscess (xuanyong)	skos:closeMatch	ICD11:XA2993	Uvula	semapv:ManualMappingCuration	
+TCM-SO:sx_水疱中央凹陷	centrally depressed blisters	skos:closeMatch	ICD11:MB24.5	Depressed mood	semapv:ManualMappingCuration	
+TCM-SO:sx_谵语	Delirium	skos:closeMatch	ICD11:SQ00	Delirium disorder (TM2)	semapv:ManualMappingCuration	
+TCM-SO:sx_夜啼	night crying (in infants)	skos:closeMatch	ICD11:SE36	Night crying disorder (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_头发结穗	tufted hair	skos:closeMatch	ICD11:SF7C	Stomach qi deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_头发结穗	tufted hair	skos:closeMatch	ICD11:SE90	Qi deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_吞咽困难	Dysphagia	skos:exactMatch	ICD11:MD93	Dysphagia	semapv:ManualMappingCuration	
+TCM-SO:sx_吞咽困难	Dysphagia	skos:closeMatch	ICD11:SA50	Dysphagia disorder (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_妊娠水肿	edema during pregnancy	skos:closeMatch	ICD11:XT0S	Pregnancy	semapv:ManualMappingCuration	
+TCM-SO:sx_带下夹血	blood-streaked vaginal discharge	skos:closeMatch	ICD11:MF3A	Vaginal discharge	semapv:ManualMappingCuration	
+TCM-SO:sx_口淡	Hypogeusia	skos:closeMatch	ICD11:SF7C	Stomach qi deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_肛门脱出物鲜红	bright-red anal prolapse	skos:closeMatch	ICD11:DB53	Anal prolapse	semapv:ManualMappingCuration	
+TCM-SO:sx_肛门脱出物鲜红	bright-red anal prolapse	skos:closeMatch	ICD11:SE93	Qi sinking pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_下肢沉重	heaviness of lower limbs	skos:closeMatch	ICD11:BD70.0	Superficial thrombophlebitis of lower limbs	semapv:ManualMappingCuration	
+TCM-SO:sx_唇色青黑	Bluish black lip	skos:closeMatch	ICD11:XM08L6	Afghanistan black	semapv:ManualMappingCuration	
+TCM-SO:sx_失眠	Insomnia	skos:exactMatch	ICD11:7A00	Insomnia disorders	semapv:ManualMappingCuration	
+TCM-SO:sx_腰痛	Low back pain	skos:exactMatch	ICD11:ME84.2	Low back pain	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹结脓痴	pus-crusted rash	skos:closeMatch	ICD11:ME66.6Z	Rash, unspecified	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹结脓痴	pus-crusted rash	skos:closeMatch	ICD11:ME66.6Y	Other specified rash	semapv:ManualMappingCuration	
+TCM-SO:sx_寒热往来_入暮尤剧	alternating chills and fever, worse at dusk	skos:closeMatch	ICD11:SD93	Alternating fever and chills disorder (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_阴囊溃破	scrotal ulceration	skos:closeMatch	ICD11:MF40.20	Acute scrotal pain	semapv:ManualMappingCuration	
+TCM-SO:sx_精索坚硬	hard spermatic cord	skos:closeMatch	ICD11:XA5KK7	Spermatic Vein	semapv:ManualMappingCuration	
+TCM-SO:sx_咳嗽频作	Frequent cough	skos:closeMatch	ICD11:MD12	Cough	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻端色赤	Red tip-of-nose	skos:closeMatch	ICD11:XA3057	Supratip of nose	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻端色赤	Red tip-of-nose	skos:closeMatch	ICD11:XA04T9	Skin of nose	semapv:ManualMappingCuration	
+TCM-SO:sx_视物易色	disturbed color vision	skos:closeMatch	ICD11:SF57	Liver qi stagnation pattern (TM1)	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_大便干燥	dry stool	skos:closeMatch	ICD11:SR8C	Dry stool pattern (TM2)	semapv:ManualMappingCuration	
+TCM-SO:sx_大便干燥	dry stool	skos:closeMatch	ICD11:XE484	Stool	semapv:ManualMappingCuration	
+TCM-SO:sx_咽干	Abnormality of the pharynx	skos:closeMatch	ICD11:MD36.0	Pharyngitis	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤皲裂	Skin fissuring	skos:closeMatch	ICD11:SF04	Blood dryness pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_反酸	Oral lichenoid lesion	skos:closeMatch	ICD11:DA22	Gastro-oesophageal reflux disease	semapv:ManualMappingCuration	
+TCM-SO:sx_舌謇语涩	stiff tongue with sluggish speech	skos:closeMatch	ICD11:MA81	Speech dysfluency	semapv:ManualMappingCuration	
+TCM-SO:sx_舌謇语涩	stiff tongue with sluggish speech	skos:closeMatch	ICD11:MB23.L	Pressured speech	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_舌謇语涩	stiff tongue with sluggish speech	skos:closeMatch	ICD11:DA03.1	Geographic tongue	semapv:ManualMappingCuration	
+TCM-SO:sx_恶寒	Chills	skos:closeMatch	ICD11:MG26	Fever of other or unknown origin	semapv:ManualMappingCuration	
+TCM-SO:sx_尿频	Frequent urination	skos:exactMatch	ICD11:MF30.Z	Urinary frequency	semapv:ManualMappingCuration	
+TCM-SO:sx_鳞屑色黑	Black scale	skos:closeMatch	ICD11:XM08L6	Afghanistan black	semapv:ManualMappingCuration	
+TCM-SO:sx_熟声如雷	snoring like thunder	skos:closeMatch	ICD11:XH0H23	Burkitt-like lymphoma	semapv:ManualMappingCuration	
+TCM-SO:sx_熟声如雷	snoring like thunder	skos:closeMatch	ICD11:DA01.10	Oral aphthae or aphtha-like ulceration	semapv:ManualMappingCuration	
+TCM-SO:sx_心忡	palpitations	skos:exactMatch	ICD11:MC81.2	Palpitations	semapv:ManualMappingCuration	
+TCM-SO:sx_咳声重浊	Abnormally low-pitched voice	skos:closeMatch	ICD11:SF86	Turbid phlegm accumulation in the lung pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_咳声重浊	Abnormally low-pitched voice	skos:closeMatch	ICD11:SF8C	Wind-cold fettering the lung pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_咳声重浊	Abnormally low-pitched voice	skos:closeMatch	ICD11:SF85	Cold phlegm obstructing the lung pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_水疱枯瘪	withered shrunken blisters	skos:closeMatch	ICD11:ME66.6Z	Rash, unspecified	semapv:ManualMappingCuration	
+TCM-SO:sx_水疱枯瘪	withered shrunken blisters	skos:closeMatch	ICD11:ME66.6Y	Other specified rash	semapv:ManualMappingCuration	
+TCM-SO:sx_头痒	Head itching	skos:closeMatch	ICD11:SF04	Blood dryness pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_耳痛	Ear pain	skos:exactMatch	ICD11:MC92.Y	Otalgia	semapv:ManualMappingCuration	
+TCM-SO:sx_视近物不清	blurred near vision	skos:closeMatch	ICD11:9D90.7	Near vision impairment	semapv:ManualMappingCuration	
+TCM-SO:sx_惊悸	Palpitations	skos:exactMatch	ICD11:MC81.2	Palpitations	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤色紫	Purple skin	skos:closeMatch	ICD11:SF01	Blood stasis pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤色紫	Purple skin	skos:closeMatch	ICD11:SF55	Liver depression and blood stasis pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_月经量多	Menorrhagia	skos:exactMatch	ICD11:GA20.50	Heavy menstrual bleeding	semapv:ManualMappingCuration	
+TCM-SO:sx_咳声嘶哑	hoarse cough	skos:closeMatch	ICD11:MD12	Cough	semapv:ManualMappingCuration	
+TCM-SO:sx_咳声嘶哑	hoarse cough	skos:closeMatch	ICD11:SF8A	Wind-heat invading the lung pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_肛门皮肤溃疡	Skin ulcer	skos:exactMatch	ICD11:ME63	Skin ulcer	semapv:ManualMappingCuration	
+TCM-SO:sx_小便不利	Dysuria	skos:exactMatch	ICD11:MF50.7	Dysuria	semapv:ManualMappingCuration	
+TCM-SO:sx_小便不利	Dysuria	skos:closeMatch	ICD11:SM87	Dysuria disorder (TM2)	semapv:ManualMappingCuration	
+TCM-SO:sx_颌面疼痛	Maxillofacial-region pain	skos:closeMatch	ICD11:DA08.0	Dental caries	semapv:ManualMappingCuration	
+TCM-SO:sx_腿酸	sour legs	skos:closeMatch	ICD11:SF5H	Liver and kidney yin deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹色白	White rash	skos:closeMatch	ICD11:XM3DL1	White ash	semapv:ManualMappingCuration	
+TCM-SO:sx_目赤	Red eye	skos:exactMatch	ICD11:9A61	Red eye	semapv:ManualMappingCuration	
+TCM-SO:sx_壮热	Malignant hyperthermia	skos:closeMatch	ICD11:8C78	Malignant hyperthermia or hyperpyrexia	semapv:ManualMappingCuration	
+TCM-SO:sx_壮热	Malignant hyperthermia	skos:closeMatch	ICD11:NE86	Malignant hyperthermia due to anaesthesia	semapv:ManualMappingCuration	
+TCM-SO:sx_嗜睡	Lethargy	skos:closeMatch	ICD11:SF97	Kidney yang deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_口臭	Halitosis	skos:exactMatch	ICD11:MD95	Halitosis	semapv:ManualMappingCuration	
+TCM-SO:sx_痔核灰白	gray-white hemorrhoidal nodule	skos:closeMatch	ICD11:SF7C	Stomach qi deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_呕吐酸水	vomiting of sour fluid	skos:closeMatch	ICD11:MD90.1	Vomiting	semapv:ManualMappingCuration	
+TCM-SO:sx_甲向内嵌	ingrown nail	skos:closeMatch	ICD11:XA6Q52	Nail	semapv:ManualMappingCuration	
+TCM-SO:sx_牙龈青紫	bluish-purple gums	skos:closeMatch	ICD11:SF01	Blood stasis pattern (TM1)	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_牙龈青紫	bluish-purple gums	skos:closeMatch	ICD11:SF55	Liver depression and blood stasis pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_肛周皮下痰道	subcutaneous tract around anus	skos:closeMatch	ICD11:XA0D34	Anus	semapv:ManualMappingCuration	
+TCM-SO:sx_手掌角化	palmar keratinization	skos:closeMatch	ICD11:XA10U4	Palmar aponeurosis	semapv:ManualMappingCuration	
+TCM-SO:sx_指纹色青	Bluish infantile finger venules	skos:closeMatch	ICD11:ED80.6	Infantile acne	semapv:ManualMappingCuration	
+TCM-SO:sx_酸痛	Aching pain	skos:closeMatch	ICD11:SE90	Qi deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_酸痛	Aching pain	skos:closeMatch	ICD11:SR1T	Blood deficiency pattern (TM2)	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤增厚	Thickened skin	skos:closeMatch	ICD11:SF04	Blood dryness pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_足跟痛	Foot pain	skos:closeMatch	ICD11:SF5H	Liver and kidney yin deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_咳如犬吠	barking cough	skos:closeMatch	ICD11:MD12	Cough	semapv:ManualMappingCuration	
+TCM-SO:sx_乳蛾脓点	tonsillar pus points	skos:closeMatch	ICD11:XA46Z4	Tonsillar fossa	semapv:ManualMappingCuration	
+TCM-SO:sx_乳蛾脓点	tonsillar pus points	skos:closeMatch	ICD11:1F20.13	Tonsillar aspergillosis	semapv:ManualMappingCuration	
+TCM-SO:sx_皮峪隆起	Skin-ridges bulging	skos:closeMatch	ICD11:XM6J14	Protectant, skin	semapv:ManualMappingCuration	
+TCM-SO:sx_皮峪隆起	Skin-ridges bulging	skos:closeMatch	ICD11:ME65.3	Stinging of skin	semapv:ManualMappingCuration	
+TCM-SO:sx_皮峪隆起	Skin-ridges bulging	skos:closeMatch	ICD11:ME65.1	Itching of skin	semapv:ManualMappingCuration	
+TCM-SO:sx_大便腐臭	putrid stool	skos:closeMatch	ICD11:XE484	Stool	semapv:ManualMappingCuration	
+TCM-SO:sx_腰脊痛	lumbosacral pain	skos:closeMatch	ICD11:8B92.3	Lumbosacral radiculoplexopathy	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤苔癣	lichenified skin	skos:closeMatch	ICD11:ME63.5	Chronic lichenified skin disorder	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻柱溃陷	collapsed nasal columella	skos:closeMatch	ICD11:XA4S17	Columella	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻柱溃陷	collapsed nasal columella	skos:closeMatch	ICD11:XA8817	Nasal turbinate	semapv:ManualMappingCuration	
+TCM-SO:sx_肩凝	frozen shoulder	skos:closeMatch	ICD11:SP15	Frozen shoulder disorder (TM2)	semapv:ManualMappingCuration	
+TCM-SO:sx_神水浑浊	turbid aqueous humor	skos:closeMatch	ICD11:SF5H	Liver and kidney yin deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_拘急肉跳	cramping with muscle twitching	skos:closeMatch	ICD11:SF00	Blood deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_拘急肉跳	cramping with muscle twitching	skos:closeMatch	ICD11:SR1T	Blood deficiency pattern (TM2)	semapv:ManualMappingCuration	
+TCM-SO:sx_肛门结节柔软	soft anal nodule	skos:closeMatch	ICD11:SK6T	Phlyctenular nodule disorder (TM2)	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_耳聋	Severe hearing impairment	skos:exactMatch	ICD11:AB52	Deafness	semapv:ManualMappingCuration	
+TCM-SO:sx_胸痛	Chest pain	skos:exactMatch	ICD11:MD30.Z	Chest pain	semapv:ManualMappingCuration	
+TCM-SO:sx_脐红	umbilical redness	skos:closeMatch	ICD11:XA0VZ0	Umbilical artery	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_脐红	umbilical redness	skos:closeMatch	ICD11:XA3L42	Umbilical cord	semapv:ManualMappingCuration	
+TCM-SO:sx_脐红	umbilical redness	skos:closeMatch	ICD11:DD53	Umbilical hernia	semapv:ManualMappingCuration	
+TCM-SO:sx_牙龈淡白	pale gums	skos:closeMatch	ICD11:SE90	Qi deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_牙龈淡白	pale gums	skos:closeMatch	ICD11:SR1T	Blood deficiency pattern (TM2)	semapv:ManualMappingCuration	
+TCM-SO:sx_牙龈淡白	pale gums	skos:closeMatch	ICD11:SF00	Blood deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_脓稀薄	Pus thin (watery)	skos:closeMatch	ICD11:SF62	Dual deficiency of heart qi and blood pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_妊娠腹痛	abdominal pain during pregnancy	skos:closeMatch	ICD11:JA01.0	Abdominal pregnancy	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤色黑	Black skin	skos:closeMatch	ICD11:SN4J	Black red skin lesion disorder (TM2)	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤色黑	Black skin	skos:closeMatch	ICD11:XM08L6	Afghanistan black	semapv:ManualMappingCuration	
+TCM-SO:sx_舌下痰包	sublingual phlegm mass (ranula)	skos:closeMatch	ICD11:XA7K99	Sublingual vein	semapv:ManualMappingCuration	
+TCM-SO:sx_包茎	Phimosis	skos:exactMatch	ICD11:GB05.2	Phimosis	semapv:ManualMappingCuration	
+TCM-SO:sx_包茎	Phimosis	skos:closeMatch	ICD11:SN0A	Phimosis disorder (TM2)	semapv:ManualMappingCuration	
+TCM-SO:sx_包茎	Phimosis	skos:closeMatch	ICD11:GB05.Z	Redundant prepuce, phimosis or paraphimosis, unspecified	semapv:ManualMappingCuration	
+TCM-SO:sx_虚里动微不显	faint and invisible xuli (apical) pulsation	skos:closeMatch	ICD11:XE50Y	Pressure cooker	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹色褐	Brown rash	skos:closeMatch	ICD11:ME66.6Z	Rash, unspecified	semapv:ManualMappingCuration	
+TCM-SO:sx_阵发痛	Episodic pain	skos:closeMatch	ICD11:XT7X	Episodic	semapv:ManualMappingCuration	
+TCM-SO:sx_上肢萎缩	Upper limb amyotrophy	skos:closeMatch	ICD11:LB97.2	Upper limb hypertrophy	semapv:ManualMappingCuration	
+TCM-SO:sx_上肢萎缩	Upper limb amyotrophy	skos:closeMatch	ICD11:8B60.6	Monomelic amyotrophy	semapv:ManualMappingCuration	
+TCM-SO:sx_睾丸疼痛	Testicular pain	skos:exactMatch	ICD11:MF40.21	Testicular pain	semapv:ManualMappingCuration	
+TCM-SO:sx_圆背	Round back (kyphotic posture)	skos:closeMatch	ICD11:XA2P90	Back	semapv:ManualMappingCuration	
+TCM-SO:sx_肿块坚实	firm mass	skos:closeMatch	ICD11:SF01	Blood stasis pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_呕而无声	soundless vomiting (retching)	skos:closeMatch	ICD11:MD90.1	Vomiting	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_呕而无声	soundless vomiting (retching)	skos:closeMatch	ICD11:SF77	Spleen yang deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_恶心	Nausea	skos:exactMatch	ICD11:MD90	Nausea or vomiting	semapv:ManualMappingCuration	
+TCM-SO:sx_四肢麻木	numbness of limbs	skos:closeMatch	ICD11:SC62	Numbness disorder (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_四肢麻木	numbness of limbs	skos:closeMatch	ICD11:SK54	Numbness disorder (TM2)	semapv:ManualMappingCuration	
+TCM-SO:sx_四肢麻木	numbness of limbs	skos:closeMatch	ICD11:LD26.3	Syndromes with synostoses of limbs	semapv:ManualMappingCuration	
+TCM-SO:sx_脓色绿	Green pus	skos:closeMatch	ICD11:XM2818	Indocyanine green	semapv:ManualMappingCuration	
+TCM-SO:sx_脓色绿	Green pus	skos:closeMatch	ICD11:XM3Y82	Green soap	semapv:ManualMappingCuration	
+TCM-SO:sx_脓色绿	Green pus	skos:closeMatch	ICD11:XM9BG0	Green bean	semapv:ManualMappingCuration	
+TCM-SO:sx_晶珠混浊	cloudy lens (cataract)	skos:closeMatch	ICD11:SF7M	Spleen and kidney yang deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_晶珠混浊	cloudy lens (cataract)	skos:closeMatch	ICD11:SF6M	Heart and kidney yang deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_晶珠混浊	cloudy lens (cataract)	skos:closeMatch	ICD11:SF97	Kidney yang deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_前囟宽大	wide anterior fontanelle	skos:closeMatch	ICD11:XK7V	Anterior	semapv:ManualMappingCuration	
+TCM-SO:sx_矢气臭秽	foul flatus	skos:closeMatch	ICD11:SC21	Vaginal flatus disorder (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹淡红	Light red rash	skos:closeMatch	ICD11:ME66.6Z	Rash, unspecified	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_鼻不闻香臭	Anosmia	skos:exactMatch	ICD11:MB41.0	Anosmia	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻不闻香臭	Anosmia	skos:closeMatch	ICD11:SK91	Anosmia disorder (TM2)	semapv:ManualMappingCuration	
+TCM-SO:sx_头昏	dizziness	skos:closeMatch	ICD11:MB48.2	Exertional dizziness	semapv:ManualMappingCuration	
+TCM-SO:sx_目眦角疼痛	Canthus pain	skos:closeMatch	ICD11:XA0403	Lateral canthus	semapv:ManualMappingCuration	
+TCM-SO:sx_目眦角疼痛	Canthus pain	skos:closeMatch	ICD11:XA2GQ3	Medial canthus	semapv:ManualMappingCuration	
+TCM-SO:sx_赘皮肿胀	Skin tag/redundant skin swelling	skos:closeMatch	ICD11:ME66.2	Excess and redundant skin	semapv:ManualMappingCuration	
+TCM-SO:sx_恶风	Chills	skos:exactMatch	ICD11:MG21	Chills	semapv:ManualMappingCuration	
+TCM-SO:sx_无根苔	Rootless tongue coating	skos:closeMatch	ICD11:DA03.1	Geographic tongue	semapv:ManualMappingCuration	
+TCM-SO:sx_倒睫拳毛	Trichiasis	skos:closeMatch	ICD11:SK6E	Trichiasis disorder (TM2)	semapv:ManualMappingCuration	
+TCM-SO:sx_倒睫拳毛	Trichiasis	skos:closeMatch	ICD11:9A04.0	Trichiasis without entropion	semapv:ManualMappingCuration	
+TCM-SO:sx_舌破裂出血	Cracked and bleeding tongue	skos:closeMatch	ICD11:DA03.1	Geographic tongue	semapv:ManualMappingCuration	
+TCM-SO:sx_胞睑色红	red eyelid	skos:closeMatch	ICD11:MC15	Red eye	semapv:ManualMappingCuration	
+TCM-SO:sx_臀部皮肤潮红	flushed buttock skin	skos:closeMatch	ICD11:XM6J14	Protectant, skin	semapv:ManualMappingCuration	
+TCM-SO:sx_鱼际脉络青	Bluish thenar-eminence vessels and collaterals	skos:closeMatch	ICD11:XA57N0	Malar eminence	semapv:ManualMappingCuration	
+TCM-SO:sx_鱼际脉络青	Bluish thenar-eminence vessels and collaterals	skos:closeMatch	ICD11:XA2JN4	Thenar eminence	semapv:ManualMappingCuration	
+TCM-SO:sx_肿瘤浮浅	superficial tumor	skos:closeMatch	ICD11:XK7F	Superficial	semapv:ManualMappingCuration	
+TCM-SO:sx_脓腐臭	foul sloughing pus	skos:closeMatch	ICD11:SF9G	Bladder dampness-heat pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_脓腐臭	foul sloughing pus	skos:closeMatch	ICD11:SF8G	Large intestine dampness heat pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_脓腐臭	foul sloughing pus	skos:closeMatch	ICD11:SF5A	Liver-gallbladder dampness-heat pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_四肢软弱	flaccidity of limbs	skos:closeMatch	ICD11:SF5H	Liver and kidney yin deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_足背溃破腐烂	ulcerated festering dorsum of foot	skos:closeMatch	ICD11:XA8BE2	Dorsum of foot	semapv:ManualMappingCuration	
+TCM-SO:sx_足背溃破腐烂	ulcerated festering dorsum of foot	skos:closeMatch	ICD11:XA76N2	Dorsum of thumb	semapv:ManualMappingCuration	
+TCM-SO:sx_疲乏	Fatigue	skos:exactMatch	ICD11:MG22	Fatigue	semapv:ManualMappingCuration	
+TCM-SO:sx_干咳	Nonproductive cough	skos:closeMatch	ICD11:SF8D	Dryness invading the lung pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_干咳	Nonproductive cough	skos:closeMatch	ICD11:SF5M	Liver fire invading the lung system pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_神疲	mental fatigue	skos:closeMatch	ICD11:MG22	Fatigue	semapv:ManualMappingCuration	
+TCM-SO:sx_耳轮皮肤甲错	squamous dry skin of helix	skos:closeMatch	ICD11:XA9A86	Crus of helix	semapv:ManualMappingCuration	
+TCM-SO:sx_便如蛋汤	egg-soup-like stool	skos:closeMatch	ICD11:SF70	Spleen qi deficiency pattern (TM1)	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_舌痛	Tongue pain	skos:exactMatch	ICD11:DA01.Y	Tongue disorder	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻梁凹陷	Depressed nasal bridge	skos:closeMatch	ICD11:XA8817	Nasal turbinate	semapv:ManualMappingCuration	
+TCM-SO:sx_结节柔软	Nodule softness	skos:closeMatch	ICD11:SK6T	Phlyctenular nodule disorder (TM2)	semapv:ManualMappingCuration	
+TCM-SO:sx_月经色淡	pale menstrual blood	skos:closeMatch	ICD11:SF77	Spleen yang deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_月经色淡	pale menstrual blood	skos:closeMatch	ICD11:SF7M	Spleen and kidney yang deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_牙龈色蓝	blue gums	skos:closeMatch	ICD11:XM0BB1	Blue velvet	semapv:ManualMappingCuration	
+TCM-SO:sx_牙龈色蓝	blue gums	skos:closeMatch	ICD11:XM52J2	Heavenly Blue (morning glory)	semapv:ManualMappingCuration	
+TCM-SO:sx_健忘	Progressive forgetfulness	skos:exactMatch	ICD11:MB21.10	Memory deficit	semapv:ManualMappingCuration	
+TCM-SO:sx_目闭不开	inability to open the eyes	skos:closeMatch	ICD11:XE8L2	Inability to irrigate	semapv:ManualMappingCuration	
+TCM-SO:sx_咳声洪亮	loud resonant cough	skos:closeMatch	ICD11:MD12	Cough	semapv:ManualMappingCuration	
+TCM-SO:sx_疼痛	Pain	skos:exactMatch	ICD11:FB56.2		semapv:ManualMappingCuration	
+TCM-SO:sx_疼痛	Pain	skos:exactMatch	ICD11:FB56.Z	Limb pain	semapv:ManualMappingCuration	
+TCM-SO:sx_麻木不仁	numbness (loss of sensation)	skos:closeMatch	ICD11:SK54	Numbness disorder (TM2)	semapv:ManualMappingCuration	
+TCM-SO:sx_麻木不仁	numbness (loss of sensation)	skos:closeMatch	ICD11:SC62	Numbness disorder (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_脓液淋漓不止	incessant dripping of pus	skos:closeMatch	ICD11:SF00	Blood deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_脓液淋漓不止	incessant dripping of pus	skos:closeMatch	ICD11:SR1T	Blood deficiency pattern (TM2)	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_痈疮表面光软无头	glossy soft headless abscess	skos:closeMatch	ICD11:GA05.3	Tuboovarian abscess	semapv:ManualMappingCuration	
+TCM-SO:sx_朱砂掌	cinnabar palms (palmar erythema)	skos:closeMatch	ICD11:SF5H	Liver and kidney yin deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_朱砂掌	cinnabar palms (palmar erythema)	skos:closeMatch	ICD11:SF82	Lung and kidney yin deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_朱砂掌	cinnabar palms (palmar erythema)	skos:closeMatch	ICD11:SF93	Kidney yin deficiency pattern (TM1)	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_乏力	Malaise	skos:exactMatch	ICD11:MG22	Fatigue	semapv:ManualMappingCuration	
+TCM-SO:sx_肛门脱出物无蒂	sessile anal prolapse	skos:closeMatch	ICD11:DB53	Anal prolapse	semapv:ManualMappingCuration	
+TCM-SO:sx_妊娠呕吐	Hyperemesis gravidarum	skos:exactMatch	ICD11:JA60	Hyperemesis gravidarum	semapv:ManualMappingCuration	
+TCM-SO:sx_产后便秘	Constipation	skos:exactMatch	ICD11:ME05.0	Constipation	semapv:ManualMappingCuration	
+TCM-SO:sx_不欲饮食	poor appetite	skos:closeMatch	ICD11:SF7M	Spleen and kidney yang deficiency pattern (TM1)	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_头部疖肿	furuncle of head	skos:closeMatch	ICD11:1B75.0	Furuncle	semapv:ManualMappingCuration	
+TCM-SO:sx_头部疖肿	furuncle of head	skos:closeMatch	ICD11:SF9G	Bladder dampness-heat pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_食后呕吐	vomiting after meals	skos:closeMatch	ICD11:MD90.1	Vomiting	semapv:ManualMappingCuration	
+TCM-SO:sx_梦游	Sleep walking	skos:closeMatch	ICD11:VW13	Walking	semapv:ManualMappingCuration	
+TCM-SO:sx_苔花剥	Geographic (patchy peeled) tongue coating	skos:closeMatch	ICD11:DA03.1	Geographic tongue	semapv:ManualMappingCuration	
+TCM-SO:sx_睾丸表面光滑	smooth testicular surface	skos:closeMatch	ICD11:MF40.21	Testicular pain	semapv:ManualMappingCuration	
+TCM-SO:sx_背恶寒	aversion to cold on the back	skos:closeMatch	ICD11:XA2P90	Back	semapv:ManualMappingCuration	
+TCM-SO:sx_头部生疮疡	sores on the head	skos:closeMatch	ICD11:SF9G	Bladder dampness-heat pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_臖结块按之坚实	Xinghe nodule pressure lumping firmness	skos:closeMatch	ICD11:SK6T	Phlyctenular nodule disorder (TM2)	semapv:ManualMappingCuration	
+TCM-SO:sx_臖结块按之坚实	Xinghe nodule pressure lumping firmness	skos:closeMatch	ICD11:XE50Y	Pressure cooker	semapv:ManualMappingCuration	
+TCM-SO:sx_驼背	Kyphosis	skos:exactMatch	ICD11:FA70.0	Kyphosis	semapv:ManualMappingCuration	
+TCM-SO:sx_驼背	Kyphosis	skos:closeMatch	ICD11:FC01.2	Post radiation kyphosis	semapv:ManualMappingCuration	
+TCM-SO:sx_驼背	Kyphosis	skos:closeMatch	ICD11:FC01.3	Postlaminectomy kyphosis	semapv:ManualMappingCuration	
+TCM-SO:sx_目痛	Ocular pain	skos:exactMatch	ICD11:MC94	Eye pain	semapv:ManualMappingCuration	
+TCM-SO:sx_呕吐	Vomiting	skos:exactMatch	ICD11:MD90	Nausea or vomiting	semapv:ManualMappingCuration	
+TCM-SO:sx_眵黄	yellow eye discharge	skos:closeMatch	ICD11:MC14	Eye discharge	semapv:ManualMappingCuration	
+TCM-SO:sx_疮疡表面色黑	black sore surface	skos:closeMatch	ICD11:XM08L6	Afghanistan black	semapv:ManualMappingCuration	
+TCM-SO:sx_眵绿	green eye discharge	skos:closeMatch	ICD11:MC14	Eye discharge	semapv:ManualMappingCuration	
+TCM-SO:sx_眵绿	green eye discharge	skos:closeMatch	ICD11:XM2818	Indocyanine green	semapv:ManualMappingCuration	
+TCM-SO:sx_性欲淡漠	Decreased libido	skos:exactMatch	ICD11:MB22.1	Decreased libido	semapv:ManualMappingCuration	
+TCM-SO:sx_体毛干枯	Brittle hair	skos:closeMatch	ICD11:SF00	Blood deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_目眵结块	clumped eye discharge	skos:closeMatch	ICD11:MC14	Eye discharge	semapv:ManualMappingCuration	
+TCM-SO:sx_牙龈硬肿	hard swollen gums	skos:closeMatch	ICD11:XE7M5	Puck, hard ball	semapv:ManualMappingCuration	
+TCM-SO:sx_牙龈硬肿	hard swollen gums	skos:closeMatch	ICD11:EH92.00	Hard corn	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_牙龈硬肿	hard swollen gums	skos:closeMatch	ICD11:XM3AW0	Hard metal dust	semapv:ManualMappingCuration	
+TCM-SO:sx_喜食异物	pica (craving for foreign objects)	skos:exactMatch	ICD11:6B84	Pica	semapv:ManualMappingCuration	
+TCM-SO:sx_喜食异物	pica (craving for foreign objects)	skos:closeMatch	ICD11:SF79	Spleen deficiency with dampness accumulation pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤掀热	burning hot skin	skos:closeMatch	ICD11:ME65.0	Burning of skin	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤掀热	burning hot skin	skos:closeMatch	ICD11:XE7PM	Burning oil	semapv:ManualMappingCuration	
+TCM-SO:sx_背痛	Back pain	skos:exactMatch	ICD11:ME84.Z	Dorsalgia	semapv:ManualMappingCuration	
+TCM-SO:sx_畏寒	aversion to cold	skos:closeMatch	ICD11:EB01.1	Cold urticaria	semapv:ManualMappingCuration	
+TCM-SO:sx_牙龈暗黑	dusky-black gums	skos:closeMatch	ICD11:XM08L6	Afghanistan black	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤于燥	Skin dryness	skos:closeMatch	ICD11:SN42	Dryness of skin disorder (TM2)	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤于燥	Skin dryness	skos:closeMatch	ICD11:SF04	Blood dryness pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤于燥	Skin dryness	skos:closeMatch	ICD11:SE83	Dryness factor pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_沉默寡言	silence and taciturnity	skos:closeMatch	ICD11:SF7M	Spleen and kidney yang deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_齿拔除	tooth extraction	skos:closeMatch	ICD11:JB23.0	Breech extraction	semapv:ManualMappingCuration	
+TCM-SO:sx_呼吸急促	Tachypnea	skos:closeMatch	ICD11:SF80	Lung qi deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_瘿肿随吞咽移动	goiter moving with swallowing	skos:closeMatch	ICD11:SF50	Liver yin deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_瘿肿随吞咽移动	goiter moving with swallowing	skos:closeMatch	ICD11:SF64	Heart yin deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_头闷	head stuffiness	skos:closeMatch	ICD11:SG80	Dampness obstructing the defense yang pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_口干	Xerostomia	skos:exactMatch	ICD11:DA02.1	Xerostomia	semapv:ManualMappingCuration	
+TCM-SO:sx_闭经溢乳	amenorrhea with galactorrhea	skos:exactMatch	ICD11:GA20.0	Absence of menstruation	semapv:ManualMappingCuration	
+TCM-SO:sx_眼干燥	Retinal degeneration	skos:exactMatch	ICD11:9A79	Dry eye syndrome	semapv:ManualMappingCuration	
+TCM-SO:sx_晶珠全脱	complete lens dislocation	skos:closeMatch	ICD11:9B11.1	Dislocation of lens	semapv:ManualMappingCuration	
+TCM-SO:sx_经色深红	deep-red menstrual blood	skos:closeMatch	ICD11:XK16	Deep	semapv:ManualMappingCuration	
+TCM-SO:sx_暴盲	sudden blindness	skos:closeMatch	ICD11:9D90.6	Blindness	semapv:ManualMappingCuration	
+TCM-SO:sx_矢气作响	noisy flatus	skos:closeMatch	ICD11:SF72	Spleen deficiency with qi stagnation pattern (TM1)	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_周身酸软	generalized soreness and weakness	skos:closeMatch	ICD11:SE90	Qi deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_耳廓糜烂结痴	eroded crusted auricle	skos:closeMatch	ICD11:LA24	Accessory auricle	semapv:ManualMappingCuration	
+TCM-SO:sx_耳廓糜烂结痴	eroded crusted auricle	skos:closeMatch	ICD11:NA0B	Injury of the auricle	semapv:ManualMappingCuration	
+TCM-SO:sx_耳廓糜烂结痴	eroded crusted auricle	skos:closeMatch	ICD11:XA9E26	Skin of auricle	semapv:ManualMappingCuration	
+TCM-SO:sx_肢体血肿	limb hematoma	skos:closeMatch	ICD11:SF01	Blood stasis pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_人中色白	White philtrum	skos:closeMatch	ICD11:XA5LY8	Philtrum	semapv:ManualMappingCuration	
+TCM-SO:sx_水疱混浊	turbid blisters	skos:closeMatch	ICD11:SF9G	Bladder dampness-heat pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_小腹坚满	hard and full lower abdomen	skos:closeMatch	ICD11:MD81.3	Acute abdomen	semapv:ManualMappingCuration	
+TCM-SO:sx_眼睑浮肿	Periorbital fullness	skos:closeMatch	ICD11:SF70	Spleen qi deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_眼睑浮肿	Periorbital fullness	skos:closeMatch	ICD11:SF77	Spleen yang deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_肠鸣音弱	weak bowel sounds	skos:closeMatch	ICD11:ME03.1	Absent bowel sounds	semapv:ManualMappingCuration	
+TCM-SO:sx_肠鸣音弱	weak bowel sounds	skos:closeMatch	ICD11:ME03.0	Hyperactive bowel sounds	semapv:ManualMappingCuration	
+TCM-SO:sx_肠鸣音弱	weak bowel sounds	skos:closeMatch	ICD11:ME03.Z	Abnormal bowel sounds, unspecified	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_口腔黏膜青紫	Bluish-purple oral mucosa	skos:closeMatch	ICD11:XA6NQ7	Oral mucosa	semapv:ManualMappingCuration	
+TCM-SO:sx_唇紫红	Purplish-red lip	skos:closeMatch	ICD11:XM3R78	Lebanese red	semapv:ManualMappingCuration	
+TCM-SO:sx_呛咳	Choking cough	skos:closeMatch	ICD11:MD12	Cough	semapv:ManualMappingCuration	
+TCM-SO:sx_肢体发绀	limb cyanosis	skos:closeMatch	ICD11:ME64.1	Cyanosis	semapv:ManualMappingCuration	
+TCM-SO:sx_肢体发绀	limb cyanosis	skos:closeMatch	ICD11:SF57	Liver qi stagnation pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_肢体发绀	limb cyanosis	skos:closeMatch	ICD11:SE91	Qi stagnation pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_精索筋脉如蚯蚓状	earthworm-like vessels of spermatic cord (varicocele)	skos:closeMatch	ICD11:XA5KK7	Spermatic Vein	semapv:ManualMappingCuration	
+TCM-SO:sx_唇燥无皮	dry lips with peeling skin	skos:closeMatch	ICD11:ED53	Skin peeling	semapv:ManualMappingCuration	
+TCM-SO:sx_胁痛	Costochondral pain	skos:closeMatch	ICD11:MD81	Abdominal pain	semapv:ManualMappingCuration	
+TCM-SO:sx_思虑无穷	incessant overthinking	skos:closeMatch	ICD11:SF64	Heart yin deficiency pattern (TM1)	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_呃逆	hiccup	skos:closeMatch	ICD11:SF7C	Stomach qi deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_牙龈高肿	Gum raised swelling	skos:closeMatch	ICD11:XM6DW9	Guar gum (medicinal)	semapv:ManualMappingCuration	
+TCM-SO:sx_黑睛积脓	corneal pus accumulation (hypopyon)	skos:closeMatch	ICD11:SF5A	Liver-gallbladder dampness-heat pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_黑睛积脓	corneal pus accumulation (hypopyon)	skos:closeMatch	ICD11:SF9G	Bladder dampness-heat pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_手软下垂	wrist drop (flaccid hand)	skos:closeMatch	ICD11:FA31.3	Acquired wrist drop	semapv:ManualMappingCuration	
+TCM-SO:sx_手软下垂	wrist drop (flaccid hand)	skos:closeMatch	ICD11:SF7M	Spleen and kidney yang deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_肩耸	shoulder shrugging	skos:closeMatch	ICD11:SF80	Lung qi deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_肩耸	shoulder shrugging	skos:closeMatch	ICD11:SF90	Kidney qi deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_肩耸	shoulder shrugging	skos:closeMatch	ICD11:SE90	Qi deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_妊娠眩晕	Vertigo	skos:exactMatch	ICD11:MB48.0	Vertigo	semapv:ManualMappingCuration	
+TCM-SO:sx_四肢异常的活动	Abnormal involuntary movements of limbs	skos:closeMatch	ICD11:MB46.Z	Abnormal involuntary movements, unspecified	semapv:ManualMappingCuration	
+TCM-SO:sx_四肢异常的活动	Abnormal involuntary movements of limbs	skos:closeMatch	ICD11:MB46.Y	Other specified abnormal involuntary movements	semapv:ManualMappingCuration	
+TCM-SO:sx_四肢异常的活动	Abnormal involuntary movements of limbs	skos:closeMatch	ICD11:MB46.1	Abnormal head movements	semapv:ManualMappingCuration	
+TCM-SO:sx_恶露紫暗	dark-purple lochia	skos:closeMatch	ICD11:SF01	Blood stasis pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_难产	Shoulder dystocia	skos:exactMatch	ICD11:JB06	Obstructed labour	semapv:ManualMappingCuration	
+TCM-SO:sx_腹部青筋暴露	prominent blue vessels on the abdomen	skos:closeMatch	ICD11:SF5H	Liver and kidney yin deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_前囟凹陷	sunken anterior fontanelle	skos:closeMatch	ICD11:SF7M	Spleen and kidney yang deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_疮面愈后疤痕	scar after sore healing	skos:closeMatch	ICD11:XE0HG	Residue after decontamination	semapv:ManualMappingCuration	
+TCM-SO:sx_大便秘结	Constipation	skos:closeMatch	ICD11:SA57	Constipation disorder (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_大便秘结	Constipation	skos:exactMatch	ICD11:ME05.0	Constipation	semapv:ManualMappingCuration	
+TCM-SO:sx_呼吸缓慢	Hypoventilation	skos:closeMatch	ICD11:7A42.0	Obesity hypoventilation syndrome	semapv:ManualMappingCuration	
+TCM-SO:sx_呼吸缓慢	Hypoventilation	skos:closeMatch	ICD11:7A42.3	Idiopathic central alveolar hypoventilation	semapv:ManualMappingCuration	
+TCM-SO:sx_头晕	Vertigo	skos:exactMatch	ICD11:MB48	Dizziness and giddiness	semapv:ManualMappingCuration	
+TCM-SO:sx_舌体痿软	flaccid tongue body	skos:closeMatch	ICD11:DA03.1	Geographic tongue	semapv:ManualMappingCuration	
+TCM-SO:sx_寒热往来无定时	alternating chills and fever at irregular intervals	skos:closeMatch	ICD11:SD93	Alternating fever and chills disorder (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_寒热往来无定时	alternating chills and fever at irregular intervals	skos:closeMatch	ICD11:MG21	Chills	semapv:ManualMappingCuration	
+TCM-SO:sx_叹息有声	audible sighing	skos:closeMatch	ICD11:SF53	Liver qi deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_叹息有声	audible sighing	skos:closeMatch	ICD11:SE90	Qi deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_目割	scratching sensation in the eye	skos:closeMatch	ICD11:MC11	Eye sensation abnormal	semapv:ManualMappingCuration	
+TCM-SO:sx_唇樱红	Cherry-red lip	skos:closeMatch	ICD11:XM0885	Cherry	semapv:ManualMappingCuration	
+TCM-SO:sx_唇樱红	Cherry-red lip	skos:closeMatch	ICD11:XM3R78	Lebanese red	semapv:ManualMappingCuration	
+TCM-SO:sx_指甲无泽	Lusterless nail	skos:closeMatch	ICD11:XA6Q52	Nail	semapv:ManualMappingCuration	
+TCM-SO:sx_指甲无泽	Lusterless nail	skos:closeMatch	ICD11:EE10.4	Nail atrophy	semapv:ManualMappingCuration	
+TCM-SO:sx_指甲无泽	Lusterless nail	skos:closeMatch	ICD11:EE10.3	Nail hypertrophy	semapv:ManualMappingCuration	
+TCM-SO:sx_肢体赓弱	limb weakness	skos:closeMatch	ICD11:SK55	Weakness of thighs due to vata disorder (TM2)	semapv:ManualMappingCuration	
+TCM-SO:sx_肢体赓弱	limb weakness	skos:closeMatch	ICD11:SS3E	Innate heat weakness pattern (TM2)	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_鳞屑薄	thin scales	skos:closeMatch	ICD11:MF54.2	Small kidney	semapv:ManualMappingCuration	
+TCM-SO:sx_颈痛	Neck pain	skos:exactMatch	ICD11:ME84.0	Cervical spine pain	semapv:ManualMappingCuration	
+TCM-SO:sx_指纹增长	lengthened finger venules	skos:closeMatch	ICD11:SE72	Heat pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_指纹增长	lengthened finger venules	skos:closeMatch	ICD11:SF02	Blood heat pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_耳廓肿起柔软	soft swollen auricle	skos:closeMatch	ICD11:SF7C	Stomach qi deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_暴露赤眼	Red eye exposure	skos:closeMatch	ICD11:MC15	Red eye	semapv:ManualMappingCuration	
+TCM-SO:sx_脉代	Intermittent (replacement) pulse	skos:closeMatch	ICD11:XT5G	Intermittent	semapv:ManualMappingCuration	
+TCM-SO:sx_黑便	Head titubation	skos:exactMatch	ICD11:ME24.A	Digestive tract haemorrhage	semapv:ManualMappingCuration	
+TCM-SO:sx_龋齿	Carious teeth	skos:closeMatch	ICD11:DA08.0	Dental caries	semapv:ManualMappingCuration	
+TCM-SO:sx_龋齿	Carious teeth	skos:closeMatch	ICD11:SM1E	Dental caries disorder (TM2)	semapv:ManualMappingCuration	
+TCM-SO:sx_尿黄	yellow urine	skos:closeMatch	ICD11:SF9G	Bladder dampness-heat pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_尿黄	yellow urine	skos:closeMatch	ICD11:SF5A	Liver-gallbladder dampness-heat pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_带下如豆渣状	bean-curd-dreg-like vaginal discharge	skos:closeMatch	ICD11:MF3A	Vaginal discharge	semapv:ManualMappingCuration	
+TCM-SO:sx_带下如豆渣状	bean-curd-dreg-like vaginal discharge	skos:closeMatch	ICD11:MC14	Eye discharge	semapv:ManualMappingCuration	
+TCM-SO:sx_身热夜甚	fever worsening at night	skos:closeMatch	ICD11:SF01	Blood stasis pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_麻木	Fatigable weakness	skos:exactMatch	ICD11:MB40.4	Numbness	semapv:ManualMappingCuration	
+TCM-SO:sx_目光呆滞	dull stare	skos:closeMatch	ICD11:SF79	Spleen deficiency with dampness accumulation pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_耳背有红络	red vessels on the back of auricle	skos:closeMatch	ICD11:NA0B	Injury of the auricle	semapv:ManualMappingCuration	
+TCM-SO:sx_耳背有红络	red vessels on the back of auricle	skos:closeMatch	ICD11:XA9E26	Skin of auricle	semapv:ManualMappingCuration	
+TCM-SO:sx_经闭不行	Amenorrhea	skos:closeMatch	ICD11:SB94	Amenorrhea disorder (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤白化	skin whitening	skos:closeMatch	ICD11:XM6J14	Protectant, skin	semapv:ManualMappingCuration	
+TCM-SO:sx_眵白	white eye discharge	skos:closeMatch	ICD11:MC14	Eye discharge	semapv:ManualMappingCuration	
+TCM-SO:sx_灼痛	Burning pain	skos:closeMatch	ICD11:XE7PM	Burning oil	semapv:ManualMappingCuration	
+TCM-SO:sx_灼痛	Burning pain	skos:closeMatch	ICD11:DA0F.0	Burning mouth syndrome	semapv:ManualMappingCuration	
+TCM-SO:sx_灼痛	Burning pain	skos:closeMatch	ICD11:ED31	Burning feet syndrome	semapv:ManualMappingCuration	
+TCM-SO:sx_趾肿	Toe swelling	skos:closeMatch	ICD11:SK68	Tear sac swelling disorder (TM2)	semapv:ManualMappingCuration	
+TCM-SO:sx_牙齿松动	Abnormality of the dentition	skos:exactMatch	ICD11:DA0C.0	Tooth mobility	semapv:ManualMappingCuration	
+TCM-SO:sx_眼肉光亮	lustrous eye tissue	skos:closeMatch	ICD11:XA0UK0	Bone tissue	semapv:ManualMappingCuration	
+TCM-SO:sx_咳后有鸡鸣样回声	post-tussive cock-crow echo (whoop)	skos:closeMatch	ICD11:1C12.Z	Whooping cough, unspecified	semapv:ManualMappingCuration	
+TCM-SO:sx_咳后有鸡鸣样回声	post-tussive cock-crow echo (whoop)	skos:closeMatch	ICD11:1C12.Y	Other specified whooping cough	semapv:ManualMappingCuration	
+TCM-SO:sx_身热不甚	mild fever	skos:closeMatch	ICD11:XS5W	Mild	semapv:ManualMappingCuration	
+TCM-SO:sx_舌红	Abnormal tongue physiology	skos:exactMatch	ICD11:DA01	Gingival and tongue disorders	semapv:ManualMappingCuration	
+TCM-SO:sx_晶珠半脱	partial lens dislocation (subluxation)	skos:closeMatch	ICD11:9B11.1	Dislocation of lens	semapv:ManualMappingCuration	
+TCM-SO:sx_午后潮热	afternoon tidal fever	skos:closeMatch	ICD11:1C33	Q fever	semapv:ManualMappingCuration	
+TCM-SO:sx_午后潮热	afternoon tidal fever	skos:closeMatch	ICD11:1D45	Sandfly fever	semapv:ManualMappingCuration	
+TCM-SO:sx_午后潮热	afternoon tidal fever	skos:closeMatch	ICD11:1C11.00	Oroya fever	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_悬雍下垂	uvula ptosis	skos:closeMatch	ICD11:XA2993	Uvula	semapv:ManualMappingCuration	
+TCM-SO:sx_阴囊疼痛	scrotal pain	skos:closeMatch	ICD11:MF40.20	Acute scrotal pain	semapv:ManualMappingCuration	
+TCM-SO:sx_弛张热	remittent fever	skos:closeMatch	ICD11:1C33	Q fever	semapv:ManualMappingCuration	
+TCM-SO:sx_呕吐急迫	urgent vomiting	skos:closeMatch	ICD11:MD90.1	Vomiting	semapv:ManualMappingCuration	
+TCM-SO:sx_视小为大	macropsia	skos:closeMatch	ICD11:SC23	Uterine mass disorder (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_痴呆	Dementia	skos:closeMatch	ICD11:SD86	Dementia disorder (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_尿如乳糜	chyluria (milky urine)	skos:exactMatch	ICD11:MF92	Chyluria	semapv:ManualMappingCuration	
+TCM-SO:sx_尿如乳糜	chyluria (milky urine)	skos:closeMatch	ICD11:SF79	Spleen deficiency with dampness accumulation pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_喉中痰鸣	Stridor	skos:exactMatch	ICD11:MD11.B	Stridor	semapv:ManualMappingCuration	
+TCM-SO:sx_恶露粘稠	sticky lochia	skos:closeMatch	ICD11:SF01	Blood stasis pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_骨节痛	Arthralgia	skos:closeMatch	ICD11:SF00	Blood deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_骨节痛	Arthralgia	skos:closeMatch	ICD11:SR1T	Blood deficiency pattern (TM2)	semapv:ManualMappingCuration	
+TCM-SO:sx_复视	Diplopia	skos:exactMatch	ICD11:MB44	Diplopia	semapv:ManualMappingCuration	
+TCM-SO:sx_口苦	Abnormality of taste sensation	skos:closeMatch	ICD11:MD95	Taste disorder	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹脱屑	scaling rash	skos:closeMatch	ICD11:ME66.6Z	Rash, unspecified	semapv:ManualMappingCuration	
+TCM-SO:sx_呵欠	yawning	skos:exactMatch	ICD11:MD11.D	Yawning	semapv:ManualMappingCuration	
+TCM-SO:sx_气下坠感	bearing-down sensation of qi	skos:closeMatch	ICD11:SE93	Qi sinking pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_苦闷	distress and depression	skos:closeMatch	ICD11:SD82	Depression disorder (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_指甲色灰	Gray nail	skos:closeMatch	ICD11:XA6Q52	Nail	semapv:ManualMappingCuration	
+TCM-SO:sx_指甲色灰	Gray nail	skos:closeMatch	ICD11:EE10.4	Nail atrophy	semapv:ManualMappingCuration	
+TCM-SO:sx_指甲色灰	Gray nail	skos:closeMatch	ICD11:EE10.3	Nail hypertrophy	semapv:ManualMappingCuration	
+TCM-SO:sx_嗳气	Recurrent singultus	skos:exactMatch	ICD11:MD95	Other specified symptoms of digestive system	semapv:ManualMappingCuration	
+TCM-SO:sx_胞睑色黯	dusky eyelid	skos:closeMatch	ICD11:SF01	Blood stasis pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_胞睑色黯	dusky eyelid	skos:closeMatch	ICD11:SF55	Liver depression and blood stasis pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_耳鸣如雷	thunder-like tinnitus	skos:closeMatch	ICD11:MC41	Tinnitus	semapv:ManualMappingCuration	
+TCM-SO:sx_口腔黏膜鲜红	Bright red oral mucosa	skos:closeMatch	ICD11:XA6NQ7	Oral mucosa	semapv:ManualMappingCuration	
+TCM-SO:sx_阴囊瘙痒	scrotal itching	skos:closeMatch	ICD11:MF40.20	Acute scrotal pain	semapv:ManualMappingCuration	
+TCM-SO:sx_阴囊瘙痒	scrotal itching	skos:closeMatch	ICD11:BD75.1	Scrotal varices	semapv:ManualMappingCuration	
+TCM-SO:sx_带下量多	profuse vaginal discharge	skos:closeMatch	ICD11:MF3A	Vaginal discharge	semapv:ManualMappingCuration	
+TCM-SO:sx_尿无臊气	absence of urinous odor	skos:closeMatch	ICD11:LB40.0	Absence of vulva	semapv:ManualMappingCuration	
+TCM-SO:sx_尿无臊气	absence of urinous odor	skos:closeMatch	ICD11:LB42.0	Absence of vagina	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_疮疡周围乌黑	pitch-black around the sore	skos:closeMatch	ICD11:XM08L6	Afghanistan black	semapv:ManualMappingCuration	
+TCM-SO:sx_耳轮青紫	Bluish-purple auricular helix	skos:closeMatch	ICD11:XA9A86	Crus of helix	semapv:ManualMappingCuration	
+TCM-SO:sx_大便酸臭	sour-smelling stool	skos:closeMatch	ICD11:SF9G	Bladder dampness-heat pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_嗳气臭腐	foul putrid belching	skos:closeMatch	ICD11:MD91	Belching	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤光亮	Skin shininess	skos:closeMatch	ICD11:SF01	Blood stasis pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_齿垢多	profuse dental tartar	skos:closeMatch	ICD11:SF5A	Liver-gallbladder dampness-heat pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_滑精	spermatorrhea	skos:closeMatch	ICD11:SF93	Kidney yin deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_痰腥	Sputum fishy	skos:closeMatch	ICD11:SF7M	Spleen and kidney yang deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_指甲色白	White nail	skos:closeMatch	ICD11:XA6Q52	Nail	semapv:ManualMappingCuration	
+TCM-SO:sx_指甲色白	White nail	skos:closeMatch	ICD11:XM6AD6	Egg white	semapv:ManualMappingCuration	
+TCM-SO:sx_小便急迫	urgent urination	skos:closeMatch	ICD11:SF9G	Bladder dampness-heat pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_鱼际脉络黑	Black thenar-eminence vessels and collaterals	skos:closeMatch	ICD11:XA2JN4	Thenar eminence	semapv:ManualMappingCuration	
+TCM-SO:sx_鱼际脉络黑	Black thenar-eminence vessels and collaterals	skos:closeMatch	ICD11:XA57N0	Malar eminence	semapv:ManualMappingCuration	
+TCM-SO:sx_绞痛	Angina pectoris	skos:closeMatch	ICD11:BA40.Z	Angina pectoris, unspecified	semapv:ManualMappingCuration	
+TCM-SO:sx_绞痛	Angina pectoris	skos:closeMatch	ICD11:BA40.Y	Other specified angina pectoris	semapv:ManualMappingCuration	
+TCM-SO:sx_肋间胀满	intercostal distension and fullness	skos:closeMatch	ICD11:ME81.0	Intercostal pain	semapv:ManualMappingCuration	
+TCM-SO:sx_肋间胀满	intercostal distension and fullness	skos:closeMatch	ICD11:XA5HJ3	Intercostal nerve	semapv:ManualMappingCuration	
+TCM-SO:sx_剧痛	Severe pain	skos:exactMatch	ICD11:XS2E	Severe pain	semapv:ManualMappingCuration	
+TCM-SO:sx_剧痛	Severe pain	skos:closeMatch	ICD11:XS25	Severe	semapv:ManualMappingCuration	
+TCM-SO:sx_剧痛	Severe pain	skos:closeMatch	ICD11:XS2U	Severe pain-related interference	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤麻木	Skin numbness	skos:closeMatch	ICD11:SC62	Numbness disorder (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤麻木	Skin numbness	skos:closeMatch	ICD11:SK54	Numbness disorder (TM2)	semapv:ManualMappingCuration	
+TCM-SO:sx_得食痛减	pain relieved by eating	skos:closeMatch	ICD11:SF7C	Stomach qi deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_蜘蛛痣	Spider angioma	skos:closeMatch	ICD11:XE75L	Spider	semapv:ManualMappingCuration	
+TCM-SO:sx_呕声壮厉	forceful vomiting sound	skos:closeMatch	ICD11:MD90.1	Vomiting	semapv:ManualMappingCuration	
+TCM-SO:sx_脐流脓水	pus discharge from umbilicus	skos:closeMatch	ICD11:XA3MT8	Umbilicus	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹结滋痴	serum-crusted rash	skos:closeMatch	ICD11:ME66.6Z	Rash, unspecified	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_皮疹结滋痴	serum-crusted rash	skos:closeMatch	ICD11:ME66.6Y	Other specified rash	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹结滋痴	serum-crusted rash	skos:closeMatch	ICD11:XM5083	Antirabies hyperimmune serum	semapv:ManualMappingCuration	
+TCM-SO:sx_精液量少	scanty semen	skos:closeMatch	ICD11:SF96	Kidney essence deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_精液量少	scanty semen	skos:closeMatch	ICD11:SF20	Essence deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_无尿	Anuria	skos:closeMatch	ICD11:MF51	Anuria or oliguria	semapv:ManualMappingCuration	
+TCM-SO:sx_睡中流涎	drooling during sleep	skos:closeMatch	ICD11:7B00.2	Sleep terrors	semapv:ManualMappingCuration	
+TCM-SO:sx_气喘息粗	Dyspnea	skos:exactMatch	ICD11:MD11.5	Dyspnoea	semapv:ManualMappingCuration	
+TCM-SO:sx_进食无味	tasteless eating (loss of taste)	skos:closeMatch	ICD11:VW24	Eating	semapv:ManualMappingCuration	
+TCM-SO:sx_脘胀	epigastric distension	skos:closeMatch	ICD11:SA52	Epigastric distension disorder (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_月经间期阴道流血	intermenstrual vaginal bleeding	skos:closeMatch	ICD11:GA20.20	Intermenstrual bleeding	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻端微黄	Slight yellow tip-of-nose	skos:closeMatch	ICD11:XA04T9	Skin of nose	semapv:ManualMappingCuration	
+TCM-SO:sx_腹痛	Abdominal pain	skos:exactMatch	ICD11:MD81	Abdominal pain	semapv:ManualMappingCuration	
+TCM-SO:sx_苔厚	Fast-growing nails	skos:exactMatch	ICD11:DA01.Y	Coated tongue	semapv:ManualMappingCuration	
+TCM-SO:sx_脓夹血块	pus with blood clots	skos:closeMatch	ICD11:XM2NV9	Blood (derivatives) (natural) (plasma) (whole)	semapv:ManualMappingCuration	
+TCM-SO:sx_脓夹血块	pus with blood clots	skos:closeMatch	ICD11:QE50.5	Discord with counsellors	semapv:ManualMappingCuration	
+TCM-SO:sx_脓色灰	Gray pus	skos:closeMatch	ICD11:SF9G	Bladder dampness-heat pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_脓色灰	Gray pus	skos:closeMatch	ICD11:SF8G	Large intestine dampness heat pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_脓色灰	Gray pus	skos:closeMatch	ICD11:SF7G	Dampness in the intestines pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_脐肿	umbilical swelling	skos:closeMatch	ICD11:XA3L42	Umbilical cord	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_脐肿	umbilical swelling	skos:closeMatch	ICD11:XA0VZ0	Umbilical artery	semapv:ManualMappingCuration	
+TCM-SO:sx_脐肿	umbilical swelling	skos:closeMatch	ICD11:DD53	Umbilical hernia	semapv:ManualMappingCuration	
+TCM-SO:sx_脓似蟹沫	crab-foam-like pus	skos:closeMatch	ICD11:XM5MB3	Crab	semapv:ManualMappingCuration	
+TCM-SO:sx_精液量多	profuse semen	skos:closeMatch	ICD11:XM0MJ2	Hippocastani semen	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹结黄痴	yellow-crusted rash	skos:closeMatch	ICD11:ME66.6Z	Rash, unspecified	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹结黄痴	yellow-crusted rash	skos:closeMatch	ICD11:ME66.6Y	Other specified rash	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹结黄痴	yellow-crusted rash	skos:closeMatch	ICD11:ME66.61	Rash generalised	semapv:ManualMappingCuration	
+TCM-SO:sx_脓液畅泄	free pus discharge	skos:closeMatch	ICD11:MC14	Eye discharge	semapv:ManualMappingCuration	
+TCM-SO:sx_发热	Fever	skos:exactMatch	ICD11:MG26	Fever of other or unknown origin	semapv:ManualMappingCuration	
+TCM-SO:sx_带下色黄	yellow vaginal discharge	skos:closeMatch	ICD11:MF3A	Vaginal discharge	semapv:ManualMappingCuration	
+TCM-SO:sx_带下色黄	yellow vaginal discharge	skos:closeMatch	ICD11:MC14	Eye discharge	semapv:ManualMappingCuration	
+TCM-SO:sx_脓色白	White pus	skos:closeMatch	ICD11:XM3DL1	White ash	semapv:ManualMappingCuration	
+TCM-SO:sx_心中懊恼	heartburn with vexation (irritability)	skos:closeMatch	ICD11:MD95	Heartburn	semapv:ManualMappingCuration	
+TCM-SO:sx_肛门异物感	foreign-body sensation in the anus	skos:closeMatch	ICD11:ND71	Foreign body in ear	semapv:ManualMappingCuration	
+TCM-SO:sx_齿黄	yellow teeth	skos:closeMatch	ICD11:XE7WQ	Yellow hornet	semapv:ManualMappingCuration	
+TCM-SO:sx_齿黄	yellow teeth	skos:closeMatch	ICD11:DA07.7	Embedded teeth	semapv:ManualMappingCuration	
+TCM-SO:sx_肛门脱出物壁厚有弹性	thick-walled elastic anal prolapse	skos:closeMatch	ICD11:DB53	Anal prolapse	semapv:ManualMappingCuration	
+TCM-SO:sx_肛门脱出物壁厚有弹性	thick-walled elastic anal prolapse	skos:closeMatch	ICD11:DB31.2	Rectal prolapse	semapv:ManualMappingCuration	
+TCM-SO:sx_四肢抽搐	Spasticity	skos:exactMatch	ICD11:8A68.Z	Convulsions	semapv:ManualMappingCuration	
+TCM-SO:sx_小儿哭声延绵	prolonged crying in children	skos:closeMatch	ICD11:SE36	Night crying disorder (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_妊娠厌食	anorexia during pregnancy	skos:closeMatch	ICD11:XT0S	Pregnancy	semapv:ManualMappingCuration	
+TCM-SO:sx_咽喉部有肿起物	swelling in the throat	skos:closeMatch	ICD11:SF93	Kidney yin deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_脐中潮湿	damp umbilicus	skos:closeMatch	ICD11:XA3MT8	Umbilicus	semapv:ManualMappingCuration	
+TCM-SO:sx_脐中潮湿	damp umbilicus	skos:closeMatch	ICD11:SF9G	Bladder dampness-heat pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_牙齿黑斑	black macules on teeth	skos:closeMatch	ICD11:XM08L6	Afghanistan black	semapv:ManualMappingCuration	
+TCM-SO:sx_口腔黏膜淡白	Pale white oral mucosa	skos:closeMatch	ICD11:XA6NQ7	Oral mucosa	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹不红	Red rash	skos:closeMatch	ICD11:ME66.6Z	Rash, unspecified	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹不红	Red rash	skos:closeMatch	ICD11:ME66.6Y	Other specified rash	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹不红	Red rash	skos:closeMatch	ICD11:XM3R78	Lebanese red	semapv:ManualMappingCuration	
+TCM-SO:sx_龟头结节	nodule on glans penis	skos:closeMatch	ICD11:SF55	Liver depression and blood stasis pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_唇暗红	Dark red lip	skos:closeMatch	ICD11:XM3R78	Lebanese red	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻塞	Nasal congestion	skos:exactMatch	ICD11:MD11.9	Nasal congestion	semapv:ManualMappingCuration	
+TCM-SO:sx_疤痕色黑	Black scar	skos:closeMatch	ICD11:XM2WE8	Mustard black	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_疤痕色黑	Black scar	skos:closeMatch	ICD11:SF01	Blood stasis pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_精液清冷	clear and cold semen	skos:closeMatch	ICD11:XM0MJ2	Hippocastani semen	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹紫红	Purplish-red rash	skos:closeMatch	ICD11:ME66.6Z	Rash, unspecified	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹紫红	Purplish-red rash	skos:closeMatch	ICD11:ME66.6Y	Other specified rash	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹紫红	Purplish-red rash	skos:closeMatch	ICD11:XM3R78	Lebanese red	semapv:ManualMappingCuration	
+TCM-SO:sx_失明	Blindness	skos:exactMatch	ICD11:9D90.6	Blindness	semapv:ManualMappingCuration	
+TCM-SO:sx_失明	Blindness	skos:closeMatch	ICD11:SC70	Night blindness disorder (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_失明	Blindness	skos:closeMatch	ICD11:SK63	Day blindness disorder (TM2)	semapv:ManualMappingCuration	
+TCM-SO:sx_咳嗽	Cough	skos:exactMatch	ICD11:MD12	Cough	semapv:ManualMappingCuration	
+TCM-SO:sx_肛门脱出物色淡红	light-red anal prolapse	skos:closeMatch	ICD11:DB53	Anal prolapse	semapv:ManualMappingCuration	
+TCM-SO:sx_妇女月经期_寒热往来	alternating chills and fever during menstruation	skos:closeMatch	ICD11:SD93	Alternating fever and chills disorder (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_耳背见紫筋	purple vessels on the back of auricle	skos:closeMatch	ICD11:NA0B	Injury of the auricle	semapv:ManualMappingCuration	
+TCM-SO:sx_耳背见紫筋	purple vessels on the back of auricle	skos:closeMatch	ICD11:XA9E26	Skin of auricle	semapv:ManualMappingCuration	
+TCM-SO:sx_疼痛拒按	pain aggravated by pressure (refusing pressure)	skos:closeMatch	ICD11:SF01	Blood stasis pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_精索结节	nodule of spermatic cord	skos:closeMatch	ICD11:XA5KK7	Spermatic Vein	semapv:ManualMappingCuration	
+TCM-SO:sx_精索结节	nodule of spermatic cord	skos:closeMatch	ICD11:GB07.1	Inflammatory disorders of spermatic cord, tunica vaginalis or vas deferens	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻腔异物	foreign body in the nasal cavity	skos:closeMatch	ICD11:ND72.0	Foreign body in nasal sinus	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻腔异物	foreign body in the nasal cavity	skos:closeMatch	ICD11:ND71	Foreign body in ear	semapv:ManualMappingCuration	
+TCM-SO:sx_血尿	Hematuria	skos:exactMatch	ICD11:MF50.4	Haematuria	semapv:ManualMappingCuration	
+TCM-SO:sx_眼睑下垂	Ptosis	skos:closeMatch	ICD11:SK6L	Ptosis disorder (TM2)	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_眼睑下垂	Ptosis	skos:closeMatch	ICD11:LA14.04	Congenital ptosis	semapv:ManualMappingCuration	
+TCM-SO:sx_目上视	upward deviation of eyes	skos:closeMatch	ICD11:9C83.11	Upward gaze deviation	semapv:ManualMappingCuration	
+TCM-SO:sx_目上视	upward deviation of eyes	skos:closeMatch	ICD11:LB80.2	Radial deviation of fingers	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹色红	Skin rash	skos:exactMatch	ICD11:EM0Z	Rash	semapv:ManualMappingCuration	
+TCM-SO:sx_挛痛	Cramping pain	skos:closeMatch	ICD11:SF9D	Uterine deficiency cold pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_经行身痒	body itching during menstruation	skos:closeMatch	ICD11:SF5H	Liver and kidney yin deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_经行身痒	body itching during menstruation	skos:closeMatch	ICD11:SF82	Lung and kidney yin deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_经行身痒	body itching during menstruation	skos:closeMatch	ICD11:SF93	Kidney yin deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_身麻	body numbness	skos:closeMatch	ICD11:SC62	Numbness disorder (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_身麻	body numbness	skos:closeMatch	ICD11:SK54	Numbness disorder (TM2)	semapv:ManualMappingCuration	
+TCM-SO:sx_带下如水	watery vaginal discharge	skos:closeMatch	ICD11:MF3A	Vaginal discharge	semapv:ManualMappingCuration	
+TCM-SO:sx_两颊黏膜白腐斑块	white curdled patches on cheek mucosa	skos:closeMatch	ICD11:XA6NQ7	Oral mucosa	semapv:ManualMappingCuration	
+TCM-SO:sx_两颊黏膜白腐斑块	white curdled patches on cheek mucosa	skos:closeMatch	ICD11:XA0PT3	Mucosa	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹浸淫成片	oozing rash coalescing into patches	skos:closeMatch	ICD11:SF02	Blood heat pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_恶露有块	lochia with clots	skos:closeMatch	ICD11:SF01	Blood stasis pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_环状赘皮	annular skin tag	skos:closeMatch	ICD11:ME63.6	Chronic discoid or annular skin disorder	semapv:ManualMappingCuration	
+TCM-SO:sx_环状赘皮	annular skin tag	skos:closeMatch	ICD11:ME62.8	Acute discoid or annular skin eruption	semapv:ManualMappingCuration	
+TCM-SO:sx_热势起伏	fluctuating fever	skos:closeMatch	ICD11:1C33	Q fever	semapv:ManualMappingCuration	
+TCM-SO:sx_经期延长	Menometrorrhagia	skos:closeMatch	ICD11:GA20.50	Heavy menstrual bleeding	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_神珠将反	eyeball about to deviate	skos:closeMatch	ICD11:SF5H	Liver and kidney yin deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_带下如泡沫状	foamy vaginal discharge	skos:closeMatch	ICD11:MF3A	Vaginal discharge	semapv:ManualMappingCuration	
+TCM-SO:sx_耳如蝉鸣	cicada-like tinnitus	skos:closeMatch	ICD11:MC41	Tinnitus	semapv:ManualMappingCuration	
+TCM-SO:sx_少气懒言	shortage of qi with reluctance to speak	skos:closeMatch	ICD11:SF70	Spleen qi deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_牙眼痛	pain at gum margin	skos:closeMatch	ICD11:XM6DW9	Guar gum (medicinal)	semapv:ManualMappingCuration	
+TCM-SO:sx_肉芽烧灼感	burning sensation of granulation tissue	skos:closeMatch	ICD11:VV12	Sensation of pain	semapv:ManualMappingCuration	
+TCM-SO:sx_肉芽烧灼感	burning sensation of granulation tissue	skos:closeMatch	ICD11:XE7PM	Burning oil	semapv:ManualMappingCuration	
+TCM-SO:sx_肉芽烧灼感	burning sensation of granulation tissue	skos:closeMatch	ICD11:VE20	Sensation of pain [BMDS]	semapv:ManualMappingCuration	
+TCM-SO:sx_四肢瘦削	emaciation of limbs	skos:closeMatch	ICD11:SF5H	Liver and kidney yin deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_四肢瘦削	emaciation of limbs	skos:closeMatch	ICD11:SF7M	Spleen and kidney yang deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_腹内包块	intra-abdominal mass	skos:closeMatch	ICD11:MD82	Intra-abdominal or pelvic swelling, mass or lump	semapv:ManualMappingCuration	
+TCM-SO:sx_腹内包块	intra-abdominal mass	skos:closeMatch	ICD11:DD50.20	Primary intra-abdominal hernia	semapv:ManualMappingCuration	
+TCM-SO:sx_腹内包块	intra-abdominal mass	skos:closeMatch	ICD11:DD50.21	Secondary intra-abdominal hernia	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤血瘀	Skin blood stasis	skos:closeMatch	ICD11:SF01	Blood stasis pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤血瘀	Skin blood stasis	skos:closeMatch	ICD11:SF55	Liver depression and blood stasis pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_嗜食生冷	craving for raw and cold food	skos:closeMatch	ICD11:SF7F	Stomach heat pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_头发卷曲	curly hair	skos:closeMatch	ICD11:ED73.0	Weathered hair	semapv:ManualMappingCuration	
+TCM-SO:sx_大便稀	loose stool	skos:closeMatch	ICD11:XE484	Stool	semapv:ManualMappingCuration	
+TCM-SO:sx_手肿	hand swelling	skos:closeMatch	ICD11:SK68	Tear sac swelling disorder (TM2)	semapv:ManualMappingCuration	
+TCM-SO:sx_小便浑浊	turbid urine	skos:closeMatch	ICD11:SB03	Turbid urine disorder (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹搔破出血	rash bleeding after scratching	skos:closeMatch	ICD11:ME66.6Z	Rash, unspecified	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹搔破出血	rash bleeding after scratching	skos:closeMatch	ICD11:ME66.6Y	Other specified rash	semapv:ManualMappingCuration	
+TCM-SO:sx_结节坚硬	Nodule hardness	skos:closeMatch	ICD11:SK6T	Phlyctenular nodule disorder (TM2)	semapv:ManualMappingCuration	
+TCM-SO:sx_雀目	night blindness (sparrow eye)	skos:closeMatch	ICD11:5B55.0	Vitamin A deficiency with night blindness	semapv:ManualMappingCuration	
+TCM-SO:sx_雀目	night blindness (sparrow eye)	skos:closeMatch	ICD11:9D90.6	Blindness	semapv:ManualMappingCuration	
+TCM-SO:sx_雀目	night blindness (sparrow eye)	skos:closeMatch	ICD11:SC70	Night blindness disorder (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_三叉神经痛	Trigeminal neuralgia	skos:exactMatch	ICD11:8B82.0	Trigeminal neuralgia	semapv:ManualMappingCuration	
+TCM-SO:sx_三叉神经痛	Trigeminal neuralgia	skos:closeMatch	ICD11:8A82	Trigeminal autonomic cephalalgias	semapv:ManualMappingCuration	
+TCM-SO:sx_三叉神经痛	Trigeminal neuralgia	skos:closeMatch	ICD11:NA04.4	Injury of trigeminal nerve	semapv:ManualMappingCuration	
+TCM-SO:sx_小腿内侧红丝	red threads on inner lower leg	skos:closeMatch	ICD11:XA5U49	Distal lower leg	semapv:ManualMappingCuration	
+TCM-SO:sx_黑睛星鬓	star-like corneal opacities	skos:closeMatch	ICD11:9A77.Z	Corneal scars or opacities, unspecified	semapv:ManualMappingCuration	
+TCM-SO:sx_脊椎凸出	spinal protrusion	skos:closeMatch	ICD11:XE72S	Material protrusion or extrusion	semapv:ManualMappingCuration	
+TCM-SO:sx_呃声高亢	high-pitched hiccup	skos:closeMatch	ICD11:SF7F	Stomach heat pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_呃声高亢	high-pitched hiccup	skos:closeMatch	ICD11:SE72	Heat pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_指变黑坏死	black necrotic finger	skos:closeMatch	ICD11:XM08L6	Afghanistan black	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻头红	Red tip-of-nose	skos:closeMatch	ICD11:XA3057	Supratip of nose	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻头红	Red tip-of-nose	skos:closeMatch	ICD11:XA04T9	Skin of nose	semapv:ManualMappingCuration	
+TCM-SO:sx_腹大如鼓	drum-like abdominal distension	skos:closeMatch	ICD11:ME01	Abdominal distension	semapv:ManualMappingCuration	
+TCM-SO:sx_腹大如鼓	drum-like abdominal distension	skos:closeMatch	ICD11:SM31	Abdominal distension disorder (TM2)	semapv:ManualMappingCuration	
+TCM-SO:sx_久不欲食	chronic poor appetite	skos:closeMatch	ICD11:XT8W	Chronic	semapv:ManualMappingCuration	
+TCM-SO:sx_呕吐苦水	vomiting of bitter fluid	skos:closeMatch	ICD11:MD90.1	Vomiting	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻端微黑	Slight black tip-of-nose	skos:closeMatch	ICD11:XA04T9	Skin of nose	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻端微黑	Slight black tip-of-nose	skos:closeMatch	ICD11:XA3ZG3	Infratip lobule of nose	semapv:ManualMappingCuration	
+TCM-SO:sx_带下腐臭	putrid vaginal discharge	skos:closeMatch	ICD11:MF3A	Vaginal discharge	semapv:ManualMappingCuration	
+TCM-SO:sx_嗳气低弱	weak belching	skos:closeMatch	ICD11:MD91	Belching	semapv:ManualMappingCuration	
+TCM-SO:sx_嗳气低弱	weak belching	skos:closeMatch	ICD11:SF7C	Stomach qi deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_疮臭如鼠尿	sore smelling like mouse urine	skos:closeMatch	ICD11:XE43Q	Mouse urine proteins	semapv:ManualMappingCuration	
+TCM-SO:sx_唇裂	Lip fissure	skos:exactMatch	ICD11:DA00.3	Lip fissure	semapv:ManualMappingCuration	
+TCM-SO:sx_甲板萎缩	Nail-plate atrophy	skos:closeMatch	ICD11:EE10.4	Nail atrophy	semapv:ManualMappingCuration	
+TCM-SO:sx_易怒	Irritability	skos:exactMatch	ICD11:MB24.C	Irritability	semapv:ManualMappingCuration	
+TCM-SO:sx_肛门脱出物黄白	yellow-white anal prolapse	skos:closeMatch	ICD11:DB53	Anal prolapse	semapv:ManualMappingCuration	
+TCM-SO:sx_喃喃独语	mumbling soliloquy	skos:closeMatch	ICD11:SE91	Qi stagnation pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤花斑	mottled skin	skos:closeMatch	ICD11:XM6J14	Protectant, skin	semapv:ManualMappingCuration	
+TCM-SO:sx_乍寒乍热	sudden alternating chills and fever	skos:closeMatch	ICD11:SD93	Alternating fever and chills disorder (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_乍寒乍热	sudden alternating chills and fever	skos:closeMatch	ICD11:MG21	Chills	semapv:ManualMappingCuration	
+TCM-SO:sx_疮面痛觉消失	absent pain sensation of sore surface	skos:closeMatch	ICD11:VV12	Sensation of pain	semapv:ManualMappingCuration	
+TCM-SO:sx_疮面痛觉消失	absent pain sensation of sore surface	skos:closeMatch	ICD11:VE20	Sensation of pain [BMDS]	semapv:ManualMappingCuration	
+TCM-SO:sx_左侧胸廓隆起	left-sided thoracic bulging	skos:closeMatch	ICD11:XA8A74	Thoracic duct	semapv:ManualMappingCuration	
+TCM-SO:sx_左侧胸廓隆起	left-sided thoracic bulging	skos:closeMatch	ICD11:XK8G	Left	semapv:ManualMappingCuration	
+TCM-SO:sx_左侧胸廓隆起	left-sided thoracic bulging	skos:closeMatch	ICD11:DD71.1	Left sided ulcerative colitis	semapv:ManualMappingCuration	
+TCM-SO:sx_脊柱歪斜	scoliosis (spinal deviation)	skos:exactMatch	ICD11:FA70.1	Scoliosis	semapv:ManualMappingCuration	
+TCM-SO:sx_脊柱歪斜	scoliosis (spinal deviation)	skos:closeMatch	ICD11:FC01.5	Post radiation scoliosis	semapv:ManualMappingCuration	
+TCM-SO:sx_趺阳脉搏动减弱	weakened pulsation of Fuyang (dorsalis pedis) pulse	skos:closeMatch	ICD11:XD8QN4	Pulse Oximeters, Tabletop	semapv:ManualMappingCuration	
+TCM-SO:sx_带下秽浊	turbid and filthy vaginal discharge	skos:closeMatch	ICD11:MF3A	Vaginal discharge	semapv:ManualMappingCuration	
+TCM-SO:sx_后头痛	Occiput pain	skos:closeMatch	ICD11:XA33W1	Occiput	semapv:ManualMappingCuration	
+TCM-SO:sx_嗳气响亮	loud belching	skos:closeMatch	ICD11:MD91	Belching	semapv:ManualMappingCuration	
+TCM-SO:sx_嗳气响亮	loud belching	skos:closeMatch	ICD11:DD90.5	Functional belching disorders	semapv:ManualMappingCuration	
+TCM-SO:sx_阳强	persistent erection	skos:closeMatch	ICD11:XT6Z	Persistent	semapv:ManualMappingCuration	
+TCM-SO:sx_阳强	persistent erection	skos:closeMatch	ICD11:SB0A	Persistent erection disorder (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤苍白	Pallor	skos:exactMatch	ICD11:ME64.2	Pallor	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤苍白	Pallor	skos:closeMatch	ICD11:MC16	Pallor conjunctiva	semapv:ManualMappingCuration	
+TCM-SO:sx_鱼际脉络红赤	Red thenar-eminence vessels and collaterals	skos:closeMatch	ICD11:XA2JN4	Thenar eminence	semapv:ManualMappingCuration	
+TCM-SO:sx_鱼际脉络红赤	Red thenar-eminence vessels and collaterals	skos:closeMatch	ICD11:XA57N0	Malar eminence	semapv:ManualMappingCuration	
+TCM-SO:sx_臖核结块推之不移	immobile xinghe lump	skos:closeMatch	ICD11:SF5H	Liver and kidney yin deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_臖核结块推之不移	immobile xinghe lump	skos:closeMatch	ICD11:SF64	Heart yin deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_臖核结块推之不移	immobile xinghe lump	skos:closeMatch	ICD11:SF93	Kidney yin deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_指纹沉隐	deep hidden finger venules	skos:closeMatch	ICD11:XK16	Deep	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤血疱	blood blisters on the skin	skos:closeMatch	ICD11:SF74	Spleen failing to control the blood pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_视野窄缩	narrowing of visual field	skos:closeMatch	ICD11:QA00.61	Normal Visual Field	semapv:ManualMappingCuration	
+TCM-SO:sx_视野窄缩	narrowing of visual field	skos:closeMatch	ICD11:9D41	Impairment of visual field	semapv:ManualMappingCuration	
+TCM-SO:sx_头面呈上大下小的倒梯形	head and face in inverted-trapezoid shape (large above, small below)	skos:closeMatch	ICD11:XA9DH2	Trapezoid bone	semapv:ManualMappingCuration	
+TCM-SO:sx_窜痛	Shifting pain	skos:closeMatch	ICD11:SE91	Qi stagnation pattern (TM1)	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_肿瘤根深	deep-rooted tumor	skos:closeMatch	ICD11:XK16	Deep	semapv:ManualMappingCuration	
+TCM-SO:sx_嗳气酸馊	sour belching	skos:closeMatch	ICD11:MD91	Belching	semapv:ManualMappingCuration	
+TCM-SO:sx_嗳气酸馊	sour belching	skos:closeMatch	ICD11:DD90.5	Functional belching disorders	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤㿠白	bright pale-white skin	skos:closeMatch	ICD11:XM6AD6	Egg white	semapv:ManualMappingCuration	
+TCM-SO:sx_水疱壁薄	thin-walled blisters	skos:closeMatch	ICD11:KC40.0	Congenital sucking blisters	semapv:ManualMappingCuration	
+TCM-SO:sx_水疱壁薄	thin-walled blisters	skos:closeMatch	ICD11:EJ40.1	Sunburn with blisters or exudation	semapv:ManualMappingCuration	
+TCM-SO:sx_指暗红	Dark red finger	skos:closeMatch	ICD11:XM3R78	Lebanese red	semapv:ManualMappingCuration	
+TCM-SO:sx_指暗红	Dark red finger	skos:closeMatch	ICD11:MC15	Red eye	semapv:ManualMappingCuration	
+TCM-SO:sx_关节肿大	Joint enlargement	skos:closeMatch	ICD11:SN08	Prostatic enlargement disorder (TM2)	semapv:ManualMappingCuration	
+TCM-SO:sx_头发直立	erect hair	skos:closeMatch	ICD11:XA9N28	Beard hair	semapv:ManualMappingCuration	
+TCM-SO:sx_头发直立	erect hair	skos:closeMatch	ICD11:ED73.0	Weathered hair	semapv:ManualMappingCuration	
+TCM-SO:sx_肩塌	shoulder drooping	skos:closeMatch	ICD11:SF80	Lung qi deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_肩塌	shoulder drooping	skos:closeMatch	ICD11:SF6K	Heart and lung qi deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤红点	red dots on the skin	skos:closeMatch	ICD11:SF01	Blood stasis pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_目眶痛	orbital pain	skos:closeMatch	ICD11:MC86	Precordial pain	semapv:ManualMappingCuration	
+TCM-SO:sx_赘皮柔软	Skin tag/redundant skin softness	skos:closeMatch	ICD11:ME66.2	Excess and redundant skin	semapv:ManualMappingCuration	
+TCM-SO:sx_赘皮柔软	Skin tag/redundant skin softness	skos:closeMatch	ICD11:XM6J14	Protectant, skin	semapv:ManualMappingCuration	
+TCM-SO:sx_肛门脱出物宽蒂	broad-stalked anal prolapse	skos:closeMatch	ICD11:DB53	Anal prolapse	semapv:ManualMappingCuration	
+TCM-SO:sx_指甲脱落	Onycholysis of fingernails	skos:closeMatch	ICD11:EE10.2	Onycholysis	semapv:ManualMappingCuration	
+TCM-SO:sx_指甲脱落	Onycholysis of fingernails	skos:closeMatch	ICD11:XA0EH9	Fingernails	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_指甲脱落	Onycholysis of fingernails	skos:closeMatch	ICD11:XA96Q7	Crura of antihelix	semapv:ManualMappingCuration	
+TCM-SO:sx_尿血鲜红	Bright red hematuria	skos:closeMatch	ICD11:SF9G	Bladder dampness-heat pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_口噤	Trismus	skos:closeMatch	ICD11:SF00	Blood deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_口噤	Trismus	skos:closeMatch	ICD11:SR1T	Blood deficiency pattern (TM2)	semapv:ManualMappingCuration	
+TCM-SO:sx_尿中夹血块	blood clots in urine	skos:closeMatch	ICD11:SF01	Blood stasis pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_指纹浮露	superficial visible finger venules	skos:closeMatch	ICD11:XK7F	Superficial	semapv:ManualMappingCuration	
+TCM-SO:sx_结节暗红	Dark red nodule	skos:closeMatch	ICD11:SK6T	Phlyctenular nodule disorder (TM2)	semapv:ManualMappingCuration	
+TCM-SO:sx_结节暗红	Dark red nodule	skos:closeMatch	ICD11:XM3R78	Lebanese red	semapv:ManualMappingCuration	
+TCM-SO:sx_下肢青脉硬结	indurated blue vessels of lower limb	skos:closeMatch	ICD11:LB9A.0	Amelia of lower limb	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_下肢青脉硬结	indurated blue vessels of lower limb	skos:closeMatch	ICD11:1B70.02	Erysipelas of lower limb	semapv:ManualMappingCuration	
+TCM-SO:sx_尿细如线	thread-like urinary stream	skos:closeMatch	ICD11:MF50.61	Poor urinary stream	semapv:ManualMappingCuration	
+TCM-SO:sx_尿细如线	thread-like urinary stream	skos:closeMatch	ICD11:MF50.62	Splitting of urinary stream	semapv:ManualMappingCuration	
+TCM-SO:sx_尿细如线	thread-like urinary stream	skos:closeMatch	ICD11:SF01	Blood stasis pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_呃声低沉	low deep hiccup	skos:closeMatch	ICD11:XK16	Deep	semapv:ManualMappingCuration	
+TCM-SO:sx_呃声低沉	low deep hiccup	skos:closeMatch	ICD11:QD51	Low income	semapv:ManualMappingCuration	
+TCM-SO:sx_黑睛花赘	floral corneal growth	skos:closeMatch	ICD11:9A76	Corneal ulcer	semapv:ManualMappingCuration	
+TCM-SO:sx_黑睛花赘	floral corneal growth	skos:closeMatch	ICD11:9A78.0	Corneal neovascularization	semapv:ManualMappingCuration	
+TCM-SO:sx_抑郁	Depression	skos:closeMatch	ICD11:SF5E	Gallbladder depression with phlegm harassment pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_大眦角赤脉传睛	red vessels spreading from inner canthus to the eye	skos:closeMatch	ICD11:MC15	Red eye	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻端色青	Bluish tip-of-nose	skos:closeMatch	ICD11:XA3057	Supratip of nose	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻端色青	Bluish tip-of-nose	skos:closeMatch	ICD11:XA04T9	Skin of nose	semapv:ManualMappingCuration	
+TCM-SO:sx_盯耳	cerumen impaction	skos:closeMatch	ICD11:DA0E.4	Food impaction	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹不脱屑	non-scaling rash	skos:closeMatch	ICD11:SF01	Blood stasis pattern (TM1)	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_带下如脓	Vaginal discharge resembling pus	skos:closeMatch	ICD11:MF3A	Vaginal discharge	semapv:ManualMappingCuration	
+TCM-SO:sx_喜蜷卧	preferring to curl up in bed	skos:closeMatch	ICD11:SF6M	Heart and kidney yang deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_喜蜷卧	preferring to curl up in bed	skos:closeMatch	ICD11:SF7M	Spleen and kidney yang deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_喜蜷卧	preferring to curl up in bed	skos:closeMatch	ICD11:SF97	Kidney yang deficiency pattern (TM1)	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_唇现蓝色	bluish lips	skos:closeMatch	ICD11:XM0BB1	Blue velvet	semapv:ManualMappingCuration	
+TCM-SO:sx_唇现蓝色	bluish lips	skos:closeMatch	ICD11:XM52J2	Heavenly Blue (morning glory)	semapv:ManualMappingCuration	
+TCM-SO:sx_小眦角赤脉传睛	red vessels spreading from outer canthus to the eye	skos:closeMatch	ICD11:MC15	Red eye	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤红斑	Erythematous macule	skos:closeMatch	ICD11:EM0Z	Erythema	semapv:ManualMappingCuration	
+TCM-SO:sx_声音嘶哑	Hoarse voice	skos:closeMatch	ICD11:MA82.0	Dysphonia	semapv:ManualMappingCuration	
+TCM-SO:sx_太阳穴疼痛	Temple pain	skos:closeMatch	ICD11:XA9T94	Temple	semapv:ManualMappingCuration	
+TCM-SO:sx_指甲溃空	eroded hollow nail	skos:closeMatch	ICD11:XA6Q52	Nail	semapv:ManualMappingCuration	
+TCM-SO:sx_指甲溃空	eroded hollow nail	skos:closeMatch	ICD11:EE10.4	Nail atrophy	semapv:ManualMappingCuration	
+TCM-SO:sx_指甲溃空	eroded hollow nail	skos:closeMatch	ICD11:EE10.3	Nail hypertrophy	semapv:ManualMappingCuration	
+TCM-SO:sx_脘部坚满	hard and full epigastrium	skos:closeMatch	ICD11:XA8ZL8	Epigastrium	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹稠密	dense rash	skos:closeMatch	ICD11:SE76	Exterior pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹暗红	Dark red rash	skos:closeMatch	ICD11:SF01	Blood stasis pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_骨擦音	bone crepitus	skos:closeMatch	ICD11:XM44A4	Bone meal	semapv:ManualMappingCuration	
+TCM-SO:sx_骨擦音	bone crepitus	skos:closeMatch	ICD11:XA7XM2	Trapezium bone	semapv:ManualMappingCuration	
+TCM-SO:sx_左前胸痛	left anterior chest pain	skos:closeMatch	ICD11:MD30.1	Other chest pain	semapv:ManualMappingCuration	
+TCM-SO:sx_左前胸痛	left anterior chest pain	skos:closeMatch	ICD11:MC86	Precordial pain	semapv:ManualMappingCuration	
+TCM-SO:sx_阴囊皮肤暗红	Dark red scrotal skin	skos:closeMatch	ICD11:XM3R78	Lebanese red	semapv:ManualMappingCuration	
+TCM-SO:sx_牙槽骨腐坏	alveolar bone necrosis	skos:closeMatch	ICD11:XA37J7	Alveolar vein	semapv:ManualMappingCuration	
+TCM-SO:sx_头仰	head tilted back	skos:closeMatch	ICD11:XA2P90	Back	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤丘疹	Papule	skos:closeMatch	ICD11:SF9G	Bladder dampness-heat pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_小便失禁	Urinary incontinence	skos:closeMatch	ICD11:MF50.23	Functional urinary incontinence	semapv:ManualMappingCuration	
+TCM-SO:sx_小便失禁	Urinary incontinence	skos:closeMatch	ICD11:MF50.2Y	Other specified urinary incontinence	semapv:ManualMappingCuration	
+TCM-SO:sx_小便失禁	Urinary incontinence	skos:closeMatch	ICD11:MF50.2Z	Urinary incontinence, unspecified	semapv:ManualMappingCuration	
+TCM-SO:sx_阴户痛	Vulvodynia	skos:exactMatch	ICD11:GA34.02	Vulvodynia	semapv:ManualMappingCuration	
+TCM-SO:sx_结节色褐	Brown nodule	skos:closeMatch	ICD11:SK6T	Phlyctenular nodule disorder (TM2)	semapv:ManualMappingCuration	
+TCM-SO:sx_精索增粗	Spermatic-cord thickening	skos:closeMatch	ICD11:XA5KK7	Spermatic Vein	semapv:ManualMappingCuration	
+TCM-SO:sx_斑色晦暗	Dull and dark macule	skos:closeMatch	ICD11:SF7M	Spleen and kidney yang deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_斑色晦暗	Dull and dark macule	skos:closeMatch	ICD11:SF97	Kidney yang deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_咽痒	Pharyngeal itching	skos:closeMatch	ICD11:XA98C1	Pharyngeal vein	semapv:ManualMappingCuration	
+TCM-SO:sx_咽痒	Pharyngeal itching	skos:closeMatch	ICD11:XA5Q86	Pharyngeal nerve	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_咽痒	Pharyngeal itching	skos:closeMatch	ICD11:XA9LV7	Pharyngeal plexus	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_肿块边界不清	ill-defined mass	skos:closeMatch	ICD11:2D42	Malignant neoplasms of ill-defined sites	semapv:ManualMappingCuration	
+TCM-SO:sx_带下色红	Red vaginal discharge	skos:exactMatch	ICD11:MF3A	Vaginal discharge	semapv:ManualMappingCuration	
+TCM-SO:sx_带下色红	Red vaginal discharge	skos:closeMatch	ICD11:MC14	Eye discharge	semapv:ManualMappingCuration	
+TCM-SO:sx_舌绛	Crimson tongue	skos:closeMatch	ICD11:XM3R78	Lebanese red	semapv:ManualMappingCuration	
+TCM-SO:sx_舌绛	Crimson tongue	skos:closeMatch	ICD11:DA03.1	Geographic tongue	semapv:ManualMappingCuration	
+TCM-SO:sx_四肢拘急	Limb joint contracture	skos:closeMatch	ICD11:FA34.3	Contracture of joint	semapv:ManualMappingCuration	
+TCM-SO:sx_便血暗红	Dark red bloody stool	skos:closeMatch	ICD11:XE484	Stool	semapv:ManualMappingCuration	
+TCM-SO:sx_背热	Back heat	skos:closeMatch	ICD11:XA2P90	Back	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤色赤按之退色	red skin blanching on pressure	skos:closeMatch	ICD11:SF02	Blood heat pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_指甲色黑	Black nail	skos:closeMatch	ICD11:XA6Q52	Nail	semapv:ManualMappingCuration	
+TCM-SO:sx_指甲色黑	Black nail	skos:closeMatch	ICD11:XM08L6	Afghanistan black	semapv:ManualMappingCuration	
+TCM-SO:sx_前额痛	Forehead pain	skos:closeMatch	ICD11:XA1UW4	Paramedian forehead	semapv:ManualMappingCuration	
+TCM-SO:sx_前额痛	Forehead pain	skos:closeMatch	ICD11:XA1Z38	Lateral forehead	semapv:ManualMappingCuration	
+TCM-SO:sx_前额痛	Forehead pain	skos:closeMatch	ICD11:XA9SG2	Central forehead	semapv:ManualMappingCuration	
+TCM-SO:sx_大便灰白	Grayish-white stool	skos:closeMatch	ICD11:XE484	Stool	semapv:ManualMappingCuration	
+TCM-SO:sx_言语赛涩	stuttering sluggish speech	skos:closeMatch	ICD11:MA81	Speech dysfluency	semapv:ManualMappingCuration	
+TCM-SO:sx_言语赛涩	stuttering sluggish speech	skos:closeMatch	ICD11:MB23.L	Pressured speech	semapv:ManualMappingCuration	
+TCM-SO:sx_言语赛涩	stuttering sluggish speech	skos:closeMatch	ICD11:XC2X	Oriented, normal speech	semapv:ManualMappingCuration	
+TCM-SO:sx_耳轮肿起	swollen helix	skos:closeMatch	ICD11:XA9A86	Crus of helix	semapv:ManualMappingCuration	
+TCM-SO:sx_耳轮肿起	swollen helix	skos:closeMatch	ICD11:XA7AB8	Spine of helix	semapv:ManualMappingCuration	
+TCM-SO:sx_睑弦赤烂	red erosion of the eyelid margin (marginal blepharitis)	skos:closeMatch	ICD11:XA4AX5	Lower eyelid margin	semapv:ManualMappingCuration	
+TCM-SO:sx_睑弦赤烂	red erosion of the eyelid margin (marginal blepharitis)	skos:closeMatch	ICD11:XA53T1	Upper eyelid margin	semapv:ManualMappingCuration	
+TCM-SO:sx_口腔黏膜斑	Oral mucosa macule	skos:closeMatch	ICD11:XA6NQ7	Oral mucosa	semapv:ManualMappingCuration	
+TCM-SO:sx_口腔黏膜斑	Oral mucosa macule	skos:closeMatch	ICD11:XA0PT3	Mucosa	semapv:ManualMappingCuration	
+TCM-SO:sx_肿块石硬	stone-hard mass	skos:closeMatch	ICD11:SF01	Blood stasis pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_斑秃	Patchy alopecia	skos:closeMatch	ICD11:SN90	Patchy alopecia disorder (TM2)	semapv:ManualMappingCuration	
+TCM-SO:sx_斑秃	Patchy alopecia	skos:closeMatch	ICD11:ED70.20	Patchy alopecia areata of scalp	semapv:ManualMappingCuration	
+TCM-SO:sx_胃脘拘急	Epigastrium cramping and tension	skos:closeMatch	ICD11:XA8ZL8	Epigastrium	semapv:ManualMappingCuration	
+TCM-SO:sx_四肢震颤	Tremor	skos:exactMatch	ICD11:8A01	Tremor	semapv:ManualMappingCuration	
+TCM-SO:sx_食后困顿	drowsiness after meals	skos:closeMatch	ICD11:SF70	Spleen qi deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_水疱壁厚	thick-walled blisters	skos:closeMatch	ICD11:SF77	Spleen yang deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_烧伤脱皮	burn skin peeling	skos:closeMatch	ICD11:ED53	Skin peeling	semapv:ManualMappingCuration	
+TCM-SO:sx_烧伤脱皮	burn skin peeling	skos:closeMatch	ICD11:EC20.1	Hereditary skin peeling	semapv:ManualMappingCuration	
+TCM-SO:sx_大便无臭	Stool odorless	skos:closeMatch	ICD11:XE484	Stool	semapv:ManualMappingCuration	
+TCM-SO:sx_转筋	Muscle cramp	skos:closeMatch	ICD11:NF06.3	Exercise muscle cramp	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹结干痴	dry-crusted rash	skos:closeMatch	ICD11:ME66.6Z	Rash, unspecified	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹结干痴	dry-crusted rash	skos:closeMatch	ICD11:ME66.6Y	Other specified rash	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹结干痴	dry-crusted rash	skos:closeMatch	ICD11:ME66.61	Rash generalised	semapv:ManualMappingCuration	
+TCM-SO:sx_交替性鼻塞	alternating nasal obstruction	skos:closeMatch	ICD11:SK97	Nasal obstruction disorder (TM2)	semapv:ManualMappingCuration	
+TCM-SO:sx_交替性鼻塞	alternating nasal obstruction	skos:closeMatch	ICD11:MB53.0	Alternating hemiplegia	semapv:ManualMappingCuration	
+TCM-SO:sx_耳廓痛	Auricular pain	skos:closeMatch	ICD11:XA4WK4	Greater auricular nerve	semapv:ManualMappingCuration	
+TCM-SO:sx_肌肤灼热	Skin-and-flesh burning heat	skos:closeMatch	ICD11:XE7PM	Burning oil	semapv:ManualMappingCuration	
+TCM-SO:sx_尿清	clear urine	skos:closeMatch	ICD11:SF9D	Uterine deficiency cold pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_尿清	clear urine	skos:closeMatch	ICD11:SF9J	Bladder deficiency cold pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_肛门脱出物柔软无弹性	soft inelastic anal prolapse	skos:closeMatch	ICD11:DB53	Anal prolapse	semapv:ManualMappingCuration	
+TCM-SO:sx_肛门脱出物柔软无弹性	soft inelastic anal prolapse	skos:closeMatch	ICD11:DB31.2	Rectal prolapse	semapv:ManualMappingCuration	
+TCM-SO:sx_脉缓	Moderate pulse	skos:closeMatch	ICD11:XS0T	Moderate	semapv:ManualMappingCuration	
+TCM-SO:sx_偏头痛	Migraine	skos:closeMatch	ICD11:SK01	Migraine disorder (TM2)	semapv:ManualMappingCuration	
+TCM-SO:sx_偏头痛	Migraine	skos:closeMatch	ICD11:SD10	Migraine disorder (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_偏头痛	Migraine	skos:closeMatch	ICD11:8B22.9	Migraine-induced stroke	semapv:ManualMappingCuration	
+TCM-SO:sx_耳流滋水	serous fluid oozing from ear	skos:closeMatch	ICD11:XA2L90	Serous fluid	semapv:ManualMappingCuration	
+TCM-SO:sx_脱发	Alopecia	skos:closeMatch	ICD11:ED70.21	Alopecia totalis	semapv:ManualMappingCuration	
+TCM-SO:sx_脱发	Alopecia	skos:closeMatch	ICD11:SN90	Patchy alopecia disorder (TM2)	semapv:ManualMappingCuration	
+TCM-SO:sx_副睾硬结	Epididymis induration	skos:closeMatch	ICD11:XA4D25	Epididymis	semapv:ManualMappingCuration	
+TCM-SO:sx_副睾硬结	Epididymis induration	skos:closeMatch	ICD11:SF5H	Liver and kidney yin deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_遇风流泪	wind-induced tearing	skos:closeMatch	ICD11:SF54	Liver blood deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_甲房肿胀	Nail-bed swelling	skos:closeMatch	ICD11:XA6Q52	Nail	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_肛门脱出物有蒂	pedunculated anal prolapse	skos:closeMatch	ICD11:DB53	Anal prolapse	semapv:ManualMappingCuration	
+TCM-SO:sx_骨蒸发热	steaming-bone fever	skos:closeMatch	ICD11:1C33	Q fever	semapv:ManualMappingCuration	
+TCM-SO:sx_阴毛脱落	loss of pubic hair	skos:closeMatch	ICD11:XA12U4	Pubic hair	semapv:ManualMappingCuration	
+TCM-SO:sx_阴囊硬肿	hard scrotal swelling	skos:closeMatch	ICD11:SK6G	Hard swelling of eyelid disorder (TM2)	semapv:ManualMappingCuration	
+TCM-SO:sx_指甲菲薄腐烂	thin fragile eroded nail	skos:closeMatch	ICD11:XA6Q52	Nail	semapv:ManualMappingCuration	
+TCM-SO:sx_指甲菲薄腐烂	thin fragile eroded nail	skos:closeMatch	ICD11:LD55	Fragile X chromosome	semapv:ManualMappingCuration	
+TCM-SO:sx_指甲菲薄腐烂	thin fragile eroded nail	skos:closeMatch	ICD11:LD47.4	Autosomal fragile site	semapv:ManualMappingCuration	
+TCM-SO:sx_眦角生胬肉	pterygium growing at the canthus	skos:closeMatch	ICD11:9A61.1	Pterygium	semapv:ManualMappingCuration	
+TCM-SO:sx_阴囊皮肤顽厚	thick stubborn scrotal skin	skos:closeMatch	ICD11:SF04	Blood dryness pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_舌青	Bluish tongue	skos:closeMatch	ICD11:DA03.1	Geographic tongue	semapv:ManualMappingCuration	
+TCM-SO:sx_甲下胬肉突出	pterygium protruding under the nail	skos:closeMatch	ICD11:9A61.1	Pterygium	semapv:ManualMappingCuration	
+TCM-SO:sx_睑不能闭	inability to close the eyelid (lagophthalmos)	skos:closeMatch	ICD11:XE8L2	Inability to irrigate	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_月经推后	delayed menstruation	skos:closeMatch	ICD11:SB81	Delayed menstruation disorder (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_带下气腥	fishy vaginal discharge	skos:closeMatch	ICD11:MF3A	Vaginal discharge	semapv:ManualMappingCuration	
+TCM-SO:sx_项强	neck stiffness	skos:closeMatch	ICD11:ME85	Stiffness of joint	semapv:ManualMappingCuration	
+TCM-SO:sx_包皮嵌顿	Prepuce incarcerated	skos:closeMatch	ICD11:GB05.3	Paraphimosis	semapv:ManualMappingCuration	
+TCM-SO:sx_指纹变细	thinned finger venules	skos:closeMatch	ICD11:SE75	Deficiency pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_带下绵绵不绝	endless continuous vaginal discharge	skos:closeMatch	ICD11:MF3A	Vaginal discharge	semapv:ManualMappingCuration	
+TCM-SO:sx_桶状胸	Barrel-shaped chest	skos:closeMatch	ICD11:SF91	Kidney failing to receive qi pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤瘀点	Skin petechia	skos:closeMatch	ICD11:SF01	Blood stasis pattern (TM1)	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹结厚痴	thick-crusted rash	skos:closeMatch	ICD11:ME66.6Z	Rash, unspecified	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹结厚痴	thick-crusted rash	skos:closeMatch	ICD11:ME66.6Y	Other specified rash	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹中央凹陷	Central rash depression/hollowing	skos:closeMatch	ICD11:XA6C41	Central cheek	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹中央凹陷	Central rash depression/hollowing	skos:closeMatch	ICD11:ME66.6Z	Rash, unspecified	semapv:ManualMappingCuration	
+TCM-SO:sx_巩膜斑点	scleral spots	skos:closeMatch	ICD11:XA1A48	Perioral region	semapv:ManualMappingCuration	
+TCM-SO:sx_巩膜斑点	scleral spots	skos:closeMatch	ICD11:XA5MS8	Presternal region	semapv:ManualMappingCuration	
+TCM-SO:sx_指甲色斑	Macule nail	skos:closeMatch	ICD11:XA6Q52	Nail	semapv:ManualMappingCuration	
+TCM-SO:sx_指甲色斑	Macule nail	skos:closeMatch	ICD11:ED61.10	Penile melanotic macule	semapv:ManualMappingCuration	
+TCM-SO:sx_指甲色斑	Macule nail	skos:closeMatch	ICD11:ED61.11	Vulval melanotic macule	semapv:ManualMappingCuration	
+TCM-SO:sx_产后恶风	Postpartum aversion to wind	skos:closeMatch	ICD11:XT4Z	Postpartum	semapv:ManualMappingCuration	

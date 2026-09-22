@@ -1,0 +1,722 @@
+# mapping_set_id: https://github.com/Pinellia7ternata/TCM-Symptom-Ontology/mappings/TCM-SO-SNOMEDCT.sssom.tsv
+# license: https://creativecommons.org/licenses/by/4.0/
+# mapping_provider: https://github.com/Pinellia7ternata/TCM-Symptom-Ontology
+# mapping_date: 2026-09-17
+# creator_id: https://github.com/Pinellia7ternata
+# mapping_tool: manual expert curation after lexical/semantic pre-screening
+# object_source: SNOMED CT (International Edition)
+# comment_type
+# comment: Subject classes are TCM Symptom Ontology (TCM-SO, release v4.10) symptom classes; predicate and object identify the cross-terminology alignment.
+# curie_map:
+#   TCM-SO: http://OntoTCM.org.cn/ontologies/tcm_v38/f#
+#   HP: http://purl.obolibrary.org/obo/HP_
+#   SNOMEDCT: http://snomed.info/id/
+#   ICD11: https://icd.who.int/browse11/l-m/en#
+subject_id	subject_label	predicate_id	object_id	object_label	mapping_justification	curation_status
+TCM-SO:sx_干呕	Vomiting	skos:exactMatch	SNOMEDCT:249497008	emesis	semapv:ManualMappingCuration	
+TCM-SO:sx_干呕	Vomiting	skos:closeMatch	SNOMEDCT:8579004	projectile vomiting	semapv:ManualMappingCuration	
+TCM-SO:sx_干呕	Vomiting	skos:closeMatch	SNOMEDCT:16932000	nausea and vomiting	semapv:ManualMappingCuration	
+TCM-SO:sx_头发色红	Red hair	skos:exactMatch	SNOMEDCT:297997007	ginger hair color	semapv:ManualMappingCuration	
+TCM-SO:sx_头顶痛	Vertex pain	skos:closeMatch	SNOMEDCT:25064002	headache	semapv:ManualMappingCuration	
+TCM-SO:sx_瘤体疮口出血如喷射状	jetting bleeding from the tumor sore	skos:closeMatch	SNOMEDCT:417244000	bleeding from the eye	semapv:ManualMappingCuration	
+TCM-SO:sx_瘤体疮口出血如喷射状	jetting bleeding from the tumor sore	skos:closeMatch	SNOMEDCT:93478000	bleeding from the eye	semapv:ManualMappingCuration	
+TCM-SO:sx_食少	Poor appetite	skos:exactMatch	SNOMEDCT:64379006	decreased appetite	semapv:ManualMappingCuration	
+TCM-SO:sx_白睛结节	nodules on the white of the eye	skos:closeMatch	SNOMEDCT:815008	episcleritis	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤干瘪起皱	shriveled wrinkled skin	skos:closeMatch	SNOMEDCT:247434009	premature skin wrinkling	semapv:ManualMappingCuration	
+TCM-SO:sx_脐突	Umbilical hernia	skos:exactMatch	SNOMEDCT:396347007	umbilical hernia	semapv:ManualMappingCuration	
+TCM-SO:sx_脐突	Umbilical hernia	skos:exactMatch	SNOMEDCT:44518003	celosomia	semapv:ManualMappingCuration	
+TCM-SO:sx_脐突	Umbilical hernia	skos:exactMatch	SNOMEDCT:18735004	exomphalos	semapv:ManualMappingCuration	
+TCM-SO:sx_泪窍溢脓	pus discharge from the lacrimal punctum	skos:closeMatch	SNOMEDCT:204208005	absent lacrimal gland puncta	semapv:ManualMappingCuration	
+TCM-SO:sx_泪窍溢脓	pus discharge from the lacrimal punctum	skos:closeMatch	SNOMEDCT:253217007	absent lacrimal gland puncta	semapv:ManualMappingCuration	
+TCM-SO:sx_耳生痈	ear abscess	skos:closeMatch	SNOMEDCT:27916005	hepatic abscess	semapv:ManualMappingCuration	
+TCM-SO:sx_耳生痈	ear abscess	skos:closeMatch	SNOMEDCT:299709002	dental abscess	semapv:ManualMappingCuration	
+TCM-SO:sx_耳生痈	ear abscess	skos:closeMatch	SNOMEDCT:82127005	perianal abscess	semapv:ManualMappingCuration	
+TCM-SO:sx_斑色鲜红	Bright red macule	skos:closeMatch	SNOMEDCT:112629002	flat discolored area of skin	semapv:ManualMappingCuration	
+TCM-SO:sx_囟门迟闭	delayed closure of fontanelle	skos:closeMatch	SNOMEDCT:295091000119	delayed closure anterior fontanel	semapv:ManualMappingCuration	
+TCM-SO:sx_囟门迟闭	delayed closure of fontanelle	skos:closeMatch	SNOMEDCT:82779003	broad late closing cranial sutures	semapv:ManualMappingCuration	
+TCM-SO:sx_早醒	Terminal insomnia	skos:closeMatch	SNOMEDCT:193462001	difficulty staying or falling asleep	semapv:ManualMappingCuration	
+TCM-SO:sx_月经量少	Oligomenorrhea	skos:exactMatch	SNOMEDCT:27342003	Oligomenorrhea	semapv:ManualMappingCuration	
+TCM-SO:sx_经行腰痛	low back pain during menstruation	skos:closeMatch	SNOMEDCT:279039007	low back pain	semapv:ManualMappingCuration	
+TCM-SO:sx_妄见	visual hallucination	skos:exactMatch	SNOMEDCT:64269007	visual hallucination	semapv:ManualMappingCuration	
+TCM-SO:sx_妄见	visual hallucination	skos:closeMatch	SNOMEDCT:7011001	hallucination	semapv:ManualMappingCuration	
+TCM-SO:sx_斑色玫瑰红	Rose-red macule	skos:closeMatch	SNOMEDCT:112629002	flat discolored area of skin	semapv:ManualMappingCuration	
+TCM-SO:sx_头皮脱屑	scalp scaling	skos:closeMatch	SNOMEDCT:75851004	allodynia of scalp	semapv:ManualMappingCuration	
+TCM-SO:sx_头皮脱屑	scalp scaling	skos:closeMatch	SNOMEDCT:50563003	dysseborrheic dermatitis	semapv:ManualMappingCuration	
+TCM-SO:sx_头皮脱屑	scalp scaling	skos:closeMatch	SNOMEDCT:86708008	dysseborrheic dermatitis	semapv:ManualMappingCuration	
+TCM-SO:sx_足下垂	Foot dorsiflexor weakness	skos:exactMatch	SNOMEDCT:6077001	foot dorsiflexor weakness	semapv:ManualMappingCuration	
+TCM-SO:sx_咽肿	pharyngeal swelling	skos:closeMatch	SNOMEDCT:2129002	pharyngeal edema	semapv:ManualMappingCuration	
+TCM-SO:sx_烧伤起泡	burn blistering	skos:closeMatch	SNOMEDCT:67653003	pretibial blistering	semapv:ManualMappingCuration	
+TCM-SO:sx_头痛	Headache	skos:exactMatch	SNOMEDCT:25064002	Headache	semapv:ManualMappingCuration	
+TCM-SO:sx_舌肿胀	Abnormal tongue morphology	skos:closeMatch	SNOMEDCT:19829001	abnormal lung morphology	semapv:ManualMappingCuration	
+TCM-SO:sx_舌肿胀	Abnormal tongue morphology	skos:closeMatch	SNOMEDCT:10810001	abnormal lens morphology	semapv:ManualMappingCuration	
+TCM-SO:sx_舌肿胀	Abnormal tongue morphology	skos:closeMatch	SNOMEDCT:17790008	abnormal nail morphology	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻头枯稿	withered nasal tip	skos:closeMatch	SNOMEDCT:249331008	narrow nasal tip	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻头枯稿	withered nasal tip	skos:closeMatch	SNOMEDCT:249326006	bifid nasal tip	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻头枯稿	withered nasal tip	skos:closeMatch	SNOMEDCT:249327002	broad nasal tip	semapv:ManualMappingCuration	
+TCM-SO:sx_小腹痛	Abdominal pain	skos:exactMatch	SNOMEDCT:21522001	abdominal discomfort	semapv:ManualMappingCuration	
+TCM-SO:sx_饭后欲睡	postprandial drowsiness	skos:closeMatch	SNOMEDCT:79519003	abnormal drowsiness	semapv:ManualMappingCuration	
+TCM-SO:sx_饭后欲睡	postprandial drowsiness	skos:closeMatch	SNOMEDCT:271782001	abnormal drowsiness	semapv:ManualMappingCuration	
+TCM-SO:sx_口唇色赤	red lips	skos:closeMatch	SNOMEDCT:7847004	cheilitis	semapv:ManualMappingCuration	
+TCM-SO:sx_早泄	Premature ejaculation	skos:exactMatch	SNOMEDCT:44001008	premature ejaculation	semapv:ManualMappingCuration	
+TCM-SO:sx_早泄	Premature ejaculation	skos:closeMatch	SNOMEDCT:15405008	delayed ejaculation	semapv:ManualMappingCuration	
+TCM-SO:sx_脊柱侧弯	Scoliosis	skos:exactMatch	SNOMEDCT:111266001	cobb angle greater than ten degrees	semapv:ManualMappingCuration	
+TCM-SO:sx_脊柱侧弯	Scoliosis	skos:exactMatch	SNOMEDCT:64217002	cobb angle greater than ten degrees	semapv:ManualMappingCuration	
+TCM-SO:sx_脊柱侧弯	Scoliosis	skos:closeMatch	SNOMEDCT:203645000	compensatory scoliosis	semapv:ManualMappingCuration	
+TCM-SO:sx_口张	open mouth (inability to close)	skos:closeMatch	SNOMEDCT:262016004	gaped jawed appearance	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤色黄如橘	orange-yellow skin	skos:closeMatch	SNOMEDCT:18165001	icterus	semapv:ManualMappingCuration	
+TCM-SO:sx_嗅觉减退	Hyposmia	skos:exactMatch	SNOMEDCT:83156004	decreased smell sensation	semapv:ManualMappingCuration	
+TCM-SO:sx_下肢青脉显露	prominent blue vessels of lower limbs	skos:closeMatch	SNOMEDCT:109504005	big lower jaw	semapv:ManualMappingCuration	
+TCM-SO:sx_下肢青脉显露	prominent blue vessels of lower limbs	skos:closeMatch	SNOMEDCT:22810007	big lower jaw	semapv:ManualMappingCuration	
+TCM-SO:sx_听力减退	Hearing impairment	skos:exactMatch	SNOMEDCT:103276001	deafness	semapv:ManualMappingCuration	
+TCM-SO:sx_听力减退	Hearing impairment	skos:exactMatch	SNOMEDCT:15188001	deafness	semapv:ManualMappingCuration	
+TCM-SO:sx_听力减退	Hearing impairment	skos:exactMatch	SNOMEDCT:95828007	deafness	semapv:ManualMappingCuration	
+TCM-SO:sx_便稀如水	watery stool	skos:exactMatch	SNOMEDCT:267060006	diarrhea	semapv:ManualMappingCuration	
+TCM-SO:sx_便稀如水	watery stool	skos:exactMatch	SNOMEDCT:62315008	diarrhea	semapv:ManualMappingCuration	
+TCM-SO:sx_视远物不清	blurred distant vision	skos:closeMatch	SNOMEDCT:111516008	blurred vision	semapv:ManualMappingCuration	
+TCM-SO:sx_视远物不清	blurred distant vision	skos:closeMatch	SNOMEDCT:246636008	blurred vision	semapv:ManualMappingCuration	
+TCM-SO:sx_颅缝开解	separation of cranial sutures	skos:closeMatch	SNOMEDCT:268855009	broad cranial sutures	semapv:ManualMappingCuration	
+TCM-SO:sx_颅缝开解	separation of cranial sutures	skos:closeMatch	SNOMEDCT:276710001	little cranial sutures	semapv:ManualMappingCuration	
+TCM-SO:sx_颅缝开解	separation of cranial sutures	skos:closeMatch	SNOMEDCT:57219006	cranial suture synostosis	semapv:ManualMappingCuration	
+TCM-SO:sx_便血	Hematochezia	skos:exactMatch	SNOMEDCT:405737000	Hematochezia	semapv:ManualMappingCuration	
+TCM-SO:sx_喷嚏	Sneeze	skos:exactMatch	SNOMEDCT:76067001	Sneezing	semapv:ManualMappingCuration	
+TCM-SO:sx_气息微	faint breathing	skos:closeMatch	SNOMEDCT:87317003	breathing cessation	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤萎黄	sallow-yellow skin	skos:closeMatch	SNOMEDCT:18165001	icterus	semapv:ManualMappingCuration	
+TCM-SO:sx_尿少	oliguria	skos:exactMatch	SNOMEDCT:718403007	oliguria	semapv:ManualMappingCuration	
+TCM-SO:sx_尿少	oliguria	skos:exactMatch	SNOMEDCT:83128009	oliguria	semapv:ManualMappingCuration	
+TCM-SO:sx_肩痛	Shoulder pain	skos:closeMatch	SNOMEDCT:45326000	Shoulder pain	semapv:ManualMappingCuration	
+TCM-SO:sx_手足心热	Fever	skos:closeMatch	SNOMEDCT:304213008	low grade fever	semapv:ManualMappingCuration	
+TCM-SO:sx_手足心热	Fever	skos:exactMatch	SNOMEDCT:386661006	fever	semapv:ManualMappingCuration	
+TCM-SO:sx_手足心热	Fever	skos:exactMatch	SNOMEDCT:50177009	fever	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤色黄	Yellow discoloration of the skin	skos:exactMatch	SNOMEDCT:18165001	icterus	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤色黄	Yellow discoloration of the skin	skos:closeMatch	SNOMEDCT:119419001	blue discoloration of the skin	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤色黄	Yellow discoloration of the skin	skos:closeMatch	SNOMEDCT:3415004	blue discoloration of the skin	semapv:ManualMappingCuration	
+TCM-SO:sx_阴茎粗长	thickened and elongated penis	skos:closeMatch	SNOMEDCT:88673001	enlarged penis	semapv:ManualMappingCuration	
+TCM-SO:sx_乳蛾肿大	enlarged tonsil	skos:closeMatch	SNOMEDCT:46689006	enlarged tonsils	semapv:ManualMappingCuration	
+TCM-SO:sx_哮鸣	Wheezing	skos:exactMatch	SNOMEDCT:56018004	wheezing	semapv:ManualMappingCuration	
+TCM-SO:sx_哮鸣	Wheezing	skos:closeMatch	SNOMEDCT:24612001	rhonchi	semapv:ManualMappingCuration	
+TCM-SO:sx_脐腹痛	periumbilical pain	skos:closeMatch	SNOMEDCT:21522001	abdominal discomfort	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹细小	fine rash	skos:closeMatch	SNOMEDCT:112625008	rash	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹细小	fine rash	skos:closeMatch	SNOMEDCT:271807003	rash	semapv:ManualMappingCuration	
+TCM-SO:sx_小儿咬爪甲	nail biting in children	skos:closeMatch	SNOMEDCT:37298006	nail biting	semapv:ManualMappingCuration	
+TCM-SO:sx_眼花	blurred vision (eye dazzle)	skos:exactMatch	SNOMEDCT:111516008	blurred vision	semapv:ManualMappingCuration	
+TCM-SO:sx_眼花	blurred vision (eye dazzle)	skos:exactMatch	SNOMEDCT:246636008	blurred vision	semapv:ManualMappingCuration	
+TCM-SO:sx_舌有紫斑	Tongue purpura	skos:closeMatch	SNOMEDCT:12393003	blood spots	semapv:ManualMappingCuration	
+TCM-SO:sx_舌有紫斑	Tongue purpura	skos:closeMatch	SNOMEDCT:387778001	blood spots	semapv:ManualMappingCuration	
+TCM-SO:sx_舌有紫斑	Tongue purpura	skos:closeMatch	SNOMEDCT:423902002	blood spots	semapv:ManualMappingCuration	
+TCM-SO:sx_指甲色黄	Yellow nail	skos:closeMatch	SNOMEDCT:45342007	yellow nails	semapv:ManualMappingCuration	
+TCM-SO:sx_肿瘤悬垂	pendulous tumor	skos:closeMatch	SNOMEDCT:108369006	abnormal tissue mass	semapv:ManualMappingCuration	
+TCM-SO:sx_肿瘤悬垂	pendulous tumor	skos:closeMatch	SNOMEDCT:363346000	abnormal tissue mass	semapv:ManualMappingCuration	
+TCM-SO:sx_咽红	red pharynx	skos:closeMatch	SNOMEDCT:126685009	neoplasia of the pharynx	semapv:ManualMappingCuration	
+TCM-SO:sx_痫	epileptic seizure (xian)	skos:exactMatch	SNOMEDCT:246545002	epilepsy	semapv:ManualMappingCuration	
+TCM-SO:sx_臀部生痈	buttock abscess	skos:closeMatch	SNOMEDCT:299709002	dental abscess	semapv:ManualMappingCuration	
+TCM-SO:sx_阴囊皮肤裂开	Scrotal skin splitting/cracking	skos:closeMatch	SNOMEDCT:236780002	bifid scrotum	semapv:ManualMappingCuration	
+TCM-SO:sx_尿多	polyuria	skos:exactMatch	SNOMEDCT:28442001	increased urine output	semapv:ManualMappingCuration	
+TCM-SO:sx_尿多	polyuria	skos:exactMatch	SNOMEDCT:56574000	increased urine output	semapv:ManualMappingCuration	
+TCM-SO:sx_尿多	polyuria	skos:exactMatch	SNOMEDCT:718402002	increased urine output	semapv:ManualMappingCuration	
+TCM-SO:sx_牙龈色红	red gums	skos:closeMatch	SNOMEDCT:66383009	gingival inflammation	semapv:ManualMappingCuration	
+TCM-SO:sx_阴囊水肿	Edema	skos:exactMatch	SNOMEDCT:267038008	Edema	semapv:ManualMappingCuration	
+TCM-SO:sx_泄泻	Diarrhea	skos:exactMatch	SNOMEDCT:267060006	diarrhea	semapv:ManualMappingCuration	
+TCM-SO:sx_泄泻	Diarrhea	skos:exactMatch	SNOMEDCT:62315008	diarrhea	semapv:ManualMappingCuration	
+TCM-SO:sx_泄泻	Diarrhea	skos:closeMatch	SNOMEDCT:236071009	chronic diarrhea	semapv:ManualMappingCuration	
+TCM-SO:sx_头小	microcephaly	skos:exactMatch	SNOMEDCT:271611007	abnormally small cranium	semapv:ManualMappingCuration	
+TCM-SO:sx_流泪	Reflex tearing	skos:exactMatch	SNOMEDCT:267102003	Tearing	semapv:ManualMappingCuration	
+TCM-SO:sx_心悸	Palpitations	skos:exactMatch	SNOMEDCT:80313002	Palpitations	semapv:ManualMappingCuration	
+TCM-SO:sx_狂躁	manic agitation	skos:closeMatch	SNOMEDCT:24199005	agitation	semapv:ManualMappingCuration	
+TCM-SO:sx_耳痒	ear itching	skos:closeMatch	SNOMEDCT:279333002	itching	semapv:ManualMappingCuration	
+TCM-SO:sx_耳痒	ear itching	skos:closeMatch	SNOMEDCT:418290006	itching	semapv:ManualMappingCuration	
+TCM-SO:sx_耳痒	ear itching	skos:closeMatch	SNOMEDCT:418363000	itching	semapv:ManualMappingCuration	
+TCM-SO:sx_张口困难	difficulty opening the mouth	skos:closeMatch	SNOMEDCT:423142006	difficulty opening the eyelids	semapv:ManualMappingCuration	
+TCM-SO:sx_张口困难	difficulty opening the mouth	skos:closeMatch	SNOMEDCT:87866006	decrease in jaw mobility	semapv:ManualMappingCuration	
+TCM-SO:sx_斑色紫红	Purple red macule	skos:closeMatch	SNOMEDCT:112629002	flat discolored area of skin	semapv:ManualMappingCuration	
+TCM-SO:sx_唇干	dry lips	skos:exactMatch	SNOMEDCT:16459000	chapped lip	semapv:ManualMappingCuration	
+TCM-SO:sx_唇干	dry lips	skos:exactMatch	SNOMEDCT:238751002	chapped lip	semapv:ManualMappingCuration	
+TCM-SO:sx_唇干	dry lips	skos:exactMatch	SNOMEDCT:248182008	chapped lip	semapv:ManualMappingCuration	
+TCM-SO:sx_阴囊透光阴性	negative transillumination of scrotum	skos:closeMatch	SNOMEDCT:236780002	bifid scrotum	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_怔忡	Palpitations	skos:exactMatch	SNOMEDCT:80313002	Palpitations	semapv:ManualMappingCuration	
+TCM-SO:sx_口唇干燥	dry lips	skos:exactMatch	SNOMEDCT:16459000	chapped lip	semapv:ManualMappingCuration	
+TCM-SO:sx_口唇干燥	dry lips	skos:exactMatch	SNOMEDCT:238751002	chapped lip	semapv:ManualMappingCuration	
+TCM-SO:sx_口唇干燥	dry lips	skos:exactMatch	SNOMEDCT:248182008	chapped lip	semapv:ManualMappingCuration	
+TCM-SO:sx_神昏	Coma	skos:closeMatch	SNOMEDCT:271782001	Comatose	semapv:ManualMappingCuration	
+TCM-SO:sx_瘙痒	Pruritus	skos:exactMatch	SNOMEDCT:418363000	Pruritus	semapv:ManualMappingCuration	
+TCM-SO:sx_食入腹胀	Abdominal distention	skos:exactMatch	SNOMEDCT:60728008	Abdominal bloating	semapv:ManualMappingCuration	
+TCM-SO:sx_隐痛	Pain	skos:closeMatch	SNOMEDCT:247355005	flank pain	semapv:ManualMappingCuration	
+TCM-SO:sx_隐痛	Pain	skos:closeMatch	SNOMEDCT:29857009	chest discomfort	semapv:ManualMappingCuration	
+TCM-SO:sx_隐痛	Pain	skos:closeMatch	SNOMEDCT:21522001	abdominal discomfort	semapv:ManualMappingCuration	
+TCM-SO:sx_眼胞振跳	eyelid twitch	skos:closeMatch	SNOMEDCT:59026006	blepharospasm	semapv:ManualMappingCuration	
+TCM-SO:sx_少腹痛	Abdominal pain	skos:exactMatch	SNOMEDCT:21522001	abdominal discomfort	semapv:ManualMappingCuration	
+TCM-SO:sx_气短	shortness of breath	skos:exactMatch	SNOMEDCT:230145002	abnormal breathing	semapv:ManualMappingCuration	
+TCM-SO:sx_气短	shortness of breath	skos:exactMatch	SNOMEDCT:267036007	abnormal breathing	semapv:ManualMappingCuration	
+TCM-SO:sx_带下杂见五色	vaginal discharge of five intermingled colors	skos:exactMatch	SNOMEDCT:248955002	Vaginal discharge	semapv:ManualMappingCuration	
+TCM-SO:sx_弄舌	Abnormality of the tongue	skos:closeMatch	SNOMEDCT:275259005	abnormal pinnae	semapv:ManualMappingCuration	
+TCM-SO:sx_弄舌	Abnormality of the tongue	skos:closeMatch	SNOMEDCT:19416009	abnormal eye	semapv:ManualMappingCuration	
+TCM-SO:sx_弄舌	Abnormality of the tongue	skos:closeMatch	SNOMEDCT:371405004	abnormal eye	semapv:ManualMappingCuration	
+TCM-SO:sx_水泻	Watery diarrhea	skos:closeMatch	SNOMEDCT:267060006	diarrhea	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_水泻	Watery diarrhea	skos:closeMatch	SNOMEDCT:62315008	diarrhea	semapv:ManualMappingCuration	
+TCM-SO:sx_指苍白	Pale finger	skos:closeMatch	SNOMEDCT:398979000	paleness	semapv:ManualMappingCuration	
+TCM-SO:sx_言语不清	Slurred speech	skos:exactMatch	SNOMEDCT:289195008	slurred speech	semapv:ManualMappingCuration	
+TCM-SO:sx_耳底痛	deep ear pain	skos:closeMatch	SNOMEDCT:16001004	ear pain	semapv:ManualMappingCuration	
+TCM-SO:sx_耳底痛	deep ear pain	skos:closeMatch	SNOMEDCT:162356005	ear pain	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤感觉减退	Skin hypoesthesia	skos:closeMatch	SNOMEDCT:130980003	decreased vibration sense	semapv:ManualMappingCuration	
+TCM-SO:sx_尿血淡红	light-red hematuria	skos:closeMatch	SNOMEDCT:34436003	blood in urine	semapv:ManualMappingCuration	
+TCM-SO:sx_尿血淡红	light-red hematuria	skos:closeMatch	SNOMEDCT:53298000	blood in urine	semapv:ManualMappingCuration	
+TCM-SO:sx_腰冷	cold lower back	skos:closeMatch	SNOMEDCT:279039007	low back pain	semapv:ManualMappingCuration	
+TCM-SO:sx_口疮	Aphthous ulcer	skos:exactMatch	SNOMEDCT:235000006	Oral ulcer	semapv:ManualMappingCuration	
+TCM-SO:sx_舌溃疡	Ulcerated tongue	skos:closeMatch	SNOMEDCT:52368004	fissured tongue	semapv:ManualMappingCuration	
+TCM-SO:sx_舌溃疡	Ulcerated tongue	skos:closeMatch	SNOMEDCT:84557007	bifid tongue	semapv:ManualMappingCuration	
+TCM-SO:sx_舌紫	Tongue pain	skos:closeMatch	SNOMEDCT:248614001	Tongue discoloration	semapv:ManualMappingCuration	
+TCM-SO:sx_久泄不止	incessant chronic diarrhea	skos:closeMatch	SNOMEDCT:236071009	chronic diarrhea	semapv:ManualMappingCuration	
+TCM-SO:sx_吞食梗塞	obstruction when swallowing	skos:closeMatch	SNOMEDCT:126765001	gastrointestinal obstruction	semapv:ManualMappingCuration	
+TCM-SO:sx_口腔糜烂	Oral erosion	skos:closeMatch	SNOMEDCT:50792001	corneal erosion	semapv:ManualMappingCuration	
+TCM-SO:sx_尿血棕红	brownish-red hematuria	skos:closeMatch	SNOMEDCT:34436003	blood in urine	semapv:ManualMappingCuration	
+TCM-SO:sx_尿血棕红	brownish-red hematuria	skos:closeMatch	SNOMEDCT:53298000	blood in urine	semapv:ManualMappingCuration	
+TCM-SO:sx_间歇性鼻塞	intermittent nasal obstruction	skos:closeMatch	SNOMEDCT:267100006	blockage of nose	semapv:ManualMappingCuration	
+TCM-SO:sx_间歇性鼻塞	intermittent nasal obstruction	skos:closeMatch	SNOMEDCT:232209000	blockage of nose	semapv:ManualMappingCuration	
+TCM-SO:sx_间歇性鼻塞	intermittent nasal obstruction	skos:closeMatch	SNOMEDCT:68235000	blockage of nose	semapv:ManualMappingCuration	
+TCM-SO:sx_尿中带血丝	blood streaks in urine	skos:closeMatch	SNOMEDCT:34436003	blood in urine	semapv:ManualMappingCuration	
+TCM-SO:sx_尿中带血丝	blood streaks in urine	skos:closeMatch	SNOMEDCT:53298000	blood in urine	semapv:ManualMappingCuration	
+TCM-SO:sx_对光消失	absent light reflex	skos:closeMatch	SNOMEDCT:247144003	absent foveal reflex	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹结血痴	blood-crusted rash	skos:closeMatch	SNOMEDCT:112625008	rash	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹结血痴	blood-crusted rash	skos:closeMatch	SNOMEDCT:271807003	rash	semapv:ManualMappingCuration	
+TCM-SO:sx_夜尿多	nocturia (frequent night urination)	skos:exactMatch	SNOMEDCT:139394000	nocturia	semapv:ManualMappingCuration	
+TCM-SO:sx_疮面痛觉减退	decreased pain sensation of sore surface	skos:closeMatch	SNOMEDCT:697990000	decreased taste	semapv:ManualMappingCuration	
+TCM-SO:sx_头大	macrocephaly	skos:closeMatch	SNOMEDCT:396100011910	disproportionately large head	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻端色白	White tip-of-nose	skos:closeMatch	SNOMEDCT:249327002	broad nasal tip	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻端色白	White tip-of-nose	skos:closeMatch	SNOMEDCT:249331008	narrow nasal tip	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻端色白	White tip-of-nose	skos:closeMatch	SNOMEDCT:249326006	bifid nasal tip	semapv:ManualMappingCuration	
+TCM-SO:sx_头胀	head distension	skos:closeMatch	SNOMEDCT:2032001	brain edema	semapv:ManualMappingCuration	
+TCM-SO:sx_耳鸣	Tinnitus	skos:exactMatch	SNOMEDCT:60862001	Tinnitus	semapv:ManualMappingCuration	
+TCM-SO:sx_臂部生痈	arm abscess	skos:closeMatch	SNOMEDCT:82127005	perianal abscess	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_皮肤感觉过敏	Skin hyperesthesia	skos:closeMatch	SNOMEDCT:14151009	hyperaesthesia	semapv:ManualMappingCuration	
+TCM-SO:sx_声音低沉	Weak voice	skos:exactMatch	SNOMEDCT:34527004	hypophonia	semapv:ManualMappingCuration	
+TCM-SO:sx_声音低沉	Weak voice	skos:exactMatch	SNOMEDCT:8614008	hypophonia	semapv:ManualMappingCuration	
+TCM-SO:sx_吞咽困难	Dysphagia	skos:exactMatch	SNOMEDCT:288939007	deglutition disorder	semapv:ManualMappingCuration	
+TCM-SO:sx_吞咽困难	Dysphagia	skos:exactMatch	SNOMEDCT:40739000	deglutition disorder	semapv:ManualMappingCuration	
+TCM-SO:sx_吞咽困难	Dysphagia	skos:closeMatch	SNOMEDCT:71457002	oral pharyngeal dysphagia	semapv:ManualMappingCuration	
+TCM-SO:sx_口淡	Hypogeusia	skos:exactMatch	SNOMEDCT:697990000	decreased taste	semapv:ManualMappingCuration	
+TCM-SO:sx_失眠	Insomnia	skos:exactMatch	SNOMEDCT:59050008	Insomnia	semapv:ManualMappingCuration	
+TCM-SO:sx_腰痛	Low back pain	skos:exactMatch	SNOMEDCT:279039007	Low back pain	semapv:ManualMappingCuration	
+TCM-SO:sx_精索坚硬	hard spermatic cord	skos:closeMatch	SNOMEDCT:49198006	spermatic cord torsion	semapv:ManualMappingCuration	
+TCM-SO:sx_精索坚硬	hard spermatic cord	skos:closeMatch	SNOMEDCT:81996005	spermatic cord torsion	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻端色赤	Red tip-of-nose	skos:closeMatch	SNOMEDCT:249331008	narrow nasal tip	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻端色赤	Red tip-of-nose	skos:closeMatch	SNOMEDCT:249327002	broad nasal tip	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻端色赤	Red tip-of-nose	skos:closeMatch	SNOMEDCT:249326006	bifid nasal tip	semapv:ManualMappingCuration	
+TCM-SO:sx_视力下降	decreased vision	skos:closeMatch	SNOMEDCT:13164000	decreased central vision	semapv:ManualMappingCuration	
+TCM-SO:sx_视物易色	disturbed color vision	skos:exactMatch	SNOMEDCT:23289000	abnormal color vision	semapv:ManualMappingCuration	
+TCM-SO:sx_视物易色	disturbed color vision	skos:exactMatch	SNOMEDCT:367469000	abnormal color vision	semapv:ManualMappingCuration	
+TCM-SO:sx_咽干	Abnormality of the pharynx	skos:closeMatch	SNOMEDCT:162084009	Dry throat	semapv:ManualMappingCuration	
+TCM-SO:sx_头皮血肿	Cephalohematoma	skos:exactMatch	SNOMEDCT:206200000	cephalohaematoma	semapv:ManualMappingCuration	
+TCM-SO:sx_头皮血肿	Cephalohematoma	skos:exactMatch	SNOMEDCT:83095000	cephalohaematoma	semapv:ManualMappingCuration	
+TCM-SO:sx_睑内结石	conjunctival concretion (lid stone)	skos:closeMatch	SNOMEDCT:428477002	conjunctival nodule	semapv:ManualMappingCuration	
+TCM-SO:sx_反酸	Oral lichenoid lesion	skos:closeMatch	SNOMEDCT:16331000	Heartburn	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_恶寒	Chills	skos:closeMatch	SNOMEDCT:274640006	Chills	semapv:ManualMappingCuration	
+TCM-SO:sx_尿频	Frequent urination	skos:exactMatch	SNOMEDCT:11829000	Urinary frequency	semapv:ManualMappingCuration	
+TCM-SO:sx_心忡	palpitations	skos:closeMatch	SNOMEDCT:80313002	heart palpitations	semapv:ManualMappingCuration	
+TCM-SO:sx_趾甲增厚	thickened toenails	skos:closeMatch	SNOMEDCT:52897009	dystrophic thickened nails	semapv:ManualMappingCuration	
+TCM-SO:sx_咳声重浊	Abnormally low-pitched voice	skos:closeMatch	SNOMEDCT:51406002	abnormally high pitched voice	semapv:ManualMappingCuration	
+TCM-SO:sx_耳痛	Ear pain	skos:exactMatch	SNOMEDCT:10608006	Ear pain	semapv:ManualMappingCuration	
+TCM-SO:sx_视近物不清	blurred near vision	skos:closeMatch	SNOMEDCT:111516008	blurred vision	semapv:ManualMappingCuration	
+TCM-SO:sx_视近物不清	blurred near vision	skos:closeMatch	SNOMEDCT:246636008	blurred vision	semapv:ManualMappingCuration	
+TCM-SO:sx_惊悸	Palpitations	skos:closeMatch	SNOMEDCT:80313002	heart palpitations	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤色紫	Purple skin	skos:closeMatch	SNOMEDCT:387778001	blood spots	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤色紫	Purple skin	skos:closeMatch	SNOMEDCT:423902002	blood spots	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤色紫	Purple skin	skos:closeMatch	SNOMEDCT:12393003	blood spots	semapv:ManualMappingCuration	
+TCM-SO:sx_月经量多	Menorrhagia	skos:exactMatch	SNOMEDCT:237053008	Menorrhagia	semapv:ManualMappingCuration	
+TCM-SO:sx_肛门皮肤溃疡	Skin ulcer	skos:exactMatch	SNOMEDCT:46742003	Skin ulcer	semapv:ManualMappingCuration	
+TCM-SO:sx_小便不利	Dysuria	skos:exactMatch	SNOMEDCT:49650001	dull burning sensation with urination	semapv:ManualMappingCuration	
+TCM-SO:sx_目赤	Red eye	skos:exactMatch	SNOMEDCT:1797002	Red eye	semapv:ManualMappingCuration	
+TCM-SO:sx_下唇肿胀	Lower-lip swelling	skos:closeMatch	SNOMEDCT:102572006	dependant edema	semapv:ManualMappingCuration	
+TCM-SO:sx_壮热	Malignant hyperthermia	skos:closeMatch	SNOMEDCT:386661006	fever	semapv:ManualMappingCuration	
+TCM-SO:sx_壮热	Malignant hyperthermia	skos:closeMatch	SNOMEDCT:50177009	fever	semapv:ManualMappingCuration	
+TCM-SO:sx_壮热	Malignant hyperthermia	skos:exactMatch	SNOMEDCT:405501007	malignant hyperthermia	semapv:ManualMappingCuration	
+TCM-SO:sx_神志狂乱	manic confusion	skos:closeMatch	SNOMEDCT:286933003	confusion	semapv:ManualMappingCuration	
+TCM-SO:sx_牙龈晦暗	dull dark gums	skos:closeMatch	SNOMEDCT:235038002	dark color of gums	semapv:ManualMappingCuration	
+TCM-SO:sx_尿闭	urinary retention	skos:exactMatch	SNOMEDCT:130951007	increased post void residual urine volume	semapv:ManualMappingCuration	
+TCM-SO:sx_尿闭	urinary retention	skos:exactMatch	SNOMEDCT:267064002	increased post void residual urine volume	semapv:ManualMappingCuration	
+TCM-SO:sx_尿闭	urinary retention	skos:exactMatch	SNOMEDCT:449491000124	increased post void residual urine volume	semapv:ManualMappingCuration	
+TCM-SO:sx_嗜睡	Lethargy	skos:exactMatch	SNOMEDCT:214264003	dullness	semapv:ManualMappingCuration	
+TCM-SO:sx_嗜睡	Lethargy	skos:exactMatch	SNOMEDCT:271782001	abnormal drowsiness	semapv:ManualMappingCuration	
+TCM-SO:sx_嗜睡	Lethargy	skos:exactMatch	SNOMEDCT:79519003	abnormal drowsiness	semapv:ManualMappingCuration	
+TCM-SO:sx_口臭	Halitosis	skos:exactMatch	SNOMEDCT:33893004	Halitosis	semapv:ManualMappingCuration	
+TCM-SO:sx_入睡难	Sleep onset insomnia	skos:closeMatch	SNOMEDCT:193462001	difficulty staying or falling asleep	semapv:ManualMappingCuration	
+TCM-SO:sx_入睡难	Sleep onset insomnia	skos:closeMatch	SNOMEDCT:53888004	difficulty sleeping	semapv:ManualMappingCuration	
+TCM-SO:sx_眼前闪光	Photopsia (flashing lights before the eyes)	skos:exactMatch	SNOMEDCT:15013002	eye floaters	semapv:ManualMappingCuration	
+TCM-SO:sx_眼前闪光	Photopsia (flashing lights before the eyes)	skos:exactMatch	SNOMEDCT:162278001	eye floaters	semapv:ManualMappingCuration	
+TCM-SO:sx_眼前闪光	Photopsia (flashing lights before the eyes)	skos:exactMatch	SNOMEDCT:420999000	eye floaters	semapv:ManualMappingCuration	
+TCM-SO:sx_甲向内嵌	ingrown nail	skos:exactMatch	SNOMEDCT:400097005	ingrown nail	semapv:ManualMappingCuration	
+TCM-SO:sx_甲向内嵌	ingrown nail	skos:exactMatch	SNOMEDCT:400200009	ingrown nail	semapv:ManualMappingCuration	
+TCM-SO:sx_咀嚼困难	Impaired mastication	skos:exactMatch	SNOMEDCT:162020001	chewing difficulties	semapv:ManualMappingCuration	
+TCM-SO:sx_手掌角化	palmar keratinization	skos:closeMatch	SNOMEDCT:247449001	palmar pits	semapv:ManualMappingCuration	
+TCM-SO:sx_眉毛脱落	loss of eyebrows	skos:closeMatch	SNOMEDCT:253208007	absent eyebrow	semapv:ManualMappingCuration	
+TCM-SO:sx_眉毛脱落	loss of eyebrows	skos:closeMatch	SNOMEDCT:422441003	absent eyebrow	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤增厚	Thickened skin	skos:exactMatch	SNOMEDCT:17417006	diffusely thickened skin	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤增厚	Thickened skin	skos:exactMatch	SNOMEDCT:69943009	diffusely thickened skin	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤增厚	Thickened skin	skos:closeMatch	SNOMEDCT:51603000	cutis gyrata of scalp	semapv:ManualMappingCuration	
+TCM-SO:sx_颈项歪斜	wry neck	skos:exactMatch	SNOMEDCT:270476009	cervical dystonia	semapv:ManualMappingCuration	
+TCM-SO:sx_颈项歪斜	wry neck	skos:exactMatch	SNOMEDCT:70070008	cervical dystonia	semapv:ManualMappingCuration	
+TCM-SO:sx_颈项歪斜	wry neck	skos:exactMatch	SNOMEDCT:74333002	cervical dystonia	semapv:ManualMappingCuration	
+TCM-SO:sx_皮峪隆起	Skin-ridges bulging	skos:closeMatch	SNOMEDCT:18265008	anterior bulging of the globe	semapv:ManualMappingCuration	
+TCM-SO:sx_手背肿如覆碗	dorsal hand swelling like an upturned bowl	skos:closeMatch	SNOMEDCT:708670007	anteverted nares	semapv:ManualMappingCuration	
+TCM-SO:sx_腰脊痛	lumbosacral pain	skos:closeMatch	SNOMEDCT:247355005	flank pain	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_腰脊痛	lumbosacral pain	skos:closeMatch	SNOMEDCT:279039007	low back pain	semapv:ManualMappingCuration	
+TCM-SO:sx_肛门皮肤糜烂	eroded anal skin	skos:closeMatch	SNOMEDCT:93448009	skin erosion	semapv:ManualMappingCuration	
+TCM-SO:sx_肩凝	frozen shoulder	skos:closeMatch	SNOMEDCT:45326000	shoulder pain	semapv:ManualMappingCuration	
+TCM-SO:sx_胸廓变形	thoracic deformity	skos:closeMatch	SNOMEDCT:29857009	chest discomfort	semapv:ManualMappingCuration	
+TCM-SO:sx_口腔溃烂	Oral ulceration and festering	skos:closeMatch	SNOMEDCT:26284000	mouth sore	semapv:ManualMappingCuration	
+TCM-SO:sx_视物模糊	blurred vision	skos:exactMatch	SNOMEDCT:111516008	blurred vision	semapv:ManualMappingCuration	
+TCM-SO:sx_视物模糊	blurred vision	skos:exactMatch	SNOMEDCT:246636008	blurred vision	semapv:ManualMappingCuration	
+TCM-SO:sx_耳聋	Severe hearing impairment	skos:exactMatch	SNOMEDCT:15188001	Hearing loss	semapv:ManualMappingCuration	
+TCM-SO:sx_牙根痛	pain at tooth root	skos:closeMatch	SNOMEDCT:109493006	absence of tooth root	semapv:ManualMappingCuration	
+TCM-SO:sx_胸痛	Chest pain	skos:exactMatch	SNOMEDCT:29857009	Chest pain	semapv:ManualMappingCuration	
+TCM-SO:sx_妊娠腹痛	abdominal pain during pregnancy	skos:closeMatch	SNOMEDCT:21522001	abdominal discomfort	semapv:ManualMappingCuration	
+TCM-SO:sx_包茎	Phimosis	skos:exactMatch	SNOMEDCT:253854008	phimosis	semapv:ManualMappingCuration	
+TCM-SO:sx_骨折四肢畸形	limb deformity from fracture	skos:closeMatch	SNOMEDCT:445144002	abnormal limbs	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹色褐	Brown rash	skos:closeMatch	SNOMEDCT:112625008	rash	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹色褐	Brown rash	skos:closeMatch	SNOMEDCT:271807003	rash	semapv:ManualMappingCuration	
+TCM-SO:sx_上肢萎缩	Upper limb amyotrophy	skos:closeMatch	SNOMEDCT:253921005	asymmetric upper limb shortening	semapv:ManualMappingCuration	
+TCM-SO:sx_上肢萎缩	Upper limb amyotrophy	skos:closeMatch	SNOMEDCT:74035001	amyotrophy	semapv:ManualMappingCuration	
+TCM-SO:sx_上肢萎缩	Upper limb amyotrophy	skos:closeMatch	SNOMEDCT:298745009	hypertrophy of the upper limb	semapv:ManualMappingCuration	
+TCM-SO:sx_功能失调性月经紊乱	dysfunctional menstrual irregularity	skos:closeMatch	SNOMEDCT:80182007	irregular menses	semapv:ManualMappingCuration	
+TCM-SO:sx_圆背	Round back (kyphotic posture)	skos:exactMatch	SNOMEDCT:414564002	gibbus deformity	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤色素减退	Hypopigmentation of the skin	skos:exactMatch	SNOMEDCT:18655006	hypopigmentation	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤色素减退	Hypopigmentation of the skin	skos:exactMatch	SNOMEDCT:201284005	hypopigmentation	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤色素减退	Hypopigmentation of the skin	skos:exactMatch	SNOMEDCT:23006000	hypopigmentation	semapv:ManualMappingCuration	
+TCM-SO:sx_恶心	Nausea	skos:exactMatch	SNOMEDCT:422587007	Nausea	semapv:ManualMappingCuration	
+TCM-SO:sx_目珠痛	Eyeball pain	skos:closeMatch	SNOMEDCT:41652007	eye pain	semapv:ManualMappingCuration	
+TCM-SO:sx_梦中啮齿	teeth grinding during sleep	skos:closeMatch	SNOMEDCT:191983006	bruxism	semapv:ManualMappingCuration	
+TCM-SO:sx_梦中啮齿	teeth grinding during sleep	skos:closeMatch	SNOMEDCT:90207007	bruxism	semapv:ManualMappingCuration	
+TCM-SO:sx_晶珠混浊	cloudy lens (cataract)	skos:exactMatch	SNOMEDCT:128306009	cataract	semapv:ManualMappingCuration	
+TCM-SO:sx_晶珠混浊	cloudy lens (cataract)	skos:exactMatch	SNOMEDCT:193570009	cataract	semapv:ManualMappingCuration	
+TCM-SO:sx_晶珠混浊	cloudy lens (cataract)	skos:exactMatch	SNOMEDCT:247053007	cataract	semapv:ManualMappingCuration	
+TCM-SO:sx_过早绝经	premature menopause	skos:exactMatch	SNOMEDCT:373717006	climacterium praecox	semapv:ManualMappingCuration	
+TCM-SO:sx_前囟宽大	wide anterior fontanelle	skos:closeMatch	SNOMEDCT:295091000119	delayed closure anterior fontanel	semapv:ManualMappingCuration	
+TCM-SO:sx_前囟宽大	wide anterior fontanelle	skos:closeMatch	SNOMEDCT:276709006	enlarged fontanelles	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻不闻香臭	Anosmia	skos:exactMatch	SNOMEDCT:44169009	anosmia	semapv:ManualMappingCuration	
+TCM-SO:sx_头昏	dizziness	skos:exactMatch	SNOMEDCT:271789005	dizziness	semapv:ManualMappingCuration	
+TCM-SO:sx_头昏	dizziness	skos:exactMatch	SNOMEDCT:399090003	dizziness	semapv:ManualMappingCuration	
+TCM-SO:sx_头昏	dizziness	skos:exactMatch	SNOMEDCT:399153001	dizziness	semapv:ManualMappingCuration	
+TCM-SO:sx_白睛溢血	bleeding on the white of the eye (subconjunctival hemorrhage)	skos:closeMatch	SNOMEDCT:815008	episcleritis	semapv:ManualMappingCuration	
+TCM-SO:sx_日唇红肿	Red lips swelling	skos:closeMatch	SNOMEDCT:271771009	joint swelling	semapv:ManualMappingCuration	
+TCM-SO:sx_膝外翻	Genu valgum	skos:exactMatch	SNOMEDCT:299331007	bow leggedness	semapv:ManualMappingCuration	
+TCM-SO:sx_膝外翻	Genu valgum	skos:exactMatch	SNOMEDCT:299330008	genu valga	semapv:ManualMappingCuration	
+TCM-SO:sx_赘皮肿胀	Skin tag/redundant skin swelling	skos:closeMatch	SNOMEDCT:201093004	loose redundant skin	semapv:ManualMappingCuration	
+TCM-SO:sx_倒睫拳毛	Trichiasis	skos:exactMatch	SNOMEDCT:60332004	ingrown eyelashes	semapv:ManualMappingCuration	
+TCM-SO:sx_胞睑色红	red eyelid	skos:closeMatch	SNOMEDCT:414521009	hordeolum internum	semapv:ManualMappingCuration	
+TCM-SO:sx_肛门周围皮肤见瘘口	fistula opening in perianal skin	skos:closeMatch	SNOMEDCT:72779005	anal fistula	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻疮	Nasal sore	skos:closeMatch	SNOMEDCT:126669004	nasal neoplasm	semapv:ManualMappingCuration	
+TCM-SO:sx_疲乏	Fatigue	skos:exactMatch	SNOMEDCT:248274002	fatigue	semapv:ManualMappingCuration	
+TCM-SO:sx_疲乏	Fatigue	skos:exactMatch	SNOMEDCT:84229001	fatigue	semapv:ManualMappingCuration	
+TCM-SO:sx_疲乏	Fatigue	skos:closeMatch	SNOMEDCT:80449002	increased muscle fatiguability	semapv:ManualMappingCuration	
+TCM-SO:sx_舌光	Bare (mirror) tongue	skos:closeMatch	SNOMEDCT:25273001	abnormally large tongue	semapv:ManualMappingCuration	
+TCM-SO:sx_舌光	Bare (mirror) tongue	skos:closeMatch	SNOMEDCT:253752000	bumpy tongue	semapv:ManualMappingCuration	
+TCM-SO:sx_全身无力	generalized weakness	skos:closeMatch	SNOMEDCT:249945007	leg weakness	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_舌痛	Tongue pain	skos:exactMatch	SNOMEDCT:30731004	Tongue pain	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻梁凹陷	Depressed nasal bridge	skos:exactMatch	SNOMEDCT:204521002	bifid nasal bridge	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻梁凹陷	Depressed nasal bridge	skos:closeMatch	SNOMEDCT:249321001	broad flat nasal bridge	semapv:ManualMappingCuration	
+TCM-SO:sx_产后多汗	profuse sweating after childbirth	skos:closeMatch	SNOMEDCT:161857006	diaphoresis	semapv:ManualMappingCuration	
+TCM-SO:sx_产后多汗	profuse sweating after childbirth	skos:closeMatch	SNOMEDCT:364538006	diaphoresis	semapv:ManualMappingCuration	
+TCM-SO:sx_产后多汗	profuse sweating after childbirth	skos:closeMatch	SNOMEDCT:415690000	diaphoresis	semapv:ManualMappingCuration	
+TCM-SO:sx_健忘	Progressive forgetfulness	skos:exactMatch	SNOMEDCT:162636000	Memory impairment	semapv:ManualMappingCuration	
+TCM-SO:sx_头重	Abnormality of the head	skos:closeMatch	SNOMEDCT:299033004	abnormal hands	semapv:ManualMappingCuration	
+TCM-SO:sx_头重	Abnormality of the head	skos:closeMatch	SNOMEDCT:13213009	abnormal heart morphology	semapv:ManualMappingCuration	
+TCM-SO:sx_头重	Abnormality of the head	skos:closeMatch	SNOMEDCT:275259005	abnormal pinnae	semapv:ManualMappingCuration	
+TCM-SO:sx_疼痛	Pain	skos:exactMatch	SNOMEDCT:68962001		semapv:ManualMappingCuration	
+TCM-SO:sx_疼痛	Pain	skos:exactMatch	SNOMEDCT:279058007	Pain in limb	semapv:ManualMappingCuration	
+TCM-SO:sx_麻木不仁	numbness (loss of sensation)	skos:closeMatch	SNOMEDCT:6140007	affective insufficiency	semapv:ManualMappingCuration	
+TCM-SO:sx_牙龈溃烂	Abnormality of the gingiva	skos:closeMatch	SNOMEDCT:449715001	abnormality of the leg	semapv:ManualMappingCuration	
+TCM-SO:sx_牙龈溃烂	Abnormality of the gingiva	skos:closeMatch	SNOMEDCT:275259005	abnormal pinnae	semapv:ManualMappingCuration	
+TCM-SO:sx_牙龈溃烂	Abnormality of the gingiva	skos:closeMatch	SNOMEDCT:19416009	abnormal eye	semapv:ManualMappingCuration	
+TCM-SO:sx_颈项活动受限	restricted neck movement	skos:exactMatch	SNOMEDCT:161882006	limitation of neck motion	semapv:ManualMappingCuration	
+TCM-SO:sx_颈项活动受限	restricted neck movement	skos:exactMatch	SNOMEDCT:405947006	limitation of neck motion	semapv:ManualMappingCuration	
+TCM-SO:sx_痈疮表面光软无头	glossy soft headless abscess	skos:closeMatch	SNOMEDCT:299709002	dental abscess	semapv:ManualMappingCuration	
+TCM-SO:sx_痈疮表面光软无头	glossy soft headless abscess	skos:closeMatch	SNOMEDCT:27916005	hepatic abscess	semapv:ManualMappingCuration	
+TCM-SO:sx_乏力	Malaise	skos:exactMatch	SNOMEDCT:13791008	Asthenia	semapv:ManualMappingCuration	
+TCM-SO:sx_疮疡根脚散漫	diffuse-based sore	skos:closeMatch	SNOMEDCT:19648000	diffuse	semapv:ManualMappingCuration	
+TCM-SO:sx_妊娠呕吐	Hyperemesis gravidarum	skos:exactMatch	SNOMEDCT:1696002	Hyperemesis gravidarum	semapv:ManualMappingCuration	
+TCM-SO:sx_产后便秘	Constipation	skos:exactMatch	SNOMEDCT:14760008	Constipation	semapv:ManualMappingCuration	
+TCM-SO:sx_不欲饮食	poor appetite	skos:exactMatch	SNOMEDCT:64379006	decreased appetite	semapv:ManualMappingCuration	
+TCM-SO:sx_声重	heavy (nasal) voice	skos:closeMatch	SNOMEDCT:34527004	hypophonia	semapv:ManualMappingCuration	
+TCM-SO:sx_声重	heavy (nasal) voice	skos:closeMatch	SNOMEDCT:8614008	hypophonia	semapv:ManualMappingCuration	
+TCM-SO:sx_睾丸表面光滑	smooth testicular surface	skos:closeMatch	SNOMEDCT:126900000	testicular cancer	semapv:ManualMappingCuration	
+TCM-SO:sx_睾丸表面光滑	smooth testicular surface	skos:closeMatch	SNOMEDCT:9491003	atrophy of dorsum of tongue	semapv:ManualMappingCuration	
+TCM-SO:sx_声音高亢	high-pitched voice	skos:exactMatch	SNOMEDCT:51406002	abnormally high pitched voice	semapv:ManualMappingCuration	
+TCM-SO:sx_小儿言语迟缓	delayed speech in children	skos:closeMatch	SNOMEDCT:229721007	deficiency of speech development	semapv:ManualMappingCuration	
+TCM-SO:sx_小儿言语迟缓	delayed speech in children	skos:closeMatch	SNOMEDCT:29164008	deficiency of speech development	semapv:ManualMappingCuration	
+TCM-SO:sx_小儿言语迟缓	delayed speech in children	skos:closeMatch	SNOMEDCT:62415009	deficiency of speech development	semapv:ManualMappingCuration	
+TCM-SO:sx_驼背	Kyphosis	skos:exactMatch	SNOMEDCT:414564002	gibbus deformity	semapv:ManualMappingCuration	
+TCM-SO:sx_驼背	Kyphosis	skos:closeMatch	SNOMEDCT:298393001	cervical kyphosis	semapv:ManualMappingCuration	
+TCM-SO:sx_驼背	Kyphosis	skos:closeMatch	SNOMEDCT:53406005	calve disease	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻痒	Abnormality of the nose	skos:exactMatch	SNOMEDCT:128274005	abnormality of the nose	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻痒	Abnormality of the nose	skos:exactMatch	SNOMEDCT:72089000	abnormality of the nose	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻痒	Abnormality of the nose	skos:closeMatch	SNOMEDCT:298390003	abnormality of the neck	semapv:ManualMappingCuration	
+TCM-SO:sx_目痛	Ocular pain	skos:exactMatch	SNOMEDCT:409667008	Eye pain	semapv:ManualMappingCuration	
+TCM-SO:sx_头发易折断	easily broken hair	skos:closeMatch	SNOMEDCT:25159003	brittle hair	semapv:ManualMappingCuration	
+TCM-SO:sx_眼睑肿核	swollen nodule of the eyelid (chalazion)	skos:closeMatch	SNOMEDCT:248514008	cyst of the eyelid	semapv:ManualMappingCuration	
+TCM-SO:sx_眼睑肿核	swollen nodule of the eyelid (chalazion)	skos:closeMatch	SNOMEDCT:301913002	cyst of the eyelid	semapv:ManualMappingCuration	
+TCM-SO:sx_眼睑肿核	swollen nodule of the eyelid (chalazion)	skos:closeMatch	SNOMEDCT:46210008	cyst of the eyelid	semapv:ManualMappingCuration	
+TCM-SO:sx_呕吐	Vomiting	skos:exactMatch	SNOMEDCT:422400008	Vomiting	semapv:ManualMappingCuration	
+TCM-SO:sx_体毛干枯	Brittle hair	skos:exactMatch	SNOMEDCT:25159003	brittle hair	semapv:ManualMappingCuration	
+TCM-SO:sx_牙龈硬肿	hard swollen gums	skos:closeMatch	SNOMEDCT:66383009	gingival inflammation	semapv:ManualMappingCuration	
+TCM-SO:sx_喜食异物	pica (craving for foreign objects)	skos:exactMatch	SNOMEDCT:14077003	pica	semapv:ManualMappingCuration	
+TCM-SO:sx_背痛	Back pain	skos:exactMatch	SNOMEDCT:161891005	Back pain	semapv:ManualMappingCuration	
+TCM-SO:sx_吞咽不利	difficulty swallowing	skos:exactMatch	SNOMEDCT:40739000	deglutition disorder	semapv:ManualMappingCuration	
+TCM-SO:sx_吞咽不利	difficulty swallowing	skos:exactMatch	SNOMEDCT:288939007	deglutition disorder	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤紫斑	Skin purpura	skos:closeMatch	SNOMEDCT:12393003	blood spots	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤紫斑	Skin purpura	skos:closeMatch	SNOMEDCT:387778001	blood spots	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤紫斑	Skin purpura	skos:closeMatch	SNOMEDCT:423902002	blood spots	semapv:ManualMappingCuration	
+TCM-SO:sx_流热泪	hot tearing	skos:closeMatch	SNOMEDCT:193982009	epiphora	semapv:ManualMappingCuration	
+TCM-SO:sx_流热泪	hot tearing	skos:closeMatch	SNOMEDCT:418035005	epiphora	semapv:ManualMappingCuration	
+TCM-SO:sx_失音	Loss of voice	skos:exactMatch	SNOMEDCT:441913003	aphonia	semapv:ManualMappingCuration	
+TCM-SO:sx_失音	Loss of voice	skos:exactMatch	SNOMEDCT:44564008	aphonia	semapv:ManualMappingCuration	
+TCM-SO:sx_呼吸急促	Tachypnea	skos:exactMatch	SNOMEDCT:271823003	increased respiratory rate or depth of breathing	semapv:ManualMappingCuration	
+TCM-SO:sx_呼吸急促	Tachypnea	skos:exactMatch	SNOMEDCT:68978004	hyperventilation	semapv:ManualMappingCuration	
+TCM-SO:sx_囟门早闭	premature closure of fontanelle	skos:exactMatch	SNOMEDCT:1667003	early closure of the bregma sutures	semapv:ManualMappingCuration	
+TCM-SO:sx_囟门早闭	premature closure of fontanelle	skos:exactMatch	SNOMEDCT:57219006	cranial suture synostosis	semapv:ManualMappingCuration	
+TCM-SO:sx_囟门早闭	premature closure of fontanelle	skos:closeMatch	SNOMEDCT:82779003	broad late closing cranial sutures	semapv:ManualMappingCuration	
+TCM-SO:sx_牙龈暗红	dark-red gums	skos:closeMatch	SNOMEDCT:66383009	gingival inflammation	semapv:ManualMappingCuration	
+TCM-SO:sx_牙龈暗红	dark-red gums	skos:closeMatch	SNOMEDCT:235038002	dark color of gums	semapv:ManualMappingCuration	
+TCM-SO:sx_口干	Xerostomia	skos:exactMatch	SNOMEDCT:249416005	Xerostomia	semapv:ManualMappingCuration	
+TCM-SO:sx_闭经溢乳	amenorrhea with galactorrhea	skos:exactMatch	SNOMEDCT:14302001	Amenorrhea	semapv:ManualMappingCuration	
+TCM-SO:sx_眼干燥	Retinal degeneration	skos:exactMatch	SNOMEDCT:386984009	Dry eye	semapv:ManualMappingCuration	
+TCM-SO:sx_晶珠全脱	complete lens dislocation	skos:closeMatch	SNOMEDCT:74969002	abnormality of lens position	semapv:ManualMappingCuration	
+TCM-SO:sx_周身酸软	generalized soreness and weakness	skos:closeMatch	SNOMEDCT:249945007	leg weakness	semapv:ManualMappingCuration	
+TCM-SO:sx_肢体血肿	limb hematoma	skos:closeMatch	SNOMEDCT:262969000	im hematoma	semapv:ManualMappingCuration	
+TCM-SO:sx_长期低热	Low-grade fever	skos:exactMatch	SNOMEDCT:304213008	low grade fever	semapv:ManualMappingCuration	
+TCM-SO:sx_眼睑浮肿	Periorbital fullness	skos:exactMatch	SNOMEDCT:89091004	edema of the eyelids	semapv:ManualMappingCuration	
+TCM-SO:sx_眼睑浮肿	Periorbital fullness	skos:closeMatch	SNOMEDCT:700327003	cellulitis of lower eyelid	semapv:ManualMappingCuration	
+TCM-SO:sx_眼睑浮肿	Periorbital fullness	skos:closeMatch	SNOMEDCT:700339006	cellulitis of upper eyelid	semapv:ManualMappingCuration	
+TCM-SO:sx_鸡胸	Pectus carinatum	skos:exactMatch	SNOMEDCT:205101001	pectus carinatum	semapv:ManualMappingCuration	
+TCM-SO:sx_肠鸣音弱	weak bowel sounds	skos:closeMatch	SNOMEDCT:15280003	decreased bowel sounds	semapv:ManualMappingCuration	
+TCM-SO:sx_肠鸣音弱	weak bowel sounds	skos:closeMatch	SNOMEDCT:18101008	borborygmi	semapv:ManualMappingCuration	
+TCM-SO:sx_肠鸣音弱	weak bowel sounds	skos:closeMatch	SNOMEDCT:60612008	abnormal bowel sounds	semapv:ManualMappingCuration	
+TCM-SO:sx_肢体发绀	limb cyanosis	skos:closeMatch	SNOMEDCT:119419001	blue discoloration of the skin	semapv:ManualMappingCuration	
+TCM-SO:sx_肢体发绀	limb cyanosis	skos:closeMatch	SNOMEDCT:3415004	blue discoloration of the skin	semapv:ManualMappingCuration	
+TCM-SO:sx_精索筋脉如蚯蚓状	earthworm-like vessels of spermatic cord (varicocele)	skos:closeMatch	SNOMEDCT:49198006	spermatic cord torsion	semapv:ManualMappingCuration	
+TCM-SO:sx_精索筋脉如蚯蚓状	earthworm-like vessels of spermatic cord (varicocele)	skos:closeMatch	SNOMEDCT:81996005	spermatic cord torsion	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_全头痛	generalized headache	skos:closeMatch	SNOMEDCT:25064002	headache	semapv:ManualMappingCuration	
+TCM-SO:sx_胁痛	Costochondral pain	skos:closeMatch	SNOMEDCT:297217002	Flank pain	semapv:ManualMappingCuration	
+TCM-SO:sx_呃逆	hiccup	skos:closeMatch	SNOMEDCT:65958008	hiccup	semapv:ManualMappingCuration	
+TCM-SO:sx_瞳神散大	Mydriasis	skos:exactMatch	SNOMEDCT:37125009	dilated pupil	semapv:ManualMappingCuration	
+TCM-SO:sx_绊舌	Tongue-tie (ankyloglossia)	skos:exactMatch	SNOMEDCT:67787004	ankyloglossia	semapv:ManualMappingCuration	
+TCM-SO:sx_妊娠眩晕	Vertigo	skos:exactMatch	SNOMEDCT:399153001	Vertigo	semapv:ManualMappingCuration	
+TCM-SO:sx_四肢异常的活动	Abnormal involuntary movements of limbs	skos:closeMatch	SNOMEDCT:102542000	involuntary movements	semapv:ManualMappingCuration	
+TCM-SO:sx_四肢异常的活动	Abnormal involuntary movements of limbs	skos:exactMatch	SNOMEDCT:31511007	pseudoarthroses	semapv:ManualMappingCuration	
+TCM-SO:sx_四肢异常的活动	Abnormal involuntary movements of limbs	skos:closeMatch	SNOMEDCT:445144002	abnormal limbs	semapv:ManualMappingCuration	
+TCM-SO:sx_难产	Shoulder dystocia	skos:exactMatch	SNOMEDCT:2267009	Obstructed labor	semapv:ManualMappingCuration	
+TCM-SO:sx_前囟凹陷	sunken anterior fontanelle	skos:closeMatch	SNOMEDCT:295091000119	delayed closure anterior fontanel	semapv:ManualMappingCuration	
+TCM-SO:sx_纳呆	Poor appetite	skos:exactMatch	SNOMEDCT:64379006	decreased appetite	semapv:ManualMappingCuration	
+TCM-SO:sx_神情呆滞	dull expression	skos:closeMatch	SNOMEDCT:248149005	decreased facial expressions	semapv:ManualMappingCuration	
+TCM-SO:sx_身热不扬	unremitting low-grade fever (heat not effusing)	skos:closeMatch	SNOMEDCT:304213008	low grade fever	semapv:ManualMappingCuration	
+TCM-SO:sx_大便秘结	Constipation	skos:exactMatch	SNOMEDCT:14760008	constipation	semapv:ManualMappingCuration	
+TCM-SO:sx_大便秘结	Constipation	skos:exactMatch	SNOMEDCT:225595004	constipation	semapv:ManualMappingCuration	
+TCM-SO:sx_大便秘结	Constipation	skos:closeMatch	SNOMEDCT:236069009	chronic constipation	semapv:ManualMappingCuration	
+TCM-SO:sx_呼吸缓慢	Hypoventilation	skos:exactMatch	SNOMEDCT:31515003	alveolar hypoventilation	semapv:ManualMappingCuration	
+TCM-SO:sx_呼吸缓慢	Hypoventilation	skos:exactMatch	SNOMEDCT:80954004	alveolar hypoventilation	semapv:ManualMappingCuration	
+TCM-SO:sx_呼吸缓慢	Hypoventilation	skos:exactMatch	SNOMEDCT:15993004	alveolar hypoventilation	semapv:ManualMappingCuration	
+TCM-SO:sx_视定反动	seeing stationary objects as moving	skos:closeMatch	SNOMEDCT:711163009	bradyopsia	semapv:ManualMappingCuration	
+TCM-SO:sx_头晕	Vertigo	skos:exactMatch	SNOMEDCT:399153001	Dizziness	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻头明润	moist lustrous nasal tip	skos:closeMatch	SNOMEDCT:249331008	narrow nasal tip	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻头明润	moist lustrous nasal tip	skos:closeMatch	SNOMEDCT:249327002	broad nasal tip	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻衄	nosebleed	skos:exactMatch	SNOMEDCT:249366005	bloody nose	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻衄	nosebleed	skos:exactMatch	SNOMEDCT:12441001	bloody nose	semapv:ManualMappingCuration	
+TCM-SO:sx_颈部臖核疼痛	painful neck nodules	skos:closeMatch	SNOMEDCT:81680005	neck pain	semapv:ManualMappingCuration	
+TCM-SO:sx_眼突	exophthalmos	skos:exactMatch	SNOMEDCT:18265008	anterior bulging of the globe	semapv:ManualMappingCuration	
+TCM-SO:sx_肢体赓弱	limb weakness	skos:exactMatch	SNOMEDCT:713514005	limb muscle weakness	semapv:ManualMappingCuration	
+TCM-SO:sx_肢体赓弱	limb weakness	skos:closeMatch	SNOMEDCT:249945007	leg weakness	semapv:ManualMappingCuration	
+TCM-SO:sx_肢体赓弱	limb weakness	skos:closeMatch	SNOMEDCT:249942005	distal limb muscle weakness	semapv:ManualMappingCuration	
+TCM-SO:sx_鳞屑薄	thin scales	skos:closeMatch	SNOMEDCT:298764003	thin clavicles	semapv:ManualMappingCuration	
+TCM-SO:sx_鳞屑薄	thin scales	skos:closeMatch	SNOMEDCT:63829008	thin nail	semapv:ManualMappingCuration	
+TCM-SO:sx_小便灼热	burning urination	skos:closeMatch	SNOMEDCT:49650001	dull burning sensation with urination	semapv:ManualMappingCuration	
+TCM-SO:sx_颈痛	Neck pain	skos:exactMatch	SNOMEDCT:81680005	Neck pain	semapv:ManualMappingCuration	
+TCM-SO:sx_黑便	Head titubation	skos:exactMatch	SNOMEDCT:297249002	Melena	semapv:ManualMappingCuration	
+TCM-SO:sx_斑色丹红	Cinnabar-red macule	skos:closeMatch	SNOMEDCT:112629002	flat discolored area of skin	semapv:ManualMappingCuration	
+TCM-SO:sx_龋齿	Carious teeth	skos:exactMatch	SNOMEDCT:80967001	caries	semapv:ManualMappingCuration	
+TCM-SO:sx_足肿	foot swelling	skos:closeMatch	SNOMEDCT:271771009	joint swelling	semapv:ManualMappingCuration	
+TCM-SO:sx_麻木	Fatigable weakness	skos:exactMatch	SNOMEDCT:44077006	Numbness	semapv:ManualMappingCuration	
+TCM-SO:sx_舌胖大	Enlarged (puffy) tongue	skos:closeMatch	SNOMEDCT:25273001	abnormally large tongue	semapv:ManualMappingCuration	
+TCM-SO:sx_关节红肿	Red joint swelling	skos:closeMatch	SNOMEDCT:271771009	joint swelling	semapv:ManualMappingCuration	
+TCM-SO:sx_腹鸣	abdominal rumbling	skos:closeMatch	SNOMEDCT:21522001	abdominal discomfort	semapv:ManualMappingCuration	
+TCM-SO:sx_经闭不行	Amenorrhea	skos:closeMatch	SNOMEDCT:8913004	primary amenorrhea	semapv:ManualMappingCuration	
+TCM-SO:sx_经闭不行	Amenorrhea	skos:closeMatch	SNOMEDCT:86030004	previous menstrual periods stop	semapv:ManualMappingCuration	
+TCM-SO:sx_经闭不行	Amenorrhea	skos:closeMatch	SNOMEDCT:373717006	climacterium praecox	semapv:ManualMappingCuration	
+TCM-SO:sx_牙齿松动	Abnormality of the dentition	skos:exactMatch	SNOMEDCT:234096007	Loosening of teeth	semapv:ManualMappingCuration	
+TCM-SO:sx_视物变形	Metamorphopsia	skos:exactMatch	SNOMEDCT:42134006	metamorphopsia	semapv:ManualMappingCuration	
+TCM-SO:sx_身热不甚	mild fever	skos:exactMatch	SNOMEDCT:304213008	low grade fever	semapv:ManualMappingCuration	
+TCM-SO:sx_口气臭	foul breath	skos:closeMatch	SNOMEDCT:79879001	bad breath	semapv:ManualMappingCuration	
+TCM-SO:sx_舌红	Abnormal tongue physiology	skos:exactMatch	SNOMEDCT:248614001	Red tongue	semapv:ManualMappingCuration	
+TCM-SO:sx_晶珠半脱	partial lens dislocation (subluxation)	skos:closeMatch	SNOMEDCT:74969002	abnormality of lens position	semapv:ManualMappingCuration	
+TCM-SO:sx_晶珠半脱	partial lens dislocation (subluxation)	skos:closeMatch	SNOMEDCT:65814009	lens subluxation	semapv:ManualMappingCuration	
+TCM-SO:sx_晶珠半脱	partial lens dislocation (subluxation)	skos:closeMatch	SNOMEDCT:263051004	partial shoulder dislocation	semapv:ManualMappingCuration	
+TCM-SO:sx_赘皮发红	Skin tag/redundant skin turning red	skos:closeMatch	SNOMEDCT:201093004	loose redundant skin	semapv:ManualMappingCuration	
+TCM-SO:sx_臂痛	Upper limb pain	skos:exactMatch	SNOMEDCT:102556003	upper limb pain	semapv:ManualMappingCuration	
+TCM-SO:sx_臂痛	Upper limb pain	skos:closeMatch	SNOMEDCT:90834002	limb pain	semapv:ManualMappingCuration	
+TCM-SO:sx_悬雍下垂	uvula ptosis	skos:closeMatch	SNOMEDCT:25148007	absent palatine uvula	semapv:ManualMappingCuration	
+TCM-SO:sx_悬雍下垂	uvula ptosis	skos:closeMatch	SNOMEDCT:18910001	bifid palatine uvula	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻息	nasal flaring sound	skos:closeMatch	SNOMEDCT:21558008	flared nasal alae	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻息	nasal flaring sound	skos:closeMatch	SNOMEDCT:248568003	flared nasal alae	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻息	nasal flaring sound	skos:closeMatch	SNOMEDCT:52756005	nasal polyposis	semapv:ManualMappingCuration	
+TCM-SO:sx_阴囊疼痛	scrotal pain	skos:exactMatch	SNOMEDCT:20502007	scrotal pain	semapv:ManualMappingCuration	
+TCM-SO:sx_弛张热	remittent fever	skos:closeMatch	SNOMEDCT:77957000	episodic fever	semapv:ManualMappingCuration	
+TCM-SO:sx_痴呆	Dementia	skos:exactMatch	SNOMEDCT:52448006	dementia	semapv:ManualMappingCuration	
+TCM-SO:sx_痴呆	Dementia	skos:closeMatch	SNOMEDCT:230288001	semantic dementia	semapv:ManualMappingCuration	
+TCM-SO:sx_痴呆	Dementia	skos:closeMatch	SNOMEDCT:278857002	frontal lobe dementia	semapv:ManualMappingCuration	
+TCM-SO:sx_喉中痰鸣	Stridor	skos:closeMatch	SNOMEDCT:58596002	inspiratory stridor	semapv:ManualMappingCuration	
+TCM-SO:sx_喉中痰鸣	Stridor	skos:exactMatch	SNOMEDCT:248573009	noisy breathing	semapv:ManualMappingCuration	
+TCM-SO:sx_喉中痰鸣	Stridor	skos:exactMatch	SNOMEDCT:70407001	noisy breathing	semapv:ManualMappingCuration	
+TCM-SO:sx_骨节痛	Arthralgia	skos:exactMatch	SNOMEDCT:57676002	arthralgia	semapv:ManualMappingCuration	
+TCM-SO:sx_骨节痛	Arthralgia	skos:closeMatch	SNOMEDCT:49218002	arthralgia of the hip	semapv:ManualMappingCuration	
+TCM-SO:sx_骨节痛	Arthralgia	skos:closeMatch	SNOMEDCT:12584003	bone pain	semapv:ManualMappingCuration	
+TCM-SO:sx_复视	Diplopia	skos:exactMatch	SNOMEDCT:249820008	Diplopia	semapv:ManualMappingCuration	
+TCM-SO:sx_口苦	Abnormality of taste sensation	skos:closeMatch	SNOMEDCT:37225008	Bitter taste	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹脱屑	scaling rash	skos:closeMatch	SNOMEDCT:112625008	rash	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹脱屑	scaling rash	skos:closeMatch	SNOMEDCT:271807003	rash	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤鳞屑	Skin scale	skos:closeMatch	SNOMEDCT:14411002	desquamation	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤鳞屑	Skin scale	skos:closeMatch	SNOMEDCT:271767006	desquamation	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤脓疱	Pustule	skos:exactMatch	SNOMEDCT:47002008	pimple	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤脓疱	Pustule	skos:exactMatch	SNOMEDCT:103605005	pimple	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤脓疱	Pustule	skos:exactMatch	SNOMEDCT:271760008	pimple	semapv:ManualMappingCuration	
+TCM-SO:sx_嗳气	Recurrent singultus	skos:exactMatch	SNOMEDCT:271824005	Belching	semapv:ManualMappingCuration	
+TCM-SO:sx_耳鸣如雷	thunder-like tinnitus	skos:closeMatch	SNOMEDCT:162349004	ringing in ears	semapv:ManualMappingCuration	
+TCM-SO:sx_耳鸣如雷	thunder-like tinnitus	skos:closeMatch	SNOMEDCT:60862001	ringing in ears	semapv:ManualMappingCuration	
+TCM-SO:sx_耳鸣如雷	thunder-like tinnitus	skos:closeMatch	SNOMEDCT:162352007	ringing in ears	semapv:ManualMappingCuration	
+TCM-SO:sx_肿瘤表面与皮肤粘连	tumor surface adhering to the skin	skos:closeMatch	SNOMEDCT:126488004	dermatological tumors	semapv:ManualMappingCuration	
+TCM-SO:sx_肿瘤表面与皮肤粘连	tumor surface adhering to the skin	skos:closeMatch	SNOMEDCT:372130007	dermatological tumors	semapv:ManualMappingCuration	
+TCM-SO:sx_全秃	Alopecia universalis	skos:exactMatch	SNOMEDCT:19754005	alopecia totalis	semapv:ManualMappingCuration	
+TCM-SO:sx_全秃	Alopecia universalis	skos:exactMatch	SNOMEDCT:86166000	alopecia complete	semapv:ManualMappingCuration	
+TCM-SO:sx_全秃	Alopecia universalis	skos:closeMatch	SNOMEDCT:56317004	absence of scalp hair	semapv:ManualMappingCuration	
+TCM-SO:sx_髋部生痈	hip abscess	skos:closeMatch	SNOMEDCT:73962000	peritoneal abscess	semapv:ManualMappingCuration	
+TCM-SO:sx_髋部生痈	hip abscess	skos:closeMatch	SNOMEDCT:82127005	perianal abscess	semapv:ManualMappingCuration	
+TCM-SO:sx_眼睑痛	Eyelid pain	skos:closeMatch	SNOMEDCT:41652007	eye pain	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻准红赤	red nasal tip	skos:closeMatch	SNOMEDCT:249327002	broad nasal tip	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻准红赤	red nasal tip	skos:closeMatch	SNOMEDCT:249331008	narrow nasal tip	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻准红赤	red nasal tip	skos:closeMatch	SNOMEDCT:249328007	drooping nasal tip	semapv:ManualMappingCuration	
+TCM-SO:sx_指甲色白	White nail	skos:closeMatch	SNOMEDCT:89704006	nail pits	semapv:ManualMappingCuration	
+TCM-SO:sx_小便急迫	urgent urination	skos:closeMatch	SNOMEDCT:75088002	overactive bladder	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_皮肤色素沉着	Hyperpigmentation of the skin	skos:exactMatch	SNOMEDCT:4830009	cutaneous hyperpigmentation	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤色素沉着	Hyperpigmentation of the skin	skos:exactMatch	SNOMEDCT:49765009	cutaneous hyperpigmentation	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤色素沉着	Hyperpigmentation of the skin	skos:closeMatch	SNOMEDCT:18655006	hypopigmentation	semapv:ManualMappingCuration	
+TCM-SO:sx_绞痛	Angina pectoris	skos:exactMatch	SNOMEDCT:194828000	angina pectoris	semapv:ManualMappingCuration	
+TCM-SO:sx_绞痛	Angina pectoris	skos:exactMatch	SNOMEDCT:225566008	angina pectoris	semapv:ManualMappingCuration	
+TCM-SO:sx_绞痛	Angina pectoris	skos:closeMatch	SNOMEDCT:9991008	abdominal colic	semapv:ManualMappingCuration	
+TCM-SO:sx_蜘蛛痣	Spider angioma	skos:exactMatch	SNOMEDCT:112641009	spider veins	semapv:ManualMappingCuration	
+TCM-SO:sx_蜘蛛痣	Spider angioma	skos:exactMatch	SNOMEDCT:247479008	spider veins	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻生息肉	Nasal polyposis	skos:exactMatch	SNOMEDCT:52756005	nasal polyposis	semapv:ManualMappingCuration	
+TCM-SO:sx_关节畸形	Abnormal joint morphology	skos:exactMatch	SNOMEDCT:399269003	abnormal joint morphology	semapv:ManualMappingCuration	
+TCM-SO:sx_关节畸形	Abnormal joint morphology	skos:closeMatch	SNOMEDCT:248401009	abnormality of the jaw joint	semapv:ManualMappingCuration	
+TCM-SO:sx_关节畸形	Abnormal joint morphology	skos:closeMatch	SNOMEDCT:229844004	abnormal feet structure	semapv:ManualMappingCuration	
+TCM-SO:sx_无尿	Anuria	skos:closeMatch	SNOMEDCT:2472002	absent urine output	semapv:ManualMappingCuration	
+TCM-SO:sx_嬉笑无常	inappropriate laughing	skos:closeMatch	SNOMEDCT:247985007	inappropriate laughter	semapv:ManualMappingCuration	
+TCM-SO:sx_尿中带泡沫	foam in urine	skos:closeMatch	SNOMEDCT:68600005	haemoglobin in urine	semapv:ManualMappingCuration	
+TCM-SO:sx_尿中带泡沫	foam in urine	skos:closeMatch	SNOMEDCT:61373006	bacteria in urine	semapv:ManualMappingCuration	
+TCM-SO:sx_尿中带泡沫	foam in urine	skos:closeMatch	SNOMEDCT:45154002	glucose in urine	semapv:ManualMappingCuration	
+TCM-SO:sx_气喘息粗	Dyspnea	skos:exactMatch	SNOMEDCT:195967001	Dyspnea	semapv:ManualMappingCuration	
+TCM-SO:sx_月经间期阴道流血	intermenstrual vaginal bleeding	skos:closeMatch	SNOMEDCT:19155002	abnormal uterus bleeding	semapv:ManualMappingCuration	
+TCM-SO:sx_月经间期阴道流血	intermenstrual vaginal bleeding	skos:closeMatch	SNOMEDCT:237130006	abnormal uterus bleeding	semapv:ManualMappingCuration	
+TCM-SO:sx_月经间期阴道流血	intermenstrual vaginal bleeding	skos:closeMatch	SNOMEDCT:64996003	abnormal uterus bleeding	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻端微黄	Slight yellow tip-of-nose	skos:closeMatch	SNOMEDCT:249331008	narrow nasal tip	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻端微黄	Slight yellow tip-of-nose	skos:closeMatch	SNOMEDCT:249327002	broad nasal tip	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻端微黄	Slight yellow tip-of-nose	skos:closeMatch	SNOMEDCT:249326006	bifid nasal tip	semapv:ManualMappingCuration	
+TCM-SO:sx_腹痛	Abdominal pain	skos:exactMatch	SNOMEDCT:21522001	Abdominal pain	semapv:ManualMappingCuration	
+TCM-SO:sx_苔厚	Fast-growing nails	skos:exactMatch	SNOMEDCT:247454005	Coated tongue	semapv:ManualMappingCuration	
+TCM-SO:sx_咽喉部肌膜干萎	dry atrophic pharyngeal mucosa	skos:closeMatch	SNOMEDCT:2129002	pharyngeal edema	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_发热	Fever	skos:exactMatch	SNOMEDCT:386661006	Fever	semapv:ManualMappingCuration	
+TCM-SO:sx_牙齿缺蚀	eroded teeth	skos:closeMatch	SNOMEDCT:12351004	crowded teeth	semapv:ManualMappingCuration	
+TCM-SO:sx_牙齿缺蚀	eroded teeth	skos:closeMatch	SNOMEDCT:699222000	crowded teeth	semapv:ManualMappingCuration	
+TCM-SO:sx_冷痛	Pain	skos:closeMatch	SNOMEDCT:247355005	flank pain	semapv:ManualMappingCuration	
+TCM-SO:sx_冷痛	Pain	skos:closeMatch	SNOMEDCT:29857009	chest discomfort	semapv:ManualMappingCuration	
+TCM-SO:sx_冷痛	Pain	skos:closeMatch	SNOMEDCT:21522001	abdominal discomfort	semapv:ManualMappingCuration	
+TCM-SO:sx_四肢抽搐	Spasticity	skos:exactMatch	SNOMEDCT:91175000	Seizure	semapv:ManualMappingCuration	
+TCM-SO:sx_发癫	depressive episode (dian)	skos:exactMatch	SNOMEDCT:210610001191	depression	semapv:ManualMappingCuration	
+TCM-SO:sx_发癫	depressive episode (dian)	skos:exactMatch	SNOMEDCT:35489007	depression	semapv:ManualMappingCuration	
+TCM-SO:sx_发癫	depressive episode (dian)	skos:exactMatch	SNOMEDCT:78667006	depression	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹不红	Red rash	skos:closeMatch	SNOMEDCT:112625008	rash	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹不红	Red rash	skos:closeMatch	SNOMEDCT:271807003	rash	semapv:ManualMappingCuration	
+TCM-SO:sx_握力减弱	decreased grip strength	skos:closeMatch	SNOMEDCT:713512009	decreased arm strength	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻塞	Nasal congestion	skos:exactMatch	SNOMEDCT:68235000	Nasal congestion	semapv:ManualMappingCuration	
+TCM-SO:sx_啮齿	teeth grinding (bruxism)	skos:exactMatch	SNOMEDCT:191983006	bruxism	semapv:ManualMappingCuration	
+TCM-SO:sx_啮齿	teeth grinding (bruxism)	skos:exactMatch	SNOMEDCT:90207007	bruxism	semapv:ManualMappingCuration	
+TCM-SO:sx_失明	Blindness	skos:exactMatch	SNOMEDCT:65956007	blindness	semapv:ManualMappingCuration	
+TCM-SO:sx_失明	Blindness	skos:closeMatch	SNOMEDCT:246674000	deuteranomaly	semapv:ManualMappingCuration	
+TCM-SO:sx_失明	Blindness	skos:closeMatch	SNOMEDCT:77479002	deuteranomaly	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻肿	nasal swelling	skos:closeMatch	SNOMEDCT:126669004	nasal neoplasm	semapv:ManualMappingCuration	
+TCM-SO:sx_咳嗽	Cough	skos:exactMatch	SNOMEDCT:49727002	Cough	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹稀疏	sparse rash	skos:closeMatch	SNOMEDCT:112625008	rash	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹稀疏	sparse rash	skos:closeMatch	SNOMEDCT:271807003	rash	semapv:ManualMappingCuration	
+TCM-SO:sx_精索结节	nodule of spermatic cord	skos:closeMatch	SNOMEDCT:49198006	spermatic cord torsion	semapv:ManualMappingCuration	
+TCM-SO:sx_精索结节	nodule of spermatic cord	skos:closeMatch	SNOMEDCT:81996005	spermatic cord torsion	semapv:ManualMappingCuration	
+TCM-SO:sx_血尿	Hematuria	skos:exactMatch	SNOMEDCT:34436003	Hematuria	semapv:ManualMappingCuration	
+TCM-SO:sx_眼睑下垂	Ptosis	skos:exactMatch	SNOMEDCT:11934000	blepharoptosis	semapv:ManualMappingCuration	
+TCM-SO:sx_眼睑下垂	Ptosis	skos:exactMatch	SNOMEDCT:246815009	baggy eyes	semapv:ManualMappingCuration	
+TCM-SO:sx_眼睑下垂	Ptosis	skos:closeMatch	SNOMEDCT:268163008	congenital drooping upper eyelid	semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹色红	Skin rash	skos:exactMatch	SNOMEDCT:271807003	Skin rash	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤萎缩	Dermal atrophy	skos:exactMatch	SNOMEDCT:399979006	atrophic skin	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤萎缩	Dermal atrophy	skos:exactMatch	SNOMEDCT:400190005	atrophic skin	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤结节	Skin nodule	skos:exactMatch	SNOMEDCT:95319004	growth of abnormal tissue on or under the skin	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤结节	Skin nodule	skos:closeMatch	SNOMEDCT:95325000	firm lump under the skin	semapv:ManualMappingCuration	
+TCM-SO:sx_经期延长	Menometrorrhagia	skos:closeMatch	SNOMEDCT:248989004	Prolonged menstruation	semapv:ManualMappingCuration	
+TCM-SO:sx_耳如蝉鸣	cicada-like tinnitus	skos:closeMatch	SNOMEDCT:162349004	ringing in ears	semapv:ManualMappingCuration	
+TCM-SO:sx_耳如蝉鸣	cicada-like tinnitus	skos:closeMatch	SNOMEDCT:162352007	ringing in ears	semapv:ManualMappingCuration	
+TCM-SO:sx_耳如蝉鸣	cicada-like tinnitus	skos:closeMatch	SNOMEDCT:60862001	ringing in ears	semapv:ManualMappingCuration	
+TCM-SO:sx_牙眼痛	pain at gum margin	skos:closeMatch	SNOMEDCT:41652007	eye pain	semapv:ManualMappingCuration	
+TCM-SO:sx_上腹部疼痛	Epigastric pain	skos:closeMatch	SNOMEDCT:21522001	abdominal discomfort	semapv:ManualMappingCuration	
+TCM-SO:sx_头发卷曲	curly hair	skos:exactMatch	SNOMEDCT:225570000	curly hair	semapv:ManualMappingCuration	
+TCM-SO:sx_头发卷曲	curly hair	skos:closeMatch	SNOMEDCT:79395009	dry hair	semapv:ManualMappingCuration	
+TCM-SO:sx_视物不清	blurred vision	skos:exactMatch	SNOMEDCT:111516008	blurred vision	semapv:ManualMappingCuration	
+TCM-SO:sx_视物不清	blurred vision	skos:exactMatch	SNOMEDCT:246636008	blurred vision	semapv:ManualMappingCuration	
+TCM-SO:sx_流冷泪	cold tearing	skos:closeMatch	SNOMEDCT:193982009	epiphora	semapv:ManualMappingCuration	
+TCM-SO:sx_流冷泪	cold tearing	skos:closeMatch	SNOMEDCT:418035005	epiphora	semapv:ManualMappingCuration	
+TCM-SO:sx_鸡眼	Heloma	skos:closeMatch	SNOMEDCT:128602000	cross eyed	semapv:ManualMappingCuration	
+TCM-SO:sx_鸡眼	Heloma	skos:closeMatch	SNOMEDCT:22066006	cross eyed	semapv:ManualMappingCuration	
+TCM-SO:sx_视歧	diplopia	skos:exactMatch	SNOMEDCT:24982008	diplopia	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻尖肿起	swollen nasal tip	skos:closeMatch	SNOMEDCT:249331008	narrow nasal tip	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻尖肿起	swollen nasal tip	skos:closeMatch	SNOMEDCT:249327002	broad nasal tip	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤暗黄	Dull-yellow skin	skos:closeMatch	SNOMEDCT:18165001	icterus	semapv:ManualMappingCuration	
+TCM-SO:sx_雀目	night blindness (sparrow eye)	skos:exactMatch	SNOMEDCT:65194006	difficulties with night vision	semapv:ManualMappingCuration	
+TCM-SO:sx_雀目	night blindness (sparrow eye)	skos:closeMatch	SNOMEDCT:193687000	congenital night blindness	semapv:ManualMappingCuration	
+TCM-SO:sx_雀目	night blindness (sparrow eye)	skos:closeMatch	SNOMEDCT:232061009	congenital night blindness	semapv:ManualMappingCuration	
+TCM-SO:sx_关节脱臼	Joint dislocation	skos:closeMatch	SNOMEDCT:287096003	multiple joint dislocation	semapv:ManualMappingCuration	
+TCM-SO:sx_关节脱臼	Joint dislocation	skos:closeMatch	SNOMEDCT:34277002	multiple joint dislocation	semapv:ManualMappingCuration	
+TCM-SO:sx_关节脱臼	Joint dislocation	skos:exactMatch	SNOMEDCT:108367008	joint dislocation	semapv:ManualMappingCuration	
+TCM-SO:sx_三叉神经痛	Trigeminal neuralgia	skos:exactMatch	SNOMEDCT:31681005	tic douloureux	semapv:ManualMappingCuration	
+TCM-SO:sx_经前不寐	premenstrual insomnia	skos:closeMatch	SNOMEDCT:193462001	difficulty staying or falling asleep	semapv:ManualMappingCuration	
+TCM-SO:sx_黑睛星鬓	star-like corneal opacities	skos:closeMatch	SNOMEDCT:413921009	corneal clouding	semapv:ManualMappingCuration	
+TCM-SO:sx_黑睛星鬓	star-like corneal opacities	skos:closeMatch	SNOMEDCT:64634000	corneal clouding	semapv:ManualMappingCuration	
+TCM-SO:sx_黑睛星鬓	star-like corneal opacities	skos:closeMatch	SNOMEDCT:95735008	corneal clouding	semapv:ManualMappingCuration	
+TCM-SO:sx_呃声高亢	high-pitched hiccup	skos:closeMatch	SNOMEDCT:51406002	abnormally high pitched voice	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻头红	Red tip-of-nose	skos:closeMatch	SNOMEDCT:249327002	broad nasal tip	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻头红	Red tip-of-nose	skos:closeMatch	SNOMEDCT:249331008	narrow nasal tip	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻头红	Red tip-of-nose	skos:closeMatch	SNOMEDCT:249326006	bifid nasal tip	semapv:ManualMappingCuration	
+TCM-SO:sx_啮齿有声	audible teeth grinding	skos:closeMatch	SNOMEDCT:191983006	bruxism	semapv:ManualMappingCuration	
+TCM-SO:sx_啮齿有声	audible teeth grinding	skos:closeMatch	SNOMEDCT:90207007	bruxism	semapv:ManualMappingCuration	
+TCM-SO:sx_腹大如鼓	drum-like abdominal distension	skos:closeMatch	SNOMEDCT:41931001	abdominal bloating	semapv:ManualMappingCuration	
+TCM-SO:sx_腹大如鼓	drum-like abdominal distension	skos:closeMatch	SNOMEDCT:60728008	abdominal bloating	semapv:ManualMappingCuration	
+TCM-SO:sx_久不欲食	chronic poor appetite	skos:closeMatch	SNOMEDCT:64379006	decreased appetite	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻端微黑	Slight black tip-of-nose	skos:closeMatch	SNOMEDCT:249331008	narrow nasal tip	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻端微黑	Slight black tip-of-nose	skos:closeMatch	SNOMEDCT:249327002	broad nasal tip	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻端微黑	Slight black tip-of-nose	skos:closeMatch	SNOMEDCT:249326006	bifid nasal tip	semapv:ManualMappingCuration	
+TCM-SO:sx_唇裂	Lip fissure	skos:closeMatch	SNOMEDCT:253983005	cleft lip cleft palate	semapv:ManualMappingCuration	
+TCM-SO:sx_唇裂	Lip fissure	skos:closeMatch	SNOMEDCT:66948001	cleft lip cleft palate	semapv:ManualMappingCuration	
+TCM-SO:sx_唇裂	Lip fissure	skos:closeMatch	SNOMEDCT:80281008	cheiloschisis of upper lip	semapv:ManualMappingCuration	
+TCM-SO:sx_口中流涎稠粘	thick sticky drooling	skos:closeMatch	SNOMEDCT:275295002	dribbling	semapv:ManualMappingCuration	
+TCM-SO:sx_口中流涎稠粘	thick sticky drooling	skos:closeMatch	SNOMEDCT:53827007	dribbling	semapv:ManualMappingCuration	
+TCM-SO:sx_口中流涎稠粘	thick sticky drooling	skos:closeMatch	SNOMEDCT:62718007	dribbling	semapv:ManualMappingCuration	
+TCM-SO:sx_脊柱歪斜	scoliosis (spinal deviation)	skos:exactMatch	SNOMEDCT:111266001	cobb angle greater than ten degrees	semapv:ManualMappingCuration	
+TCM-SO:sx_脊柱歪斜	scoliosis (spinal deviation)	skos:exactMatch	SNOMEDCT:64217002	cobb angle greater than ten degrees	semapv:ManualMappingCuration	
+TCM-SO:sx_脊柱歪斜	scoliosis (spinal deviation)	skos:closeMatch	SNOMEDCT:203645000	compensatory scoliosis	semapv:ManualMappingCuration	
+TCM-SO:sx_耳后完骨部红肿	Red mastoid-region-behind-the-ear swelling	skos:closeMatch	SNOMEDCT:43887004	pit behind the ear	semapv:ManualMappingCuration	
+TCM-SO:sx_后头痛	Occiput pain	skos:closeMatch	SNOMEDCT:25064002	headache	semapv:ManualMappingCuration	
+TCM-SO:sx_瞳神倚侧	deviated pupil	skos:closeMatch	SNOMEDCT:37125009	dilated pupil	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤苍白	Pallor	skos:exactMatch	SNOMEDCT:398979000	paleness	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤苍白	Pallor	skos:closeMatch	SNOMEDCT:302200001	disc pallor	semapv:ManualMappingCuration	
+TCM-SO:sx_视野窄缩	narrowing of visual field	skos:closeMatch	SNOMEDCT:1151008	concentric narrowing of visual field	semapv:ManualMappingCuration	
+TCM-SO:sx_视野窄缩	narrowing of visual field	skos:closeMatch	SNOMEDCT:267628004	concentric narrowing of visual field	semapv:ManualMappingCuration	
+TCM-SO:sx_视野窄缩	narrowing of visual field	skos:closeMatch	SNOMEDCT:12184005	partial loss of field of vision	semapv:ManualMappingCuration	
+TCM-SO:sx_囟门突起	bulging fontanelle	skos:closeMatch	SNOMEDCT:276710001	little cranial sutures	semapv:ManualMappingCuration	
+TCM-SO:sx_吐舌	protruding tongue	skos:exactMatch	SNOMEDCT:249872000	lingual prolapse	semapv:ManualMappingCuration	
+TCM-SO:sx_吐舌	protruding tongue	skos:exactMatch	SNOMEDCT:285503005	lingual prolapse	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤㿠白	bright pale-white skin	skos:closeMatch	SNOMEDCT:398979000	paleness	semapv:ManualMappingCuration	
+TCM-SO:sx_关节肿大	Joint enlargement	skos:closeMatch	SNOMEDCT:271771009	joint swelling	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_皮肤红点	red dots on the skin	skos:closeMatch	SNOMEDCT:12393003	blood spots	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤红点	red dots on the skin	skos:closeMatch	SNOMEDCT:387778001	blood spots	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤红点	red dots on the skin	skos:closeMatch	SNOMEDCT:423902002	blood spots	semapv:ManualMappingCuration	
+TCM-SO:sx_膝内翻	Genu varum	skos:exactMatch	SNOMEDCT:299331007	bow leggedness	semapv:ManualMappingCuration	
+TCM-SO:sx_膝内翻	Genu varum	skos:closeMatch	SNOMEDCT:299330008	genu valga	semapv:ManualMappingCuration	
+TCM-SO:sx_赘皮柔软	Skin tag/redundant skin softness	skos:closeMatch	SNOMEDCT:201093004	loose redundant skin	semapv:ManualMappingCuration	
+TCM-SO:sx_赘皮柔软	Skin tag/redundant skin softness	skos:closeMatch	SNOMEDCT:246815009	baggy eyes	semapv:ManualMappingCuration	
+TCM-SO:sx_指甲脱落	Onycholysis of fingernails	skos:closeMatch	SNOMEDCT:75789001	detachment of nail	semapv:ManualMappingCuration	
+TCM-SO:sx_尿血鲜红	Bright red hematuria	skos:closeMatch	SNOMEDCT:34436003	blood in urine	semapv:ManualMappingCuration	
+TCM-SO:sx_尿血鲜红	Bright red hematuria	skos:closeMatch	SNOMEDCT:53298000	blood in urine	semapv:ManualMappingCuration	
+TCM-SO:sx_啮舌	tongue biting	skos:closeMatch	SNOMEDCT:84557007	bifid tongue	semapv:ManualMappingCuration	
+TCM-SO:sx_睥肉粘连	eyelid tissue adhesion (symblepharon)	skos:closeMatch	SNOMEDCT:90216006	eyelid adhesion to globe of eye	semapv:ManualMappingCuration	
+TCM-SO:sx_口噤	Trismus	skos:exactMatch	SNOMEDCT:87866006	decrease in jaw mobility	semapv:ManualMappingCuration	
+TCM-SO:sx_尿中夹血块	blood clots in urine	skos:closeMatch	SNOMEDCT:34436003	blood in urine	semapv:ManualMappingCuration	
+TCM-SO:sx_尿中夹血块	blood clots in urine	skos:closeMatch	SNOMEDCT:53298000	blood in urine	semapv:ManualMappingCuration	
+TCM-SO:sx_唇部疤疹	lip herpes	skos:closeMatch	SNOMEDCT:80281008	cheiloschisis of upper lip	semapv:ManualMappingCuration	
+TCM-SO:sx_唇部疤疹	lip herpes	skos:closeMatch	SNOMEDCT:126770008	lip tumor	semapv:ManualMappingCuration	
+TCM-SO:sx_四肢无力	Tetraparesis	skos:exactMatch	SNOMEDCT:91327001	quadriparesis	semapv:ManualMappingCuration	
+TCM-SO:sx_四肢无力	Tetraparesis	skos:closeMatch	SNOMEDCT:298282001	spastic quadriparesis	semapv:ManualMappingCuration	
+TCM-SO:sx_肋痛	rib pain	skos:closeMatch	SNOMEDCT:247355005	flank pain	semapv:ManualMappingCuration	
+TCM-SO:sx_困倦	Drowsiness	skos:exactMatch	SNOMEDCT:271782001	abnormal drowsiness	semapv:ManualMappingCuration	
+TCM-SO:sx_困倦	Drowsiness	skos:exactMatch	SNOMEDCT:79519003	abnormal drowsiness	semapv:ManualMappingCuration	
+TCM-SO:sx_抑郁	Depression	skos:exactMatch	SNOMEDCT:210610001191	depression	semapv:ManualMappingCuration	
+TCM-SO:sx_抑郁	Depression	skos:exactMatch	SNOMEDCT:35489007	depression	semapv:ManualMappingCuration	
+TCM-SO:sx_抑郁	Depression	skos:exactMatch	SNOMEDCT:78667006	depression	semapv:ManualMappingCuration	
+TCM-SO:sx_齿全脱	complete loss of teeth	skos:closeMatch	SNOMEDCT:234974002	early tooth loss	semapv:ManualMappingCuration	
+TCM-SO:sx_齿全脱	complete loss of teeth	skos:closeMatch	SNOMEDCT:42756003	early tooth loss	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻端色青	Bluish tip-of-nose	skos:closeMatch	SNOMEDCT:249331008	narrow nasal tip	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻端色青	Bluish tip-of-nose	skos:closeMatch	SNOMEDCT:249327002	broad nasal tip	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻端色青	Bluish tip-of-nose	skos:closeMatch	SNOMEDCT:249326006	bifid nasal tip	semapv:ManualMappingCuration	
+TCM-SO:sx_纳谷不馨	Poor appetite	skos:exactMatch	SNOMEDCT:64379006	decreased appetite	semapv:ManualMappingCuration	
+TCM-SO:sx_舌有裂纹	fissured tongue	skos:exactMatch	SNOMEDCT:52368004	fissured tongue	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤红斑	Erythematous macule	skos:closeMatch	SNOMEDCT:247472004	Erythematous rash	semapv:ManualMappingCuration	
+TCM-SO:sx_声音嘶哑	Hoarse voice	skos:closeMatch	SNOMEDCT:50219008	Hoarseness	semapv:ManualMappingCuration	
+TCM-SO:sx_腰痛连足	low back pain radiating to the foot	skos:closeMatch	SNOMEDCT:279039007	low back pain	semapv:ManualMappingCuration	
+TCM-SO:sx_经行浮肿	Puffiness during menstruation	skos:closeMatch	SNOMEDCT:386692008	abnormally heavy bleeding during menstruation	semapv:ManualMappingCuration	
+TCM-SO:sx_左前胸痛	left anterior chest pain	skos:closeMatch	SNOMEDCT:29857009	chest discomfort	semapv:ManualMappingCuration	
+TCM-SO:sx_左前胸痛	left anterior chest pain	skos:closeMatch	SNOMEDCT:194828000	angina pectoris	semapv:ManualMappingCuration	
+TCM-SO:sx_左前胸痛	left anterior chest pain	skos:closeMatch	SNOMEDCT:225566008	angina pectoris	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤丘疹	Papule	skos:exactMatch	SNOMEDCT:25694009	papule	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤丘疹	Papule	skos:exactMatch	SNOMEDCT:443871003	papule	semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤丘疹	Papule	skos:closeMatch	SNOMEDCT:112625008	rash	semapv:ManualMappingCuration	
+TCM-SO:sx_小便失禁	Urinary incontinence	skos:exactMatch	SNOMEDCT:165232002	bladder incontinence	semapv:ManualMappingCuration	
+TCM-SO:sx_小便失禁	Urinary incontinence	skos:closeMatch	SNOMEDCT:22220005	stress urinary incontinence	semapv:ManualMappingCuration	
+TCM-SO:sx_指关节增粗	Finger joint thickening	skos:closeMatch	SNOMEDCT:298193009	finger joint hypermobility	semapv:ManualMappingCuration	
+TCM-SO:sx_精索增粗	Spermatic-cord thickening	skos:closeMatch	SNOMEDCT:49198006	spermatic cord torsion	semapv:ManualMappingCuration	
+TCM-SO:sx_精索增粗	Spermatic-cord thickening	skos:closeMatch	SNOMEDCT:81996005	spermatic cord torsion	semapv:ManualMappingCuration	
+TCM-SO:sx_经行风疹块	Wheals during menstruation	skos:closeMatch	SNOMEDCT:386692008	abnormally heavy bleeding during menstruation	semapv:ManualMappingCuration	
+TCM-SO:sx_带下色红	Red vaginal discharge	skos:closeMatch	SNOMEDCT:126921000	vaginal neoplasia	semapv:ManualMappingCuration	
+TCM-SO:sx_四肢拘急	Limb joint contracture	skos:closeMatch	SNOMEDCT:239736003	contracture of thumb	semapv:ManualMappingCuration	
+TCM-SO:sx_牙齿脱落	Teeth falling off	skos:closeMatch	SNOMEDCT:234974002	early tooth loss	semapv:ManualMappingCuration	
+TCM-SO:sx_牙齿脱落	Teeth falling off	skos:closeMatch	SNOMEDCT:42756003	early tooth loss	semapv:ManualMappingCuration	under_review
+TCM-SO:sx_肢体痛	Limb pain	skos:exactMatch	SNOMEDCT:90834002	limb pain	semapv:ManualMappingCuration	
+TCM-SO:sx_肢体痛	Limb pain	skos:closeMatch	SNOMEDCT:10601006	leg pain	semapv:ManualMappingCuration	
+TCM-SO:sx_肢体痛	Limb pain	skos:closeMatch	SNOMEDCT:102556003	upper limb pain	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻痛	Abnormality of the nose	skos:exactMatch	SNOMEDCT:72089000	abnormality of the nose	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻痛	Abnormality of the nose	skos:exactMatch	SNOMEDCT:128274005	abnormality of the nose	semapv:ManualMappingCuration	
+TCM-SO:sx_鼻痛	Abnormality of the nose	skos:closeMatch	SNOMEDCT:298390003	abnormality of the neck	semapv:ManualMappingCuration	
+TCM-SO:sx_口腔黏膜斑	Oral mucosa macule	skos:closeMatch	SNOMEDCT:112629002	flat discolored area of skin	semapv:ManualMappingCuration	
+TCM-SO:sx_焦虑	Anxiety	skos:exactMatch	SNOMEDCT:48694002	anxiety	semapv:ManualMappingCuration	
+TCM-SO:sx_睛珠突胀	protruding distending eyeball	skos:closeMatch	SNOMEDCT:18265008	anterior bulging of the globe	semapv:ManualMappingCuration	
+TCM-SO:sx_舌淡白	Pale tongue	skos:closeMatch	SNOMEDCT:25273001	abnormally large tongue	semapv:ManualMappingCuration	
+TCM-SO:sx_齿衄	Gingival bleeding	skos:exactMatch	SNOMEDCT:86276007	bleeding gums	semapv:ManualMappingCuration	
+TCM-SO:sx_斑秃	Patchy alopecia	skos:exactMatch	SNOMEDCT:68225006	alopecia areata	semapv:ManualMappingCuration	
+TCM-SO:sx_斑秃	Patchy alopecia	skos:closeMatch	SNOMEDCT:278040002	absence of scalp hair	semapv:ManualMappingCuration	
+TCM-SO:sx_斑秃	Patchy alopecia	skos:closeMatch	SNOMEDCT:56317004	absence of scalp hair	semapv:ManualMappingCuration	
+TCM-SO:sx_厌食	Anorexia	skos:exactMatch	SNOMEDCT:79890006	anorexia	semapv:ManualMappingCuration	
+TCM-SO:sx_苔有裂纹	fissured tongue coating	skos:closeMatch	SNOMEDCT:52368004	fissured tongue	semapv:ManualMappingCuration	
+TCM-SO:sx_四肢震颤	Tremor	skos:exactMatch	SNOMEDCT:26079006	Tremor	semapv:ManualMappingCuration	
+TCM-SO:sx_睡中啮齿	teeth grinding during sleep (sleep bruxism)	skos:closeMatch	SNOMEDCT:191983006	bruxism	semapv:ManualMappingCuration	
+TCM-SO:sx_睡中啮齿	teeth grinding during sleep (sleep bruxism)	skos:closeMatch	SNOMEDCT:90207007	bruxism	semapv:ManualMappingCuration	
+TCM-SO:sx_腹部生痈	abdominal abscess	skos:closeMatch	SNOMEDCT:299709002	dental abscess	semapv:ManualMappingCuration	
+TCM-SO:sx_转筋	Muscle cramp	skos:closeMatch	SNOMEDCT:55300003	muscle cramps	semapv:ManualMappingCuration	
+TCM-SO:sx_交替性鼻塞	alternating nasal obstruction	skos:closeMatch	SNOMEDCT:232209000	blockage of nose	semapv:ManualMappingCuration	
+TCM-SO:sx_交替性鼻塞	alternating nasal obstruction	skos:closeMatch	SNOMEDCT:267100006	blockage of nose	semapv:ManualMappingCuration	
+TCM-SO:sx_交替性鼻塞	alternating nasal obstruction	skos:closeMatch	SNOMEDCT:68235000	blockage of nose	semapv:ManualMappingCuration	
+TCM-SO:sx_耳廓痛	Auricular pain	skos:closeMatch	SNOMEDCT:43887004	pit behind the ear	semapv:ManualMappingCuration	
+TCM-SO:sx_耳廓痛	Auricular pain	skos:closeMatch	SNOMEDCT:16001004	ear pain	semapv:ManualMappingCuration	
+TCM-SO:sx_偏头痛	Migraine	skos:exactMatch	SNOMEDCT:37796009	intermittent migraine headaches	semapv:ManualMappingCuration	
+TCM-SO:sx_偏头痛	Migraine	skos:closeMatch	SNOMEDCT:56097005	migraine without aura	semapv:ManualMappingCuration	
+TCM-SO:sx_偏头痛	Migraine	skos:closeMatch	SNOMEDCT:4473006	migraine with aura	semapv:ManualMappingCuration	
+TCM-SO:sx_脱发	Alopecia	skos:closeMatch	SNOMEDCT:298000004	absence of scalp hair	semapv:ManualMappingCuration	
+TCM-SO:sx_脱发	Alopecia	skos:closeMatch	SNOMEDCT:278040002	absence of scalp hair	semapv:ManualMappingCuration	
+TCM-SO:sx_脱发	Alopecia	skos:closeMatch	SNOMEDCT:56317004	absence of scalp hair	semapv:ManualMappingCuration	
+TCM-SO:sx_月经提前	Polymenorrhea	skos:exactMatch	SNOMEDCT:52754008	polymenorrhea	semapv:ManualMappingCuration	
+TCM-SO:sx_指大如杵	Clubbing of fingers	skos:exactMatch	SNOMEDCT:30760008	clubbed fingers	semapv:ManualMappingCuration	
+TCM-SO:sx_指大如杵	Clubbing of fingers	skos:closeMatch	SNOMEDCT:367004	clubbing	semapv:ManualMappingCuration	
+TCM-SO:sx_指大如杵	Clubbing of fingers	skos:closeMatch	SNOMEDCT:53148007	clubbed toes	semapv:ManualMappingCuration	
+TCM-SO:sx_羞明	Photophobia	skos:exactMatch	SNOMEDCT:246622003	extreme sensitivity of the eyes to light	semapv:ManualMappingCuration	
+TCM-SO:sx_羞明	Photophobia	skos:exactMatch	SNOMEDCT:409668002	extreme sensitivity of the eyes to light	semapv:ManualMappingCuration	
+TCM-SO:sx_指甲菲薄腐烂	thin fragile eroded nail	skos:closeMatch	SNOMEDCT:63829008	thin nail	semapv:ManualMappingCuration	
+TCM-SO:sx_眦角生胬肉	pterygium growing at the canthus	skos:closeMatch	SNOMEDCT:110987009	nail pterygium	semapv:ManualMappingCuration	
+TCM-SO:sx_甲下胬肉突出	pterygium protruding under the nail	skos:closeMatch	SNOMEDCT:110987009	nail pterygium	semapv:ManualMappingCuration	
+TCM-SO:sx_睑不能闭	inability to close the eyelid (lagophthalmos)	skos:closeMatch	SNOMEDCT:417740005	eyelids stay open at night	semapv:ManualMappingCuration	
+TCM-SO:sx_睑不能闭	inability to close the eyelid (lagophthalmos)	skos:closeMatch	SNOMEDCT:9042000	cicatricial lagophthalmos	semapv:ManualMappingCuration	
+TCM-SO:sx_阴茎短小	small penis (micropenis)	skos:exactMatch	SNOMEDCT:34911001	hypoplasia of penis	semapv:ManualMappingCuration	
+TCM-SO:sx_月经推后	delayed menstruation	skos:closeMatch	SNOMEDCT:135810007	delayed myelination	semapv:ManualMappingCuration	
+TCM-SO:sx_桶状胸	Barrel-shaped chest	skos:exactMatch	SNOMEDCT:24228002	barrel chest	semapv:ManualMappingCuration	
+TCM-SO:sx_经行抽搐	Convulsion during menstruation	skos:closeMatch	SNOMEDCT:386692008	abnormally heavy bleeding during menstruation	semapv:ManualMappingCuration	
+TCM-SO:sx_眼睑水肿	Palpebral edema	skos:exactMatch	SNOMEDCT:89091004	edema of the eyelids	semapv:ManualMappingCuration	
+TCM-SO:sx_疮面肉色晦暗	Abnormality of the face	skos:exactMatch	SNOMEDCT:118930001	abnormal face	semapv:ManualMappingCuration	
+TCM-SO:sx_疮面肉色晦暗	Abnormality of the face	skos:exactMatch	SNOMEDCT:32003007	abnormal face	semapv:ManualMappingCuration	
+TCM-SO:sx_疮面肉色晦暗	Abnormality of the face	skos:exactMatch	SNOMEDCT:398302004	abnormal face	semapv:ManualMappingCuration	
+TCM-SO:sx_指甲色斑	Macule nail	skos:closeMatch	SNOMEDCT:112629002	flat discolored area of skin	semapv:ManualMappingCuration	
+TCM-SO:sx_指甲色斑	Macule nail	skos:closeMatch	SNOMEDCT:11375002	hypoplastic nail	semapv:ManualMappingCuration	

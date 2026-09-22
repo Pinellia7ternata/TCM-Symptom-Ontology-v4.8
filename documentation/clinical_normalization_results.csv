@@ -1,0 +1,12 @@
+metric,value
+corpus_records,43180
+tcm_so_symptom_classes,1758
+distinct_symptoms_attested,444
+coverage_pct,25.3
+coverage_conservative_pct,13.4
+total_normalized_mention_instances,460692
+records_with_mention,43180
+detection_rate_pct,100.0
+wilson95_lo_pct,100.0
+wilson95_hi_pct,100.0
+median_symptoms_per_record,10

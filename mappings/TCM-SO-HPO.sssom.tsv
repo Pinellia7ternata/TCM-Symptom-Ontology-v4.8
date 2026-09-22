@@ -1,0 +1,664 @@
+# mapping_set_id: https://github.com/Pinellia7ternata/TCM-Symptom-Ontology/mappings/TCM-SO-HPO.sssom.tsv
+# license: https://creativecommons.org/licenses/by/4.0/
+# mapping_provider: https://github.com/Pinellia7ternata/TCM-Symptom-Ontology
+# mapping_date: 2026-09-17
+# creator_id: https://github.com/Pinellia7ternata
+# mapping_tool: manual expert curation after lexical/semantic pre-screening
+# object_source: The Human Phenotype Ontology (release 2021)
+# comment_type
+# comment: Subject classes are TCM Symptom Ontology (TCM-SO, release v4.10) symptom classes; predicate and object identify the cross-terminology alignment.
+# curie_map:
+#   TCM-SO: http://OntoTCM.org.cn/ontologies/tcm_v38/f#
+#   HP: http://purl.obolibrary.org/obo/HP_
+#   SNOMEDCT: http://snomed.info/id/
+#   ICD11: https://icd.who.int/browse11/l-m/en#
+subject_id	subject_label	predicate_id	object_id	object_label	mapping_justification	curation_status
+TCM-SO:sx_带下色白	White vaginal discharge	skos:closeMatch	HP:0034269		semapv:ManualMappingCuration	
+TCM-SO:sx_手足蠕动	writhing movement of hands and feet	skos:closeMatch	HP:0200113		semapv:ManualMappingCuration	
+TCM-SO:sx_干呕	Vomiting	skos:exactMatch	HP:0002013		semapv:ManualMappingCuration	
+TCM-SO:sx_头发色红	Red hair	skos:exactMatch	HP:0002297		semapv:ManualMappingCuration	
+TCM-SO:sx_头顶痛	Vertex pain	skos:closeMatch	HP:0002315		semapv:ManualMappingCuration	under_review
+TCM-SO:sx_瘤体疮口出血如喷射状	jetting bleeding from the tumor sore	skos:closeMatch	HP:0030140		semapv:ManualMappingCuration	
+TCM-SO:sx_瘤体疮口出血如喷射状	jetting bleeding from the tumor sore	skos:closeMatch	HP:0011885		semapv:ManualMappingCuration	
+TCM-SO:sx_食少	Poor appetite	skos:exactMatch	HP:0004396		semapv:ManualMappingCuration	
+TCM-SO:sx_白睛结节	nodules on the white of the eye	skos:closeMatch	HP:0100534		semapv:ManualMappingCuration	
+TCM-SO:sx_呼吸张口抬肩	dyspnea with open-mouth breathing and shoulder lifting	skos:closeMatch	HP:6000463		semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤干瘪起皱	shriveled wrinkled skin	skos:closeMatch	HP:0100678		semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤干瘪起皱	shriveled wrinkled skin	skos:closeMatch	HP:0007392		semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤干瘪起皱	shriveled wrinkled skin	skos:closeMatch	HP:0007414		semapv:ManualMappingCuration	
+TCM-SO:sx_泪窍溢脓	pus discharge from the lacrimal punctum	skos:closeMatch	HP:0001092		semapv:ManualMappingCuration	
+TCM-SO:sx_泪窍溢脓	pus discharge from the lacrimal punctum	skos:closeMatch	HP:0010748		semapv:ManualMappingCuration	
+TCM-SO:sx_尿黄褐	yellowish-brown urine	skos:closeMatch	HP:0040320		semapv:ManualMappingCuration	
+TCM-SO:sx_耳生痈	ear abscess	skos:closeMatch	HP:0025615		semapv:ManualMappingCuration	
+TCM-SO:sx_睾丸肿大	testicular enlargement	skos:closeMatch	HP:0000053		semapv:ManualMappingCuration	
+TCM-SO:sx_囟门迟闭	delayed closure of fontanelle	skos:closeMatch	HP:0001476		semapv:ManualMappingCuration	
+TCM-SO:sx_囟门迟闭	delayed closure of fontanelle	skos:closeMatch	HP:0000270		semapv:ManualMappingCuration	
+TCM-SO:sx_月经量少	Oligomenorrhea	skos:exactMatch	HP:0000876		semapv:ManualMappingCuration	
+TCM-SO:sx_经行腰痛	low back pain during menstruation	skos:closeMatch	HP:0003419		semapv:ManualMappingCuration	
+TCM-SO:sx_妄见	visual hallucination	skos:closeMatch	HP:0000738		semapv:ManualMappingCuration	
+TCM-SO:sx_妄见	visual hallucination	skos:exactMatch	HP:0002367		semapv:ManualMappingCuration	
+TCM-SO:sx_妄见	visual hallucination	skos:closeMatch	HP:5200215		semapv:ManualMappingCuration	
+TCM-SO:sx_头皮脱屑	scalp scaling	skos:closeMatch	HP:0001051		semapv:ManualMappingCuration	
+TCM-SO:sx_妊娠阴道流血	vaginal bleeding during pregnancy	skos:closeMatch	HP:0034266		semapv:ManualMappingCuration	
+TCM-SO:sx_手足瘙痒	itching of hands and feet	skos:closeMatch	HP:0200113		semapv:ManualMappingCuration	
+TCM-SO:sx_手足瘙痒	itching of hands and feet	skos:closeMatch	HP:0007414		semapv:ManualMappingCuration	
+TCM-SO:sx_手足瘙痒	itching of hands and feet	skos:closeMatch	HP:0007517		semapv:ManualMappingCuration	
+TCM-SO:sx_咽肿	pharyngeal swelling	skos:closeMatch	HP:0011855		semapv:ManualMappingCuration	
+TCM-SO:sx_烧伤起泡	burn blistering	skos:closeMatch	HP:0012221		semapv:ManualMappingCuration	
+TCM-SO:sx_烧伤起泡	burn blistering	skos:closeMatch	HP:0007446		semapv:ManualMappingCuration	
+TCM-SO:sx_头痛	Headache	skos:exactMatch	HP:0002315		semapv:ManualMappingCuration	
+TCM-SO:sx_舌肿胀	Abnormal tongue morphology	skos:closeMatch	HP:0030809		semapv:ManualMappingCuration	
+TCM-SO:sx_膝软无力	Fatigable weakness	skos:exactMatch	HP:0003473		semapv:ManualMappingCuration	
+TCM-SO:sx_鳞屑色黄	Yellow scale	skos:closeMatch	HP:0032106		semapv:ManualMappingCuration	
+TCM-SO:sx_鼻头枯稿	withered nasal tip	skos:closeMatch	HP:0000455		semapv:ManualMappingCuration	
+TCM-SO:sx_鼻头枯稿	withered nasal tip	skos:closeMatch	HP:0005278		semapv:ManualMappingCuration	
+TCM-SO:sx_幻臭	olfactory hallucination	skos:exactMatch	HP:5200200		semapv:ManualMappingCuration	
+TCM-SO:sx_甲床淡白	pale nail bed	skos:closeMatch	HP:0001232		semapv:ManualMappingCuration	
+TCM-SO:sx_小腹包块	lower abdominal mass	skos:closeMatch	HP:0031500		semapv:ManualMappingCuration	
+TCM-SO:sx_小腹包块	lower abdominal mass	skos:closeMatch	HP:6001311		semapv:ManualMappingCuration	
+TCM-SO:sx_小腹包块	lower abdominal mass	skos:closeMatch	HP:6001312		semapv:ManualMappingCuration	
+TCM-SO:sx_水疱大小相似	blisters of similar size	skos:closeMatch	HP:0008066		semapv:ManualMappingCuration	
+TCM-SO:sx_小腹痛	Abdominal pain	skos:exactMatch	HP:0002027		semapv:ManualMappingCuration	
+TCM-SO:sx_四肢沉重	heaviness of limbs	skos:closeMatch	HP:0040064		semapv:ManualMappingCuration	
+TCM-SO:sx_口唇色赤	red lips	skos:closeMatch	HP:0012472		semapv:ManualMappingCuration	
+TCM-SO:sx_口唇色赤	red lips	skos:closeMatch	HP:0100788		semapv:ManualMappingCuration	
+TCM-SO:sx_早泄	Premature ejaculation	skos:exactMatch	HP:0012876		semapv:ManualMappingCuration	
+TCM-SO:sx_口张	open mouth (inability to close)	skos:exactMatch	HP:0000194		semapv:ManualMappingCuration	
+TCM-SO:sx_口张	open mouth (inability to close)	skos:closeMatch	HP:0200096		semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤色黄如橘	orange-yellow skin	skos:closeMatch	HP:0000952		semapv:ManualMappingCuration	
+TCM-SO:sx_下肢青脉显露	prominent blue vessels of lower limbs	skos:closeMatch	HP:0000179		semapv:ManualMappingCuration	
+TCM-SO:sx_下肢青脉显露	prominent blue vessels of lower limbs	skos:closeMatch	HP:0000303		semapv:ManualMappingCuration	
+TCM-SO:sx_便稀如水	watery stool	skos:exactMatch	HP:0002014		semapv:ManualMappingCuration	
+TCM-SO:sx_视远物不清	blurred distant vision	skos:closeMatch	HP:0000622		semapv:ManualMappingCuration	
+TCM-SO:sx_颅缝开解	separation of cranial sutures	skos:closeMatch	HP:0010537		semapv:ManualMappingCuration	
+TCM-SO:sx_颅缝开解	separation of cranial sutures	skos:closeMatch	HP:0011329		semapv:ManualMappingCuration	
+TCM-SO:sx_尿短黄	scanty dark-yellow urine	skos:closeMatch	HP:0040321		semapv:ManualMappingCuration	
+TCM-SO:sx_便血	Hematochezia	skos:exactMatch	HP:0002573		semapv:ManualMappingCuration	
+TCM-SO:sx_喷嚏	Sneeze	skos:exactMatch	HP:0025095		semapv:ManualMappingCuration	
+TCM-SO:sx_腹中包块推之不移	immobile abdominal mass	skos:closeMatch	HP:0031500		semapv:ManualMappingCuration	
+TCM-SO:sx_睑板色淡	Pale tarsal-plate	skos:closeMatch	HP:0025553		semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤萎黄	sallow-yellow skin	skos:closeMatch	HP:0000952		semapv:ManualMappingCuration	
+TCM-SO:sx_结节色红	Red nodule	skos:closeMatch	HP:0032217		semapv:ManualMappingCuration	
+TCM-SO:sx_结节色红	Red nodule	skos:closeMatch	HP:0034819		semapv:ManualMappingCuration	
+TCM-SO:sx_活动疼痛加剧	pain aggravated by movement	skos:closeMatch	HP:0025286		semapv:ManualMappingCuration	
+TCM-SO:sx_尿少	oliguria	skos:exactMatch	HP:0100520		semapv:ManualMappingCuration	
+TCM-SO:sx_水疱周围红晕	red halo around blisters	skos:closeMatch	HP:0008066		semapv:ManualMappingCuration	
+TCM-SO:sx_肩痛	Shoulder pain	skos:closeMatch	HP:0030834		semapv:ManualMappingCuration	
+TCM-SO:sx_手足心热	Fever	skos:closeMatch	HP:0001945		semapv:ManualMappingCuration	
+TCM-SO:sx_阴茎粗长	thickened and elongated penis	skos:closeMatch	HP:0000040		semapv:ManualMappingCuration	
+TCM-SO:sx_乳蛾肿大	enlarged tonsil	skos:closeMatch	HP:0030812		semapv:ManualMappingCuration	
+TCM-SO:sx_哮鸣	Wheezing	skos:exactMatch	HP:0030828		semapv:ManualMappingCuration	
+TCM-SO:sx_哮鸣	Wheezing	skos:closeMatch	HP:0030831		semapv:ManualMappingCuration	
+TCM-SO:sx_颈项强直	neck stiffness	skos:exactMatch	HP:0025258		semapv:ManualMappingCuration	
+TCM-SO:sx_脐腹痛	periumbilical pain	skos:closeMatch	HP:0034854		semapv:ManualMappingCuration	
+TCM-SO:sx_脐腹痛	periumbilical pain	skos:closeMatch	HP:0002027		semapv:ManualMappingCuration	
+TCM-SO:sx_肛门痛	Anal pain	skos:exactMatch	HP:0500005		semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹细小	fine rash	skos:closeMatch	HP:0000988		semapv:ManualMappingCuration	
+TCM-SO:sx_小儿咬爪甲	nail biting in children	skos:closeMatch	HP:0012170		semapv:ManualMappingCuration	
+TCM-SO:sx_眼花	blurred vision (eye dazzle)	skos:exactMatch	HP:0000622		semapv:ManualMappingCuration	
+TCM-SO:sx_眼花	blurred vision (eye dazzle)	skos:closeMatch	HP:0001125		semapv:ManualMappingCuration	
+TCM-SO:sx_四肢冷	cold limbs	skos:closeMatch	HP:6000500		semapv:ManualMappingCuration	
+TCM-SO:sx_指甲色黄	Yellow nail	skos:closeMatch	HP:0011367		semapv:ManualMappingCuration	
+TCM-SO:sx_目下视	downward deviation of eyes	skos:closeMatch	HP:0100498		semapv:ManualMappingCuration	
+TCM-SO:sx_眵多	profuse eye discharge	skos:closeMatch	HP:0034427		semapv:ManualMappingCuration	
+TCM-SO:sx_咽红	red pharynx	skos:closeMatch	HP:0033151		semapv:ManualMappingCuration	
+TCM-SO:sx_咽红	red pharynx	skos:closeMatch	HP:0100638		semapv:ManualMappingCuration	
+TCM-SO:sx_痫	epileptic seizure (xian)	skos:closeMatch	HP:0033052		semapv:ManualMappingCuration	
+TCM-SO:sx_痫	epileptic seizure (xian)	skos:closeMatch	HP:0011146		semapv:ManualMappingCuration	
+TCM-SO:sx_阴囊皮肤裂开	Scrotal skin splitting/cracking	skos:closeMatch	HP:0000048		semapv:ManualMappingCuration	
+TCM-SO:sx_尿多	polyuria	skos:exactMatch	HP:0000103		semapv:ManualMappingCuration	
+TCM-SO:sx_尿多	polyuria	skos:closeMatch	HP:0001563		semapv:ManualMappingCuration	
+TCM-SO:sx_阴囊水肿	Edema	skos:exactMatch	HP:0000969		semapv:ManualMappingCuration	
+TCM-SO:sx_脉弱	Weak pulse	skos:exactMatch	HP:0032553		semapv:ManualMappingCuration	
+TCM-SO:sx_脉弱	Weak pulse	skos:closeMatch	HP:0025406		semapv:ManualMappingCuration	
+TCM-SO:sx_视瞻有色	colored vision	skos:closeMatch	HP:0000622		semapv:ManualMappingCuration	
+TCM-SO:sx_瞳神不圆	irregular pupil	skos:exactMatch	HP:0025309		semapv:ManualMappingCuration	
+TCM-SO:sx_指肿	Finger swelling	skos:exactMatch	HP:0025131		semapv:ManualMappingCuration	
+TCM-SO:sx_鼻翼煽动	flaring of the alae nasi	skos:closeMatch	HP:0009928		semapv:ManualMappingCuration	under_review
+TCM-SO:sx_心烦	vexation	skos:closeMatch	HP:0000737		semapv:ManualMappingCuration	
+TCM-SO:sx_带下粘稠	sticky vaginal discharge	skos:closeMatch	HP:0034269		semapv:ManualMappingCuration	
+TCM-SO:sx_头小	microcephaly	skos:exactMatch	HP:0000252		semapv:ManualMappingCuration	
+TCM-SO:sx_头小	microcephaly	skos:closeMatch	HP:0005484		semapv:ManualMappingCuration	
+TCM-SO:sx_头小	microcephaly	skos:closeMatch	HP:0000253		semapv:ManualMappingCuration	
+TCM-SO:sx_流泪	Reflex tearing	skos:exactMatch	HP:0031733		semapv:ManualMappingCuration	
+TCM-SO:sx_脐部出血	umbilical bleeding	skos:closeMatch	HP:0011884		semapv:ManualMappingCuration	
+TCM-SO:sx_白睛浮肿	edema of the white of the eye (chemosis)	skos:closeMatch	HP:0100534		semapv:ManualMappingCuration	
+TCM-SO:sx_心悸	Palpitations	skos:exactMatch	HP:0001962		semapv:ManualMappingCuration	
+TCM-SO:sx_肉芽发痒	itchy granulation tissue	skos:closeMatch	HP:6000956		semapv:ManualMappingCuration	
+TCM-SO:sx_狂躁	manic agitation	skos:closeMatch	HP:0000713		semapv:ManualMappingCuration	
+TCM-SO:sx_结核累累	numerous nodules (scrofula)	skos:closeMatch	HP:0001054		semapv:ManualMappingCuration	
+TCM-SO:sx_耳痒	ear itching	skos:closeMatch	HP:0000989		semapv:ManualMappingCuration	
+TCM-SO:sx_张口困难	difficulty opening the mouth	skos:closeMatch	HP:0000658		semapv:ManualMappingCuration	
+TCM-SO:sx_唇干	dry lips	skos:exactMatch	HP:0040181		semapv:ManualMappingCuration	
+TCM-SO:sx_肉芽晦暗	dull dark granulation tissue	skos:closeMatch	HP:6000956		semapv:ManualMappingCuration	
+TCM-SO:sx_指骨节脱落	loss of finger joints	skos:closeMatch	HP:0001187		semapv:ManualMappingCuration	
+TCM-SO:sx_肿块推之不动	immobile mass	skos:exactMatch	HP:0025760		semapv:ManualMappingCuration	
+TCM-SO:sx_肿块推之不动	immobile mass	skos:closeMatch	HP:0025759		semapv:ManualMappingCuration	
+TCM-SO:sx_怔忡	Palpitations	skos:exactMatch	HP:0001962		semapv:ManualMappingCuration	
+TCM-SO:sx_口唇干燥	dry lips	skos:exactMatch	HP:0040181		semapv:ManualMappingCuration	
+TCM-SO:sx_神昏	Coma	skos:closeMatch	HP:0001259		semapv:ManualMappingCuration	
+TCM-SO:sx_阴囊肿大	scrotal enlargement	skos:closeMatch	HP:0033794		semapv:ManualMappingCuration	
+TCM-SO:sx_瘙痒	Pruritus	skos:exactMatch	HP:0000989		semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹糜烂	eroded rash	skos:closeMatch	HP:0000988		semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤白点	white dots on the skin	skos:closeMatch	HP:0040190		semapv:ManualMappingCuration	
+TCM-SO:sx_食入腹胀	Abdominal distention	skos:exactMatch	HP:0003270		semapv:ManualMappingCuration	
+TCM-SO:sx_隐痛	Pain	skos:closeMatch	HP:0012531		semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤感觉消失	Skin anesthesia (loss of sensation)	skos:closeMatch	HP:0034982		semapv:ManualMappingCuration	
+TCM-SO:sx_眼胞振跳	eyelid twitch	skos:closeMatch	HP:0031786		semapv:ManualMappingCuration	
+TCM-SO:sx_眼胞振跳	eyelid twitch	skos:closeMatch	HP:0000643		semapv:ManualMappingCuration	
+TCM-SO:sx_少腹痛	Abdominal pain	skos:exactMatch	HP:0002027		semapv:ManualMappingCuration	
+TCM-SO:sx_身痛	Body ache	skos:exactMatch	HP:0033047		semapv:ManualMappingCuration	
+TCM-SO:sx_气短	shortness of breath	skos:closeMatch	HP:0033710		semapv:ManualMappingCuration	
+TCM-SO:sx_气短	shortness of breath	skos:exactMatch	HP:0002094		semapv:ManualMappingCuration	
+TCM-SO:sx_带下杂见五色	vaginal discharge of five intermingled colors	skos:exactMatch	HP:0031470		semapv:ManualMappingCuration	
+TCM-SO:sx_带下杂见五色	vaginal discharge of five intermingled colors	skos:closeMatch	HP:0034269		semapv:ManualMappingCuration	
+TCM-SO:sx_弄舌	Abnormality of the tongue	skos:closeMatch	HP:0000157		semapv:ManualMappingCuration	under_review
+TCM-SO:sx_寒战	Chills	skos:exactMatch	HP:0025143		semapv:ManualMappingCuration	under_review
+TCM-SO:sx_水泻	Watery diarrhea	skos:closeMatch	HP:0002014		semapv:ManualMappingCuration	
+TCM-SO:sx_指苍白	Pale finger	skos:closeMatch	HP:0000980		semapv:ManualMappingCuration	
+TCM-SO:sx_耳底痛	deep ear pain	skos:closeMatch	HP:0030766		semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹瘙痒	itchy rash	skos:closeMatch	HP:0000988		semapv:ManualMappingCuration	under_review
+TCM-SO:sx_经断复行	postmenopausal bleeding	skos:exactMatch	HP:0033840		semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤感觉减退	Skin hypoesthesia	skos:closeMatch	HP:0033748		semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤感觉减退	Skin hypoesthesia	skos:closeMatch	HP:0002495		semapv:ManualMappingCuration	
+TCM-SO:sx_梦呓	sleep talking (somniloquy)	skos:exactMatch	HP:0025187		semapv:ManualMappingCuration	
+TCM-SO:sx_梦呓	sleep talking (somniloquy)	skos:closeMatch	HP:0025236		semapv:ManualMappingCuration	
+TCM-SO:sx_睥急紧小	tight narrow eyelid fissure (blepharophimosis)	skos:closeMatch	HP:0045025		semapv:ManualMappingCuration	under_review
+TCM-SO:sx_腰冷	cold lower back	skos:closeMatch	HP:0003419		semapv:ManualMappingCuration	
+TCM-SO:sx_口疮	Aphthous ulcer	skos:exactMatch	HP:0032154		semapv:ManualMappingCuration	
+TCM-SO:sx_带下如涕	snivel-like vaginal discharge	skos:closeMatch	HP:0034269		semapv:ManualMappingCuration	
+TCM-SO:sx_舌溃疡	Ulcerated tongue	skos:closeMatch	HP:0040294		semapv:ManualMappingCuration	
+TCM-SO:sx_恐惧	fearfulness	skos:closeMatch	HP:5200232		semapv:ManualMappingCuration	
+TCM-SO:sx_舌紫	Tongue pain	skos:closeMatch	HP:0030811		semapv:ManualMappingCuration	
+TCM-SO:sx_咽喉痛	Pharyngalgia	skos:exactMatch	HP:0033050		semapv:ManualMappingCuration	
+TCM-SO:sx_久泄不止	incessant chronic diarrhea	skos:closeMatch	HP:0002028		semapv:ManualMappingCuration	
+TCM-SO:sx_吞食梗塞	obstruction when swallowing	skos:closeMatch	HP:0004796		semapv:ManualMappingCuration	
+TCM-SO:sx_唇反人中满	everted lip with flattened philtrum	skos:closeMatch	HP:0010803		semapv:ManualMappingCuration	
+TCM-SO:sx_口腔糜烂	Oral erosion	skos:closeMatch	HP:0200020		semapv:ManualMappingCuration	
+TCM-SO:sx_口腔糜烂	Oral erosion	skos:closeMatch	HP:0012523		semapv:ManualMappingCuration	
+TCM-SO:sx_尿血棕红	brownish-red hematuria	skos:closeMatch	HP:0000790		semapv:ManualMappingCuration	under_review
+TCM-SO:sx_间歇性鼻塞	intermittent nasal obstruction	skos:closeMatch	HP:0031796		semapv:ManualMappingCuration	
+TCM-SO:sx_间歇性鼻塞	intermittent nasal obstruction	skos:closeMatch	HP:0004796		semapv:ManualMappingCuration	
+TCM-SO:sx_尿中带血丝	blood streaks in urine	skos:closeMatch	HP:0000790		semapv:ManualMappingCuration	
+TCM-SO:sx_指纹增粗	thickened finger venules	skos:closeMatch	HP:0034570		semapv:ManualMappingCuration	
+TCM-SO:sx_夜尿多	nocturia (frequent night urination)	skos:exactMatch	HP:0000017		semapv:ManualMappingCuration	
+TCM-SO:sx_疮面痛觉减退	decreased pain sensation of sore surface	skos:closeMatch	HP:0007328		semapv:ManualMappingCuration	
+TCM-SO:sx_头大	macrocephaly	skos:exactMatch	HP:0000256		semapv:ManualMappingCuration	
+TCM-SO:sx_头大	macrocephaly	skos:closeMatch	HP:0004481		semapv:ManualMappingCuration	
+TCM-SO:sx_头大	macrocephaly	skos:closeMatch	HP:0004482		semapv:ManualMappingCuration	
+TCM-SO:sx_鼻端色白	White tip-of-nose	skos:closeMatch	HP:0000455		semapv:ManualMappingCuration	
+TCM-SO:sx_头胀	head distension	skos:closeMatch	HP:0002181		semapv:ManualMappingCuration	under_review
+TCM-SO:sx_颈细	thin neck	skos:closeMatch	HP:0035007		semapv:ManualMappingCuration	
+TCM-SO:sx_结喉一侧漫肿	diffuse swelling on one side of laryngeal prominence	skos:closeMatch	HP:0003405		semapv:ManualMappingCuration	
+TCM-SO:sx_呃逆频作	frequent hiccups	skos:closeMatch	HP:0100247		semapv:ManualMappingCuration	
+TCM-SO:sx_耳鸣	Tinnitus	skos:exactMatch	HP:0000360		semapv:ManualMappingCuration	
+TCM-SO:sx_舌出血	Bleeding tongue	skos:closeMatch	HP:0040184		semapv:ManualMappingCuration	
+TCM-SO:sx_牙齿焦黑	burnt-black teeth	skos:closeMatch	HP:0011072		semapv:ManualMappingCuration	
+TCM-SO:sx_臂部生痈	arm abscess	skos:closeMatch	HP:0025615		semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤感觉过敏	Skin hyperesthesia	skos:closeMatch	HP:0100963		semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤感觉过敏	Skin hyperesthesia	skos:closeMatch	HP:5200058		semapv:ManualMappingCuration	
+TCM-SO:sx_齿眼肿	swollen gum margin	skos:closeMatch	HP:0031244		semapv:ManualMappingCuration	under_review
+TCM-SO:sx_悬痈	uvula abscess (xuanyong)	skos:closeMatch	HP:0033587		semapv:ManualMappingCuration	
+TCM-SO:sx_颈生痈	neck abscess	skos:closeMatch	HP:6000288		semapv:ManualMappingCuration	
+TCM-SO:sx_谵语	Delirium	skos:closeMatch	HP:0031258		semapv:ManualMappingCuration	
+TCM-SO:sx_头发结穗	tufted hair	skos:closeMatch	HP:0031283		semapv:ManualMappingCuration	
+TCM-SO:sx_妊娠水肿	edema during pregnancy	skos:closeMatch	HP:0200148		semapv:ManualMappingCuration	
+TCM-SO:sx_带下夹血	blood-streaked vaginal discharge	skos:closeMatch	HP:0034269		semapv:ManualMappingCuration	
+TCM-SO:sx_口淡	Hypogeusia	skos:exactMatch	HP:0000224		semapv:ManualMappingCuration	
+TCM-SO:sx_失眠	Insomnia	skos:exactMatch	HP:0100785		semapv:ManualMappingCuration	
+TCM-SO:sx_腰痛	Low back pain	skos:exactMatch	HP:0003419		semapv:ManualMappingCuration	
+TCM-SO:sx_阴囊溃破	scrotal ulceration	skos:closeMatch	HP:0006121		semapv:ManualMappingCuration	
+TCM-SO:sx_肉芽红活	red vital granulation tissue	skos:closeMatch	HP:6000956		semapv:ManualMappingCuration	
+TCM-SO:sx_风团色红	Red wheal	skos:closeMatch	HP:0002297		semapv:ManualMappingCuration	
+TCM-SO:sx_鼻端色赤	Red tip-of-nose	skos:closeMatch	HP:0011831		semapv:ManualMappingCuration	under_review
+TCM-SO:sx_视力下降	decreased vision	skos:closeMatch	HP:0007663		semapv:ManualMappingCuration	
+TCM-SO:sx_视物易色	disturbed color vision	skos:exactMatch	HP:0000551		semapv:ManualMappingCuration	
+TCM-SO:sx_咽干	Abnormality of the pharynx	skos:closeMatch	HP:0000600		semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤皲裂	Skin fissuring	skos:exactMatch	HP:0031057		semapv:ManualMappingCuration	
+TCM-SO:sx_睑内结石	conjunctival concretion (lid stone)	skos:closeMatch	HP:0009903		semapv:ManualMappingCuration	
+TCM-SO:sx_反酸	Oral lichenoid lesion	skos:closeMatch	HP:0031453		semapv:ManualMappingCuration	
+TCM-SO:sx_舌謇语涩	stiff tongue with sluggish speech	skos:closeMatch	HP:0031373		semapv:ManualMappingCuration	
+TCM-SO:sx_肿疡作痒	itching of the abscess swelling	skos:closeMatch	HP:0031244		semapv:ManualMappingCuration	
+TCM-SO:sx_恶寒	Chills	skos:closeMatch	HP:0025143		semapv:ManualMappingCuration	under_review
+TCM-SO:sx_尿频	Frequent urination	skos:exactMatch	HP:0000109		semapv:ManualMappingCuration	
+TCM-SO:sx_尿频	Frequent urination	skos:exactMatch	HP:0100515		semapv:ManualMappingCuration	
+TCM-SO:sx_熟声如雷	snoring like thunder	skos:closeMatch	HP:0025372		semapv:ManualMappingCuration	
+TCM-SO:sx_心忡	palpitations	skos:closeMatch	HP:0001676		semapv:ManualMappingCuration	
+TCM-SO:sx_龟头溃烂	festering glans penis	skos:closeMatch	HP:0034438		semapv:ManualMappingCuration	
+TCM-SO:sx_趾甲增厚	thickened toenails	skos:closeMatch	HP:0001805		semapv:ManualMappingCuration	
+TCM-SO:sx_咳声重浊	Abnormally low-pitched voice	skos:closeMatch	HP:0010300		semapv:ManualMappingCuration	under_review
+TCM-SO:sx_口僻	deviated mouth	skos:closeMatch	HP:0009941		semapv:ManualMappingCuration	
+TCM-SO:sx_耳痛	Ear pain	skos:exactMatch	HP:0030766		semapv:ManualMappingCuration	
+TCM-SO:sx_视近物不清	blurred near vision	skos:closeMatch	HP:0000622		semapv:ManualMappingCuration	
+TCM-SO:sx_惊悸	Palpitations	skos:closeMatch	HP:0001962		semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤色紫	Purple skin	skos:closeMatch	HP:0040322		semapv:ManualMappingCuration	
+TCM-SO:sx_月经量多	Menorrhagia	skos:exactMatch	HP:0000132		semapv:ManualMappingCuration	
+TCM-SO:sx_肛门皮肤溃疡	Skin ulcer	skos:exactMatch	HP:0200042		semapv:ManualMappingCuration	
+TCM-SO:sx_便意频频	frequent urge to defecate	skos:closeMatch	HP:0032765		semapv:ManualMappingCuration	
+TCM-SO:sx_便意频频	frequent urge to defecate	skos:closeMatch	HP:0032781		semapv:ManualMappingCuration	
+TCM-SO:sx_便意频频	frequent urge to defecate	skos:closeMatch	HP:0032774		semapv:ManualMappingCuration	
+TCM-SO:sx_小便不利	Dysuria	skos:exactMatch	HP:0100518		semapv:ManualMappingCuration	
+TCM-SO:sx_上臂外突	outward protrusion of the upper arm	skos:closeMatch	HP:6001139		semapv:ManualMappingCuration	
+TCM-SO:sx_上臂外突	outward protrusion of the upper arm	skos:closeMatch	HP:0001454		semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹色白	White rash	skos:closeMatch	HP:0000988		semapv:ManualMappingCuration	
+TCM-SO:sx_肛门周围湿疹	perianal eczema	skos:closeMatch	HP:0000964		semapv:ManualMappingCuration	
+TCM-SO:sx_肛门周围湿疹	perianal eczema	skos:closeMatch	HP:0011131		semapv:ManualMappingCuration	
+TCM-SO:sx_目赤	Red eye	skos:exactMatch	HP:0025337		semapv:ManualMappingCuration	
+TCM-SO:sx_下唇肿胀	Lower-lip swelling	skos:closeMatch	HP:0031244		semapv:ManualMappingCuration	
+TCM-SO:sx_下唇肿胀	Lower-lip swelling	skos:closeMatch	HP:0010741		semapv:ManualMappingCuration	
+TCM-SO:sx_壮热	Malignant hyperthermia	skos:closeMatch	HP:0002047		semapv:ManualMappingCuration	under_review
+TCM-SO:sx_神志狂乱	manic confusion	skos:closeMatch	HP:0001289		semapv:ManualMappingCuration	
+TCM-SO:sx_尿闭	urinary retention	skos:exactMatch	HP:0000016		semapv:ManualMappingCuration	
+TCM-SO:sx_口臭	Halitosis	skos:exactMatch	HP:0100812		semapv:ManualMappingCuration	
+TCM-SO:sx_唇燥裂	dry and cracked lips	skos:closeMatch	HP:0031250		semapv:ManualMappingCuration	
+TCM-SO:sx_唇燥裂	dry and cracked lips	skos:closeMatch	HP:0410030		semapv:ManualMappingCuration	
+TCM-SO:sx_呕吐酸水	vomiting of sour fluid	skos:closeMatch	HP:0002248		semapv:ManualMappingCuration	
+TCM-SO:sx_甲向内嵌	ingrown nail	skos:exactMatch	HP:0012710		semapv:ManualMappingCuration	
+TCM-SO:sx_手掌角化	palmar keratinization	skos:closeMatch	HP:0010610		semapv:ManualMappingCuration	
+TCM-SO:sx_手掌角化	palmar keratinization	skos:closeMatch	HP:0010765		semapv:ManualMappingCuration	
+TCM-SO:sx_手掌角化	palmar keratinization	skos:closeMatch	HP:0007556		semapv:ManualMappingCuration	
+TCM-SO:sx_眉毛脱落	loss of eyebrows	skos:closeMatch	HP:0002223		semapv:ManualMappingCuration	
+TCM-SO:sx_颈项歪斜	wry neck	skos:exactMatch	HP:0000473		semapv:ManualMappingCuration	
+TCM-SO:sx_足跟痛	Foot pain	skos:closeMatch	HP:0025238		semapv:ManualMappingCuration	
+TCM-SO:sx_咳如犬吠	barking cough	skos:exactMatch	HP:0033121		semapv:ManualMappingCuration	
+TCM-SO:sx_腰脊痛	lumbosacral pain	skos:closeMatch	HP:0009747		semapv:ManualMappingCuration	
+TCM-SO:sx_腰脊痛	lumbosacral pain	skos:closeMatch	HP:0200133		semapv:ManualMappingCuration	
+TCM-SO:sx_肛门皮肤糜烂	eroded anal skin	skos:closeMatch	HP:0200041		semapv:ManualMappingCuration	
+TCM-SO:sx_鼻柱溃陷	collapsed nasal columella	skos:closeMatch	HP:0009765		semapv:ManualMappingCuration	
+TCM-SO:sx_鼻柱溃陷	collapsed nasal columella	skos:closeMatch	HP:0010761		semapv:ManualMappingCuration	
+TCM-SO:sx_肿块推之可移动	mobile mass	skos:exactMatch	HP:0025759		semapv:ManualMappingCuration	
+TCM-SO:sx_肿块推之可移动	mobile mass	skos:closeMatch	HP:0025760		semapv:ManualMappingCuration	
+TCM-SO:sx_痔核出血	bleeding hemorrhoidal nodule	skos:closeMatch	HP:0040184		semapv:ManualMappingCuration	
+TCM-SO:sx_神水浑浊	turbid aqueous humor	skos:closeMatch	HP:0430031		semapv:ManualMappingCuration	
+TCM-SO:sx_胎动不安	Prenatal movement abnormality	skos:exactMatch	HP:0001557		semapv:ManualMappingCuration	
+TCM-SO:sx_视物模糊	blurred vision	skos:exactMatch	HP:0000622		semapv:ManualMappingCuration	
+TCM-SO:sx_视物模糊	blurred vision	skos:closeMatch	HP:0001125		semapv:ManualMappingCuration	
+TCM-SO:sx_耳聋	Severe hearing impairment	skos:exactMatch	HP:0012714		semapv:ManualMappingCuration	
+TCM-SO:sx_寒热往来	Temperature instability	skos:exactMatch	HP:0005968		semapv:ManualMappingCuration	
+TCM-SO:sx_胸痛	Chest pain	skos:exactMatch	HP:0100749		semapv:ManualMappingCuration	
+TCM-SO:sx_左下腹包块	left lower abdominal mass	skos:closeMatch	HP:0031500		semapv:ManualMappingCuration	
+TCM-SO:sx_潮热	Hot flashes	skos:exactMatch	HP:0031217		semapv:ManualMappingCuration	
+TCM-SO:sx_妊娠腹痛	abdominal pain during pregnancy	skos:closeMatch	HP:0002027		semapv:ManualMappingCuration	under_review
+TCM-SO:sx_妊娠腹痛	abdominal pain during pregnancy	skos:closeMatch	HP:0033400		semapv:ManualMappingCuration	
+TCM-SO:sx_骨折四肢畸形	limb deformity from fracture	skos:closeMatch	HP:0040064		semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹色褐	Brown rash	skos:closeMatch	HP:0000988		semapv:ManualMappingCuration	
+TCM-SO:sx_功能失调性月经紊乱	dysfunctional menstrual irregularity	skos:closeMatch	HP:0000858		semapv:ManualMappingCuration	
+TCM-SO:sx_恶心	Nausea	skos:exactMatch	HP:0002018		semapv:ManualMappingCuration	
+TCM-SO:sx_目珠痛	Eyeball pain	skos:closeMatch	HP:0200026		semapv:ManualMappingCuration	
+TCM-SO:sx_梦中啮齿	teeth grinding during sleep	skos:closeMatch	HP:0003763		semapv:ManualMappingCuration	
+TCM-SO:sx_夜寐不安	restless sleep	skos:exactMatch	HP:0025199		semapv:ManualMappingCuration	
+TCM-SO:sx_颈粗	thick neck	skos:exactMatch	HP:0000475		semapv:ManualMappingCuration	
+TCM-SO:sx_晶珠混浊	cloudy lens (cataract)	skos:exactMatch	HP:0000518		semapv:ManualMappingCuration	
+TCM-SO:sx_晶珠混浊	cloudy lens (cataract)	skos:closeMatch	HP:0100018		semapv:ManualMappingCuration	
+TCM-SO:sx_过早绝经	premature menopause	skos:exactMatch	HP:0008209		semapv:ManualMappingCuration	
+TCM-SO:sx_前囟宽大	wide anterior fontanelle	skos:exactMatch	HP:0000260		semapv:ManualMappingCuration	
+TCM-SO:sx_前囟宽大	wide anterior fontanelle	skos:closeMatch	HP:6001069		semapv:ManualMappingCuration	
+TCM-SO:sx_前囟宽大	wide anterior fontanelle	skos:closeMatch	HP:0004474		semapv:ManualMappingCuration	
+TCM-SO:sx_鼻不闻香臭	Anosmia	skos:exactMatch	HP:0000458		semapv:ManualMappingCuration	
+TCM-SO:sx_头昏	dizziness	skos:exactMatch	HP:0002321		semapv:ManualMappingCuration	
+TCM-SO:sx_舌老	Rough (aged) tongue	skos:closeMatch	HP:0012473		semapv:ManualMappingCuration	
+TCM-SO:sx_白睛溢血	bleeding on the white of the eye (subconjunctival hemorrhage)	skos:closeMatch	HP:0011885		semapv:ManualMappingCuration	
+TCM-SO:sx_阴茎湿疹	penile eczema	skos:closeMatch	HP:0000964		semapv:ManualMappingCuration	
+TCM-SO:sx_阴茎湿疹	penile eczema	skos:closeMatch	HP:6000087		semapv:ManualMappingCuration	
+TCM-SO:sx_赘皮肿胀	Skin tag/redundant skin swelling	skos:closeMatch	HP:0001582		semapv:ManualMappingCuration	
+TCM-SO:sx_唇焦干	parched lips	skos:closeMatch	HP:0000205		semapv:ManualMappingCuration	
+TCM-SO:sx_恶风	Chills	skos:exactMatch	HP:0025143		semapv:ManualMappingCuration	under_review
+TCM-SO:sx_红斑对称分布	symmetrically distributed erythema	skos:closeMatch	HP:6000857		semapv:ManualMappingCuration	under_review
+TCM-SO:sx_咽部滤泡增生	Pharynx follicles hyperplasia	skos:closeMatch	HP:0002729		semapv:ManualMappingCuration	
+TCM-SO:sx_倒睫拳毛	Trichiasis	skos:exactMatch	HP:0001128		semapv:ManualMappingCuration	
+TCM-SO:sx_肛周皮下可触及条索状物	palpable cord-like mass under perianal skin	skos:closeMatch	HP:0011131		semapv:ManualMappingCuration	
+TCM-SO:sx_舌破裂出血	Cracked and bleeding tongue	skos:closeMatch	HP:0040184		semapv:ManualMappingCuration	
+TCM-SO:sx_胞睑色红	red eyelid	skos:exactMatch	HP:0040323		semapv:ManualMappingCuration	
+TCM-SO:sx_胞睑色红	red eyelid	skos:closeMatch	HP:0010608		semapv:ManualMappingCuration	
+TCM-SO:sx_臀部皮肤潮红	flushed buttock skin	skos:closeMatch	HP:0034805		semapv:ManualMappingCuration	
+TCM-SO:sx_水疱色白	White blister (vesicle)	skos:closeMatch	HP:0008066		semapv:ManualMappingCuration	
+TCM-SO:sx_鱼际脉络青	Bluish thenar-eminence vessels and collaterals	skos:closeMatch	HP:0001245		semapv:ManualMappingCuration	
+TCM-SO:sx_肛门周围皮肤见瘘口	fistula opening in perianal skin	skos:closeMatch	HP:0010447		semapv:ManualMappingCuration	
+TCM-SO:sx_肛门周围皮肤见瘘口	fistula opening in perianal skin	skos:closeMatch	HP:0011131		semapv:ManualMappingCuration	
+TCM-SO:sx_神疲	mental fatigue	skos:exactMatch	HP:0033630		semapv:ManualMappingCuration	
+TCM-SO:sx_神疲	mental fatigue	skos:closeMatch	HP:0033236		semapv:ManualMappingCuration	
+TCM-SO:sx_全身无力	generalized weakness	skos:closeMatch	HP:0025406		semapv:ManualMappingCuration	
+TCM-SO:sx_全身无力	generalized weakness	skos:closeMatch	HP:0009028		semapv:ManualMappingCuration	
+TCM-SO:sx_全身无力	generalized weakness	skos:closeMatch	HP:0003324		semapv:ManualMappingCuration	
+TCM-SO:sx_舌痛	Tongue pain	skos:exactMatch	HP:0030811		semapv:ManualMappingCuration	
+TCM-SO:sx_健忘	Progressive forgetfulness	skos:exactMatch	HP:0007017		semapv:ManualMappingCuration	
+TCM-SO:sx_脐部瘘管	umbilical fistula	skos:closeMatch	HP:0010770		semapv:ManualMappingCuration	
+TCM-SO:sx_头重	Abnormality of the head	skos:closeMatch	HP:0000234		semapv:ManualMappingCuration	
+TCM-SO:sx_睑板色赤	Red tarsal-plate	skos:closeMatch	HP:0025553		semapv:ManualMappingCuration	
+TCM-SO:sx_目闭不开	inability to open the eyes	skos:closeMatch	HP:0002540		semapv:ManualMappingCuration	
+TCM-SO:sx_疼痛	Pain	skos:exactMatch	HP:0003326		semapv:ManualMappingCuration	
+TCM-SO:sx_疼痛	Pain	skos:exactMatch	HP:0012531		semapv:ManualMappingCuration	
+TCM-SO:sx_麻木不仁	numbness (loss of sensation)	skos:exactMatch	HP:0033748		semapv:ManualMappingCuration	
+TCM-SO:sx_麻木不仁	numbness (loss of sensation)	skos:closeMatch	HP:0030213		semapv:ManualMappingCuration	
+TCM-SO:sx_牙龈溃烂	Abnormality of the gingiva	skos:closeMatch	HP:0000168		semapv:ManualMappingCuration	
+TCM-SO:sx_颈项活动受限	restricted neck movement	skos:exactMatch	HP:0005986		semapv:ManualMappingCuration	
+TCM-SO:sx_颈项活动受限	restricted neck movement	skos:closeMatch	HP:0005997		semapv:ManualMappingCuration	
+TCM-SO:sx_颈项活动受限	restricted neck movement	skos:closeMatch	HP:0006596		semapv:ManualMappingCuration	
+TCM-SO:sx_乏力	Malaise	skos:exactMatch	HP:0033834		semapv:ManualMappingCuration	
+TCM-SO:sx_妊娠呕吐	Hyperemesis gravidarum	skos:exactMatch	HP:0012188		semapv:ManualMappingCuration	
+TCM-SO:sx_产后便秘	Constipation	skos:exactMatch	HP:0002019		semapv:ManualMappingCuration	
+TCM-SO:sx_不欲饮食	poor appetite	skos:exactMatch	HP:0004396		semapv:ManualMappingCuration	
+TCM-SO:sx_食后呕吐	vomiting after meals	skos:closeMatch	HP:0025089		semapv:ManualMappingCuration	
+TCM-SO:sx_足麻	foot numbness	skos:closeMatch	HP:0033748		semapv:ManualMappingCuration	
+TCM-SO:sx_苔花剥	Geographic (patchy peeled) tongue coating	skos:closeMatch	HP:0025252		semapv:ManualMappingCuration	
+TCM-SO:sx_睾丸表面光滑	smooth testicular surface	skos:closeMatch	HP:0010298		semapv:ManualMappingCuration	
+TCM-SO:sx_声音高亢	high-pitched voice	skos:closeMatch	HP:0001620		semapv:ManualMappingCuration	
+TCM-SO:sx_声音高亢	high-pitched voice	skos:closeMatch	HP:0025430		semapv:ManualMappingCuration	under_review
+TCM-SO:sx_小儿言语迟缓	delayed speech in children	skos:closeMatch	HP:0000750		semapv:ManualMappingCuration	
+TCM-SO:sx_小儿言语迟缓	delayed speech in children	skos:closeMatch	HP:5200038		semapv:ManualMappingCuration	
+TCM-SO:sx_鼻痒	Abnormality of the nose	skos:exactMatch	HP:0000366		semapv:ManualMappingCuration	
+TCM-SO:sx_水疱饱满	tense full blisters	skos:closeMatch	HP:0008066		semapv:ManualMappingCuration	
+TCM-SO:sx_目痛	Ocular pain	skos:exactMatch	HP:0200026		semapv:ManualMappingCuration	
+TCM-SO:sx_眼睑肿核	swollen nodule of the eyelid (chalazion)	skos:closeMatch	HP:0010604		semapv:ManualMappingCuration	
+TCM-SO:sx_呕吐	Vomiting	skos:exactMatch	HP:0002013		semapv:ManualMappingCuration	
+TCM-SO:sx_水疱大小不一	blisters of varying sizes	skos:closeMatch	HP:0008066		semapv:ManualMappingCuration	
+TCM-SO:sx_体毛干枯	Brittle hair	skos:exactMatch	HP:0002299		semapv:ManualMappingCuration	
+TCM-SO:sx_喜食异物	pica (craving for foreign objects)	skos:exactMatch	HP:0011856		semapv:ManualMappingCuration	
+TCM-SO:sx_背痛	Back pain	skos:exactMatch	HP:0003418		semapv:ManualMappingCuration	
+TCM-SO:sx_口唇青紫	bluish-purple lips	skos:closeMatch	HP:0034030		semapv:ManualMappingCuration	
+TCM-SO:sx_吞咽不利	difficulty swallowing	skos:exactMatch	HP:0002015		semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤于燥	Skin dryness	skos:closeMatch	HP:0031088		semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤于燥	Skin dryness	skos:closeMatch	HP:0033521		semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤紫斑	Skin purpura	skos:closeMatch	HP:0000979		semapv:ManualMappingCuration	
+TCM-SO:sx_流热泪	hot tearing	skos:closeMatch	HP:0009926		semapv:ManualMappingCuration	
+TCM-SO:sx_流热泪	hot tearing	skos:closeMatch	HP:0033705		semapv:ManualMappingCuration	
+TCM-SO:sx_失音	Loss of voice	skos:exactMatch	HP:0001686		semapv:ManualMappingCuration	
+TCM-SO:sx_呼吸急促	Tachypnea	skos:exactMatch	HP:0002789		semapv:ManualMappingCuration	
+TCM-SO:sx_囟门早闭	premature closure of fontanelle	skos:closeMatch	HP:0005494		semapv:ManualMappingCuration	
+TCM-SO:sx_囟门早闭	premature closure of fontanelle	skos:exactMatch	HP:0005458		semapv:ManualMappingCuration	
+TCM-SO:sx_囟门早闭	premature closure of fontanelle	skos:closeMatch	HP:0000270		semapv:ManualMappingCuration	
+TCM-SO:sx_口干	Xerostomia	skos:exactMatch	HP:0000217		semapv:ManualMappingCuration	
+TCM-SO:sx_闭经溢乳	amenorrhea with galactorrhea	skos:exactMatch	HP:0000788		semapv:ManualMappingCuration	
+TCM-SO:sx_眼干燥	Retinal degeneration	skos:exactMatch	HP:0000546		semapv:ManualMappingCuration	
+TCM-SO:sx_晶珠全脱	complete lens dislocation	skos:closeMatch	HP:0012019		semapv:ManualMappingCuration	
+TCM-SO:sx_晶珠全脱	complete lens dislocation	skos:closeMatch	HP:0001083		semapv:ManualMappingCuration	
+TCM-SO:sx_睛珠颤转	trembling rotating eyeball (nystagmus)	skos:closeMatch	HP:0000528		semapv:ManualMappingCuration	
+TCM-SO:sx_口腻	greasy (sticky) taste in mouth	skos:closeMatch	HP:0031249		semapv:ManualMappingCuration	
+TCM-SO:sx_周身酸软	generalized soreness and weakness	skos:closeMatch	HP:0003324		semapv:ManualMappingCuration	
+TCM-SO:sx_肢体血肿	limb hematoma	skos:closeMatch	HP:0012233		semapv:ManualMappingCuration	
+TCM-SO:sx_人中色白	White philtrum	skos:closeMatch	HP:0000289		semapv:ManualMappingCuration	
+TCM-SO:sx_水疱混浊	turbid blisters	skos:closeMatch	HP:0008066		semapv:ManualMappingCuration	
+TCM-SO:sx_肠鸣音弱	weak bowel sounds	skos:closeMatch	HP:0030144		semapv:ManualMappingCuration	
+TCM-SO:sx_肠鸣音弱	weak bowel sounds	skos:closeMatch	HP:0030143		semapv:ManualMappingCuration	
+TCM-SO:sx_肠鸣音弱	weak bowel sounds	skos:closeMatch	HP:6000633		semapv:ManualMappingCuration	
+TCM-SO:sx_关节冷	Joint coldness	skos:closeMatch	HP:0033850		semapv:ManualMappingCuration	
+TCM-SO:sx_肢体发绀	limb cyanosis	skos:closeMatch	HP:0000961		semapv:ManualMappingCuration	
+TCM-SO:sx_肢体发绀	limb cyanosis	skos:closeMatch	HP:0034030		semapv:ManualMappingCuration	
+TCM-SO:sx_经行吐衄	vomiting of blood and nosebleed during menstruation	skos:closeMatch	HP:0002248		semapv:ManualMappingCuration	
+TCM-SO:sx_全头痛	generalized headache	skos:closeMatch	HP:0002315		semapv:ManualMappingCuration	
+TCM-SO:sx_胁痛	Costochondral pain	skos:closeMatch	HP:0006649		semapv:ManualMappingCuration	
+TCM-SO:sx_呃逆	hiccup	skos:closeMatch	HP:0100247		semapv:ManualMappingCuration	under_review
+TCM-SO:sx_牙龈高肿	Gum raised swelling	skos:closeMatch	HP:0001785		semapv:ManualMappingCuration	
+TCM-SO:sx_手软下垂	wrist drop (flaccid hand)	skos:exactMatch	HP:0031189		semapv:ManualMappingCuration	
+TCM-SO:sx_睾丸部肿块	testicular mass	skos:exactMatch	HP:0032404		semapv:ManualMappingCuration	
+TCM-SO:sx_瞳神散大	Mydriasis	skos:exactMatch	HP:0011499		semapv:ManualMappingCuration	
+TCM-SO:sx_绊舌	Tongue-tie (ankyloglossia)	skos:exactMatch	HP:0010296		semapv:ManualMappingCuration	
+TCM-SO:sx_妊娠眩晕	Vertigo	skos:exactMatch	HP:0002321		semapv:ManualMappingCuration	
+TCM-SO:sx_难产	Shoulder dystocia	skos:exactMatch	HP:0011413		semapv:ManualMappingCuration	
+TCM-SO:sx_前囟凹陷	sunken anterior fontanelle	skos:closeMatch	HP:0000237		semapv:ManualMappingCuration	
+TCM-SO:sx_前囟凹陷	sunken anterior fontanelle	skos:closeMatch	HP:6000084		semapv:ManualMappingCuration	
+TCM-SO:sx_前囟凹陷	sunken anterior fontanelle	skos:closeMatch	HP:6001069		semapv:ManualMappingCuration	
+TCM-SO:sx_纳呆	Poor appetite	skos:exactMatch	HP:0004396		semapv:ManualMappingCuration	
+TCM-SO:sx_神情呆滞	dull expression	skos:closeMatch	HP:0000338		semapv:ManualMappingCuration	
+TCM-SO:sx_身热不扬	unremitting low-grade fever (heat not effusing)	skos:closeMatch	HP:0011134		semapv:ManualMappingCuration	
+TCM-SO:sx_大便秘结	Constipation	skos:exactMatch	HP:0002019		semapv:ManualMappingCuration	
+TCM-SO:sx_下肢颤抖	trembling of lower limbs	skos:closeMatch	HP:0002522		semapv:ManualMappingCuration	
+TCM-SO:sx_腹中包块推之可移	mobile abdominal mass	skos:closeMatch	HP:0031500		semapv:ManualMappingCuration	
+TCM-SO:sx_腹中包块推之可移	mobile abdominal mass	skos:closeMatch	HP:6001311		semapv:ManualMappingCuration	
+TCM-SO:sx_视定反动	seeing stationary objects as moving	skos:closeMatch	HP:0030511		semapv:ManualMappingCuration	
+TCM-SO:sx_头晕	Vertigo	skos:exactMatch	HP:0002321		semapv:ManualMappingCuration	
+TCM-SO:sx_鼻头明润	moist lustrous nasal tip	skos:closeMatch	HP:0000455		semapv:ManualMappingCuration	
+TCM-SO:sx_鼻头明润	moist lustrous nasal tip	skos:closeMatch	HP:0011832		semapv:ManualMappingCuration	
+TCM-SO:sx_无脉	absent pulse	skos:closeMatch	HP:0032554		semapv:ManualMappingCuration	
+TCM-SO:sx_无脉	absent pulse	skos:closeMatch	HP:0031271		semapv:ManualMappingCuration	
+TCM-SO:sx_鼻衄	nosebleed	skos:exactMatch	HP:0000421		semapv:ManualMappingCuration	
+TCM-SO:sx_鼻衄	nosebleed	skos:closeMatch	HP:0004406		semapv:ManualMappingCuration	
+TCM-SO:sx_颈部臖核疼痛	painful neck nodules	skos:closeMatch	HP:0030833		semapv:ManualMappingCuration	under_review
+TCM-SO:sx_眼突	exophthalmos	skos:exactMatch	HP:0000520		semapv:ManualMappingCuration	
+TCM-SO:sx_肢体赓弱	limb weakness	skos:closeMatch	HP:0003484		semapv:ManualMappingCuration	
+TCM-SO:sx_肢体赓弱	limb weakness	skos:closeMatch	HP:0025406		semapv:ManualMappingCuration	
+TCM-SO:sx_肢体赓弱	limb weakness	skos:closeMatch	HP:0003690		semapv:ManualMappingCuration	
+TCM-SO:sx_头发灰暗	dull gray hair	skos:closeMatch	HP:0002218		semapv:ManualMappingCuration	
+TCM-SO:sx_颈痛	Neck pain	skos:exactMatch	HP:0030833		semapv:ManualMappingCuration	
+TCM-SO:sx_脉代	Intermittent (replacement) pulse	skos:closeMatch	HP:0031796		semapv:ManualMappingCuration	
+TCM-SO:sx_黑便	Head titubation	skos:exactMatch	HP:0002599		semapv:ManualMappingCuration	
+TCM-SO:sx_尿黄	yellow urine	skos:closeMatch	HP:0040321		semapv:ManualMappingCuration	
+TCM-SO:sx_右下腹包块	right lower abdominal mass	skos:closeMatch	HP:0031500		semapv:ManualMappingCuration	
+TCM-SO:sx_带下如豆渣状	bean-curd-dreg-like vaginal discharge	skos:closeMatch	HP:0034269		semapv:ManualMappingCuration	
+TCM-SO:sx_麻木	Fatigable weakness	skos:exactMatch	HP:0003473		semapv:ManualMappingCuration	
+TCM-SO:sx_目光呆滞	dull stare	skos:closeMatch	HP:0025282		semapv:ManualMappingCuration	
+TCM-SO:sx_舌胖大	Enlarged (puffy) tongue	skos:closeMatch	HP:0000158		semapv:ManualMappingCuration	
+TCM-SO:sx_关节红肿	Red joint swelling	skos:closeMatch	HP:0001386		semapv:ManualMappingCuration	
+TCM-SO:sx_关节红肿	Red joint swelling	skos:closeMatch	HP:0005833		semapv:ManualMappingCuration	
+TCM-SO:sx_牙齿松动	Abnormality of the dentition	skos:exactMatch	HP:0000164		semapv:ManualMappingCuration	
+TCM-SO:sx_趾间湿烂	Interdigital-space-(toe) wet erosion	skos:closeMatch	HP:0100888		semapv:ManualMappingCuration	
+TCM-SO:sx_身热不甚	mild fever	skos:exactMatch	HP:0011134		semapv:ManualMappingCuration	
+TCM-SO:sx_口气臭	foul breath	skos:closeMatch	HP:0100812		semapv:ManualMappingCuration	
+TCM-SO:sx_舌红	Abnormal tongue physiology	skos:exactMatch	HP:0030810		semapv:ManualMappingCuration	
+TCM-SO:sx_晶珠半脱	partial lens dislocation (subluxation)	skos:closeMatch	HP:0001083		semapv:ManualMappingCuration	
+TCM-SO:sx_晶珠半脱	partial lens dislocation (subluxation)	skos:closeMatch	HP:0030043		semapv:ManualMappingCuration	
+TCM-SO:sx_晶珠半脱	partial lens dislocation (subluxation)	skos:closeMatch	HP:0004269		semapv:ManualMappingCuration	
+TCM-SO:sx_臂痛	Upper limb pain	skos:exactMatch	HP:0012513		semapv:ManualMappingCuration	
+TCM-SO:sx_悬雍下垂	uvula ptosis	skos:closeMatch	HP:0010292		semapv:ManualMappingCuration	
+TCM-SO:sx_悬雍下垂	uvula ptosis	skos:closeMatch	HP:0010811		semapv:ManualMappingCuration	
+TCM-SO:sx_鼻息	nasal flaring sound	skos:closeMatch	HP:0030863		semapv:ManualMappingCuration	
+TCM-SO:sx_鼻息	nasal flaring sound	skos:closeMatch	HP:6000078		semapv:ManualMappingCuration	
+TCM-SO:sx_鼻息	nasal flaring sound	skos:closeMatch	HP:0100582		semapv:ManualMappingCuration	
+TCM-SO:sx_阴囊疼痛	scrotal pain	skos:exactMatch	HP:0030155		semapv:ManualMappingCuration	
+TCM-SO:sx_手足瘛纵	spasmodic movement of hands and feet	skos:closeMatch	HP:0200113		semapv:ManualMappingCuration	
+TCM-SO:sx_喉中痰鸣	Stridor	skos:closeMatch	HP:0010307		semapv:ManualMappingCuration	
+TCM-SO:sx_复视	Diplopia	skos:exactMatch	HP:0000651		semapv:ManualMappingCuration	
+TCM-SO:sx_口苦	Abnormality of taste sensation	skos:closeMatch	HP:0000223		semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹脱屑	scaling rash	skos:closeMatch	HP:0000988		semapv:ManualMappingCuration	
+TCM-SO:sx_腹部凹陷	scaphoid abdomen	skos:exactMatch	HP:0025063		semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤鳞屑	Skin scale	skos:closeMatch	HP:0040189		semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤鳞屑	Skin scale	skos:closeMatch	HP:0040190		semapv:ManualMappingCuration	
+TCM-SO:sx_指甲色灰	Gray nail	skos:closeMatch	HP:0001821		semapv:ManualMappingCuration	
+TCM-SO:sx_嗳气	Recurrent singultus	skos:exactMatch	HP:0100247		semapv:ManualMappingCuration	
+TCM-SO:sx_腹中包块柔软	soft abdominal mass	skos:closeMatch	HP:0031500		semapv:ManualMappingCuration	
+TCM-SO:sx_腹中包块柔软	soft abdominal mass	skos:closeMatch	HP:6001311		semapv:ManualMappingCuration	
+TCM-SO:sx_腹中包块柔软	soft abdominal mass	skos:closeMatch	HP:6001312		semapv:ManualMappingCuration	
+TCM-SO:sx_肿瘤表面与皮肤粘连	tumor surface adhering to the skin	skos:closeMatch	HP:0008069		semapv:ManualMappingCuration	
+TCM-SO:sx_口腔黏膜鲜红	Bright red oral mucosa	skos:closeMatch	HP:0034418		semapv:ManualMappingCuration	
+TCM-SO:sx_带下量多	profuse vaginal discharge	skos:closeMatch	HP:0034269		semapv:ManualMappingCuration	
+TCM-SO:sx_口撮	pursed lips	skos:exactMatch	HP:0000205		semapv:ManualMappingCuration	
+TCM-SO:sx_口撮	pursed lips	skos:closeMatch	HP:0100788		semapv:ManualMappingCuration	
+TCM-SO:sx_髋部生痈	hip abscess	skos:closeMatch	HP:0025615		semapv:ManualMappingCuration	
+TCM-SO:sx_眼睑痛	Eyelid pain	skos:exactMatch	HP:0034808		semapv:ManualMappingCuration	
+TCM-SO:sx_眼睑痛	Eyelid pain	skos:closeMatch	HP:0200026		semapv:ManualMappingCuration	
+TCM-SO:sx_下肢冷	coldness of lower limbs	skos:closeMatch	HP:0033850		semapv:ManualMappingCuration	
+TCM-SO:sx_鼻准红赤	red nasal tip	skos:closeMatch	HP:0000455		semapv:ManualMappingCuration	
+TCM-SO:sx_鼻准红赤	red nasal tip	skos:closeMatch	HP:0000437		semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤见白色细纹	white fine lines on the skin	skos:closeMatch	HP:0040190		semapv:ManualMappingCuration	
+TCM-SO:sx_指甲色白	White nail	skos:closeMatch	HP:0001799		semapv:ManualMappingCuration	
+TCM-SO:sx_小便急迫	urgent urination	skos:closeMatch	HP:0000012		semapv:ManualMappingCuration	
+TCM-SO:sx_鱼际脉络黑	Black thenar-eminence vessels and collaterals	skos:closeMatch	HP:0001245		semapv:ManualMappingCuration	
+TCM-SO:sx_绞痛	Angina pectoris	skos:exactMatch	HP:0001681		semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤麻木	Skin numbness	skos:closeMatch	HP:0033748		semapv:ManualMappingCuration	
+TCM-SO:sx_脐流脓水	pus discharge from umbilicus	skos:closeMatch	HP:6001416		semapv:ManualMappingCuration	
+TCM-SO:sx_肉芽色淡	pale granulation tissue	skos:closeMatch	HP:6000956		semapv:ManualMappingCuration	
+TCM-SO:sx_嬉笑无常	inappropriate laughing	skos:closeMatch	HP:0000748		semapv:ManualMappingCuration	
+TCM-SO:sx_睡中流涎	drooling during sleep	skos:closeMatch	HP:5200283		semapv:ManualMappingCuration	
+TCM-SO:sx_手麻	hand numbness	skos:closeMatch	HP:0033748		semapv:ManualMappingCuration	
+TCM-SO:sx_气喘息粗	Dyspnea	skos:exactMatch	HP:0002094		semapv:ManualMappingCuration	
+TCM-SO:sx_月经间期阴道流血	intermenstrual vaginal bleeding	skos:closeMatch	HP:0100608		semapv:ManualMappingCuration	
+TCM-SO:sx_月经间期阴道流血	intermenstrual vaginal bleeding	skos:closeMatch	HP:0034263		semapv:ManualMappingCuration	
+TCM-SO:sx_腹痛	Abdominal pain	skos:exactMatch	HP:0002027		semapv:ManualMappingCuration	
+TCM-SO:sx_苔厚	Fast-growing nails	skos:exactMatch	HP:0030806		semapv:ManualMappingCuration	
+TCM-SO:sx_咽喉部肌膜干萎	dry atrophic pharyngeal mucosa	skos:closeMatch	HP:0040413		semapv:ManualMappingCuration	
+TCM-SO:sx_精液量多	profuse semen	skos:closeMatch	HP:0005587		semapv:ManualMappingCuration	under_review
+TCM-SO:sx_发热	Fever	skos:exactMatch	HP:0001945		semapv:ManualMappingCuration	
+TCM-SO:sx_带下色黄	yellow vaginal discharge	skos:closeMatch	HP:0034269		semapv:ManualMappingCuration	
+TCM-SO:sx_手颤	hand tremor	skos:exactMatch	HP:0002378		semapv:ManualMappingCuration	
+TCM-SO:sx_手颤	hand tremor	skos:closeMatch	HP:0002346		semapv:ManualMappingCuration	
+TCM-SO:sx_肛门异物感	foreign-body sensation in the anus	skos:closeMatch	HP:0034804		semapv:ManualMappingCuration	
+TCM-SO:sx_肛门异物感	foreign-body sensation in the anus	skos:closeMatch	HP:0034806		semapv:ManualMappingCuration	
+TCM-SO:sx_牙齿缺蚀	eroded teeth	skos:closeMatch	HP:0000692		semapv:ManualMappingCuration	
+TCM-SO:sx_牙齿缺蚀	eroded teeth	skos:closeMatch	HP:0000678		semapv:ManualMappingCuration	
+TCM-SO:sx_冷痛	Pain	skos:closeMatch	HP:0012531		semapv:ManualMappingCuration	
+TCM-SO:sx_四肢抽搐	Spasticity	skos:exactMatch	HP:0001257		semapv:ManualMappingCuration	
+TCM-SO:sx_带下清稀	thin and clear vaginal discharge	skos:closeMatch	HP:0034269		semapv:ManualMappingCuration	
+TCM-SO:sx_发癫	depressive episode (dian)	skos:exactMatch	HP:0000716		semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹不红	Red rash	skos:closeMatch	HP:0000988		semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹不红	Red rash	skos:closeMatch	HP:4000054		semapv:ManualMappingCuration	
+TCM-SO:sx_手掌脱皮	peeling palms	skos:closeMatch	HP:0025819		semapv:ManualMappingCuration	
+TCM-SO:sx_握力减弱	decreased grip strength	skos:closeMatch	HP:0003484		semapv:ManualMappingCuration	
+TCM-SO:sx_握力减弱	decreased grip strength	skos:closeMatch	HP:0033466		semapv:ManualMappingCuration	
+TCM-SO:sx_鼻塞	Nasal congestion	skos:exactMatch	HP:0001742		semapv:ManualMappingCuration	
+TCM-SO:sx_啮齿	teeth grinding (bruxism)	skos:exactMatch	HP:0003763		semapv:ManualMappingCuration	
+TCM-SO:sx_疤痕色黑	Black scar	skos:closeMatch	HP:6000793		semapv:ManualMappingCuration	
+TCM-SO:sx_舌体强硬	Tongue-body stiffness and rigidity	skos:closeMatch	HP:0031373		semapv:ManualMappingCuration	
+TCM-SO:sx_鼻肿	nasal swelling	skos:closeMatch	HP:0012720		semapv:ManualMappingCuration	
+TCM-SO:sx_鼻肿	nasal swelling	skos:closeMatch	HP:0001785		semapv:ManualMappingCuration	
+TCM-SO:sx_咳嗽	Cough	skos:exactMatch	HP:0012735		semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹稀疏	sparse rash	skos:closeMatch	HP:0000988		semapv:ManualMappingCuration	
+TCM-SO:sx_精索结节	nodule of spermatic cord	skos:closeMatch	HP:0100813		semapv:ManualMappingCuration	
+TCM-SO:sx_鼻腔异物	foreign body in the nasal cavity	skos:closeMatch	HP:0010640		semapv:ManualMappingCuration	
+TCM-SO:sx_血尿	Hematuria	skos:exactMatch	HP:0000790		semapv:ManualMappingCuration	
+TCM-SO:sx_目上视	upward deviation of eyes	skos:closeMatch	HP:0100498		semapv:ManualMappingCuration	
+TCM-SO:sx_目上视	upward deviation of eyes	skos:closeMatch	HP:0025586		semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹色红	Skin rash	skos:exactMatch	HP:0000988		semapv:ManualMappingCuration	
+TCM-SO:sx_身麻	body numbness	skos:closeMatch	HP:0033748		semapv:ManualMappingCuration	
+TCM-SO:sx_带下如水	watery vaginal discharge	skos:closeMatch	HP:0034269		semapv:ManualMappingCuration	
+TCM-SO:sx_热势起伏	fluctuating fever	skos:closeMatch	HP:0031914		semapv:ManualMappingCuration	
+TCM-SO:sx_经期延长	Menometrorrhagia	skos:closeMatch	HP:0400008		semapv:ManualMappingCuration	
+TCM-SO:sx_带下如泡沫状	foamy vaginal discharge	skos:closeMatch	HP:0034269		semapv:ManualMappingCuration	
+TCM-SO:sx_牙眼痛	pain at gum margin	skos:closeMatch	HP:0200026		semapv:ManualMappingCuration	
+TCM-SO:sx_肉芽烧灼感	burning sensation of granulation tissue	skos:closeMatch	HP:6000420		semapv:ManualMappingCuration	under_review
+TCM-SO:sx_肉芽烧灼感	burning sensation of granulation tissue	skos:closeMatch	HP:6000956		semapv:ManualMappingCuration	
+TCM-SO:sx_腹内包块	intra-abdominal mass	skos:closeMatch	HP:0031500		semapv:ManualMappingCuration	
+TCM-SO:sx_腹内包块	intra-abdominal mass	skos:closeMatch	HP:0033134		semapv:ManualMappingCuration	
+TCM-SO:sx_口中流涎淋漓	profuse drooling	skos:closeMatch	HP:0002307		semapv:ManualMappingCuration	
+TCM-SO:sx_头发卷曲	curly hair	skos:exactMatch	HP:0002212		semapv:ManualMappingCuration	
+TCM-SO:sx_视物不清	blurred vision	skos:exactMatch	HP:0000622		semapv:ManualMappingCuration	
+TCM-SO:sx_视物不清	blurred vision	skos:closeMatch	HP:0001125		semapv:ManualMappingCuration	
+TCM-SO:sx_流冷泪	cold tearing	skos:closeMatch	HP:0009926		semapv:ManualMappingCuration	
+TCM-SO:sx_流冷泪	cold tearing	skos:closeMatch	HP:0033705		semapv:ManualMappingCuration	
+TCM-SO:sx_手肿	hand swelling	skos:closeMatch	HP:0001785		semapv:ManualMappingCuration	
+TCM-SO:sx_小便浑浊	turbid urine	skos:exactMatch	HP:0031967		semapv:ManualMappingCuration	
+TCM-SO:sx_游走痛	Migratory pain	skos:closeMatch	HP:0025279		semapv:ManualMappingCuration	
+TCM-SO:sx_游走痛	Migratory pain	skos:closeMatch	HP:0033037		semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹搔破出血	rash bleeding after scratching	skos:closeMatch	HP:0034264		semapv:ManualMappingCuration	
+TCM-SO:sx_视歧	diplopia	skos:exactMatch	HP:0000651		semapv:ManualMappingCuration	
+TCM-SO:sx_鼻尖肿起	swollen nasal tip	skos:closeMatch	HP:0005278		semapv:ManualMappingCuration	
+TCM-SO:sx_鼻尖肿起	swollen nasal tip	skos:closeMatch	HP:0000455		semapv:ManualMappingCuration	
+TCM-SO:sx_鼻尖肿起	swollen nasal tip	skos:closeMatch	HP:0011832		semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤暗黄	Dull-yellow skin	skos:closeMatch	HP:0000952		semapv:ManualMappingCuration	
+TCM-SO:sx_雀目	night blindness (sparrow eye)	skos:closeMatch	HP:0007675		semapv:ManualMappingCuration	
+TCM-SO:sx_雀目	night blindness (sparrow eye)	skos:exactMatch	HP:0000662		semapv:ManualMappingCuration	
+TCM-SO:sx_雀目	night blindness (sparrow eye)	skos:closeMatch	HP:0007642		semapv:ManualMappingCuration	
+TCM-SO:sx_黑睛星鬓	star-like corneal opacities	skos:closeMatch	HP:0007957		semapv:ManualMappingCuration	
+TCM-SO:sx_黑睛星鬓	star-like corneal opacities	skos:closeMatch	HP:0008039		semapv:ManualMappingCuration	
+TCM-SO:sx_呃声高亢	high-pitched hiccup	skos:closeMatch	HP:0025430		semapv:ManualMappingCuration	
+TCM-SO:sx_呃声高亢	high-pitched hiccup	skos:closeMatch	HP:6000633		semapv:ManualMappingCuration	
+TCM-SO:sx_鼻头红	Red tip-of-nose	skos:closeMatch	HP:0011831		semapv:ManualMappingCuration	under_review
+TCM-SO:sx_啮齿有声	audible teeth grinding	skos:closeMatch	HP:0003763		semapv:ManualMappingCuration	
+TCM-SO:sx_臂麻	Arm numbness	skos:closeMatch	HP:0033748		semapv:ManualMappingCuration	
+TCM-SO:sx_腹大如鼓	drum-like abdominal distension	skos:closeMatch	HP:0003270		semapv:ManualMappingCuration	
+TCM-SO:sx_久不欲食	chronic poor appetite	skos:closeMatch	HP:0004396		semapv:ManualMappingCuration	
+TCM-SO:sx_呕吐苦水	vomiting of bitter fluid	skos:closeMatch	HP:0002248		semapv:ManualMappingCuration	
+TCM-SO:sx_腹中包块坚硬	hard abdominal mass	skos:closeMatch	HP:0031500		semapv:ManualMappingCuration	
+TCM-SO:sx_腹中包块坚硬	hard abdominal mass	skos:closeMatch	HP:6001311		semapv:ManualMappingCuration	
+TCM-SO:sx_腹中包块坚硬	hard abdominal mass	skos:closeMatch	HP:6001312		semapv:ManualMappingCuration	
+TCM-SO:sx_带下腐臭	putrid vaginal discharge	skos:closeMatch	HP:0034269		semapv:ManualMappingCuration	
+TCM-SO:sx_嗳气低弱	weak belching	skos:closeMatch	HP:6000064		semapv:ManualMappingCuration	
+TCM-SO:sx_唇裂	Lip fissure	skos:closeMatch	HP:0031250		semapv:ManualMappingCuration	
+TCM-SO:sx_舌麻	numbness of tongue	skos:closeMatch	HP:0033748		semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤花斑	mottled skin	skos:closeMatch	HP:0001070		semapv:ManualMappingCuration	
+TCM-SO:sx_口中流涎稠粘	thick sticky drooling	skos:closeMatch	HP:0002307		semapv:ManualMappingCuration	
+TCM-SO:sx_脊柱歪斜	scoliosis (spinal deviation)	skos:closeMatch	HP:0004626		semapv:ManualMappingCuration	
+TCM-SO:sx_脊柱歪斜	scoliosis (spinal deviation)	skos:exactMatch	HP:0002650		semapv:ManualMappingCuration	
+TCM-SO:sx_脊柱歪斜	scoliosis (spinal deviation)	skos:closeMatch	HP:0002944		semapv:ManualMappingCuration	
+TCM-SO:sx_带下秽浊	turbid and filthy vaginal discharge	skos:closeMatch	HP:0034269		semapv:ManualMappingCuration	
+TCM-SO:sx_嗳气响亮	loud belching	skos:closeMatch	HP:6000064		semapv:ManualMappingCuration	
+TCM-SO:sx_瞳神倚侧	deviated pupil	skos:closeMatch	HP:0011499		semapv:ManualMappingCuration	
+TCM-SO:sx_鱼际脉络红赤	Red thenar-eminence vessels and collaterals	skos:closeMatch	HP:0001245		semapv:ManualMappingCuration	
+TCM-SO:sx_臖核结块推之不移	immobile xinghe lump	skos:closeMatch	HP:0025760		semapv:ManualMappingCuration	
+TCM-SO:sx_视野窄缩	narrowing of visual field	skos:closeMatch	HP:0007981		semapv:ManualMappingCuration	under_review
+TCM-SO:sx_视野窄缩	narrowing of visual field	skos:closeMatch	HP:0001133		semapv:ManualMappingCuration	
+TCM-SO:sx_视野窄缩	narrowing of visual field	skos:closeMatch	HP:0001123		semapv:ManualMappingCuration	
+TCM-SO:sx_腹部冷	Abdominal symptom	skos:exactMatch	HP:0011458		semapv:ManualMappingCuration	
+TCM-SO:sx_囟门突起	bulging fontanelle	skos:exactMatch	HP:6000647		semapv:ManualMappingCuration	
+TCM-SO:sx_囟门突起	bulging fontanelle	skos:closeMatch	HP:0005486		semapv:ManualMappingCuration	
+TCM-SO:sx_吐舌	protruding tongue	skos:exactMatch	HP:0010808		semapv:ManualMappingCuration	
+TCM-SO:sx_吐舌	protruding tongue	skos:closeMatch	HP:0100703		semapv:ManualMappingCuration	
+TCM-SO:sx_大便脓血	pus and blood in stool	skos:closeMatch	HP:0025085		semapv:ManualMappingCuration	
+TCM-SO:sx_嗳气酸馊	sour belching	skos:closeMatch	HP:6000064		semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤㿠白	bright pale-white skin	skos:closeMatch	HP:0040190		semapv:ManualMappingCuration	
+TCM-SO:sx_水疱壁薄	thin-walled blisters	skos:closeMatch	HP:0008066		semapv:ManualMappingCuration	
+TCM-SO:sx_头发直立	erect hair	skos:closeMatch	HP:0002297		semapv:ManualMappingCuration	
+TCM-SO:sx_背冷	coldness of the back	skos:closeMatch	HP:0033850		semapv:ManualMappingCuration	
+TCM-SO:sx_头皮下肿块	subcutaneous scalp mass	skos:closeMatch	HP:0034246		semapv:ManualMappingCuration	
+TCM-SO:sx_赘皮柔软	Skin tag/redundant skin softness	skos:closeMatch	HP:0001582		semapv:ManualMappingCuration	
+TCM-SO:sx_赘皮柔软	Skin tag/redundant skin softness	skos:closeMatch	HP:0007516		semapv:ManualMappingCuration	
+TCM-SO:sx_臖核结块推之可移	mobile xinghe lump	skos:closeMatch	HP:0025759		semapv:ManualMappingCuration	
+TCM-SO:sx_口噤	Trismus	skos:exactMatch	HP:0000211		semapv:ManualMappingCuration	
+TCM-SO:sx_尿中夹血块	blood clots in urine	skos:closeMatch	HP:0000790		semapv:ManualMappingCuration	
+TCM-SO:sx_唇部疤疹	lip herpes	skos:closeMatch	HP:0020098		semapv:ManualMappingCuration	
+TCM-SO:sx_牙龈萎缩	Gum atrophy	skos:closeMatch	HP:0006308		semapv:ManualMappingCuration	
+TCM-SO:sx_肋痛	rib pain	skos:closeMatch	HP:0006649		semapv:ManualMappingCuration	under_review
+TCM-SO:sx_皮肤濡软	soft soggy skin	skos:closeMatch	HP:0000977		semapv:ManualMappingCuration	
+TCM-SO:sx_齿全脱	complete loss of teeth	skos:closeMatch	HP:0006480		semapv:ManualMappingCuration	
+TCM-SO:sx_纳谷不馨	Poor appetite	skos:exactMatch	HP:0004396		semapv:ManualMappingCuration	
+TCM-SO:sx_带下如脓	Vaginal discharge resembling pus	skos:closeMatch	HP:0034269		semapv:ManualMappingCuration	
+TCM-SO:sx_咽喉异物感	Throat foreign-body sensation	skos:closeMatch	HP:0034806		semapv:ManualMappingCuration	
+TCM-SO:sx_咽喉异物感	Throat foreign-body sensation	skos:closeMatch	HP:0034804		semapv:ManualMappingCuration	
+TCM-SO:sx_唇现蓝色	bluish lips	skos:exactMatch	HP:0034030		semapv:ManualMappingCuration	
+TCM-SO:sx_舌有裂纹	fissured tongue	skos:exactMatch	HP:0000221		semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤红斑	Erythematous macule	skos:closeMatch	HP:0025475		semapv:ManualMappingCuration	
+TCM-SO:sx_声音嘶哑	Hoarse voice	skos:closeMatch	HP:0001609		semapv:ManualMappingCuration	
+TCM-SO:sx_腰痛连足	low back pain radiating to the foot	skos:closeMatch	HP:0003419		semapv:ManualMappingCuration	
+TCM-SO:sx_得食痛增	pain aggravated by eating	skos:closeMatch	HP:0025286		semapv:ManualMappingCuration	
+TCM-SO:sx_皮疹稠密	dense rash	skos:closeMatch	HP:0000988		semapv:ManualMappingCuration	
+TCM-SO:sx_咽部紧缩感	tightening sensation in the pharynx	skos:closeMatch	HP:0031352		semapv:ManualMappingCuration	
+TCM-SO:sx_骨擦音	bone crepitus	skos:closeMatch	HP:0034431		semapv:ManualMappingCuration	
+TCM-SO:sx_骨擦音	bone crepitus	skos:closeMatch	HP:0012479		semapv:ManualMappingCuration	
+TCM-SO:sx_皮肤棕色	brown skin	skos:closeMatch	HP:0000957		semapv:ManualMappingCuration	
+TCM-SO:sx_小便失禁	Urinary incontinence	skos:exactMatch	HP:0000020		semapv:ManualMappingCuration	
+TCM-SO:sx_阴户痛	Vulvodynia	skos:exactMatch	HP:0030943		semapv:ManualMappingCuration	
+TCM-SO:sx_指关节增粗	Finger joint thickening	skos:closeMatch	HP:0006094		semapv:ManualMappingCuration	
+TCM-SO:sx_精索增粗	Spermatic-cord thickening	skos:closeMatch	HP:0100813		semapv:ManualMappingCuration	
+TCM-SO:sx_咽痒	Pharyngeal itching	skos:closeMatch	HP:0034035		semapv:ManualMappingCuration	
+TCM-SO:sx_水疱澄清	Blister (vesicle) clear	skos:closeMatch	HP:0008066		semapv:ManualMappingCuration	
+TCM-SO:sx_上腭血疱	Palate blood blister	skos:closeMatch	HP:0008066		semapv:ManualMappingCuration	
+TCM-SO:sx_带下色红	Red vaginal discharge	skos:closeMatch	HP:0034269		semapv:ManualMappingCuration	
+TCM-SO:sx_四肢拘急	Limb joint contracture	skos:closeMatch	HP:0003121		semapv:ManualMappingCuration	under_review
+TCM-SO:sx_口腔血疱	Oral blood blister	skos:closeMatch	HP:0008066		semapv:ManualMappingCuration	
+TCM-SO:sx_牙齿脱落	Teeth falling off	skos:closeMatch	HP:0006480		semapv:ManualMappingCuration	
+TCM-SO:sx_脓腥臭	Pus fishy odor	skos:closeMatch	HP:0410020		semapv:ManualMappingCuration	
+TCM-SO:sx_指甲色黑	Black nail	skos:closeMatch	HP:0001821		semapv:ManualMappingCuration	
+TCM-SO:sx_言语赛涩	stuttering sluggish speech	skos:closeMatch	HP:0002465		semapv:ManualMappingCuration	
+TCM-SO:sx_鼻痛	Abnormality of the nose	skos:exactMatch	HP:0000366		semapv:ManualMappingCuration	
+TCM-SO:sx_口腔黏膜斑	Oral mucosa macule	skos:closeMatch	HP:6001110		semapv:ManualMappingCuration	
+TCM-SO:sx_口腔黏膜斑	Oral mucosa macule	skos:closeMatch	HP:0034418		semapv:ManualMappingCuration	
+TCM-SO:sx_睛珠突胀	protruding distending eyeball	skos:closeMatch	HP:0000528		semapv:ManualMappingCuration	
+TCM-SO:sx_齿衄	Gingival bleeding	skos:exactMatch	HP:0000225		semapv:ManualMappingCuration	
+TCM-SO:sx_苔有裂纹	fissured tongue coating	skos:closeMatch	HP:0000221		semapv:ManualMappingCuration	
+TCM-SO:sx_四肢震颤	Tremor	skos:exactMatch	HP:0001337		semapv:ManualMappingCuration	
+TCM-SO:sx_水疱壁厚	thick-walled blisters	skos:closeMatch	HP:0008066		semapv:ManualMappingCuration	
+TCM-SO:sx_龟头破烂	broken eroded glans penis	skos:closeMatch	HP:0034438		semapv:ManualMappingCuration	
+TCM-SO:sx_睡中啮齿	teeth grinding during sleep (sleep bruxism)	skos:closeMatch	HP:0003763		semapv:ManualMappingCuration	
+TCM-SO:sx_腹部生痈	abdominal abscess	skos:closeMatch	HP:0025181		semapv:ManualMappingCuration	
+TCM-SO:sx_转筋	Muscle cramp	skos:closeMatch	HP:0003394		semapv:ManualMappingCuration	
+TCM-SO:sx_交替性鼻塞	alternating nasal obstruction	skos:closeMatch	HP:0004796		semapv:ManualMappingCuration	
+TCM-SO:sx_耳廓痛	Auricular pain	skos:closeMatch	HP:0030021		semapv:ManualMappingCuration	
+TCM-SO:sx_耳廓痛	Auricular pain	skos:closeMatch	HP:0008608		semapv:ManualMappingCuration	
+TCM-SO:sx_耳廓痛	Auricular pain	skos:closeMatch	HP:0030025		semapv:ManualMappingCuration	
+TCM-SO:sx_头摇	Head tremor	skos:exactMatch	HP:0002346		semapv:ManualMappingCuration	
+TCM-SO:sx_偏头痛	Migraine	skos:exactMatch	HP:0002076		semapv:ManualMappingCuration	
+TCM-SO:sx_月经提前	Polymenorrhea	skos:exactMatch	HP:0400007		semapv:ManualMappingCuration	
+TCM-SO:sx_羞明	Photophobia	skos:exactMatch	HP:0000613		semapv:ManualMappingCuration	
+TCM-SO:sx_阴毛脱落	loss of pubic hair	skos:closeMatch	HP:0100133		semapv:ManualMappingCuration	
+TCM-SO:sx_阴毛脱落	loss of pubic hair	skos:closeMatch	HP:0002225		semapv:ManualMappingCuration	
+TCM-SO:sx_阴毛脱落	loss of pubic hair	skos:closeMatch	HP:0002555		semapv:ManualMappingCuration	
+TCM-SO:sx_阴囊透光阳性	positive scrotal transillumination	skos:closeMatch	HP:6001424		semapv:ManualMappingCuration	
+TCM-SO:sx_水疱晶亮	crystal-clear blisters	skos:closeMatch	HP:0008066		semapv:ManualMappingCuration	
+TCM-SO:sx_指甲菲薄腐烂	thin fragile eroded nail	skos:closeMatch	HP:0001816		semapv:ManualMappingCuration	
+TCM-SO:sx_睑不能闭	inability to close the eyelid (lagophthalmos)	skos:closeMatch	HP:0030002		semapv:ManualMappingCuration	
+TCM-SO:sx_睑不能闭	inability to close the eyelid (lagophthalmos)	skos:exactMatch	HP:0030001		semapv:ManualMappingCuration	
+TCM-SO:sx_阴茎短小	small penis (micropenis)	skos:exactMatch	HP:0000054		semapv:ManualMappingCuration	
+TCM-SO:sx_睡眠表浅	light sleep	skos:closeMatch	HP:5200304		semapv:ManualMappingCuration	
+TCM-SO:sx_带下气腥	fishy vaginal discharge	skos:closeMatch	HP:0034269		semapv:ManualMappingCuration	
+TCM-SO:sx_项强	neck stiffness	skos:exactMatch	HP:0025258		semapv:ManualMappingCuration	
+TCM-SO:sx_带下绵绵不绝	endless continuous vaginal discharge	skos:closeMatch	HP:0034269		semapv:ManualMappingCuration	
+TCM-SO:sx_疮面肉色晦暗	Abnormality of the face	skos:exactMatch	HP:0000271		semapv:ManualMappingCuration	
